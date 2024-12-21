@@ -1,0 +1,82 @@
+
+Les meilleurs outils d'IA pour vous aider dans vos recherches universitaires
+
+Tous droits réservés Euronews/Canva
+Par Camille Bello
+Publié le 07/04/2023 - 17:03 UTC+2•Mis à jour 01/05/2023 - 14:56 UTC+2
+Partager cet article
+Discussion
+Avec l’avènement de la technologie et du numérique, il existe désormais un grand nombre de programmes et d’outils à disposition des étudiants afin de mener à bien leurs projets universitaires.
+
+
+PUBLICITÉ
+"ChatGPT redéfinira l'avenir de la recherche universitaire. Mais la plupart des universitaires ne savent pas comment l'utiliser intelligemment", a récemment tweeté Mushtaq Bilal, chercheur postdoctoral à l'Université du Danemark du Sud.
+
+Le milieu universitaire et l'intelligence artificielle (IA) sont de plus en plus étroitement liés, et à mesure que l'IA continue de progresser, il est probable que les universitaires continueront soit d'embrasser son potentiel, soit d'exprimer leurs inquiétudes quant à ses risques.
+
+"Il y a deux camps dans le milieu universitaire. Le premier concerne les premiers utilisateurs de l'intelligence artificielle, et le second les professeurs et universitaires qui pensent que l'IA corrompt l'intégrité académique", affirme Mushtaq Bilal à Euronews Next.
+
+Il se place résolument dans le premier camp. Le professeur d'origine pakistanaise et basé au Danemark estime que s'ils sont utilisés de manière réfléchie, les modèles de langage de l'IA pourraient aider à démocratiser l'éducation et même ouvrir la voie à plus de connaissances.
+
+De nombreux experts ont souligné que la précision et la qualité de la sortie produite par des modèles de langage tels que ChatGPT ne sont pas fiables. Le texte généré peut parfois être biaisé, limité ou inexact.
+
+Mais Mushtaq Bilal est certain que la compréhension de ces limites, associée à la bonne approche, peut faire en sorte que les modèles linguistiques "fassent beaucoup de travail de qualité pour nous", notamment pour le milieu universitaire.
+
+Incitation incrémentielle à créer une "structure"
+Pour créer une structure digne du milieu universitaire, Mushtaq Bilal considère qu'il est fondamental de maîtriser l'incitation incrémentale, une technique traditionnellement utilisée en thérapie comportementale et en éducation spécialisée.
+
+Cela implique de décomposer des tâches complexes en étapes plus petites et plus gérables, et de fournir des invites ou des indices pour aider l'individu à terminer chacune de ces étapes avec succès. Les invites deviennent alors progressivement plus compliquées.
+
+En thérapie comportementale, l'incitation progressive permet aux individus de développer leur sentiment de confiance. Dans les modèles de langage, cela permet des "réponses bien plus sophistiquées".
+
+Dans un fil Twitter, Bilal a montré comment il avait réussi à faire en sorte que ChatGPT fournisse un "excellent aperçu" pour un article de journal en utilisant des invites incrémentielles. Dans sa démonstration, le chercheur a commencé par interroger ChatGPT sur des concepts spécifiques pertinents pour son travail, puis sur les auteurs et leurs idées, guidant le chatbot piloté par l'IA à travers les connaissances contextuelles pertinentes pour son essai.
+
+"Maintenant que ChatGPT a une idée juste de mon projet, je lui demande de créer un canevas pour un article de journal", a-t-il expliqué, avant de déclarer que les résultats qu'il a obtenus lui feraient probablement gagner "20 heures de travail". "Si j'écrivais juste un paragraphe pour chaque point du plan, j'aurais une première ébauche décente de mon article".
+
+L'incitation incrémentielle permet également à ChatGPT et à d'autres modèles d'IA d'aider à "rendre l'éducation plus démocratique", a déclaré Bilal. Certaines personnes ont le luxe de discuter avec des professeurs de Harvard ou d'Oxford des contours ou des angles académiques potentiels pour des articles scientifiques, "mais tout le monde ne peut pas le faire", explique-t-il.
+
+"Si j'étais au Pakistan, je n'aurais pas accès aux professeurs de Harvard, mais j'aurais quand même besoin de réfléchir à des idées. Ainsi, à la place, je pourrais utiliser des applications d'IA pour avoir une conversation intelligente et m'aider à structurer mes recherches".
+
+Mushtaq Bilal a récemment fait penser et parler ChatGPT comme un professeur de Stanford. Ensuite, pour vérifier l'authenticité de la sortie, il a posé les mêmes questions à un vrai professeur de Stanford. Les résultats ont surpris.
+
+ChatGPT n'est qu'une des nombreuses applications alimentées par l'IA que vous pouvez utiliser pour la rédaction académique ou pour imiter des conversations avec des universitaires renommés.
+
+
+PUBLICITÉ
+Voici d'autres logiciels pilotés par l'IA pour vous aider dans vos efforts académiques, triés sur le volet par Mushtaq Bilal.
+1. Consensus
+Selon les mots de Mushtaq Bilal : "Si ChatGPT et Google Scholar se mariaient, leur enfant serait Consensus - un moteur de recherche alimenté par l'IA".
+
+Consensus ressemble à la plupart des moteurs de recherche, mais ce qui le distingue, c'est que vous posez des questions Oui/Non, auxquelles il fournit des réponses avec le consensus de la communauté universitaire.
+
+Les utilisateurs peuvent également interroger Consensus sur la relation entre les concepts et sur la cause et l'effet de quelque chose. Par exemple : l'immigration améliore-t-elle l'économie ?
+
+Consensus répondrait à cette question en déclarant que la plupart des études ont montré que l'immigration améliore généralement l'économie, tout en fournissant une liste des articles universitaires qu'il a utilisés pour arriver au consensus, et en partageant finalement les résumés des meilleurs articles qu'il a analysés.
+
+
+PUBLICITÉ
+Le moteur de recherche alimenté par l'IA n'est équipé que pour répondre sur six sujets : économie, sommeil, politique sociale, médecine, santé mentale et suppléments de santé.
+
+2. Elicit.org
+Elicit, "l'assistant de recherche en IA" selon ses fondateurs, utilise également des modèles de langage pour répondre aux questions, mais ses connaissances sont uniquement basées sur la recherche, permettant des "conversations intelligentes" et des brainstormings avec une source très compétente et vérifiée.
+
+Le logiciel peut également trouver des articles pertinents sans correspondance parfaite des mots clés, les résumer et extraire des informations clés.
+
+3. Scite.ai
+Bien que les modèles de langage comme ChatGPT ne soient pas conçus pour tromper intentionnellement, il a été prouvé qu'ils peuvent générer du texte qui n'est pas basé sur des informations factuelles et inclure de fausses citations d'articles qui n'existent pas. Mais il existe une application alimentée par l'IA qui vous donne de vraies citations d'articles réellement publiés - Scite.
+
+
+PUBLICITÉ
+"C'est l'un de mes préférés pour améliorer les flux de travail", dit Mushtaq Bilal. Semblable à Elicit, lorsqu'on lui pose une question, Scite fournit des réponses avec une liste détaillée de tous les articles cités dans la réponse. "De plus, si je fais une affirmation et que cette affirmation a été réfutée ou corroborée par diverses personnes ou divers journaux, Scite me donne le nombre exact. Donc c'est vraiment très, très efficace". "Si je devais enseigner un séminaire sur l'écriture, j'enseignerais comment utiliser cette application" précise-t-il.
+
+4. Research Rabbit
+"Research Rabbit est un outil incroyable qui ACCÉLÈRE vos recherches. Le plus : c'est GRATUIT. Mais la plupart des universitaires ne le savent pas", a tweeté Mushtaq Bilal. Appelé par ses fondateurs "le Spotify de la recherche", Research Rabbit permet d'ajouter des articles académiques à des "collections".
+
+Celles-ci permettent au logiciel de se renseigner sur les centres d'intérêt de l'utilisateur, suscitant de nouvelles recommandations pertinentes. Research Rabbit permet également de visualiser le réseau scientifique d'articles et de co-auteurs sous forme de graphiques, afin que les utilisateurs puissent suivre le travail d'un seul sujet ou auteur et plonger plus profondément dans leurs recherches.
+
+5. ChatPDF
+ChatPDF est une application alimentée par l'IA qui facilite et accélère la lecture et l'analyse des articles de journaux. "C'est comme ChatGPT, mais pour les articles de recherche", estime Mushtaq Bilal.
+
+
+Quelle promesse l'IA tient-elle pour l'avenir de la recherche ?
+Le développement de l'IA sera aussi fondamental "que la création du microprocesseur, de l'ordinateur personnel, d'Internet et du téléphone mobile", a écrit Bill Gates dans le dernier article de son blog personnel, intitulé "The Age of AI Has Begun". "Les ordinateurs n'ont pas eu l'effet sur l'éducation que beaucoup d'entre nous dans l'industrie espéraient", poursuit-il. "Mais je pense que dans les cinq à 10 prochaines années, les logiciels basés sur l'IA tiendront enfin la promesse de révolutionner la façon dont les gens enseignent et apprennent".

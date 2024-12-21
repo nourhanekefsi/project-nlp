@@ -1,0 +1,1293 @@
+
+Accueil Blogue Intelligence Artificielle 100 façons d’utiliser ChatGPT en marketing 🚀
+
+TEMPS DE LECTURE : 49 MIN 12S
+100 façons d’utiliser ChatGPT en marketing 🚀
+Écrit par Alexandre Corbasson
+Publié le 28 février 2024
+Revisé par Apolline
+Modifié le February 28, 2024
+
+Sommaire
+
+Qu’est-ce que ChatGPT?
+Comment fonctionne ChatGPT? 
+Les particularités de ChatGPT pour le marketing
+Sa créativité
+Sa base de données
+Sa maitrise du français
+Sa polyvalence en marketing
+Sa capacité de personnalisation
+Comment utiliser ChatGPT en marketing? 
+Tutoriel pour vous inscrire sur ChatGPT
+Tableau récapitulatif des exemples d’utilisations de ChatGPT en marketing
+Les bonnes pratiques avant de te lancer sur ChatGPT 
+100 prompts pour utiliser ChatGPT en marketing digital
+1) Rédiger des méta-titres
+2) Rédiger des méta-descriptions
+3) Suggérer des mots clés
+4) Trouver une liste de mots clés liés à un sujet
+5) Classer les mots clés en fonction de l’intention de recherche
+6) Décrire l’intention de recherche d’une liste de mots clés
+7) Regrouper les mots clés en cluster 
+8) Trouver des mots clés longue traine 
+9) Traduire les mots clés
+10) Ajouter des titres H2 et H3 dans un texte 
+11) Mettre les mots clés en gras
+12) Trouver des mots clés secondaires à ajouter dans un texte
+13) Trouver des terminologies de mots clés spécifiques pour un secteur d’activité
+14) Rédiger un paragraphe avec des mots clés définis
+15) Rédiger des balises ALT pour des images
+16) Réduire la taille d’URLs
+17) Vous inspirer dans la rédaction de contenu
+18) Optimiser le Slug d’une URL
+19) Trouver les questions que se posent votre audience 
+20) Créer un Schema FAQ 
+21) Améliorer le maillage externe
+22) Générer des balises Hreflang 
+23) Trouver des idées d’ancres pour un backlink 
+24) Générer les règles de réécriture .htaccess pour les redirections 301
+25) Donner des conseils pour votre profil Google Business Profile 
+26) Trouver des outils SEO
+27) Ajouter des idées de campagnes Google Ads
+28) Vous inspirer pour des titres de campagnes publicitaires Google Ads
+29) Améliorer vos accroches de campagnes
+30) Vous inspirer pour le contenu de vos annonces publicitaires
+31) Suggérer des groupes d’annonces Google Ads
+32) Aider à la réalisation d’un AB testing
+33) Suggérer des mots clés pour Google Ads
+34) Trouver des mots clés avec un faible CPC 
+35) Traduire une campagne publicitaire
+36) Proposer des contenus pour le marketing d’affiliation
+37) Trouver des sites concurrents 
+38) Créer le code source d’une partie spécifique d’une page web
+39) Donner des idées de contenu pour les pages de témoignages clients
+40) Proposer des appels à l’action pertinents pour votre site 
+41) Créer un code HTML pour les pages de formulaire de contact 
+42) Débloquer le code et identifier des erreurs techniques
+43) Répondre aux questions de codage 
+44) Interpréter un extrait de code 
+45) Rédiger la structure d’un Sitemap
+46) Conseiller des plugins à ajouter sur votre site
+47) Aider à traquer les conversions
+48) Donner des conseils pour optimiser vos pages web
+49) Concevoir un chatbot 
+50) Proposer de idées de posts sur les médias sociaux
+51) Aider à la rédaction de posts
+52) Aider à la rédaction de Threads X
+53) Trouver des hashtags
+54) Rédiger la description de vos comptes sur les réseaux sociaux 
+55) Donner conseils pour améliorer son profil
+56) Trouver des questions à poser à votre communauté 
+57) Faire des sondages
+58) Trouver des titres de vidéos YouTube
+59) Trouver des idées de playlists pour votre chaine YouTube
+60) Donner des idées de boards Pinterest
+61) Rédiger le script de vos vidéos 
+62) Expliquer comment faire un TikTok
+63) Trouver des idées d’actions pour les réseaux sociaux 
+64) Trouver des marronniers
+65) Sponsoriser des posts
+66) Trouver des influenceurs
+67) Trouver un scénario pour une story Instagram
+68) Trouver des chiffres pour une infographie
+69) Faire un calendrier édito 
+70) Compléter votre calendrier éditorial 
+71) Trouver des titres accrocheurs d’articles de blog
+72) Rédiger le brief d’un article ou d’une page 
+73) Rédiger un paragraphe
+74) Faire le résumé d’un contenu 
+75) Raconter une histoire
+76) Faire une FAQ
+77) Segmenter votre cible 
+78) Trouver les problématiques que rencontrent vos clients
+79) Identifier les centre d’intérêts de votre audience
+80) Trouver un nom de marque, un slogan (et un logo 🤖)
+81) Faire une publicité sur les médias sociaux
+82) Affiner le ciblage de vos contenus sponsorisés
+83) Déterminer les concurrents de votre marque
+84) Comparer des produits ou services
+85) Trouver une accroche publicitaire
+86) Élaborer un communiqué de presse
+87) Donner des idées de slides pour une présentation marketing
+88) Rédiger le script de votre présentation de vente 
+89) Rédiger du contenu pour un podcast
+90) Structurer votre webinaire
+91) Trouver des images à utiliser 
+92) Récapituler les formats de visuels à créer pour une plateforme digitale 
+93) Créer des visuels mieux qu’une banque d’images libres de droit
+94) Organiser un tournage vidéo sans budget
+95) Rédiger un objet de courriel
+96) Rédiger un courriel spécifique
+97) Rédiger une infolettre
+98) Rédiger courriel pour une offre exclusive
+99) Répondre à un courriel
+100) Rédiger un SMS ciblé
+ChatGPT a ses limites!
+ChatGPT connait beaucoup de choses, mais pas TOUT
+ChatGPT ne maîtrise pas le québécois à 100%
+ChatGPT ne respecte pas toujours votre ton éditorial
+ChatGPT est parfois un peu surchargé
+Une version payante de ChatGPT
+Notre avis sur l’outil ChatGPT
+ChatGPT va-t-il nous remplacer? 
+ChatGPT, c’est bien, mais des experts certifiés, c’est mieux!
+Quand on commence à regarder tous les usages de ChatGPT en marketing, on n’arrive plus à faire tenir la liste sur ses dix doigts. 
+
+Cet outil d’intelligence artificielle avec plus de 100 millions d’utilisateurs actifs quotidiens, peut vous faire gagner énormément de temps et d’efficacité dans votre stratégie marketing ✨
+
+Et justement le temps, c’est ce qui vous manque pour connaître toutes les fonctionnalités de cet outil de marketing en ligne. 
+
+Alors, on a décidé de simplifier votre travail et de vous répertorier tous les usages de ChatGPT en marketing dans ce guide dédié! ⬇️
+
+
+Suivez notre guide pour devenir un pro de l’utilisation de ChatGPT en marketing! L’automatisation marketing c’est facile 😃
+
+Allez c’est partiiiiii 🔥
+
+Qu’est-ce que ChatGPT?
+Le plus simple, c’est de lui demander: 
+
+
+ChatGPT est un chatbot permettant de répondre à toutes vos questions (on vous promet, ça marche mieux que OK Google)!. 
+
+Son interface intuitive vous permet d’obtenir votre réponse en quelques secondes (ou un peu plus si le site est saturé…).
+
+ChatGPT a été créé par la société d’intelligence artificielle Open AI, sa dernière version ChatGPT-3-5 est disponible depuis novembre 2022.
+
+Le chatbot ne répond pas juste à des questions basiques comme: “la terre est-elle ronde?”.
+
+
+Vous pouvez le tester dans une multitude de domaines (économie, physique, connaître les meilleures extensions chrome ou les techniques de pêche à la mouche) → ses réponses sont très pertinentes. 
+
+Comment fonctionne ChatGPT? 
+ChatGPT a été nourri et entrainé avec des milliards de contenus textes disponibles sur internet. 
+
+“Lorsqu’il est utilisé pour générer du texte, ChatGPT prend en entrée une prompt, qui est généralement une phrase ou un ensemble de phrases qui décrivent le sujet ou le contexte de la génération de texte souhaitée. Il utilise ensuite sa compréhension du langage pour continuer la phrase ou générer une réponse à la question posée.”
+
+(source notre ami ChatGPT)
+
+En plus, ChatGPT s’améliore constamment: il utilise également l’apprentissage automatique pour s’améliorer en continu en fonction des demandes des utilisateurs.
+
+Il est tellement malin qu’on lui fait passer des examens: il a par exemple réussi les examens de droit dans une université américaine du Minnesota. On vous rassure, il a cependant échoué à l’examen du barreau au Québec, vous ne risquez pas de vous retrouver avec ChatGPT comme avocat 😅.
+
+Les particularités de ChatGPT pour le marketing
+ChatGPT n’est pas un moteur de recherche ou un puits de connaissance, cette Intelligence Artificielle a été adoptée par les marketeurs pour plusieures raisons:
+
+Sa créativité
+Il ne se contente pas de répondre à vos questions, il est créatif et vous propose des idées! Écrire des chansons, des histoires, des scénarios, un poème…
+
+
+Sa base de données
+ChatGPT a été nourri d’un corpus de textes dans 20 langues différentes. Il utilise donc une base de données gigantesque pour répondre à vos questions les plus insolites.
+
+La dernière version de ChatGPT: ChatGPT-4 (payant) est connectée à internet via le moteur de recherche Bing. Cela lui permet de vous donner des réponses à partir de données encore plus récentes.
+
+Voici un extrait de sa réponse quand on lui demande quelles sont les tendances du marketing d’influence en 2024:
+
+
+Sa maitrise du français
+
+Mais pas que! Il parle aussi coréen, allemand et bien sûr anglais. La majorité des Intelligences Artificielles disponibles aujourd’hui sont uniquement accessibles dans la langue de Shakespeare.
+
+Sa polyvalence en marketing
+ChatGPT peut être utilisé dans divers domaines de la génération de textes à la génération d’images mais aussi bientôt de vidéos. Cette facilité d’utilisation avec une flexibilité des usages permet à ChatGPT d’être de plus en plus utilisé par les marketeurs dans leur stratégie de marketing de contenu.
+
+Sa capacité de personnalisation
+Si l’objectif est d’offrir une expérience client sur mesure, ChatGPT dans le domaine du marketing est l’outil idéal. Il peut par exemple permettre de créer des réponses personnalisées pour répondre aux avis clients ou à leur commentaire sur les réseaux sociaux. Vous pouvez aussi utiliser ChatGPT pour créer du contenu unique sans avoir les mêmes textes que tout le monde.
+
+Comment utiliser ChatGPT en marketing? 
+Vous pouvez utiliser le Chatbot gratuitement (même si une version payante est désormais disponible).
+
+Tutoriel pour vous inscrire sur ChatGPT
+Comment faire? 
+
+Se rendre sur le site de Open Ai
+Se créer un compte 
+Cliquer sur “Log In”
+Démarrer la discussion
+Il ne vous reste plus qu’à lui poser toutes les questions qui vous inspirent (vous aurez au moins 100 idées après cet article😄)
+
+Voici un petit tutoriel vidéo pour vous lancer juste ici: 
+
+Tableau récapitulatif des exemples d’utilisations de ChatGPT en marketing
+Si vous n’avez pas le temps de lire nos 100 idées pour utiliser ChatGPT en marketing voici un tableau récapitulatif avec quelques idées pour utiliser ChatGPT en marketing:
+
+
+
+
+
+
+
+
+
+
+
+Utilisations de ChatGPT en marketing SEO Marketing de contenu Réseaux sociaux Publicité  Présentation  Création d’un site internet
+Recherche de mots clés Trouver des idées de publications Rédaction de publications sur les réseaux sociaux Élaborer une stratégie de campagne publicitaire Faire du story telling Créer une landing page
+Rédiger un article de blog optimisé Traduire un texte Créer un calendrier éditorial Rédiger un texte publicitaire Rédiger un communiqué de presse Corriger des erreurs de code dans une page
+Créer une foire aux questions Créer un visuel libre de droits Élaborer une stratégie pour augmenter l’engagement sur vos réseaux sociaux Trouver des idées de slogans pour une campagne publicitaire Donner des idées de slides pour une présentation marketing Créer des descriptions produit
+Recommander des ancres pour des backlinks Créer un logo Rédiger le script d’une vidéo YouTube Élaborer des appels à l’action  Élaborer le script d’une présentation de vente Créer un code HTML pour un formulaire de contact
+Si vous souhaitez optimiser votre utilisation de ChatGPT et faire gagner un temps précieux à vos équipes marketing, contactez nos experts en Intelligence Artificielle dès aujourd’hui!
+
+Les bonnes pratiques avant de te lancer sur ChatGPT 
+Quand on se retrouve face à un chatbot. Même si on t’a dit que tu pouvais tout lui demander et que Open AI fournit une liste d’exemples d’utilisations de l’outil, tu ne sais pas trop par où commencer. 
+
+Comme on l’utilise à fond depuis plus d’un an et demi, voici quelques astuces de nos experts marketing avant de commencer:
+
+Interagissez comme dans une conversation Pas besoin de repréciser de quoi on parle à chaque fois. L’outil suit le fil de la conversation et reste dans le sujet
+Posez une question à la fois L’outil n’autorise pas plusieurs requêtes à la fois. Il faut choisir par quoi commencer
+Enregistrez vos requêtes favorites  Plutôt de demander pleins de fois la même chose à ChatGPT, vous pouvez sauvegarder une requête cela vous fera gagner un temps précieux
+Tentez l’anglais si la réponse n’est pas pertinente L’outil est disponible dans 20 langues, mais il reste plus performant en anglais. Alors n’hésitez pas à taper votre requête dans la langue de Shakespeare pour comparer le résultat
+N’oubliez pas de préciser le ton et la cible souhaités  Pour que ChatGPT vous propose un contenu adapté, vous pouvez spécifier à qui le texte s’adresse “cible: pour des adolescents” et le ton à employer “formel”“amicale””persuasif” “humoristique” “expert”
+Si vous souhaitez en savoir plus sur les prompts ChatGPT voir même savoir ce qu’est un prompt, consultez notre article dédié 😉.
+
+100 prompts pour utiliser ChatGPT en marketing digital
+
+On se lance dans 100 idées avec des exemples de prompts! ChatGPT peut être utilisé en marketing pour:
+
+Optimiser votre référencement naturel
+Définir votre stratégie référencement payant
+Concevoir un site web
+Créer du contenu pour vos médias sociaux
+Aider à la rédaction de contenu
+Optimiser vos campagnes publicitaires
+Faire des présentations
+Créer des visuels 
+Vous accompagner dans votre stratégie d’email marketing
+👉 Utiliser ChatGPT en référencement naturel
+
+Si vous souhaitez plus de conseils et astuces de nos experts, inscrivez-vous pour une formation ChatGPT à Montréal!
+
+Voici en premier lieu des idées pour utiliser ChatGPT pour optimiser votre SEO:
+
+@digitad.ca
+ChatGPT, un nouvel assistant SEO? 👀 #chatgpt #marketingtips #seo #PepsiApplePieChallenge
+
+♬ FEEL THE GROOVE – Queens Road, Fabian Graetz
+1) Rédiger des méta-titres
+Trouvez un titre optimisé pour un article de blogue ou une page web avec le Chatbot. Il s’y connait en balise méta en SEO.
+
+Précisez:
+
+Le nombre de caractères (entre 55 et 65)
+Le mot clé sur lequel vous souhaitez vous positionner
+Le ton à employer
+Exemple de prompt marketing:
+
+“Agit comme un expert SEO. Rédige des titres pour me positionner sur le mot clé aspirateur de table”
+
+
+ChatGPT vous propose une liste de titres, vous pouvez choisir 👀. Si les titres sont un peu fades, vous pouvez demander à l’outil de les reformuler en précisant le ton souhaité.
+
+“Rends ces titres plus accrocheurs”
+
+
+2) Rédiger des méta-descriptions
+Attention, ChatGPT n’est pas un expert SEO, n’oubliez pas de lui demander de rédiger une balise méta-description en 165 caractères 👀
+
+Vous en avez besoin de plusieurs?
+
+“Donne-moi 3 méta-descriptions en moins de 165 caractères avec des smileys pour me positionner sur “chariot élévateur”
+
+
+En savoir plus sur la rédaction de méta-descriptions en SEO.
+
+3) Suggérer des mots clés
+ChatGPT peut vous aider à trouver des mots clés à utiliser pour atteindre les premières places de la SERP (des résultats de recherche) 🚀. 
+
+Vous pouvez utiliser ChatGPT pour:
+
+Vous inspirer
+Enrichir votre champ sémantique
+Trouver des mots clés secondaires
+Trouver des synonymes de vos mots clés
+Exemple de prompt pour utiliser ChatGPT en marketing:
+
+“Tu es un expert en SEO. Tu travailles pour ma chocolaterie à Québec. Je souhaite me positionner en première position sur Google sur le mot clé “chocolatier Québec” quels mots clés utiliser?”
+
+
+4) Trouver une liste de mots clés liés à un sujet
+Vous travaillez sur un sujet spécifique et souhaitez développer le vocabulaire utilisé dans vos contenus. Pas besoin de chercher pendant des heures dans un dictionnaire, ChatGPT vous trouve une liste de mots clés:
+
+“Agit comme un expert SEO. Je souhaite enrichir le champs sémantique d’un article de blogue pour une liste de mots clés pour le sujet: “les ensembles à raclette” 🧀 “
+
+Voici un extrait de la liste proposée:
+
+
+5) Classer les mots clés en fonction de l’intention de recherche
+ChatGPT connait les intentions de recherche! 😍 
+
+“Agit comme un expert en référencement naturel. Écris et classe les mots clés de la thématique “pull d’hiver” selon si la recherche est navigationelle, commerciale, informationnelle et transactionnelle sous forme de tableau” 
+
+
+Par ici pour un petit rappel sur l’intention de recherche en SEO.
+
+6) Décrire l’intention de recherche d’une liste de mots clés
+Vous avez déjà une liste de mots clés définis, mais vous n’avez pas trop envie de taper vos mots clés un par un dans la barre de recherche pour trouver l’intention de recherche derrière ce mot clé? 
+
+Un petit tableau avec ChatGPT c’est plus simple ✅.
+
+“Agit comme un expert en SEO. J’ai une liste de mots clés sur les caribous au Québec. Je veux connaitre l’intention de chaque requête de ma liste pour comprendre ce que recherche vraiment l’utilisateur, fait un tableau avec le mot clé en colonne 1 et l’intention de recherche en colonne 2: liste de mots clés”
+
+Voici le tableau récapitulatif réalisé par l’intelligence artificielle:
+
+
+Vous pouvez aussi demander à ChatGPT de vous donner le sentiment général associé à un mot clé. 
+
+7) Regrouper les mots clés en cluster 
+Ok là, vous venez de terminer votre étude de mots clés avec PLEINS de mots à trier. Regardons ce que propose ChatGPT! 
+
+Nous avons extrait de SEMrush une liste 190 mots clés liés à “chat d’appartement” et demander à ChatGPT: 
+
+“Agit comme un expert SEO. Regroupe ces mots clés en cluster en donnant un nom à chaque cluster”
+
+L’intelligence artificielle a séparé les mots clés en 5 clusters 😉:
+
+Cluster 1: Nourriture et santé pour chats d’appartement
+Cluster 2: Comportement et divertissement pour chats d’appartement
+Cluster 3: Race et adoption de chats d’appartement
+Cluster 4: Soins et entretien pour chats d’appartement
+Cluster 5: Autres questions liées aux chats d’appartement
+
+Le choix de mots clés est stratégique pour votre stratégie SEO. Si les clusters proposés par ChatGPT ne vous semblent par tous pertinents, n’hésitez pas à lui demander de faire des modifications ou d’ajouter des rubriques! 
+
+8) Trouver des mots clés longue traine 
+Les mots clés trop courts ont une concurrence rude. Vous souhaitez trouver des mots clés longue traine pour vous positionner? Ne traînez pas avec ChatGPT 😇
+
+“Agit comme un expert en référencement naturel. Donne-moi des mots clés longue traine pour la thématique “hotel de luxe””
+
+Voici un extrait de la liste proposée par ChatGPT: 
+
+
+En savoir plus sur le choix de mots clés en SEO.
+
+9) Traduire les mots clés
+Vous avez une stratégie de SEO internationale? 🌏 Vous souhaitez que votre site web se positionne en anglais et en français. ChatGPT peut servir dans la traduction et l’organisation de vos mots clés. 
+
+Vous pouvez demander à ChatGPT de traduire les mots clés et de la placer en deux colonnes sous la forme de tableau, par exemple!
+
+“Traduis les mots clés et classe-les dans deux colonnes avec une colonne en français et une colonne en anglais.”
+
+
+10) Ajouter des titres H2 et H3 dans un texte 
+Rien de plus illisible des blocs de textes sans structure! Avoir un titre SEO est essentiel pour l’utilisateur et pour atteindre la première position Google 😉
+
+Demandez simplement à ChatGPT “Ajoute des titres en <H2> et <H3>” en faisant un copier/coller de votre texte. 
+
+
+11) Mettre les mots clés en gras
+Votre texte est structuré, mais il manque quelques mots en gras pour que l’on puisse le mettre en ligne. 
+
+“Mets les mots clés important en gras”
+
+
+💡 Vous pouvez bien sûr spécifier à ChatGPT quels types de mots clés, vous souhaitez mettre en gras.
+
+12) Trouver des mots clés secondaires à ajouter dans un texte
+Vos avez votre mot clés principal, mais souhaitez des idées de mots clés secondaires pertinentes?
+
+Élargissez vos horizons avec les suggestions de l’IA 🔍
+
+“Quels mots ajouter dans un texte dans le champ lexical des piments?”
+
+
+
+13) Trouver des terminologies de mots clés spécifiques pour un secteur d’activité
+Vous travaillez pour un secteur d’activité dont vous avez besoin de vérifier les codes pour être sûr d’adapter la bonne stratégie de référencement. Trouvez les mots clés incontournables de votre secteur!
+
+“Donne-moi les 10 mots les plus utilisés dans le secteur de la comptabilité”
+
+
+Si vous souhaitez plus d’explication sur le vocabulaire choisir, ChatGPT sera ravi de vous donner des définitions 😎 (il paraît qu’il adore la compta en plus)
+
+14) Rédiger un paragraphe avec des mots clés définis
+ChatGPT est un as de la rédaction web!
+
+“Bon matin ChatGPT, rédige-moi un paragraphe avec les mots clés “tortue”, “jouet pour enfants” et  “réduction””
+
+
+15) Rédiger des balises ALT pour des images
+Le chabot ne lit et ne génère que du contenu texte. 
+
+Par contre, il peut vous suggérer des balises ALT optimisées! 
+
+Comment? Il suffit de lui donner le nom de vos fichiers 😉
+
+“Rédige 4 balises ALT pour les images “paysage-bahamas”, “visite-nassau”, “poisson bahamas”, “hotel-vue-plage-bahamas”
+
+
+Vous pouvez ajouter les balises ALT directement dans votre article.
+
+16) Réduire la taille d’URLs
+Si vos URLs sont trop longues et difficiles à partager, demandez à ChatGPT de les réduire. 
+
+“Réduit ces URLS:
+
+https://siteweb/nosproduits-nosvaleurs-notrehistoire
+https://siteweb/tout-sur-notre-entreprise”
+
+C’est plus simple 😉
+
+17) Vous inspirer dans la rédaction de contenu
+Vous pouvez utiliser l’outil pour reformuler un contenu existant de l’une de vos pages. 
+
+ChatGPT vous permettra:
+
+de changer le ton d’un texte (le rendre plus sympathique par exemple)
+d’avoir un contenu 100% unique
+d’éviter d’avoir du plagiat sur vos pages
+“Reformule ce paragraphe”. Nous avons sélectionné un extrait de Wikipédia sur le groupe de pharmacies Jean Coutu:
+
+
+Nous avons testé le paragraphe dans un outil de repérage de plagiat: Duplichecker et voici le résultat: 
+
+
+Un paragraphe 100% unique ✨
+
+En savoir plus sur l’importance du contenu dupliqué en SEO.
+
+18) Optimiser le Slug d’une URL
+
+Le SLUG de vos URLs est la petite partie personnalisable de vos URLs sur chaque page. Il est important d’utiliser un mot clé relatif à celui sur lequel vous souhaitez vous positionner pour définir le slug de vos pages. 
+
+“Donne mots des idées de SLUGs pertinents pour une page pour un avocat en droit immobilier”
+
+
+19) Trouver les questions que se posent votre audience 
+Vous souhaitez trouver les questions que le public se pose pour proposer un contenu pertinent pour: 
+
+Vous positionner dans les “people also ask”
+Rédiger une FAQ dans vos contenus. 
+“Génère une liste de 10 questions populaires liées au mot clé “travail à distance” pour des jeunes travailleurs”
+
+
+20) Créer un Schema FAQ 
+Comment ChatGPT peut-il aider en SEO technique? En vous permettant de générer le code de Schema FAQ! Vous n’avez plus qu’à intégrer le code à l’article 😄.
+
+“Génère le balisage Schema de la FAQPage pour les questions et réponses suivantes :
+
+Comment bien choisir une poutine au Québec? 
+
+Assurez-vous que les ingrédients sont frais et de qualité : des frites fraîchement coupées et du fromage en grains frais.
+Recherchez les restaurants qui utilisent de la sauce à la viande maison plutôt que de la sauce en boîte.
+Demandez des options végétariennes ou végétaliennes si vous le souhaitez.
+Comment choisir la bonne taille de Poutine?
+
+Pour choisir la bonne taille de poutine, cela dépend de vos besoins en matière de quantité. Si vous avez faim, optez pour une taille plus grande, sinon une taille plus petite peut suffire. Il est également important de tenir compte de combien de personnes vont partager la poutine.
+
+Depuis quand la poutine existe-t-elle?”
+
+La poutine existe depuis les années 1950 au Québec. Elle a été inventée par un restaurateur de la région de Drummondville qui a eu l’idée de combiner des frites, du fromage en grains et de la sauce pour créer un plat délicieux. Depuis, elle est devenue un plat emblématique du Québec et a gagné en popularité dans le monde entier.”
+
+Pas de soucis, ChatGPT vous génère le code souhaité en quelques instants. Vous pouvez copier-coller le code directement dans votre contenu! 
+
+
+Vous pouvez aussi lui demander de créer un plan de site web optimisé!
+
+21) Améliorer le maillage externe
+ChatGPT 4 (la version payante de ChatGPT) permet de trouver des liens pertinents à insérer dans des articles pour améliorer la crédibilité de votre contenu. Vous pouvez aussi utiliser ChatGPT pour trouver des opportunités de backlinks. 
+
+“Donne-moi des liens d’articles de référence sur la poutine au Québec. Fait une liste avec des liens cliquables”  
+
+
+22) Générer des balises Hreflang 
+Les balises Hreflang sont utilisées pour définir la langue et le pays cible de vos pages internet pour le moteur de recherche. 
+
+ChatGPT peut vous aider à définir vos balises Hreflang de votre site et vous donner le code à intégrer à vos pages 😎
+
+“Génère les balises Hreflang à faire figurer dans les pages en français destinées à un public québécois”
+
+
+23) Trouver des idées d’ancres pour un backlink 
+ChatGPT est un assistant de votre stratégie SEO, On Site, Technique, mais aussi Offsite! Vous souhaitez de nouvelles d’ancres optimisées pour des backlinks dirigeant vers votre site web? 
+
+Votre chatbot préféré peut aussi vous éclairer sur ce sujet 🔦
+
+“Donne-moi des idées d’ancres pour des backlinks vers mon site web. Je suis un électricien”
+
+
+24) Générer les règles de réécriture .htaccess pour les redirections 301
+Faire des redirections avec ChatGPT est un bon moyen de réaliser des actions techniques en un rien de temps!
+
+“Générer les règles de réécriture .htaccess pour la redirection 301 de <source location> vers <location destination>”
+
+
+25) Donner des conseils pour votre profil Google Business Profile 
+Rédiger des post GBP, la description de votre profil, ou trouver des idées. Le futur du SEO est sur ChatGPT!  
+
+“Donne-moi des conseils pour optimiser le Google Business Profile d’un restaurant vietnamien”
+
+
+
+26) Trouver des outils SEO
+SEMrush, Screaming Frog, Search Console… quel outil utiliser dans ma stratégie SEO et pourquoi? ChatGPT peut non seulement répondre à vos questions sur ces outils, mais aussi vous aider à trouver des outils pertinents selon vos besoins ✨
+
+“Donne-moi 2 outils SEO pour analyser le trafic d’un site web” 
+
+
+👉 Gagner en efficacité pour votre stratégie SEM en utilisant ChatGPT en référencement payant
+
+27) Ajouter des idées de campagnes Google Ads
+L’intelligence artificielle peut vous aider à trouver des idées de campagnes publicitaires Google Ads → moins de veille, plus de fun 🥳
+
+“Donne-moi des idées de campagnes Google Ads pour des publicités pour des équipements de kayak”
+
+
+28) Vous inspirer pour des titres de campagnes publicitaires Google Ads
+Trouver des titres de campagnes publicitaires accrocheurs avec ChatGPT n’est pas impossible si vous:
+
+Choisissez la cible
+Précisez le nombre de caractères souhaités (30 caractères pour une campagne Google Ads)
+Demandez le nombre de titres que vous souhaitez avoir
+“Rédige 15 titres de 30 caractères pour une campagne Google Ads pour des chaussettes faites à la main au Canada”
+
+
+Découvrez 12 conseils pour maximiser votre budget Google Ads.
+
+29) Améliorer vos accroches de campagnes
+“Trouve-moi une phrase d’accroche sur un ton sympathique pour une campagne Google Ads sur le laser tag au Québec”. 
+
+
+30) Vous inspirer pour le contenu de vos annonces publicitaires
+Vous être sous le feu des projecteurs avec votre titre? Super! L’intelligence artificielle en marketing peut vous aider à rédiger le contenu de votre annonce Google Ads ✍️
+
+“Rédige-moi la description de mon annonce publicitaire Google Ads “trouver une gardienne d’animaux à Ottawa””
+
+
+31) Suggérer des groupes d’annonces Google Ads
+Et il peut aller encore plus loin, voyez plutôt:
+
+“Écris-moi des annonces Google Ads pour la search pour une petite entreprise qui propose de louer des bureaux à la journée. Objectif: sensibilisation à la marque avec différents groupes d’annonces.”
+
+
+Pour bien trier les annonces les plus pertinentes, découvrez 7 erreurs à éviter dans vos campagnes Google Ads.
+
+32) Aider à la réalisation d’un AB testing
+Alors là, vous allez gagner du temps pour vos différents tests et améliorer vos performances.
+
+On reprend notre accroche sur le Laser Tag un peu plus haut:
+
+“Rédige 15 versions de cette accroche” 
+
+
+À vous de tester pour voir quelle accroche fonctionne le mieux avec vos clients 😉
+
+33) Suggérer des mots clés pour Google Ads
+Trouver des mots clés pertinents pour votre campagne Google Ads avec ChatGPT c’est:
+
+Une bonne source d’inspiration 
+Très efficace pour trouver des mots clés pertinents pour votre campagne
+Facile à trier
+“Trouve-moi une liste de mots clés pertinents pour une campagne publicitaire sur les trempettes au guacamole”.
+
+
+34) Trouver des mots clés avec un faible CPC 
+ChatGPT peut vous aider à trouver des mots clés avec un taux de conversion élevé et un faible coût par clic.
+
+“Trouve-moi des mots clés avec un faible cout par clic pour une campagne publicitaire “chaussons pour la maison””
+
+
+Ses données ne sont pas actualisées depuis 2021 donc attention tout de même à la fiabilité de ce que ChatGPT vous raconte, le CPC de ces mots clés peut avoir évolué depuis cette date ⚠️.
+
+35) Traduire une campagne publicitaire
+Un Chatbot mais aussi un traducteur!
+
+Hello,Olá, Hej!, Cześć!. ChatGPT comprend 10 langues. Vous pouvez l’utiliser pour traduire vos campagnes Google Ads: 
+
+“Traduit ce paragraphe en anglais”
+
+
+36) Proposer des contenus pour le marketing d’affiliation
+En adoptant une stratégie de marketing d’affiliation, vous avez certainement beaucoup d’articles de blog à rédiger pour promouvoir des produits d’annonceurs.
+
+ ChatGPT peut vous aider à simplifier ce processus (et rédiger plus vite) en:
+
+vous proposant des idées de sujets et de titres pour vos articles
+rédigeant des paragraphes de contenu pour vous
+créant des réponses automatiques à des questions sur les produits ou services pour une section FAQ de vos articles
+insérant des mots-clés pertinents pour inclure naturellement vos liens d’affiliation
+“Rédige-moi un article pour le marketing d’affiliation pour chaussons les plus confortables pour la maison avec une mention des chaussons de la marque Usine à Pantoufles qui sont les plus doux”
+
+37) Trouver des sites concurrents 
+Analyser la concurrence pour trouver de l’inspiration de campagnes publicitaires, c’est facile avec inspecteur ChatGPT:
+
+La liste de vos sites concurrents est accessible en demandant: 
+
+“Quels sont les concurrents du site (nom du site)?”
+
+
+👉 Générer du code source avec ChatGPT
+
+L’outil a de bonnes notions de codage, ce qui peut vous aider dans la conception d’un site web. Est-il capable de coder tout un site web? 
+
+Non non!
+
+
+38) Créer le code source d’une partie spécifique d’une page web
+L’IA peut vous aider à créer des pages produit optimisées pour convertir vos clients:
+
+“Rédige le code d’une landing page optimisée et convertissant avec des appels à l’action pour un site de e-commerce spécialisé en tasses”
+
+
+
+39) Donner des idées de contenu pour les pages de témoignages clients
+Mettre en avant les avis clients sur votre site permet de donner de la légitimité à votre entreprise. ChatGPT vous permet de coder votre page témoignage. 
+
+“Rédige-moi une page témoignage sur mon site en code HTML”
+
+
+Le code d’un formulaire est également proposé pour permettre aux clients de soumettre un nouvel avis facilement: 
+
+
+40) Proposer des appels à l’action pertinents pour votre site 
+Selon votre secteur d’activité, un bouton “acheter maintenant” ne sera pas forcément la meilleure solution. 
+
+Voici ce que nous propose l’intelligence artificielle pour un site B2B: 
+
+“Donne-moi des boutons d’appels à l’action que je peux ajouter sur mon site B2B pour avoir plus de trafic”
+
+
+41) Créer un code HTML pour les pages de formulaire de contact 
+Ajouter un formulaire personnalisé sur votre site web vous permet de récolter de nouveaux contacts de clients potentiels! 
+
+Comment coder mon formulaire?
+
+Demandez au chatbot:
+
+“Génère-moi un code HTML pour une page de formulaire de contact” 
+
+
+42) Débloquer le code et identifier des erreurs techniques
+Un extrait de code ne fonctionne pas sur votre site et vous souhaitez éviter de passer des heures à essayer de repérer l’erreur. Vous pouvez essayer de demander conseils à ChatGPT: 
+
+Nous avons repris ici un extrait de code des exemples précédent en modifiant id par IP. 
+
+Voyons si l’IA va parvenir à détecter l’erreur: 
+
+
+Bien vu ChatGPT 😉!
+
+43) Répondre aux questions de codage 
+Vos questions de développeur restent parfois sans réponse (ou alors il faut lire une 20aine d’articles de blogs spécialisés). Votre assistant en développement est là pour vous débloquer! 
+
+Précisez: 
+
+Le langage à utiliser
+Le type de contenu que vous souhaitez développer (page web, application mobile)
+“Comment coder en python une application pour commander des pâtes”
+
+
+44) Interpréter un extrait de code 
+Parfois, vous pouvez ne pas savoir que demander précisément à l’outil, mais vouloir comprendre un extrait de code de votre site (WordPress, Shopify), en HTLM en Javascript et autre. 
+
+Voici comment un chatbot peut éclairer votre lanterne 💡 
+
+Nous avons selectionné un extrait de code d’un site Shopify 
+
+“Explique moi ce code:          {% assign used = ” %}
+
+              <label for=”select_one”><h3 class=”font_medium”>{{ product.options[0] }}</h3></label>
+
+              <div class=”trago_select_container”>
+
+                <select id=’select_one’ onchange=”updateProductInformation()”>
+
+                  {% for variant in product.variants %}
+
+                    {% unless used contains variant.option1 %}
+
+                      <option value=”{{ variant.option1 }}”>{{ variant.option1 }}</option>
+
+                      {% capture used %}{{ used }} {{ variant.option1 }}{% endcapture %}
+
+                    {% endunless %}
+
+                  {% endfor %}”
+
+
+45) Rédiger la structure d’un Sitemap
+Optimiser la structure de votre site web, c’est possible avec L’intelligence artificielle. Précisez votre secteur d’activité et c’est parti! 
+
+“Génère un Sitemap optimisé pour un site de vélos”
+
+
+On ne va pas vous montrer tout le code généré par ce que c’est un peu long. Mais les différentes catégories identifiées par ChatGPT pour le sitemap sont: 
+
+Vélos
+vélos route
+vélos VTT
+vélos électriques
+accessoires
+about
+contact 
+On aurait bien choisi “à propos” plutôt que about, mais sinon le sitemap est prêt à être intégré 🚲
+
+Découvrez l’avantage du sitemap pour optimiser votre indexation Google
+
+46) Conseiller des plugins à ajouter sur votre site
+On s’y perd un peu avec les plugins (un peu comme les applications sur cellulaire, on a toujours envie d’en ajouter plus).
+
+Certains plugins sont HYPER UTILES et simplifient certaines actions sur votre site web (comme l’insertion de métadonnées avec Yoast SEO). Certains plugins ne répondent pas du tout aux attentes ou sont en fait payants.
+
+
+ChatGPT peut vous aider à gagner du temps et vous conseiller des idées de plugins populaires à utiliser sur votre site web. 
+
+“Quels plugins mettre sur WordPress pour ajouter un popup?”
+
+
+47) Aider à traquer les conversions
+Configurer Google Tag Manager avec ChatGPT vous permet de personnaliser vos tags et de traquer des conversions plus précisément sur votre site. 
+
+“Génère le code d’un Google tag pour traquer lorsque les utilisateurs font défiler 35% d’une page sur mon site”
+
+
+
+48) Donner des conseils pour optimiser vos pages web
+N’hésitez pas à demander à ChatGPT des suggestions pour optimiser vos pages. Vous pouvez lui demander de nouvelles idées en soumettant directement l’URL de votre page web. 
+
+“Donne-moi des idées pour optimiser cette page web: “https://www.simons.ca/fr/vetements-femme/pantalons/larges/le-pantalon-large-fluide-a-pinces–9718-211839?catId=8618&colourId=30”
+
+
+49) Concevoir un chatbot 
+Un Chabot qui crée un Chatbot 🙃
+
+ChatGPT peut vous aider à concevoir un chatbot optimisé pour votre site web pour: 
+
+Concevoir l’arbre de conversation 
+Développer un modèle de traitement du langage naturel
+Intégrer le chatbot dans votre site web
+“Donne-moi un arbre de conversation pour une chocolaterie 🍫”
+
+
+
+👉 ChatGPT: votre assistant pour vos médias sociaux
+
+50) Proposer de idées de posts sur les médias sociaux
+
+Tellement de possibilités sur les médias sociaux qu’on s’y perd un peu parfois 🤯.
+
+Et si on te disait que ce chatbot peut t’aider à trouver une idée de publication Facebook entreprise, mais aussi de l’inspiration sur:
+
+Instagram 
+X (Twitter)
+LinkedIn
+TikTok
+Pinterest
+“Hey ChatGPT, donne-moi des idées posts Instagram pour ma page de recettes de cuisine”
+
+
+Ok … c’est pas mal mais bon c’est pas non plus révolutionnaire…
+
+“Je ne suis pas convaincu, trouve-moi d’autres idées plus innovantes”
+
+
+Ahhhh là, je trouve ça plus inspirant! Merci ChatGPT!
+
+En savoir plus sur le SEO Instagram
+
+51) Aider à la rédaction de posts
+Rédiger un post pour sa page entreprise LinkedIn, c’est un peu stressant, on ne sait pas toujours comment traiter un sujet B2B. 
+
+ChatGPT vous permet de rédiger du contenu automatisé pour les publications sur les réseaux sociaux. 
+
+Il suffit de lui donner:
+
+Le sujet
+Le ton à adopter
+La cible
+“Écrit un post LinkedIn sur “Comment j’ai découvert l’entrepreneuriat en lançant ma start-up” en montrant que ça n’a rien à voir avec les cours. Utilise un ton humoristique et des smileys.”
+
+
+On est d’accord, ça ne remplacera jamais le ton et l’authenticité d’un créateur, mais cela peut vous inspirer!
+
+52) Aider à la rédaction de Threads X
+Un post c’est sympa, mais trois posts à la fois, c’est mieux 😍
+
+ChatGPT connait les Threads sur X, les carrousels LinkedIn, les storys Instagram, eh oui ✍️. 
+
+“Écris-moi un thread de trois tweets sur le domaine du marketing” 
+
+
+53) Trouver des hashtags
+Le Chatbot propose naturellement des hashtags lorsqu’il rédige vos posts sur les réseaux sociaux, mais vous pouvez aussi l’utiliser pour trouver des hashtags spécifiques utilisés dans votre industrie ou votre domaine d’activité ✨.
+
+“Trouve-moi des hashtags pour un tweet sur les dinosaures”
+
+
+54) Rédiger la description de vos comptes sur les réseaux sociaux 
+La biographie Instagram est STRATÉGIQUE. Il faut décrire votre compte et donner envie de s’abonner en 150 caractères! (Un communiqué de presse en 3 lignes en fait 😅).
+
+Utiliser ChatGPT peut vous donner idées de bios pour vos médias sociaux 💡.
+
+“Rédige une biographie en 150 caractères pour un compte Instagram de motos-neige avec des émoticônes” 
+
+
+“Donne un ton plus sympathique” 
+
+
+La meilleure version est peut-être un mix entre les deux? Ça, c’est à vous de le décider 😄
+
+55) Donner conseils pour améliorer son profil
+Votre biographie est optimisée ✅ Mais il reste un peu de travail pour augmenter la visibilité de votre compte TikTok. 
+
+“Donne-moi des conseils pour maximiser la visibilité de ma page entreprise sur TikTok. Je suis une entreprise de cosmétiques organiques”
+
+
+56) Trouver des questions à poser à votre communauté 
+Vous pouvez trouver des idées pour des sondages dans des storys Instagram ou pour des posts dans des groupes Facebook. 
+
+“Donne-moi des idées de questions à poser à des fans de mangas”
+
+
+57) Faire des sondages
+“Rédige un sondage pour une entreprise de Smartphones”
+
+
+58) Trouver des titres de vidéos YouTube
+“Donne-moi  5 idées de titres de vidéos YouTube pour une vidéo explicative sur les champignons dans la foret” 
+
+ 
+
+59) Trouver des idées de playlists pour votre chaine YouTube
+ChatGPT peut vous aider à identifier des opportunités de playlists pour nourrir le contenu de votre chaine YouTube
+
+“Donne-moi une liste de playlists pour une chaine YouTube de beauté”
+
+
+60) Donner des idées de boards Pinterest
+Vous avez beaucoup de photos sur le réseau social, mais vous souhaitez que l’on puisse vous retrouver facilement sur Pinterest! Il est important de créer des boards. 
+
+“Donne-moi une liste de boards Pinterest pour une marque de broderie” 
+
+
+61) Rédiger le script de vos vidéos 
+Vous pouvez utiliser ChatGPT pour rédiger le script de vidéos sur tous vos médias sociaux.
+
+Le futur Steven Spielberg 🎥 ? On n’y est pas!
+
+“Hey ChatGPT rédige moi le script d’une vidéo YouTube de 5 minutes en français pour un influenceur qui teste le thé matcha pour la première fois (script en français)”
+
+
+62) Expliquer comment faire un TikTok
+Ce réseau social 100% vidéo peu laisser un peu perplexe. ChatGPT peut bien sûr vous rédiger le script d’un TikTok sur les films à regarder devant la cheminée, mais aussi vous expliquer: 
+
+“Comment faire un TikTok génial pour mon entreprise de sacs à dos?”
+
+
+63) Trouver des idées d’actions pour les réseaux sociaux 
+Puisez dans la base de données IMMENSE de l’intelligence artificielle pour élaborer une stratégie performante pour vos réseaux sociaux. 
+
+“Trouve-moi une stratégie originale pour attirer l’attention sur X (Twitter)”
+
+
+64) Trouver des marronniers
+Les marronniers, c’est tous ces petits évènements qui rythment notre année: la journée mondiale des serpents 🐍, la journée internationale de la montagne 🏔️ , vendredi fou…
+
+Pour ne rien oublier et surtout poster au bon moment, demandez au chatbot: 
+
+“Donne-moi une liste des journées mondiales en mars et avril utiles pour un bar à jeu de sociétés” 
+
+
+65) Sponsoriser des posts
+Lancez des campagnes publicitaires vos médias sociaux avec l’aide d’un chatbot! 
+
+“Tim Hortons est une chaine de restaurants rapides connues pour ces trous de beigne les “timbits” . Élabore une stratégie de campagne publicitaire sur Facebook pour promouvoir cette marque en fournissant le texte, le format, le ciblage, l’optimisation, le budget et d’autres détails. Prompt sous forme de tableau”
+
+
+66) Trouver des influenceurs
+Le marketing d’influence est très puissant sur les médias sociaux. ChatGPT peut servir de moteur de recherches à influenceurs.
+
+Cela peut vous être utile pour trouver des partenariats pour votre entreprise, ou tout simplement regarder ce que font les influenceurs 👀.
+
+Il ne vous restera plus qu’à faire appel à une Agence de réseaux sociaux pour élaborer une campagne d’influence et contacter les influenceurs.
+
+“Donne-moi une liste d’influenceurs américains spécialisés en voitures avec le lien de leurs profils sous forme de tableau” 
+
+
+67) Trouver un scénario pour une story Instagram
+Vous avez envie de faire une story par jour, en plus on vous a dit que c’était bien pour être vu plus facilement. Mais là à part montrer une dixième photo de votre jardin, vous séchez un peu: 
+
+“Écris-moi un script pour trois Storys Instagram pour mon compte sur les tulipes avec: le sujet, le script et des idées des visuels”
+
+
+68) Trouver des chiffres pour une infographie
+Des statistiques clés sur votre domaine d’activité, ça capte tout de suite l’attention, notamment pour une stratégie LinkedIn LE réseau B2B 😄
+
+ChatGPT peut vous aider à trouver des chiffres utiles pour vos posts ⬇️ : 
+
+“Trouve-moi des chiffres sur les voitures électriques avec les sources”
+
+
+Il n’y a plus qu’à faire les visuels de l’infographie 😎
+
+69) Faire un calendrier édito 
+Ok, j’ai pleins d’idées de posts, de légendes et de scripts pour mes futures vidéos grâce à mon super chatbot mais j’ai besoin de m’organiser pour savoir quand publier quoi. 
+
+C’est parti pour un petit calendrier éditorial avec ChatGPT 🚀
+
+“Rédige moi un calendrier éditorial de posts X (anciennement Twitter) pour ma boulangerie au Québec en Mai sous forme de tableau”.
+
+
+Rohlala, il s’est trompé (il est important de rester vigilant), la fête des mères c’est le 14 mai cette année: 
+
+Pas de panique! On peut lui demander de modifier:
+
+“La fête des mères est le 14 mai au Québec, adapte le calendrier”
+
+
+👉 Chat GPT: votre allié de la rédaction web
+
+Fini le syndrome de la page blanche avec ChatGPT.
+
+Découvrez comment utiliser ce Chatbot en rédaction ✍️ 
+
+70) Compléter votre calendrier éditorial 
+Trouvez des idées de sujets pour vos pages et articles de blogue avec ChatGPT. 
+
+“Donne-moi une liste de sujet sur les Bixis”
+
+
+Vous pouvez préciser la cible: 
+
+“Écrit une liste de sujet sur les jeux de société pour les experts”
+
+
+71) Trouver des titres accrocheurs d’articles de blog
+Les titres, il maîtrise! 
+
+“Écrit 10 titres accrocheurs de 65 caractères pour un article sur les croquettes pour chat”
+
+Il ne vous reste plus qu’à choisir 😎
+
+
+72) Rédiger le brief d’un article ou d’une page 
+Le plan de votre article en 20 secondes. Dommage que vous n’ayez plus de rédactions à faire pour l’école 😅.
+
+”Tu es un expert en SEO. Je souhaite rédiger un plan sur les meilleures méthodes pour se faire remarquer pendant un entretien d’embauche. Propose moi une structure d’article composée de paragraphes et de sous paragraphes permettant d’adresser ce sujet de façon claire, compréhensible et pédagogique. Essaye d’aller du plus global au plus spécifique en partant de la définition du sujet vers des exemples plus complexes. Il faut que ton plan puisse répondre à la logique suivante : définition du sujet – intérêt pour les cibles – comment l’analyser – comment l’optimiser. Chaque sous-partie doit être unique et l’introduction n’est pas comptabilisée comme une partie. “
+
+
+73) Rédiger un paragraphe
+Vous pouvez utiliser cet algorithme pour lui demander d’écrire un paragraphe, ou répondre aux questions de la FAQ. 
+
+“Rédige-moi un paragraphe sur les toitures en bois”
+
+Il s’exécute: 
+
+Le contenu rédigé est 100% unique, passez le dans un logiciel de plagiat, vous verrez 👀 
+
+74) Faire le résumé d’un contenu 
+Vous souhaitez réduire la taille d’un contenu? ChatGPT peut aussi compresser la taille d’un texte. 
+
+Précisez le nombre de mots à réduire
+Copiez/Collez le texte d’origine ou répondez juste après avoir généré un paragraphe avec l’outil
+En reprenant le contenu généré juste au-dessus: 
+
+“Réduit ce texte de 100 mots” 
+
+
+Là aussi, c’est immédiat! 
+
+75) Raconter une histoire
+Le Chabot ne répond pas seulement à vos questions, il est aussi capable de raconter une histoire (unique en son genre).
+
+Un écrivain en herbe 🌱
+
+“Écris-moi une histoire en rap (style Eminem) pour expliquer la création de mon atelier de bijoux au Québec (je suis un homme)”
+
+
+Il ne manque que le son pour nous ambiancer 🎵🎵
+
+76) Faire une FAQ
+Pour trouver les questions à ajouter à votre FAQ plus besoin de vous demander les sens de l’existence. 
+
+“Donne-moi 5 questions que se posent le public sur les compléments alimentaire”
+
+
+👉 Optimiser vos campagnes publicitaires avec ChatGPT
+
+77) Segmenter votre cible 
+En marketing, on ne le répète jamais assez: “il faut connaître sa cible” 
+
+Si la première image qui vous vient en tête est une cible de lancer de haches, vous avez peut-être besoin d’un petit rappel sur la différence entre la cible B2B et B2C
+
+Sinon ChatGPT peut vous inspirer ⬇️
+
+“Qui, peut-on cibler pour une campagne publicitaire sur les lancers de haches?”
+
+
+78) Trouver les problématiques que rencontrent vos clients
+En marketing, pour répondre à un besoin de vos clients potentiels. Il est important de comprendre quelles sont les problématiques que vos clients rencontrent.
+
+Vous pouvez demander à ChatGPT:
+
+“Quelles sont les problématiques que rencontrent les particuliers avant d’acheter un billet d’avion?”
+
+
+79) Identifier les centre d’intérêts de votre audience
+Identifier des sujets d’intérêt en fonction de votre cible peut vous permettre de trouver une idée de génie pour votre campagne!
+
+“Quels sont les centres d’intérêt des personnes susceptibles d’acheter un grille-pain de luxe?”
+
+
+80) Trouver un nom de marque, un slogan (et un logo 🤖)
+Mais nooon, il peut aller aussi loin? 😱 Pourquoi pas essayer tout de suite:
+
+Exemple de prompt ChatGPT pour trouver un nom de marque:
+
+“Hey ChatGPT. Agit comme un expert en marketing. Donne-moi 3 idées de nom de marques de sodas fruités avec un slogan. Ma cible vise des québécois entre 14 et 19 ans. Je ne souhaite pas faire de référence directe au Québec dans mon nom de marque” 
+
+
+Petite astuce bonus pour les adhérents à la version payante de ChatGPT: demandez-lui. Fais-moi des logos pour ces noms de marque:
+
+
+81) Faire une publicité sur les médias sociaux
+Rédiger le texte de vos contenus sur les médias sociaux est souvent LONG et un peu stressant. Il ne suffit par de rédiger un post sympa, l’objectif est de convertir 🛍️. 
+
+ChatGPT vient à votre rescousse pour vous aider à créer des publicités de qualité pour vos réseaux sociaux. 
+
+“Rédige-moi une publicité Facebook avec un ton surexcité pour une cuisine Ikea en 125 caractères”
+
+
+82) Affiner le ciblage de vos contenus sponsorisés
+Rédiger le contenu de vos publicités sur les médias sociaux, on sait que ChatGPT sait faire, mais saviez-vous qu’il est aussi utile pour affiner le ciblage de vos contenus sponsorisés. 
+
+Il peut par exemple vous trouver les centres d’intérêts de votre cible 🎯: 
+
+Vous proposez des huiles essentielles réduisant les douleurs liées à l’endométriose? 
+
+“Bon matin ChatGPT, donne-moi 10 intérêts de ciblage Facebook Ads pour les femmes souffrant d’endométriose”
+
+
+83) Déterminer les concurrents de votre marque
+Vous avez besoin d’étudier vos concurrents pour vous inspirer. L’intelligence artificielle vous fournit une aide marketing en vous donnant la liste détaillée du nom de vos compétiteurs et de leurs différents réseaux. 
+
+“Donne-moi la liste de 10 grandes entreprises spécialisées dans la mode au Québec avec l’URL du site web, Instagram et TikTok. Prompt: tableau”.
+
+
+Il ne vous reste plus qu’à cliquer 🖱️
+
+84) Comparer des produits ou services
+En marketing, le secret pour se différencier c’est de savoir quelle est notre différence 😅
+
+Plutôt que de créer un Excel récapitulant toutes les offres des concurrents (prix et avantage) on peut demander à ChatGPT de nous faire un petit benchmark:
+
+“Créé un tableau des meilleurs écouteurs Bluetooth avec leur prix en dollars canadien et leurs avantages”:
+
+
+85) Trouver une accroche publicitaire
+L’accroche publicitaire, c’est comme le début d’un article. On a envie de donner envie 🙃
+
+“Donne-moi cinq accroches de textes publicitaires pour promouvoir des skis!”
+
+
+👉 Faire des présentations sublimées par l’intelligence artificielle
+
+86) Élaborer un communiqué de presse
+Oula, je dois faire un communiqué de presse pour la semaine prochaine, mais je ne sais pas trop par quoi commencer. 
+
+ChatGPT aide-moi 🙏🙏🙏🙏
+
+“Rédige un communiqué de presse pour le lancement de chaussures de courses légères comme l’air”
+
+
+87) Donner des idées de slides pour une présentation marketing
+ChatGPT ne peut pas créer d’autres slides (même si d’autres intelligences artificielles proposent de le faire). 
+
+Il peut cependant vous donner des idées de slides pour votre présentation! Et ça, c’est déjà un bon début 😁:
+
+“Peux-tu me donner des idées de slides pour une présentation d’une nouvelle crème solaire pour enfants?”
+
+
+
+88) Rédiger le script de votre présentation de vente 
+Votre présentation de vente est demain⏰. Vous avez hâte, vous avez les idées, mais ne savez pas forcément comment les formuler. 
+
+On sait que ChatGPT maîtrise: 
+
+Le script vidéo pour les réseaux sociaux
+Le script des campagnes publicitaires
+Mais il est aussi possible de rédiger le scénario de votre présentation de vente avec ce chatbot
+
+“Rédige le scénario de ma présentation de vente pour présenter mon nouveau service de livraison de courses à vélo🚲 ”
+
+
+89) Rédiger du contenu pour un podcast
+Le contenu rédigé par ChatGPT peut être lu, chanté, transformé en image et pourquoi pas en podcast? 
+
+“Ok ChatGPT, rédige-moi le script d’un podcast de 10 minutes sur l’industrie agroalimentaire au Canada”
+
+90) Structurer votre webinaire
+Comme le plan de votre article, ChaGPT est Capable de structurer votre webinaire (il peut aussi rédiger le script bien sûr 😉)
+
+Allez, on essaye avec un webinaire sur Google Analytics:
+
+“Donne-moi la structure d’un webinaire d’une heure sur Google Analytics”
+
+
+👉 Chat GPT: votre conseiller graphique
+
+91) Trouver des images à utiliser 
+Comment illustrer mon article, ma page internet, mon profil Pinterest? Plutôt que de passer des heures à regarder ce que proposent les bibliothèques d’images libres de droit, il vaut mieux savoir par quoi commencer avec CHATGPT 😅.
+
+“Donne-moi des idées d’images à utiliser pour un article sur les nouvelles technologies en marketing”
+
+
+92) Récapituler les formats de visuels à créer pour une plateforme digitale 
+On s’y perd avec tous les formats médias sociaux, si bien qu’on ne sait plus dans quel sens prendre sa photo: paysage? portrait? en carré? en rond? en ovale? 
+
+Un petit tableau récapitulatif pour remettre nos idées au clair ⬇️
+
+“Donne-moi sous forme de tableau les différents formats d’images disponibles sur LinkedIn”
+
+
+L’IA nous donne même quelques conseils supplémentaires: 
+
+
+
+93) Créer des visuels mieux qu’une banque d’images libres de droit
+Prise de vue, lumière, texture. C’est un peu étrange de créer des photos avec Dall-E, l’outil de ChatGPT 4 qui permet de générer des images uniques mais pourtant, c’est intéressant  📸. Cela vous permet de créer des visuels personnalisés et libres de droit
+
+Voici un exemple de visuel créé avec DALL-E.
+
+“Aide-moi à créer une image ultra réaliste d’une baleine nageant dans l’océan”
+
+
+94) Organiser un tournage vidéo sans budget
+Des conseils pratiques pour tourner et monter des vidéos sans frais. Il suffit de demander 😉.
+
+“Je souhaite tourner une vidéo digne des plus grands influenceurs sans budget, comment faire?”
+
+
+Ok merci pour ces conseils, mais comment monter ma vidéo sans frais?
+
+“Donne-moi des sites de montage vidéo gratuits”
+
+
+👉 ChatGPT répond à vos courriels, mais pas que😉
+
+Votre stratégie de courriel marketing boostée directement par un chatbot, ça vous dit?
+
+95) Rédiger un objet de courriel
+“Un objet courriel est souvent un sujet qui ne suscite pas d’objection!” nous dit ChatGPT lui-même. Pourtant l’objet du courriel, c’est comme le titre d’un article, il faut qu’il attire le regard. 
+
+“Donne-moi une liste de 10 objets de courriels qui attirent l’attention pour l’ouverture d’une pizzeria sans gluten”
+
+
+96) Rédiger un courriel spécifique
+ChatGPT rédige des courriels pour vos clients que vous pouvez ensuite personnaliser avec le nom et les coordonnées de celui-ci (hé oui dommage, ChatGPT ne connait pas encore le nom de tous vos clients: cela serait un peu angoissant quand même 😱)
+
+“Rédige un courriel de remerciement à une personne venant de créer un compte sur mon site. Mon site est une marque de pyjamas faits au Québec. Le ton est drôle, sympathique et amusant.”
+
+
+97) Rédiger une infolettre
+Gagner du temps sur la structure de votre infolettre? Merci ChatGPT!
+
+“Rédige une infolettre sur les activités de l’automne au Québec”
+
+
+98) Rédiger courriel pour une offre exclusive
+Partagez ce code promo, envoyez cette offre à un ami … vu vu vu et revu? Pourquoi ne pas essayer de trouver de nouvelles idées avec l’IA?
+
+
+99) Répondre à un courriel
+Vous avez sûrement un template pour répondre à vos courriels clients, mais ChatGPT vous offre un petit bonus: la personnalisation 🔥
+
+Même pas besoin de lui demander, vous rentrez votre email et ChatGPT répond automatiquement! 
+
+
+Faites appel à un expert emailing à Montréal si vous souhaitez un accompagnement pour votre stratégie de marketing par courriel!
+
+100) Rédiger un SMS ciblé
+Ok, on avait dit qu’on parlait de courriels, mais vos applications d’email marketing vous permettent aussi souvent d’envoyer des messages SMS. Et ça aussi ChatGPT maîtrise 📱. 
+
+“Rédige-moi 3 messages SMS pour venir dans notre boutique pendant vendredi fou. Ton humoristique et gentil.”
+
+
+ChatGPT a ses limites!
+
+Même si ce chatbot peut vous aider sur de nombreux points, il y a quelques point de vigilance à prendre en compte.
+
+ChatGPT connait beaucoup de choses, mais pas TOUT
+
+ChatGPT n’a pas la science infuse: parfois des erreurs à corriger. Gardez votre esprit critique quand vous faites vos requêtes. ChatGPT avec son style d’écriture humain peut se tromper (comme les humains en fait 🙃). 
+
+Voici quelques limites à prendre en compte en marketing selon ChatGPT:
+
+
+On ne lui en tient pas rigueur, il nous bat quand même largement en culture générale 🧠
+
+ChatGPT ne maîtrise pas le québécois à 100%
+
+Hum, entre une phrase avec une faute d’orthographe et des exemples clichés, on reste un peu perplexe. 
+
+ChatGPT connaît les entreprises québécoises, mais pas forcément tout sur le Québec. Il se mélange un peu parfois avec influenceurs québecois ou français.
+
+Vérifiez donc bien les informations qu’il vous donne sur le Québec.
+
+ChatGPT ne respecte pas toujours votre ton éditorial
+Pour l’avoir utilisé depuis plus d’un an, nous pouvons vous dire que ChatGPT permet de gagner beaucoup de temps dans la planification des rédactions et dans la stucture du plan. Cependant au niveau du ton rédactionnel il reste de faire des repasses pour garantir la cohérence avec votre style d’écriture.
+
+ChatGPT est parfois un peu surchargé
+
+Un million d’utilisateurs en cinq jours. C’est un record! Personne ne connaissait ChatGPT il y a un an et pourtant on est déjà accro. Le succès de ce chatbot a dépassé toutes les attentes! 
+
+Les conséquences de ce succès: l’outil est parfois inaccessible 😨. Mais il y a eu beaucoup d’améliorations en 2023 et 2024.
+
+Voici le type de messages que vous risquez de recevoir si vous utilisez ChatGPT toute la journée: 
+
+Si le serveur est inaccessible:
+
+Si vous posez une question trop complexe
+
+Si vous posez trop de questions (comme nous) 
+
+Il arrive de ne pas pouvoir accéder à ChatGPT pendant une heure si vous avez fait trop de requêtes. C’est pourquoi il est important de vous y prendre un peu à l’avance si vous souhaitez rédiger un contenu tout de suite.
+
+
+Une version payante de ChatGPT
+Une version pro de ChatGPT est disponible pour 20$ par mois pour vous permettre:
+
+d’accéder à ChatGPT-4 le modèle le plus performant de ChatGPT
+des réponses plus rapides (si jamais vous avez besoin d’avoir la réponse en 0.2 secondes au lieu de 0.7 secondes 🤣)
+un accès à des outils comme Dall-E et Advanced Data Analysis
+la possiblité d’accéder à des résultats via des recherches web sur Bing
+la possibilité de créer des GPT personnalisés
+Voici les principales caractéristiques des différentes versions de ChatGPT:
+
+
+On vous rassure, la version gratuite reste quand même reste performante ✅
+
+Cependant, si vous avez souscrit à la version payante vous allez bientôt pouvoir créer de superbes vidéos ultra réalistes avec l’outil Sora:
+
+Prompt: “A movie trailer featuring the adventures of the 30 year old space man wearing a red wool knitted motorcycle helmet, blue sky, salt desert, cinematic style, shot on 35mm film, vivid colors.” pic.twitter.com/0JzpwPUGPB
+
+— OpenAI (@OpenAI) February 15, 2024
+Notre avis sur l’outil ChatGPT
+ChatGPT va-t-il nous remplacer? 
+Rassurez-vous! ChatGPT a été nourri de millions de contenus, mais il n’a pas vécu de réels évènements.
+
+Votre valeur ajoutée par rapport à ChatGPT, c’est VOUS, vos expériences, votre expertise, votre personnalité et votre style d’écriture!
+
+Même si ChatGPT peut rédiger à la manière d’Eminem ou de Victor Hugo, son style d’écriture reste encore assez neutre et c’est une opportunité pour vous démarquer au milieu des tous les contenus rédigés par l’IA 😄. À l’inverse il serait domage de ne pas essayer de créer des visuels originaux avec Dall-E plutôt que de se contenter des photos proposées par des banques d’image gratuites.
+
+Tout cela vous permettra d’ajouter du style et de réalité à vos contenus qui feront la différence! 
+
+ChatGPT n’est pas votre remplaçant, mais votre assistant 😎 
+“L’intelligence artificielle ne vous remplacera pas, une personne qui utilise l’IA vous remplacera”
+
+Bien dit!
+
+
+ChatGPT est votre assistant personnalisé spécialiste en marketing, disponible 24 h/24 h. 
+
+Utilisez sa base de donnés pour maximiser la portée de vos contenus et booster vos performances marketing. L’Intelligence Artificielle peut vous faire gagner un temps précieux au quotidien! 
+
+ChatGPT, c’est bien, mais des experts certifiés, c’est mieux!
+On vous félicite d’être arrivés jusqu’ici 👏. Nous espérons avoir révolutionné votre quotidien de marketeur avec ce chatbot! 
+
+“ChatGPT est sur toutes les lèvres. Cet outil va pouvoir vous aider dans le développement de votre stratégie marketing. Il est non seulement capable de vous générer un nombre conséquent de mots clés pour vos campagnes Google Ads et des titres et descriptions pour vos annonces. Il pourra aussi, vous donner les principaux centres d’intérêts de vos personas ou encore vous donner la tendance globale des commentaires sur vos annonces des réseaux sociaux! Je vous recommande de pousser ChatGPT dans ses retranchements et de l’exploiter au maximum pour vous donner des pistes dans l’élaboration de vos stratégies marketing”
+
+– Marek Hoffmeyer, Stratège Médias Numériques chez Digitad
+
+On comprend que vous préfèreriez des humains à un chatbot, ça tombe, nous sommes là pour vous! Maximisez le succès de votre stratégie marketing avec notre agence web! Nos experts seront ravis de vous proposer une stratégie sur mesure pour vous permettre d’atteindre vos objectifs marketing:

@@ -1,0 +1,238 @@
+
+Accueil  Blogue  Intelligence Artificielle  SearchGPT: révolution ou simple évolution des moteurs de recherche?
+
+TEMPS DE LECTURE : 13 MIN 48S
+SearchGPT: révolution ou simple évolution des moteurs de recherche?
+Écrit par Jérémie Abbou
+Publié le 19 décembre 2024
+Revisé par Apolline
+Modifié le December 20, 2024
+
+
+
+Sommaire [montrer]
+
+Quand on attire 83% des recherches sur le web au Canada (source Statista) comme Google, peut-on encore frémir?
+
+La réponse est oui! 🙃
+
+
+En décembre 2024, OpenAI a annoncé que ChatGPT Search était désormais accessible à tous les utilisateurs de ChatGPT (même sur la version gratuite de ChatGPT 😍).
+
+ChatGPT Search (appellé au départ SearchGPT) vient directement concurrencer le géant Google, qui, 26 ans après sa création, reste de loin le premier moteur de recherche utilisé dans le monde 🌎.
+
+
+Une nouvelle façon de rechercher sur le web
+Vous en avez marre de passer des heures à fouiller la toile pour trouver une réponse à vos questions? 
+De cliquer sur plusieurs liens pour finalement tomber sur des pages intéressantes?
+SearchGPT est un moteur de recherche qui ne se contente pas de vous donner une liste de liens. Il vous donne directement la réponse à votre question. Le moteur de recherche devient un moteur de réponse.
+
+Les capacités conversationnelles de ChatGPT Search visent à changer durablement la manière dont nous faisons des recherches sur le web.
+
+Notre agence d’Intelligence Artificielle a testé cet outil depuis plusieurs semaines et on vous donne ici les clés pour utiliser ChatGPT Search et maîtriser toutes les bonnes pratiques de l’outil!
+
+Qu’est-ce que ChatGPT Search?
+Source: vidéo de démonstration de SearchGPT par OpenAI
+
+ChatGPT Search est un moteur de recherche intégré à ChatGPT, capable de fournir des réponses directes aux questions des utilisateurs en donnant ses sources. 
+
+Développé par OpenAI, SearchGPT combine les capacités du modèle d’IA de ChatGPT avec des informations provenant du web mises à jour en temps réel.
+
+Le moteur de recherche permet aussi aux internautes de continuer la conversation pour obtenir d’autres informations ou une réponse plus précise. 
+
+Comment ça marche ChatGPT Search?
+ChatGPT Search recherche des informations sur internet en temps réel et les utilise pour répondre de manière précise et personnalisé à la requête de l’utilisateur. Il mixe les résultats de plusieurs sources. On a meme plus besoin de lire plusieurs articles! 😉
+
+Voici par exemple la réponse ChatGPT Search quand on lui demande les résultats du dernier match de Hockey des Canadiens de Montreal ⬇️
+
+
+Source: ChatGPT
+
+Tableau récapitulatif des principales fonctionnalités de GPT Search
+SearchGPT vise à révolutionner la manière dont nous interagissons avec les moteurs de recherche en proposant des fonctionnalités innovantes.
+
+Voici un tableau récapitulatif des principales fonctionnalités de SearchGPT:
+
+Fonctionnalité Décryptage
+Réponse personnalisée aux questions Les interactions avec le moteur de recherche permettent d’obtenir une réponse ultra-précise et adaptée à votre question.
+SearchGPT donne ses sources Chaque réponse est accompagnée de sources claires avec des liens accessibles via une barre latérale. Cela permet d’accéder rapidement à des pages pertinentes.
+Dialogue interactif SearchGPT vous permet de faire des recherches sous forme de discussion, sans avoir à vous répéter à chaque nouvelle recherche, car le contexte est conservé.
+Informations en temps réel Mise à jour en temps réel des sources pour que le moteur de recherche puisse fournir des réponses fiables avec des informations actualisées.
+L’objectif de SearchGPT: simplifier les recherches sur le web
+Search GPT donne des réponses complètes et cite ses sources, c’est une vraie évolution par rapport à ChatGPT qui ne donnait pas de réponse adaptée en fonction des évènements actuel.
+
+L’objectif de SearchGPT est d’utiliser la puissance des modèles de langage GPT dans un moteur de recherche. Il offre ainsi un outil ultra-performant qui répond rapidement et de façon fiable aux requêtes des utilisateurs.
+
+Son interface intuitive permet à n’importe quel internaute de faire ses recherches en quelques clics. 
+
+C’est d’ailleurs cette même simplicité d’utilisation qui a fait le succès de ChatGPT. Un outil IA aujourd’hui incontournable avec près de 190 millions d’utilisateurs mensuels. 
+
+Comment faire une recherche sur ChatGPT Search?
+Vous allez voir c’est très facile:
+
+Connectez-vous à votre compte ChatGPT
+Lancez une nouvelle discussion
+Cliquez sur rechercher sur le web 
+
+Tapez votre requête, par exemple “Quels événements culturels à Montréal en février 2025?”
+Et voici la réponse de ChatGPT Search:
+
+
+Source: ChatGPT
+
+La structure de la réponse de ChatGPT Search
+Les réponses générées par ChatGPT Search sont structurées d’une certaine manière:
+
+Réponse principale: une synthèse claire et concise de l’information demandée
+Liens complémentaires: des ressources ou pages web associées pour approfondir le sujet (vous pouvez choisir d’aller consulter ces sources sur le web si vous souhaitez aller plus loin)
+Résultats locaux (si pertinent en fonction de ce que vous demandew): si votre recherche est géolocalisée, des recommandations adaptées apparaissent, comme des adresses ou des événements locaux
+Personnalisez votre recherche
+Le principe de ChatGPT Search c’est que vous êtes dans une discussion avec le moteur de recherche. Si la réponse ne vous convient pas du premier coup. Vous pouvez affiner votre recherche en demandant à SearchGPT d’approfondir sur un aspect précis de la question ou en ajoutant plus de détails sur votre question.
+
+Vous pouvez aussi préciser quels types de souces vous souhaitez que Search GPT utilise: articles récents, réponses locales ou ressources éducatives par exemple.
+
+Exploitez les fonctionnalités avancées de SearchGPT
+ChatGPT Search intégre certaines fonctionnalités pour améliorer votre expérience de recherche.
+
+Recherche locale automatique
+Si vous recherchez un service ou un lieu, l’IA utilise votre position approximative (via votre adresse IP) pour personnaliser les résultats.
+
+Voici un exemple de réponse locale de ChatGPT Search quand on lui demande quels sont les meilleurs café autour de moi (je suis dans les bureaux de Digitad dans le Mile End):
+
+
+Suggestions intelligentes
+ChatGPT peut suggérer des requêtes en fonction de ce que vous êtes en train de recherche (de la même manière que Google).
+
+Comment installer l’extension ChatGPT Search?
+Si vous souhaitez utiliser ChatGPT Search sans avoir à vous connecter à chaque fois sur OpenAI, vous pouvez installer l’extension ChatGPT Search sur votre navigateur.
+
+Cette extension de ChatGPT Search, vous permet de lancer vos recherches directement depuis la barre de navigation.
+
+SearchGPT est compatible avec les navigateurs les plus populaires:
+
+Google Chrome
+Mozilla Firefox
+Microsoft Edge
+Safari
+Tuto pour installer l’extension ChatGPT Search sur votre navigateur Chrome
+Ouvrez le Chrome Web Store 
+Dans la barre de recherche, tapez GPT Search
+Cliquez sur l’extension correspondante pour accéder à sa fiche
+
+Installez l’extension
+
+Une fois sur la fiche de l’extension, cliquez sur le bouton Ajouter à [nom du navigateur] ou Installer
+Après l’installation, une icône SearchGPT devrait apparaître dans la barre d’outils de votre navigateur et vous pourrez l’utiliser 
+Exemple d’utilisation de l’extension SearchGPT
+
+Voici le résultat quand on fait la recherche ⬇️
+
+
+💡 Vous pouvez à tout moment désactiver l’extension si vous souhaitez faire des recherches classique sur Google
+
+Quelle est la différence entre SearchGPT et ChatGPT?
+
+À part leur nom, la principale différence entre SearchGPT et ChatGPT est le fait que SearchGPT se concentre uniquement sur la recherche d’informations, tandis que ChatGPT est un outil pour créer du contenu.
+
+SearchGPT: un enquêteur minutieux
+SearchGPT est spécifiquement conçu pour fournir des réponses précises et contextuelles aux questions des utilisateurs en utilisant des sources fiables. 
+
+
+Exemple de source citée par SearchGPT
+
+ChatGPT: un assistant multi-casquettes
+
+ChatGPT est plus polyvalent et peut générer du texte créatif, rédiger des articles, ou même vous assister en programmation.
+
+En savoir plus sur les utilisations de ChatGPT en marketing
+
+⚠️ SearchGPT est intégré dans un environnement de recherche, ce qui signifie qu’il peut répondre à des questions complexes en accédant directement à des informations actualisées sur le web. ChatGPT, quant à lui, fonctionne principalement avec les données préexistantes sur lesquelles il a été formé, ce qui peut limiter sa capacité à fournir des informations récentes.
+
+Comment être référencé sur Search GPT?
+Avec l’essor des IA génératives comme GPT Search, il devient crucial d’adapter votre stratégie de référencement naturel pour être cité par ces outils d’IA. 
+
+Contrairement aux moteurs de recherche traditionnels, les IA génératives s’appuient sur des sources variées et des discussions en ligne pour enrichir leurs réponses. 
+
+Voici 5 astuces pour positionner efficacement votre marque sur SearchGPT sans dupliquer le contenu existant.
+
+1. Créer des contenus engageants sur les plateformes stratégiques
+Les forums et communautés en ligne sont des points de repère importants pour SearchGPT. En partageant régulièrement des contributions pertinentes sur des plateformes comme Reddit, Quora, ou des forums de niche, vous améliorez vos chances d’être intégré aux bases de données des IA.
+
+Choisissez des sujets en lien direct avec votre domaine d’activité.
+Apportez une réelle valeur ajoutée aux discussions en proposant des solutions concrètes.
+Assurez-vous que vos publications incluent des liens ou mentions de votre marque, renforçant ainsi son association avec les thématiques recherchées.
+2. Multiplier les mentions dans des sources fiables
+SearchGPT privilégie les contenus provenant de sites de référence souvent cités. Pour bénéficier de cette reconnaissance:
+
+Travaillez avec des influenceurs ou des blogueurs de votre secteur: Une mention de votre marque dans un article pertinent peut avoir un fort impact.
+Contribuez à des publications spécialisées ou proposez des articles invités sur des sites influents.
+Obtenez des citations dans des contenus bien indexés et riches en informations, car ils sont fréquemment utilisés par les IA comme points de référence.
+3. Répondre aux questions spécifiques de votre audience
+Les sites de questions-réponses comme Stack Exchange, Quora, ou des plateformes similaires regorgent de questions directement consultées par les IA.
+
+Identifiez les problématiques courantes de votre audience et rédigez des réponses complètes.
+Incluez des mots-clés spécifiques pour renforcer votre expertise sur un sujet précis.
+Intégrez une FAQ sur votre site web qui répond aux questions fréquemment posées sur votre secteur, tout en utilisant un vocabulaire accessible et clair.
+4. Miser sur le SEO local
+SearchGPT offre une expérience enrichie grâce à la personnalisation de ses résultats selon la localisation de l’utilisateur. Exploitez cet aspect pour gagner en visibilité:
+
+Optimisez votre profil Google Business Profile (anciennement Google My Business): Il reste une référence majeure pour les IA qui croisent les données locales.
+Incluez des informations géographiques précises sur vos pages: adresse, numéro de téléphone, et horaires.
+Créez des contenus qui valorisent des événements ou des actualités locales en rapport avec votre activité.
+Par exemple, si votre entreprise est basée à Montréal et que vous ciblez des requêtes locales, mettez en avant des guides spécifiques comme: “les meilleures adresses pour [votre produit/service] à Montréal en 2024”.
+
+5. Améliorer la qualité de vos données structurées
+Les IA génératives comme SearchGPT s’appuient sur des bases de données organisées et des métadonnées pour comprendre et indexer le contenu.
+
+Utilisez le balisage schema.org pour fournir des informations claires sur vos pages (produits, services, événements).
+Veillez à ce que votre site respecte les standards d’accessibilité et de lisibilité, maximisant ainsi vos chances d’être bien référencé.
+Pour en savoir plus sur les données structurées, consultez notre guide du SEO technique. 
+
+Un écosystème en évolution à surveiller
+SearchGPT redéfinit la recherche en ligne en combinant des réponses globales et locales personnalisées. Pour se démarquer, il ne suffit plus de se concentrer sur le SEO classique. Une présence active et stratégique sur les canaux pertinents, associée à une optimisation locale, devient incontournable.
+
+💡 Vous souhaitez un accompagnement sur mesure pour maximiser votre visibilité sur SearchGPT? N’hésitez pas à nous contacter: notre agence SEO vous aidera à mettre en place une stratégie adaptée à votre activité et à ses enjeux!
+
+L’enjeu de SeachGPT pour révolutionner la recherche web: convaincre les utilisateurs
+Des résultats de recherche fiables (et actualisés!)
+La fiabilité des réponses est la clé pour changer les habitudes des internautes et leur faire préférer le moteur de recherche d’OpenAI à celui de Google 🔑. 
+
+La puissance du moteur de recherche Google réside dans la quantité colossale d’informations disponibles et sa capacité à prioriser les actualités les plus pertinentes provenant de sources fiables.
+
+Cela est rendu possible grâce à son algorithme sophistiqué (mis à jours 500 fois par an) qui analyse et classe les contenus en temps réel pour fournir des résultats précis.
+
+Si vous souhaitez en savoir plus sur le fonctionnement de l’algorithme Google, consultez notre article sur le leak SEO de Google.
+
+La diversité des sources de SearchGPT mises en cause
+OpenAI a établi des partenariats avec plusieurs médias anglophones et espagnols, ainsi qu’avec le média français Le Monde. Cela permet à l’outil d’être bien informé sur l’actualité américaine et internationale, mais il reste moins précis lorsqu’il s’agit d’actualités locales, comme celles de votre province.
+
+De plus, ChatGPT s’appuie souvent sur Wikipédia, une encyclopédie collaborative où les informations sont vérifiées uniquement par les contributeurs, ce qui peut soulever des questions sur la fiabilité des sources.
+
+Enfin, l’outil peut présenter certains biais, en particulier lorsqu’il s’agit de questions liées à OpenAI, en raison de son lien direct avec l’organisation.
+
+Dépasser les limites actuelles de ChatGPT
+L’exactitude des réponses est pourtant un problème auquel les utilisateurs sont souvent confrontés sur ChatGPT qui a tendance à inventer des réponses. 
+
+Voici les problèmes que l’on relève le plus souvent avec ChatGPT:
+
+Statistiques invérifiables
+Fausse affirmations
+Citations inventées 
+On verra si SearchGPT parviendra à faire mieux 😄. 
+
+SearchGPT un outil nouvel outil à tester en 2025
+Après l’annonce de Sora AI pour générer des vidéos avec l’intelligence artificielle, OpenAI continue d’innover avec ChatGPT Search, un outil qui pourrait bien transformer la façon dont nous surfons sur le web.
+
+
+En tirant profit des capacités de ChatGPT appliquées à la recherche en ligne, SearchGPT offre des réponses rapides et précises, permettant de gagner un temps précieux sans avoir à consulter plusieurs articles pour répondre à une simple question.
+
+Cette nouvelle approche des moteurs de recherche qui deviennent des moteurs de réponses s’inscrit dans un contexte où les comportements des internautes évoluent rapidement : ils privilégient désormais des plateformes spécifiques pour leurs besoins, comme Amazon pour les produits, tandis que le SEO TikTok illustre l’essor des recherches via les médias sociaux.
+
+ChatGPT Search s’impose ainsi comme un concurrent sérieux pour Google, qui jusque-là peinait à trouver de véritables rivaux parmi les moteurs de recherche traditionnels. En réponse, Google a dévoilé sa fonctionnalité AI Overview, déjà en test aux États-Unis, pour intégrer l’intelligence artificielle à ses résultats et offrir des réponses optimisées et immédiates.
+
+Pour en savoir plus sur le projet Magi de Google et ses ambitions face à cette nouvelle ère de recherche en ligne, consultez notre article dédié.
+
+Exploitez le potentiel de l’IA avec les experts de Digitad
+Pour maximiser l’utilisation des outils d’Intelligence Artificielle en marketing, faites confiance aux experts de Digitad.
+
+Nous vous offrons une boîte à outils conçue pour les professionnels souhaitant augmenter leur productivité grâce à l’IA générative.

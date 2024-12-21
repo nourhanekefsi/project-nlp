@@ -1,0 +1,101 @@
+[
+    {
+        "id": "1",
+        "title": "SearchGPt: revolution ou simple evolution des mouteur de recherche",
+        "author": "Jérémie Abbou",
+        "categorie": "IA",
+        "file_path": "Corpus\\IA\\searchGPt revolution ou simple evolution des mouteur de recherche.txt"
+    },
+    {
+        "id": "2",
+        "title": "Intelligence Artificielle: Comment savoir si un texte est généré par ChatGPT",
+        "author": "Jérémie Abbou",
+        "categorie": "IA",
+        "file_path": "Corpus\\IA\\Intelligence Artificielle  Comment savoir si un texte est généré par ChatGPT.txt"
+    },
+    {
+        "id": "3",
+        "title": "Intelligence Artificielle Top 14 des outils IA pour les marketeurs",
+        "author": "Jérémie Abbou",
+        "categorie": "IA",
+        "file_path": "Corpus\\IA\\Intelligence Artificielle Top 14 des outils IA pour les marketeurs.txt"
+    },
+    {
+        "id": "4",
+        "title": "Intelligence Artificielle Comment optimiser son marketing en utilisant l’Intelligence Artificielle",
+        "author": "Alexandre Corbasson",
+        "categorie": "IA",
+        "file_path": "Corpus\\IA\\Intelligence Artificielle Comment optimiser son marketing en utilisant l’Intelligence Artificielle.txt"
+    },
+    {
+        "id": "5",
+        "title": "Intelligence Artificielle Créer des agents IA: comment (bien) se lancer",
+        "author": "Alexandre Corbasson",
+        "categorie": "IA",
+        "file_path": "Corpus\\IA\\Intelligence Artificielle Créer des agents IA  comment (bien) se lancer.txt"
+    }
+    ,
+    {
+        "id": "6",
+        "title": "Intelligence Artificielle 100 façons d’utiliser ChatGPT en marketing",
+        "author": "Alexandre Corbasson",
+        "categorie": "IA",
+        "file_path": "Corpus\\IA\\Intelligence Artificielle 100 façons d’utiliser ChatGPT en marketing.txt"
+    },
+    {
+        "id": "7",
+        "title": "Je recycle mes lunettes",
+        "author": "Laetitia Blondel",
+        "categorie": "biologie",
+        "file_path": "Corpus\\biologie\\Je recycle mes lunettes.txt"
+    },
+    {
+        "id": "8",
+        "title": "Vivre de manière éco-friendly en limitant ses achats avec la méthode BISOU",
+        "author": "",
+        "categorie": "biologie",
+        "file_path": "Corpus\\biologie\\Vivre de manière éco-friendly en limitant ses achats avec la méthode BISOU.txt"
+    },
+    {
+        "id": "9",
+        "title": "Qu'est-ce que le développement durable",
+        "author": "",
+        "categorie": "biologie",
+        "file_path": "Corpus\\biologie\\Qu'est-ce que le développement durable.txt"
+    },
+    {
+        "id": "10",
+        "title": "8 médicaments contre le rhume interdits en vente libre",
+        "author": "",
+        "categorie": "medecine",
+        "file_path": "Corpus\\medecine\\8 médicaments contre le rhume interdits en vente libre.txt"
+    },
+    {
+        "id": "11",
+        "title": "tout savoir sur cette hormone féminine",
+        "author": "Direction médicale de Livi France",
+        "categorie": "medecine",
+        "file_path": "Corpus\\medecine\\tout savoir sur cette hormone féminine.txt"
+    },
+    {
+        "id": "12",
+        "title": "Stérilet en cuivre ou hormonal:quelles différences??",
+        "author": "Direction médicale de Livi France",
+        "categorie": "medecine",
+        "file_path": "Corpus\\medecine\\Stérilet en cuivre ou hormonal   quelles différences.txt"
+    },
+    {
+        "id": "13",
+        "title": "Cup et utérus rétroversé",
+        "author": "Direction médicale de Livi France",
+        "categorie": "medecine",
+        "file_path": "Corpus\\medecine\\Cup et utérus rétroversé.txt"
+    },
+    {
+        "id": "14",
+        "title": "Les meilleurs outils d'IA pour vous aider dans vos recherches universitaires",
+        "author": "Camille Bello",
+        "categorie": "medecine",
+        "file_path": "Corpus\\IA\\Les meilleurs outils d'IA pour vous aider dans vos recherches universitaires.txt"
+    }
+]
