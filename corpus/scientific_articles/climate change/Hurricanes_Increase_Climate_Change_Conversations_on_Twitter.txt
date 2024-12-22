@@ -1,0 +1,16 @@
+The public understanding of climate change plays a critical role in
+translating climate science into climate action. In the public discourse,
+climate impacts are often discussed in the context of extreme weather events.
+Here, we analyse 65 million Twitter posts and 240 thousand news media articles
+related to 18 major hurricanes from 2010 to 2022 to clarify how hurricanes
+impact the public discussion around climate change. First, we analyse news
+content and show that climate change is the most prominent non-hurricane
+specific topic discussed by the news media in relation to hurricanes. Second,
+we perform a comparative analysis between reliable and questionable news media
+outlets, finding that the language around climate change varies between news
+media providers. Finally, using geolocated data, we show that accounts in
+regions affected by hurricanes discuss climate change at a significantly higher
+rate than accounts in unaffected areas, with references to climate change
+increasing by, on average, 80% after impact, and up to 200% for the largest
+hurricanes. Our findings demonstrate how hurricanes have a key impact on the
+public awareness of climate change.

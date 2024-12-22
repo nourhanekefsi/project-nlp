@@ -1,0 +1,8 @@
+Quantum Biology is emerging as a new field at the intersection between
+fundamental physics and biology, promising novel insights into the nature and
+origin of biological order. We discuss several elements of QBCL (Quantum
+Biology at Cellular Level), a research program designed to extend the reach of
+quantum concepts to higher than molecular levels of biological organization.
+  Key words. decoherence, macroscopic superpositions, basis-dependence, formal
+superposition, non-classical correlations, Basis-Dependent Selection (BDS),
+synthetic biology, evolvability mechanism loophole.

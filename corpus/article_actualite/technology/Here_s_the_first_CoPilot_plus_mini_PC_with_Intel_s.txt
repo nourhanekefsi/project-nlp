@@ -1,0 +1,12 @@
+By  Wes Davis, a weekend editor who covers the latest in tech and entertainment. He has written news, reviews, and more as a tech journalist since 2020.
+If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.
+Asus has announced the Asus NUC 14 Pro AI, the first Copilot Plus-capable AI mini PC that crams an Intel Core Ultra 9 processor into a form factor resembling a black M4 Mac Mini. First introduced at IFA in September, Asus is providing a little more detail about the mini PC’s specs than it did before, but still isn’t saying it will become available or how much it will cost.
+The NUC 14 Pro AI will come in five CPU configurations, from the Core Ultra 5 226V processor with 16GB of integrated RAM to a Core Ultra 9 288V processor with 32GB of RAM. The company says it has up to 67 TOPS of GPU performance and 48 NPU TOPS, and that its M.2 2280 PCIe Gen 4 x 4 slot supports 256GB to 2TB NVMe SSDs. 
+All of that is packed into a PC that measures 130mm deep and wide and just 34mm tall; comparatively, the Mac Mini is 127mm deep and wide and 50mm tall. Here are some pictures from Asus’ website:
+1/5
+1/5
+The Asus NUC 14 Pro AI features a fingerprint sensor on top and a Copilot button on the front for speaking voice commands to Microsoft’s AI assistant. Also on the front are two USB-A ports, a Thunderbolt 4 port, a headphone jack, and a power button. Around the back, you’ll find a 2.5Gbps ethernet jack, another Thunderbolt 4 port, two more USB-A ports, and an HDMI port. For connectivity, it features Wi-Fi 7 and Bluetooth 5.4.
+Asus still hasn’t said when the NUC 14 Pro AI will be available, nor how much it will cost. 
+ / Sign up for Verge Deals to get deals on products we've tested sent to your inbox weekly.
+The Verge is a vox media network
+© 2024 Vox Media, LLC. All Rights Reserved

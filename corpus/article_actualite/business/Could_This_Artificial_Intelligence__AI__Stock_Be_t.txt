@@ -1,0 +1,38 @@
+Founded in 1993, The Motley Fool is a financial services company dedicated to making the world smarter, happier, and richer. The Motley Fool reaches millions of people every month through our premium investing solutions, free guidance and market analysis on Fool.com, personal finance education, top-rated podcasts, and non-profit The Motley Fool Foundation.
+Founded in 1993, The Motley Fool is a financial services company dedicated to making the world smarter, happier, and richer. The Motley Fool reaches millions of people every month through our premium investing solutions, free guidance and market analysis on Fool.com, personal finance education, top-rated podcasts, and non-profit The Motley Fool Foundation.
+
+       You're reading a free article with opinions that may differ
+       from The Motley Fool's Premium Investing Services. Become a Motley Fool member today to
+       get instant access to our top analyst recommendations, in-depth research, investing resources,
+       and more. Learn More
+
+Key Points
+Broadcom's (AVGO 1.13%) shares surged by nearly 25% after the company posted an impressive financial performance for the fourth quarter of fiscal 2024 (ended Nov. 3). This leading custom chip designer and infrastructure software maker has emerged as a major beneficiary of the ongoing artificial intelligence (AI) trend, especially since hyperscalers seek specialized options to improve productivity and reduce costs.
+While Nvidia's (NVDA 3.08%) general-purpose Hopper and Blackwell architecture AI chips are highly sought-after in the AI market, Broadcom has successfully created its niche. Broadcom works closely with customers to develop custom AI accelerators (XPUs) and networking infrastructure tailored to their AI needs.
+Nvidia's AI chip dominance has been pivotal in propelling its stock by nearly 163% in 2024. Broadcom's shares are also up by almost 115% in 2024. Can this AI stock become the next Wall Street favorite and take Nvidia's position? Let's find out.
+Fiscal 2024 has been quite exceptional for Broadcom. Revenue soared 44% year over year to a record level of $51.6 billion in Q4. AI business, which includes custom AI accelerators and AI-optimized networking solutions, was undoubtedly a major growth catalyst, with revenue rising 220% year over year to $12.2 billion in fiscal 2024.
+Broadcom has demonstrated impressive technological strength by developing next-generation XPUs using 3-nanometer (nm) process technology. The company is focusing on both computing and networking opportunities.
+Current AI infrastructure setups with 500,000 XPUs allocate 5% to 10% of the resources to networking content (hardware and software) compared to computation content. However, with the company's three top hyperscale customers planning to deploy nearly 1 million XPUs in 2027, 15% to 20% of resources will be allocated to networking content. Broadcom is well positioned to capitalize on this opportunity, thanks to its expertise in scaling AI infrastructure (connecting XPUs within and across data racks) and deep engagement with customers.
+Broadcom estimates its AI serviceable addressable market (SAM) for XPUs and networking infrastructure to be worth $60 billion to $90 billion by 2027. Furthermore, Broadcom has been selected by two additional hyperscale customers for their next-generation XPUs. The company expects these customers to start generating revenue before 2027, thereby resulting in further expansion of its AI SAM.
+Broadcom has successfully improved VMware's operating margin from 30% before acquisition to a staggering 70%, within one year of closing the deal. The company reduced VMware's quarterly expenses from an average of $2.4 billion pre-acquisition to $1.2 billion in the fourth quarter. Subsequently, the company is on track to deliver incremental adjusted earnings before interest, taxes, depreciation, and amortization (EBITDA) far more than $8.5 billion and earlier than the initial target of three years post-deal closure.
+Broadcom has also strengthened VMware's data center virtualization business. Data center virtualization involves creating virtual data centers on a single physical server to optimize resource utilization.
+Since the acquisition, the company has signed up more than 4,500 of its largest 10,000 customers for VMware Cloud Foundation (VCF), enabling them to deploy private cloud environments on their on-premise IT infrastructures. Subsequently, the annualized booking value (ABV) for VMware is expected to grow from $2.7 billion in the fourth quarter to more than $3 billion in the first quarter of fiscal 2025.
+All these initiatives helped reduce Broadcom's overreliance on the semiconductor business by strengthening its position in the enterprise software market.
+Broadcom is trading at about 20.6 times  the trailing-12-month sales, significantly higher than its historical five-year average price-to-sales (P/S) multiple of 11.68. The rich valuation, however, is justified considering that the company is benefiting from robust AI-powered tailwinds. Furthermore, Broadcom's valuation is far lower than Nvidia's P/S multiple of 27.75.
+Despite being a semiconductor player targeting the same AI infrastructure market, Broadcom has much catching up to do before it dethrones Nvidia.
+Nvidia accounts for 70% to 95% of the AI chips used to train and deploy large language models. Nvidia has been successfully transitioning its large GPU-installed base from training to inferencing (executing models in the production environment) with the help of software frameworks, libraries, and algorithms.
+With hyperscalers and enterprises keen on optimizing their AI spend, many would choose to stick with Nvidia instead of switching to Broadcom. Additionally, Nvidia has built a broad ecosystem of hardware, software, and support services. Hence, the company is well positioned to capture the incremental share in the AI market.
+Considering these factors, I believe that it may take a few more years for Broadcom to become the next Nvidia.
+Manali Pradhan has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Nvidia. The Motley Fool recommends Broadcom. The Motley Fool has a disclosure policy.
+Related Articles
+
+        Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+      
+Making the world smarter, happier, and richer.
+© 1995 - 2024 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends

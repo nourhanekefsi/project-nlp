@@ -1,0 +1,8 @@
+This article highlights quantum Internet computing as referring to
+distributed quantum computing over the quantum Internet, analogous to
+(classical) Internet computing involving (classical) distributed computing over
+the (classical) Internet. Relevant to quantum Internet computing would be areas
+of study such as quantum protocols for distributed nodes using quantum
+information for computations, quantum cloud computing, delegated verifiable
+blind or private computing, non-local gates, and distributed quantum
+applications, over Internet-scale distances.

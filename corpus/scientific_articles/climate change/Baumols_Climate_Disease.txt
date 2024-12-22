@@ -1,0 +1,12 @@
+We investigate optimal carbon abatement in a dynamic general equilibrium
+climate-economy model with endogenous structural change. By differentiating the
+production of investment from consumption, we show that social cost of carbon
+can be conceived as a reduction in physical capital. In addition, we
+distinguish two final sectors in terms of productivity growth and climate
+vulnerability. We theoretically show that heterogeneous climate vulnerability
+results in a climate-induced version of Baumol's cost disease. Further, if
+climate-vulnerable sectors have high (low) productivity growth, climate impact
+can either ameliorate (aggravate) the Baumol's cost disease, call for less
+(more) stringent climate policy. We conclude that carbon abatement should not
+only factor in unpriced climate capital, but also be tailored to Baumol's cost
+and climate diseases.

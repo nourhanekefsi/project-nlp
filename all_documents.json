@@ -1,101 +1,354 @@
 [
     {
-        "id": "1",
-        "title": "SearchGPt: revolution ou simple evolution des mouteur de recherche",
-        "author": "Jérémie Abbou",
-        "categorie": "IA",
-        "file_path": "Corpus\\IA\\searchGPt revolution ou simple evolution des mouteur de recherche.txt"
+        "id": 1,
+        "title": "Ex-OpenAI engineer who raised legal concerns about the technology he helped build has died - The Associated Press",
+        "author": "MATT O'BRIEN",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\Ex_OpenAI_engineer_who_raised_legal_concerns_about.txt"
     },
     {
-        "id": "2",
-        "title": "Intelligence Artificielle: Comment savoir si un texte est généré par ChatGPT",
-        "author": "Jérémie Abbou",
-        "categorie": "IA",
-        "file_path": "Corpus\\IA\\Intelligence Artificielle  Comment savoir si un texte est généré par ChatGPT.txt"
+        "id": 2,
+        "title": "OpenAI’s GPT-5 reportedly falling short of expectations - TechCrunch",
+        "author": "Anthony Ha",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\OpenAI_s_GPT_5_reportedly_falling_short_of_expecta.txt"
     },
     {
-        "id": "3",
-        "title": "Intelligence Artificielle Top 14 des outils IA pour les marketeurs",
-        "author": "Jérémie Abbou",
-        "categorie": "IA",
-        "file_path": "Corpus\\IA\\Intelligence Artificielle Top 14 des outils IA pour les marketeurs.txt"
+        "id": 3,
+        "title": "Teamsters expand strike against Amazon - CNN",
+        "author": "Chris Isidore, Vanessa Yurkevich",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\Teamsters_expand_strike_against_Amazon___CNN.txt"
     },
     {
-        "id": "4",
-        "title": "Intelligence Artificielle Comment optimiser son marketing en utilisant l’Intelligence Artificielle",
-        "author": "Alexandre Corbasson",
-        "categorie": "IA",
-        "file_path": "Corpus\\IA\\Intelligence Artificielle Comment optimiser son marketing en utilisant l’Intelligence Artificielle.txt"
+        "id": 4,
+        "title": "Mega Millions Jackpot Reaches $944 Million For Christmas Eve Drawing—Here’s How Much The Winner Could Take Home After Taxes - Forbes",
+        "author": "Ty Roush",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\Mega_Millions_Jackpot_Reaches__944_Million_For_Chr.txt"
     },
     {
-        "id": "5",
-        "title": "Intelligence Artificielle Créer des agents IA: comment (bien) se lancer",
-        "author": "Alexandre Corbasson",
-        "categorie": "IA",
-        "file_path": "Corpus\\IA\\Intelligence Artificielle Créer des agents IA  comment (bien) se lancer.txt"
-    }
-    ,
-    {
-        "id": "6",
-        "title": "Intelligence Artificielle 100 façons d’utiliser ChatGPT en marketing",
-        "author": "Alexandre Corbasson",
-        "categorie": "IA",
-        "file_path": "Corpus\\IA\\Intelligence Artificielle 100 façons d’utiliser ChatGPT en marketing.txt"
+        "id": 5,
+        "title": "Could This Artificial Intelligence (AI) Stock Be the Next Nvidia? - The Motley Fool",
+        "author": "Manali Pradhan",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\Could_This_Artificial_Intelligence__AI__Stock_Be_t.txt"
     },
     {
-        "id": "7",
-        "title": "Je recycle mes lunettes",
-        "author": "Laetitia Blondel",
-        "categorie": "biologie",
-        "file_path": "Corpus\\biologie\\Je recycle mes lunettes.txt"
+        "id": 6,
+        "title": "Skipping college and switching jobs: What older Americans regret about their careers - Business Insider",
+        "author": "Noah Sheidlower",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\Skipping_college_and_switching_jobs__What_older_Am.txt"
     },
     {
-        "id": "8",
-        "title": "Maladie de Sjögren de la physiopathologie aux avancées thérapeutiques",
-        "author": "xavier.mariette",
-        "categorie": "biologie",
-        "file_path": "Corpus\\biologie\\Maladie de Sjögren de la physiopathologie aux avancées thérapeutiques.txt"
+        "id": 7,
+        "title": "How to see the Ursids, the final meteor shower that peaks in 2024 - CNN",
+        "author": "Ashley Strickland",
+        "type": "article d'actualité",
+        "categorie": "science",
+        "file_path": "corpus/article_actualite\\science\\How_to_see_the_Ursids__the_final_meteor_shower_tha.txt"
     },
     {
-        "id": "9",
-        "title": "Qu'est-ce que le développement durable",
-        "author": "",
-        "categorie": "biologie",
-        "file_path": "Corpus\\biologie\\Qu'est-ce que le développement durable.txt"
+        "id": 8,
+        "title": "The universe might actually contain 3 time dimensions and only 1 space dimension - The Brighter Side of News",
+        "author": "Joseph Shavit",
+        "type": "article d'actualité",
+        "categorie": "science",
+        "file_path": "corpus/article_actualite\\science\\The_universe_might_actually_contain_3_time_dimensi.txt"
     },
     {
-        "id": "10",
-        "title": "8 médicaments contre le rhume interdits en vente libre",
-        "author": "",
-        "categorie": "medecine",
-        "file_path": "Corpus\\medecine\\8 médicaments contre le rhume interdits en vente libre.txt"
+        "id": 9,
+        "title": "Why do iguanas fall from trees in Florida? - Livescience.com",
+        "author": "Olivia Ferrari",
+        "type": "article d'actualité",
+        "categorie": "science",
+        "file_path": "corpus/article_actualite\\science\\Why_do_iguanas_fall_from_trees_in_Florida____Lives.txt"
     },
     {
-        "id": "11",
-        "title": "tout savoir sur cette hormone féminine",
-        "author": "Direction médicale de Livi France",
-        "categorie": "medecine",
-        "file_path": "Corpus\\medecine\\tout savoir sur cette hormone féminine.txt"
+        "id": 10,
+        "title": "Scientists explore frozen scars and fiery sands on the seafloor - Ars Technica",
+        "author": "Ars Contributors",
+        "type": "article d'actualité",
+        "categorie": "science",
+        "file_path": "corpus/article_actualite\\science\\Scientists_explore_frozen_scars_and_fiery_sands_on.txt"
     },
     {
-        "id": "12",
-        "title": "Stérilet en cuivre ou hormonal:quelles différences??",
-        "author": "Direction médicale de Livi France",
-        "categorie": "medecine",
-        "file_path": "Corpus\\medecine\\Stérilet en cuivre ou hormonal   quelles différences.txt"
+        "id": 11,
+        "title": "NASA Plans for ‘Continuous Heartbeat’ in Space After ISS Retirement - Gizmodo",
+        "author": "Passant Rabie",
+        "type": "article d'actualité",
+        "categorie": "science",
+        "file_path": "corpus/article_actualite\\science\\NASA_Plans_for__Continuous_Heartbeat__in_Space_Aft.txt"
     },
     {
-        "id": "13",
-        "title": "Cup et utérus rétroversé",
-        "author": "Direction médicale de Livi France",
-        "categorie": "medecine",
-        "file_path": "Corpus\\medecine\\Cup et utérus rétroversé.txt"
+        "id": 12,
+        "title": "NASA’s James Webb telescope confirms planetary theory - Salon",
+        "author": null,
+        "type": "article d'actualité",
+        "categorie": "science",
+        "file_path": "corpus/article_actualite\\science\\NASA_s_James_Webb_telescope_confirms_planetary_the.txt"
     },
     {
-        "id": "14",
-        "title": "Les meilleurs outils d'IA pour vous aider dans vos recherches universitaires",
-        "author": "Camille Bello",
-        "categorie": "medecine",
-        "file_path": "Corpus\\IA\\Les meilleurs outils d'IA pour vous aider dans vos recherches universitaires.txt"
+        "id": 13,
+        "title": "A Spacecraft Is About to Fly Into the Sun’s Atmosphere for the First Time - WIRED",
+        "author": "Eric Berger, Ars Technica",
+        "type": "article d'actualité",
+        "categorie": "science",
+        "file_path": "corpus/article_actualite\\science\\A_Spacecraft_Is_About_to_Fly_Into_the_Sun_s_Atmosp.txt"
+    },
+    {
+        "id": 14,
+        "title": "Mars is littered with junk. Historians want to save it. - Mashable",
+        "author": "Elisha Sauers",
+        "type": "article d'actualité",
+        "categorie": "science",
+        "file_path": "corpus/article_actualite\\science\\Mars_is_littered_with_junk__Historians_want_to_sav.txt"
+    },
+    {
+        "id": 15,
+        "title": "Tank Dell suffers apparent serious knee injury on touchdown catch - NBC Sports",
+        "author": "Myles Simmons",
+        "type": "article d'actualité",
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\Tank_Dell_suffers_apparent_serious_knee_injury_on_.txt"
+    },
+    {
+        "id": 16,
+        "title": "Usyk vs Fury 2 LIVE: Huge undercard underway - Johnny Fisher fighting next after McGregor and McGrail claim points wins; coverage and more from fight night - dazn.com",
+        "author": "Matt Astbury",
+        "type": "article d'actualité",
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\Usyk_vs_Fury_2_LIVE__Huge_undercard_underway___Joh.txt"
+    },
+    {
+        "id": 17,
+        "title": "What’s next for Diontae Johnson? - NBC Sports",
+        "author": "Mike Florio",
+        "type": "article d'actualité",
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\What_s_next_for_Diontae_Johnson____NBC_Sports.txt"
+    },
+    {
+        "id": 18,
+        "title": "Penn State vs. SMU score: Live game updates, College Football Playoff scores, first-round coverage - CBS Sports",
+        "author": "Tom Fornelli",
+        "type": "article d'actualité",
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\Penn_State_vs__SMU_score__Live_game_updates__Colle.txt"
+    },
+    {
+        "id": 19,
+        "title": "Luke Fickell and the Badgers Turned Down Option to Fill in as Bowl Game Replacement - Badger of Honor",
+        "author": "Trevor Ripley",
+        "type": "article d'actualité",
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\Luke_Fickell_and_the_Badgers_Turned_Down_Option_to.txt"
+    },
+    {
+        "id": 20,
+        "title": "The Google Pixel 9 Pro Fold suddenly scores a shocking discount at Amazon (and yes, it'll arrive by Christmas) - Android Central",
+        "author": "Patrick Farmer",
+        "type": "article d'actualité",
+        "categorie": "technology",
+        "file_path": "corpus/article_actualite\\technology\\The_Google_Pixel_9_Pro_Fold_suddenly_scores_a_shoc.txt"
+    },
+    {
+        "id": 21,
+        "title": "Sony Absorbs More Of Bungie: Strategic Partnerships Team Joins PlayStation’s Franchise Development Division - TheGamePost",
+        "author": null,
+        "type": "article d'actualité",
+        "categorie": "technology",
+        "file_path": "corpus/article_actualite\\technology\\Sony_Absorbs_More_Of_Bungie__Strategic_Partnership.txt"
+    },
+    {
+        "id": 22,
+        "title": "Here’s the first CoPilot plus mini PC with Intel’s new Core Ultra 9 processors - The Verge",
+        "author": "Wes Davis",
+        "type": "article d'actualité",
+        "categorie": "technology",
+        "file_path": "corpus/article_actualite\\technology\\Here_s_the_first_CoPilot_plus_mini_PC_with_Intel_s.txt"
+    },
+    {
+        "id": 23,
+        "title": "‘A sort of superpower’: Unexpected revelations made possible by AI in 2024 - CNN",
+        "author": "Katie Hunt",
+        "type": "article d'actualité",
+        "categorie": "technology",
+        "file_path": "corpus/article_actualite\\technology\\_A_sort_of_superpower___Unexpected_revelations_mad.txt"
+    },
+    {
+        "id": 24,
+        "title": "Sega Is \"Evaluating\" Its Own Netflix-Style Subscription Service - Nintendo Life",
+        "author": "Damien McFerran",
+        "type": "article d'actualité",
+        "categorie": "technology",
+        "file_path": "corpus/article_actualite\\technology\\Sega_Is__Evaluating__Its_Own_Netflix_Style_Subscri.txt"
+    },
+    {
+        "id": 25,
+        "title": "LG’s brilliant B4 OLED TV is on sale with a $50 gift card for its best price ever - The Verge",
+        "author": "Brandon Widder",
+        "type": "article d'actualité",
+        "categorie": "technology",
+        "file_path": "corpus/article_actualite\\technology\\LG_s_brilliant_B4_OLED_TV_is_on_sale_with_a__50_gi.txt"
+    },
+    {
+        "id": 26,
+        "title": "Early Pricing Revealed For NVIDIA GeForce RTX 5090 & RTX 5080-based Acer Predator Orion 7000 PCs, Showing A $1250 Difference - Wccftech",
+        "author": null,
+        "type": "article d'actualité",
+        "categorie": "technology",
+        "file_path": "corpus/article_actualite\\technology\\Early_Pricing_Revealed_For_NVIDIA_GeForce_RTX_5090.txt"
+    },
+    {
+        "id": 27,
+        "title": "Apple Warns Users Of iPhone Spyware Attacks—What You Need To Know - Forbes",
+        "author": "Davey Winder",
+        "type": "article d'actualité",
+        "categorie": "technology",
+        "file_path": "corpus/article_actualite\\technology\\Apple_Warns_Users_Of_iPhone_Spyware_Attacks_What_Y.txt"
+    },
+    {
+        "id": 28,
+        "title": "ZDNET's product of the year: Why Oura Ring 4 bested Samsung, Apple, and others in 2024 - ZDNet",
+        "author": "Kerry Wan",
+        "type": "article d'actualité",
+        "categorie": "technology",
+        "file_path": "corpus/article_actualite\\technology\\ZDNET_s_product_of_the_year__Why_Oura_Ring_4_beste.txt"
+    },
+    {
+        "id": 29,
+        "title": "Women Want to Learn Tech: Lessons from the Czechitas Education Project",
+        "author": "Barbora Buhnova, Dita Prikrylova",
+        "type": "article scientifique",
+        "categorie": "tech",
+        "file_path": "corpus/scientific_articles\\tech\\Women_Want_to_Learn_Tech_Lessons_from_the_Czechitas_Education_Project.txt"
+    },
+    {
+        "id": 30,
+        "title": "Borges Dilemma, Fundamental Laws, and Systems Biology",
+        "author": "P Ao",
+        "type": "article scientifique",
+        "categorie": "biology",
+        "file_path": "corpus/scientific_articles\\biology\\Borges_Dilemma_Fundamental_Laws_and_Systems_Biology.txt"
+    },
+    {
+        "id": 31,
+        "title": "Quantum Biology at the Cellular Level - elements of the research program",
+        "author": "Michael Bordonaro, Vasily Ogryzko",
+        "type": "article scientifique",
+        "categorie": "biology",
+        "file_path": "corpus/scientific_articles\\biology\\Quantum_Biology_at_the_Cellular_Level__elements_of_the_research_program.txt"
+    },
+    {
+        "id": 32,
+        "title": "Landscape Paradigms in Physics and Biology: Introduction and Overview",
+        "author": "David Sherrington",
+        "type": "article scientifique",
+        "categorie": "biology",
+        "file_path": "corpus/scientific_articles\\biology\\Landscape_Paradigms_in_Physics_and_Biology_Introduction_and_Overview.txt"
+    },
+    {
+        "id": 33,
+        "title": "Mathematics at the eve of a historic transition in biology",
+        "author": "Guo-Wei Wei",
+        "type": "article scientifique",
+        "categorie": "biology",
+        "file_path": "corpus/scientific_articles\\biology\\Mathematics_at_the_eve_of_a_historic_transition_in_biology.txt"
+    },
+    {
+        "id": 34,
+        "title": "G-quadruplexes and mRNA localization",
+        "author": "Valentina Agoni",
+        "type": "article scientifique",
+        "categorie": "biology",
+        "file_path": "corpus/scientific_articles\\biology\\Gquadruplexes_and_mRNA_localization.txt"
+    },
+    {
+        "id": 35,
+        "title": "The structure of the climate debate",
+        "author": "Richard S. J. Tol",
+        "type": "article scientifique",
+        "categorie": "climate change",
+        "file_path": "corpus/scientific_articles\\climate change\\The_structure_of_the_climate_debate.txt"
+    },
+    {
+        "id": 36,
+        "title": "Baumol's Climate Disease",
+        "author": "Fangzhi Wang, Hua Liao, Richard S. J. Tol",
+        "type": "article scientifique",
+        "categorie": "climate change",
+        "file_path": "corpus/scientific_articles\\climate change\\Baumols_Climate_Disease.txt"
+    },
+    {
+        "id": 37,
+        "title": "You are right. I am ALARMED -- But by Climate Change Counter Movement",
+        "author": "Shraey Bhatia, Jey Han Lau, Timothy Baldwin",
+        "type": "article scientifique",
+        "categorie": "climate change",
+        "file_path": "corpus/scientific_articles\\climate change\\You_are_right_I_am_ALARMED__But_by_Climate_Change_Counter_Movement.txt"
+    },
+    {
+        "id": 38,
+        "title": "Climate Change Conspiracy Theories on Social Media",
+        "author": "Aman Tyagi, Kathleen M. Carley",
+        "type": "article scientifique",
+        "categorie": "climate change",
+        "file_path": "corpus/scientific_articles\\climate change\\Climate_Change_Conspiracy_Theories_on_Social_Media.txt"
+    },
+    {
+        "id": 39,
+        "title": "Hurricanes Increase Climate Change Conversations on Twitter",
+        "author": "Maddalena Torricelli, Max Falkenberg, Alessandro Galeazzi, Fabiana Zollo, Walter Quattrociocchi, Andrea Baronchelli",
+        "type": "article scientifique",
+        "categorie": "climate change",
+        "file_path": "corpus/scientific_articles\\climate change\\Hurricanes_Increase_Climate_Change_Conversations_on_Twitter.txt"
+    },
+    {
+        "id": 40,
+        "title": "The Rise of Quantum Internet Computing",
+        "author": "Seng W. Loke",
+        "type": "article scientifique",
+        "categorie": "quantum computing",
+        "file_path": "corpus/scientific_articles\\quantum computing\\The_Rise_of_Quantum_Internet_Computing.txt"
+    },
+    {
+        "id": 41,
+        "title": "Unconventional Quantum Computing Devices",
+        "author": "Seth Lloyd",
+        "type": "article scientifique",
+        "categorie": "quantum computing",
+        "file_path": "corpus/scientific_articles\\quantum computing\\Unconventional_Quantum_Computing_Devices.txt"
+    },
+    {
+        "id": 42,
+        "title": "Geometrical perspective on quantum states and quantum computation",
+        "author": "Zeqian Chen",
+        "type": "article scientifique",
+        "categorie": "quantum computing",
+        "file_path": "corpus/scientific_articles\\quantum computing\\Geometrical_perspective_on_quantum_states_and_quantum_computation.txt"
+    },
+    {
+        "id": 43,
+        "title": "Quantum Computation and Quantum Information",
+        "author": "Yazhen Wang",
+        "type": "article scientifique",
+        "categorie": "quantum computing",
+        "file_path": "corpus/scientific_articles\\quantum computing\\Quantum_Computation_and_Quantum_Information.txt"
+    },
+    {
+        "id": 44,
+        "title": "Google Quantum AI's Quest for Error-Corrected Quantum Computers",
+        "author": "M. AbuGhanem",
+        "type": "article scientifique",
+        "categorie": "quantum computing",
+        "file_path": "corpus/scientific_articles\\quantum computing\\Google_Quantum_AIs_Quest_for_ErrorCorrected_Quantum_Computers.txt"
     }
 ]

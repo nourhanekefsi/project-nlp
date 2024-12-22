@@ -1,0 +1,4 @@
+G-quadruplexes represent a novelty for molecular biology. Their role inside
+the cell remains mysterious. We investigate a possible correlation with mRNA
+localization. In particular, we hypothesize that Gquadruplexes influence fluid
+dynamics.

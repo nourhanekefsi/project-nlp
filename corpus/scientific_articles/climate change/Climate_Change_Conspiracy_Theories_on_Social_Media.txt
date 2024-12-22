@@ -1,0 +1,11 @@
+One of the critical emerging challenges in climate change communication is
+the prevalence of conspiracy theories. This paper discusses some of the major
+conspiracy theories related to climate change found in a large Twitter corpus.
+We use a state-of-the-art stance detection method to find whether conspiracy
+theories are more popular among Disbelievers or Believers of climate change. We
+then analyze which conspiracy theory is more popular than the others and how
+popularity changes with climate change belief. We find that Disbelievers of
+climate change are overwhelmingly responsible for sharing messages with
+conspiracy theory-related keywords, and not all conspiracy theories are equally
+shared. Lastly, we discuss the implications of our findings for climate change
+communication.

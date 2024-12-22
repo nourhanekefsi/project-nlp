@@ -1,0 +1,29 @@
+Copyright 2024 The Associated Press. All Rights Reserved.
+Suchir Balaji poses for a photo in Hawaii in 2018. Balaji was a former OpenAI engineer and whistleblower who died in November 2024. (Balaji Ramamurthy via AP)
+Suchir Balaji, a former OpenAI engineer and whistleblower who helped train the artificial intelligence systems behind ChatGPT and later said he believed those practices violated copyright law, has died, according to his parents and San Francisco officials. He was 26.
+Balaji worked at OpenAI for nearly four years before quitting in August. He was well-regarded by colleagues at the San Francisco company, where a co-founder this week called him one of OpenAI’s strongest contributors who was essential to developing some of its products.
+“We are devastated to learn of this incredibly sad news and our hearts go out to Suchir’s loved ones during this difficult time,” said a statement from OpenAI.
+Balaji was found dead in his San Francisco apartment on Nov. 26 in what police said “appeared to be a suicide. No evidence of foul play was found during the initial investigation.” The city’s chief medical examiner’s office confirmed the manner of death to be suicide.
+His parents Poornima Ramarao and Balaji Ramamurthy said they are still seeking answers, describing their son as a “happy, smart and brave young man” who loved to hike and recently returned from a trip with friends. 
+Balaji grew up in the San Francisco Bay Area and first arrived at the fledgling AI research lab for a 2018 summer internship while studying computer science at the University of California, Berkeley. He returned a few years later to work at OpenAI, where one of his first projects, called WebGPT, helped pave the way for ChatGPT.
+
+
+“Suchir’s contributions to this project were essential, and it wouldn’t have succeeded without him,” said OpenAI co-founder John Schulman in a social media post memorializing Balaji. Schulman, who recruited Balaji to his team, said what made him such an exceptional engineer and scientist was his attention to detail and ability to notice subtle bugs or logical errors.
+“He had a knack for finding simple solutions and writing elegant code that worked,” Schulman wrote. “He’d think through the details of things carefully and rigorously.”
+Balaji later shifted to organizing the huge datasets of online writings and other media used to train GPT-4, the fourth generation of OpenAI’s flagship large language model and a basis for the company’s famous chatbot. It was that work that eventually caused Balaji to question the technology he helped build, especially after newspapers, novelists and others began suing OpenAI and other AI companies for copyright infringement. 
+He first raised his concerns with The New York Times, which reported them in an October profile of Balaji.
+He later told The Associated Press he would “try to testify” in the strongest copyright infringement cases and considered a lawsuit brought by The New York Times last year to be the “most serious.” Times lawyers named him in a Nov. 18 court filing as someone who might have “unique and relevant documents” supporting allegations of OpenAI’s willful copyright infringement. 
+His records were also sought by lawyers in a separate case brought by book authors including the comedian Sarah Silverman, according to a court filing.
+“It doesn’t feel right to be training on people’s data and then competing with them in the marketplace,” Balaji told the AP in late October. “I don’t think you should be able to do that. I don’t think you are able to do that legally.”
+He told the AP that he gradually grew more disillusioned with OpenAI, especially after the internal turmoil that led its board of directors to fire and then rehire CEO Sam Altman last year. Balaji said he was broadly concerned about how its commercial products were rolling out, including their propensity for spouting false information known as hallucinations.
+But of the “bag of issues” he was concerned about, he said he was focusing on copyright as the one it was “actually possible to do something about.”
+He acknowledged that it was an unpopular opinion within the AI research community, which is accustomed to pulling data from the internet, but said “they will have to change and it’s a matter of time.”
+He had not been deposed and it’s unclear to what extent his revelations will be admitted as evidence in any legal cases after his death. He also published a personal blog post with his opinions about the topic.
+Schulman, who resigned from OpenAI in August, said he and Balaji coincidentally left on the same day and celebrated with fellow colleagues that night with dinner and drinks at a San Francisco bar. Another of Balaji’s mentors, co-founder and chief scientist Ilya Sutskever, had left OpenAI several months earlier, which Balaji saw as another impetus to leave.
+Schulman said Balaji had told him earlier this year of his plans to leave OpenAI and that Balaji didn’t think that better-than-human AI known as artificial general intelligence “was right around the corner, like the rest of the company seemed to believe.” The younger engineer expressed interest in getting a doctorate and exploring “some more off-the-beaten path ideas about how to build intelligence,” Schulman said.
+Balaji’s family said a memorial is being planned for later this month at the India Community Center in Milpitas, California, not far from his hometown of Cupertino. 
+—————-
+EDITOR’S NOTE — This story includes discussion of suicide. If you or someone you know needs help, the national suicide and crisis lifeline in the U.S. is available by calling or texting 988.
+—————--
+The Associated Press and OpenAI have a licensing and technology agreement allowing OpenAI access to part of the AP’s text archives.
+Copyright 2024 The Associated Press. All Rights Reserved.
