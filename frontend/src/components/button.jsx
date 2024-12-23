@@ -4,15 +4,6 @@ import { Link } from "react-router-dom"; // Import Link from react-router-dom
 function Button({ name, to, type }) {
   const fileInputRef = useRef(null);
 
-  const handleClick = () => {
-    if (type === "upload") {
-      // Trigger the file input click when the button is clicked
-      if (fileInputRef.current) {
-        fileInputRef.current.click();
-      }
-    }
-    // Additional logic for other types (e.g., navigation)
-  };
 
   const handleFileChange = (e) => {
     const file = e.target.files[0];
@@ -27,7 +18,6 @@ function Button({ name, to, type }) {
       {type === "upload" ? (
         // If the button type is "upload", it triggers a file input
         <button
-          onClick={handleClick}
           className="hover:bg-yellow-200 py-2 px-6 text-black font-bold rounded-3xl shadow-lg bg-cream"
           style={{
             transform: "translateY(50%)",

@@ -1,32 +1,49 @@
-import React, { useState } from "react";
+
+
+import React, { useState, useRef } from "react";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-const { getAllCategories } = require("../documentsUtils");
 
-const WritePage = () => {
-  // Get all categories
-  const categories = getAllCategories();
+const WritePage = ({ upload }) => {
+  const fileInputRef = useRef(null);
 
   const [value, setValue] = useState({
     title: "",
     author: "",
     content: "",
   });
-  const [category, setCategory] = useState(""); // Separate state for category
+  const [category, setCategory] = useState("");
+  const [file, setFile] = useState(null);
 
   const handleChange = (e) => {
-    const { name, value } = e.target;
+    const { name, value: fieldValue } = e.target;
     setValue((prev) => ({
       ...prev,
-      [name]: value,
+      [name]: fieldValue,
     }));
   };
 
   const handleCategoryChange = (e) => {
-    setCategory(e.target.value); // Dynamically update the category
+    setCategory(e.target.value);
+  };
+
+  const handleUploadClick = () => {
+    if (fileInputRef.current) {
+      fileInputRef.current.click();
+    }
+  };
+
+  const handleFileChange = (event) => {
+    const uploadedFile = event.target.files[0];
+    if (uploadedFile) {
+      setFile(uploadedFile);
+    }
   };
 
   const isFormComplete = () => {
+    if (upload) {
+      return value.title && value.author && category && file;
+    }
     return value.title && value.author && value.content && category;
   };
 
@@ -37,6 +54,7 @@ const WritePage = () => {
         author: value.author,
         content: value.content,
         category: category,
+        file: upload ? file?.name : null,
       });
       toast.success("Your document has been successfully published!");
     } else {
@@ -46,10 +64,7 @@ const WritePage = () => {
 
   return (
     <div className="relative p-10">
-      {/* Toast Container */}
       <ToastContainer />
-
-      {/* Publish Button */}
       <button
         className={`absolute top-6 right-20 text-white w-24 p-0.5 rounded-3xl ${
           isFormComplete()
@@ -57,13 +72,12 @@ const WritePage = () => {
             : "bg-green cursor-not-allowed"
         }`}
         onClick={onPublish}
-        disabled={!isFormComplete()} // Disable button if form is incomplete
+        disabled={!isFormComplete()}
       >
         Publish
       </button>
 
       <div className="max-w-4xl m-auto">
-        {/* Author Input */}
         <input
           type="text"
           name="author"
@@ -72,8 +86,6 @@ const WritePage = () => {
           placeholder="Author"
           className="w-full p-4 text-lg rounded-lg focus:outline-none mb-4"
         />
-
-        {/* Category Input (Dynamic) */}
         <div className="mb-4">
           <input
             type="text"
@@ -84,15 +96,11 @@ const WritePage = () => {
             className="w-full p-4 text-lg rounded-lg focus:outline-none"
           />
           <datalist id="category-options">
-            {categories.map((category) => (
-              <option key={category} value={category.charAt(0).toUpperCase() + category.slice(1)}>
-                {category.charAt(0).toUpperCase() + category.slice(1)}
-              </option>
-            ))}
+            <option value="Technology" />
+            <option value="Science" />
+            <option value="Health" />
           </datalist>
         </div>
-
-        {/* Title Input */}
         <input
           type="text"
           name="title"
@@ -101,16 +109,36 @@ const WritePage = () => {
           placeholder="Title"
           className="w-full p-4 text-lg rounded-lg focus:outline-none mb-4"
         />
-
-        {/* Content Textarea */}
-        <textarea
-          name="content"
-          value={value.content}
-          onChange={handleChange}
-          placeholder="Write your story here..."
-          className="w-full p-4 text-lg rounded-lg focus:outline-none resize-none"
-          rows="6"
-        />
+        {upload ? (
+          <>
+            <input
+              ref={fileInputRef}
+              type="file"
+              onChange={handleFileChange}
+              style={{ display: "none" }}
+            />
+            <button
+              className="bg-green-500 text-white bg-Green hover:bg-green w-24 p-0.5 rounded-3xl"
+              onClick={handleUploadClick}
+            >
+              Upload
+            </button>
+            {file && (
+                <span className="ml-4 text-gray-600">
+                  {file.name} <span className="text-sm">(Uploaded)</span>
+                </span>
+              )}
+          </>
+        ) : (
+          <textarea
+            name="content"
+            value={value.content}
+            onChange={handleChange}
+            placeholder="Write your story here..."
+            className="w-full p-4 text-lg rounded-lg focus:outline-none resize-none"
+            rows="6"
+          />
+        )}
       </div>
     </div>
   );

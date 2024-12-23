@@ -19,7 +19,7 @@ export default function HomePage() {
           }}
         >
           <div className="flex justify-center items-center absolute bottom-0 w-full space-x-80">
-            <Button name="Upload" type="upload" />
+            <Button name="Upload" to='/upload' />
             <Button name="Write" to="/write" />
           </div>
         </div>
