@@ -1,6 +1,14 @@
 [
     {
         "id": 1,
+        "title": "TSA agents at LAX discover replica guns, knives and more in woman's carry-on, officials say - CBS Los Angeles",
+        "author": "Marissa Wenzke",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\TSA_agents_at_LAX_discover_replica_guns__knives_an.txt"
+    },
+    {
+        "id": 2,
         "title": "Ex-OpenAI engineer who raised legal concerns about the technology he helped build has died - The Associated Press",
         "author": "MATT O'BRIEN",
         "type": "article d'actualité",
@@ -8,7 +16,7 @@
         "file_path": "corpus/article_actualite\\business\\Ex_OpenAI_engineer_who_raised_legal_concerns_about.txt"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "OpenAI’s GPT-5 reportedly falling short of expectations - TechCrunch",
         "author": "Anthony Ha",
         "type": "article d'actualité",
@@ -16,15 +24,23 @@
         "file_path": "corpus/article_actualite\\business\\OpenAI_s_GPT_5_reportedly_falling_short_of_expecta.txt"
     },
     {
-        "id": 3,
-        "title": "Teamsters expand strike against Amazon - CNN",
-        "author": "Chris Isidore, Vanessa Yurkevich",
+        "id": 4,
+        "title": "Volkswagen agrees deal to avoid Germany plant closures - BBC.com",
+        "author": null,
         "type": "article d'actualité",
         "categorie": "business",
-        "file_path": "corpus/article_actualite\\business\\Teamsters_expand_strike_against_Amazon___CNN.txt"
+        "file_path": "corpus/article_actualite\\business\\Volkswagen_agrees_deal_to_avoid_Germany_plant_clos.txt"
     },
     {
-        "id": 4,
+        "id": 5,
+        "title": "Google pushes back against DOJ’s ‘interventionist’ remedies in antitrust case - TechCrunch",
+        "author": "Anthony Ha",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\Google_pushes_back_against_DOJ_s__interventionist_.txt"
+    },
+    {
+        "id": 6,
         "title": "Mega Millions Jackpot Reaches $944 Million For Christmas Eve Drawing—Here’s How Much The Winner Could Take Home After Taxes - Forbes",
         "author": "Ty Roush",
         "type": "article d'actualité",
@@ -32,23 +48,23 @@
         "file_path": "corpus/article_actualite\\business\\Mega_Millions_Jackpot_Reaches__944_Million_For_Chr.txt"
     },
     {
-        "id": 5,
-        "title": "Could This Artificial Intelligence (AI) Stock Be the Next Nvidia? - The Motley Fool",
-        "author": "Manali Pradhan",
-        "type": "article d'actualité",
-        "categorie": "business",
-        "file_path": "corpus/article_actualite\\business\\Could_This_Artificial_Intelligence__AI__Stock_Be_t.txt"
-    },
-    {
-        "id": 6,
-        "title": "Skipping college and switching jobs: What older Americans regret about their careers - Business Insider",
-        "author": "Noah Sheidlower",
-        "type": "article d'actualité",
-        "categorie": "business",
-        "file_path": "corpus/article_actualite\\business\\Skipping_college_and_switching_jobs__What_older_Am.txt"
-    },
-    {
         "id": 7,
+        "title": "How are auroras made? Space rocket takes a closer look at the Northern Lights - Earth.com",
+        "author": null,
+        "type": "article d'actualité",
+        "categorie": "science",
+        "file_path": "corpus/article_actualite\\science\\How_are_auroras_made__Space_rocket_takes_a_closer_.txt"
+    },
+    {
+        "id": 8,
+        "title": "James Webb telescope solves 20-year-old Hubble conundrum — and it could finally explain why the universe's oldest planets exist - Livescience.com",
+        "author": "Stephanie Pappas",
+        "type": "article d'actualité",
+        "categorie": "science",
+        "file_path": "corpus/article_actualite\\science\\James_Webb_telescope_solves_20_year_old_Hubble_con.txt"
+    },
+    {
+        "id": 9,
         "title": "How to see the Ursids, the final meteor shower that peaks in 2024 - CNN",
         "author": "Ashley Strickland",
         "type": "article d'actualité",
@@ -56,7 +72,7 @@
         "file_path": "corpus/article_actualite\\science\\How_to_see_the_Ursids__the_final_meteor_shower_tha.txt"
     },
     {
-        "id": 8,
+        "id": 10,
         "title": "The universe might actually contain 3 time dimensions and only 1 space dimension - The Brighter Side of News",
         "author": "Joseph Shavit",
         "type": "article d'actualité",
@@ -64,7 +80,7 @@
         "file_path": "corpus/article_actualite\\science\\The_universe_might_actually_contain_3_time_dimensi.txt"
     },
     {
-        "id": 9,
+        "id": 11,
         "title": "Why do iguanas fall from trees in Florida? - Livescience.com",
         "author": "Olivia Ferrari",
         "type": "article d'actualité",
@@ -72,7 +88,7 @@
         "file_path": "corpus/article_actualite\\science\\Why_do_iguanas_fall_from_trees_in_Florida____Lives.txt"
     },
     {
-        "id": 10,
+        "id": 12,
         "title": "Scientists explore frozen scars and fiery sands on the seafloor - Ars Technica",
         "author": "Ars Contributors",
         "type": "article d'actualité",
@@ -80,7 +96,7 @@
         "file_path": "corpus/article_actualite\\science\\Scientists_explore_frozen_scars_and_fiery_sands_on.txt"
     },
     {
-        "id": 11,
+        "id": 13,
         "title": "NASA Plans for ‘Continuous Heartbeat’ in Space After ISS Retirement - Gizmodo",
         "author": "Passant Rabie",
         "type": "article d'actualité",
@@ -88,15 +104,7 @@
         "file_path": "corpus/article_actualite\\science\\NASA_Plans_for__Continuous_Heartbeat__in_Space_Aft.txt"
     },
     {
-        "id": 12,
-        "title": "NASA’s James Webb telescope confirms planetary theory - Salon",
-        "author": null,
-        "type": "article d'actualité",
-        "categorie": "science",
-        "file_path": "corpus/article_actualite\\science\\NASA_s_James_Webb_telescope_confirms_planetary_the.txt"
-    },
-    {
-        "id": 13,
+        "id": 14,
         "title": "A Spacecraft Is About to Fly Into the Sun’s Atmosphere for the First Time - WIRED",
         "author": "Eric Berger, Ars Technica",
         "type": "article d'actualité",
@@ -104,31 +112,71 @@
         "file_path": "corpus/article_actualite\\science\\A_Spacecraft_Is_About_to_Fly_Into_the_Sun_s_Atmosp.txt"
     },
     {
-        "id": 14,
-        "title": "Mars is littered with junk. Historians want to save it. - Mashable",
-        "author": "Elisha Sauers",
-        "type": "article d'actualité",
-        "categorie": "science",
-        "file_path": "corpus/article_actualite\\science\\Mars_is_littered_with_junk__Historians_want_to_sav.txt"
-    },
-    {
         "id": 15,
-        "title": "Tank Dell suffers apparent serious knee injury on touchdown catch - NBC Sports",
-        "author": "Myles Simmons",
+        "title": "3 takeaways from the Chiefs’ 27-19 win over the Texans - Arrowhead Pride",
+        "author": "Pete Sweeney",
         "type": "article d'actualité",
         "categorie": "sports",
-        "file_path": "corpus/article_actualite\\sports\\Tank_Dell_suffers_apparent_serious_knee_injury_on_.txt"
+        "file_path": "corpus/article_actualite\\sports\\3_takeaways_from_the_Chiefs__27_19_win_over_the_Te.txt"
     },
     {
         "id": 16,
-        "title": "Usyk vs Fury 2 LIVE: Huge undercard underway - Johnny Fisher fighting next after McGregor and McGrail claim points wins; coverage and more from fight night - dazn.com",
-        "author": "Matt Astbury",
+        "title": "Penn State blasts SMU: Pair of pick sixes fuel Nittany Lions' trip to College Football Playoff quarterfinals - CBS Sports",
+        "author": "Tom Fornelli",
         "type": "article d'actualité",
         "categorie": "sports",
-        "file_path": "corpus/article_actualite\\sports\\Usyk_vs_Fury_2_LIVE__Huge_undercard_underway___Joh.txt"
+        "file_path": "corpus/article_actualite\\sports\\Penn_State_blasts_SMU__Pair_of_pick_sixes_fuel_Nit.txt"
     },
     {
         "id": 17,
+        "title": "What rust? Team Woods shoots 59, shares lead at PNC Championship - NBC Sports",
+        "author": "Ryan Lavner",
+        "type": "article d'actualité",
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\What_rust__Team_Woods_shoots_59__shares_lead_at_PN.txt"
+    },
+    {
+        "id": 18,
+        "title": "Texas vs. Clemson live stream, where to watch, TV channel, College Football Playoff odds, prediction, pick - CBS Sports",
+        "author": "",
+        "type": "article d'actualité",
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\Texas_vs__Clemson_live_stream__where_to_watch__TV_.txt"
+    },
+    {
+        "id": 19,
+        "title": "Steelers inactives for Week 16 at Ravens - Steelers.com",
+        "author": null,
+        "type": "article d'actualité",
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\Steelers_inactives_for_Week_16_at_Ravens___Steeler.txt"
+    },
+    {
+        "id": 20,
+        "title": "Rangers' Matt Rempe is offered an in-person hearing, so the NHL could suspend him 6-plus games - The Associated Press",
+        "author": "STEPHEN WHYNO",
+        "type": "article d'actualité",
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\Rangers__Matt_Rempe_is_offered_an_in_person_hearin.txt"
+    },
+    {
+        "id": 21,
+        "title": "Report: Spurs Positioning Themselves for Potential De'Aaron Fox Trade With Kings - Sports Illustrated",
+        "author": "Tom Dierberger",
+        "type": "article d'actualité",
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\Report__Spurs_Positioning_Themselves_for_Potential.txt"
+    },
+    {
+        "id": 22,
+        "title": "Joel Klatt unleashes on Lane Kiffin about complaints on College Football Playoff first round - On3.com",
+        "author": "Steve Samra",
+        "type": "article d'actualité",
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\Joel_Klatt_unleashes_on_Lane_Kiffin_about_complain.txt"
+    },
+    {
+        "id": 23,
         "title": "What’s next for Diontae Johnson? - NBC Sports",
         "author": "Mike Florio",
         "type": "article d'actualité",
@@ -136,31 +184,15 @@
         "file_path": "corpus/article_actualite\\sports\\What_s_next_for_Diontae_Johnson____NBC_Sports.txt"
     },
     {
-        "id": 18,
-        "title": "Penn State vs. SMU score: Live game updates, College Football Playoff scores, first-round coverage - CBS Sports",
-        "author": "Tom Fornelli",
-        "type": "article d'actualité",
-        "categorie": "sports",
-        "file_path": "corpus/article_actualite\\sports\\Penn_State_vs__SMU_score__Live_game_updates__Colle.txt"
-    },
-    {
-        "id": 19,
-        "title": "Luke Fickell and the Badgers Turned Down Option to Fill in as Bowl Game Replacement - Badger of Honor",
-        "author": "Trevor Ripley",
-        "type": "article d'actualité",
-        "categorie": "sports",
-        "file_path": "corpus/article_actualite\\sports\\Luke_Fickell_and_the_Badgers_Turned_Down_Option_to.txt"
-    },
-    {
-        "id": 20,
-        "title": "The Google Pixel 9 Pro Fold suddenly scores a shocking discount at Amazon (and yes, it'll arrive by Christmas) - Android Central",
-        "author": "Patrick Farmer",
+        "id": 24,
+        "title": "Deals: the Galaxy S24 and Pixel 9 fall to the same price, Pixel 9 Pro also gets a price cut - GSMArena.com news - GSMArena.com",
+        "author": "Peter",
         "type": "article d'actualité",
         "categorie": "technology",
-        "file_path": "corpus/article_actualite\\technology\\The_Google_Pixel_9_Pro_Fold_suddenly_scores_a_shoc.txt"
+        "file_path": "corpus/article_actualite\\technology\\Deals__the_Galaxy_S24_and_Pixel_9_fall_to_the_same.txt"
     },
     {
-        "id": 21,
+        "id": 25,
         "title": "Sony Absorbs More Of Bungie: Strategic Partnerships Team Joins PlayStation’s Franchise Development Division - TheGamePost",
         "author": null,
         "type": "article d'actualité",
@@ -168,7 +200,7 @@
         "file_path": "corpus/article_actualite\\technology\\Sony_Absorbs_More_Of_Bungie__Strategic_Partnership.txt"
     },
     {
-        "id": 22,
+        "id": 26,
         "title": "Here’s the first CoPilot plus mini PC with Intel’s new Core Ultra 9 processors - The Verge",
         "author": "Wes Davis",
         "type": "article d'actualité",
@@ -176,7 +208,7 @@
         "file_path": "corpus/article_actualite\\technology\\Here_s_the_first_CoPilot_plus_mini_PC_with_Intel_s.txt"
     },
     {
-        "id": 23,
+        "id": 27,
         "title": "‘A sort of superpower’: Unexpected revelations made possible by AI in 2024 - CNN",
         "author": "Katie Hunt",
         "type": "article d'actualité",
@@ -184,7 +216,15 @@
         "file_path": "corpus/article_actualite\\technology\\_A_sort_of_superpower___Unexpected_revelations_mad.txt"
     },
     {
-        "id": 24,
+        "id": 28,
+        "title": "New Epic Games Store Mystery Game Free to Download for 24 Hours - ComicBook.com",
+        "author": "Tyler Fischer",
+        "type": "article d'actualité",
+        "categorie": "technology",
+        "file_path": "corpus/article_actualite\\technology\\New_Epic_Games_Store_Mystery_Game_Free_to_Download.txt"
+    },
+    {
+        "id": 29,
         "title": "Sega Is \"Evaluating\" Its Own Netflix-Style Subscription Service - Nintendo Life",
         "author": "Damien McFerran",
         "type": "article d'actualité",
@@ -192,7 +232,7 @@
         "file_path": "corpus/article_actualite\\technology\\Sega_Is__Evaluating__Its_Own_Netflix_Style_Subscri.txt"
     },
     {
-        "id": 25,
+        "id": 30,
         "title": "LG’s brilliant B4 OLED TV is on sale with a $50 gift card for its best price ever - The Verge",
         "author": "Brandon Widder",
         "type": "article d'actualité",
@@ -200,7 +240,15 @@
         "file_path": "corpus/article_actualite\\technology\\LG_s_brilliant_B4_OLED_TV_is_on_sale_with_a__50_gi.txt"
     },
     {
-        "id": 26,
+        "id": 31,
+        "title": "Samsung Galaxy S22 users report widespread issues after One UI 6.1 update - TechSpot",
+        "author": "Skye Jacobs",
+        "type": "article d'actualité",
+        "categorie": "technology",
+        "file_path": "corpus/article_actualite\\technology\\Samsung_Galaxy_S22_users_report_widespread_issues_.txt"
+    },
+    {
+        "id": 32,
         "title": "Early Pricing Revealed For NVIDIA GeForce RTX 5090 & RTX 5080-based Acer Predator Orion 7000 PCs, Showing A $1250 Difference - Wccftech",
         "author": null,
         "type": "article d'actualité",
@@ -208,23 +256,7 @@
         "file_path": "corpus/article_actualite\\technology\\Early_Pricing_Revealed_For_NVIDIA_GeForce_RTX_5090.txt"
     },
     {
-        "id": 27,
-        "title": "Apple Warns Users Of iPhone Spyware Attacks—What You Need To Know - Forbes",
-        "author": "Davey Winder",
-        "type": "article d'actualité",
-        "categorie": "technology",
-        "file_path": "corpus/article_actualite\\technology\\Apple_Warns_Users_Of_iPhone_Spyware_Attacks_What_Y.txt"
-    },
-    {
-        "id": 28,
-        "title": "ZDNET's product of the year: Why Oura Ring 4 bested Samsung, Apple, and others in 2024 - ZDNet",
-        "author": "Kerry Wan",
-        "type": "article d'actualité",
-        "categorie": "technology",
-        "file_path": "corpus/article_actualite\\technology\\ZDNET_s_product_of_the_year__Why_Oura_Ring_4_beste.txt"
-    },
-    {
-        "id": 29,
+        "id": 33,
         "title": "Women Want to Learn Tech: Lessons from the Czechitas Education Project",
         "author": "Barbora Buhnova, Dita Prikrylova",
         "type": "article scientifique",
@@ -232,7 +264,7 @@
         "file_path": "corpus/scientific_articles\\tech\\Women_Want_to_Learn_Tech_Lessons_from_the_Czechitas_Education_Project.txt"
     },
     {
-        "id": 30,
+        "id": 34,
         "title": "Borges Dilemma, Fundamental Laws, and Systems Biology",
         "author": "P Ao",
         "type": "article scientifique",
@@ -240,7 +272,7 @@
         "file_path": "corpus/scientific_articles\\biology\\Borges_Dilemma_Fundamental_Laws_and_Systems_Biology.txt"
     },
     {
-        "id": 31,
+        "id": 35,
         "title": "Quantum Biology at the Cellular Level - elements of the research program",
         "author": "Michael Bordonaro, Vasily Ogryzko",
         "type": "article scientifique",
@@ -248,7 +280,7 @@
         "file_path": "corpus/scientific_articles\\biology\\Quantum_Biology_at_the_Cellular_Level__elements_of_the_research_program.txt"
     },
     {
-        "id": 32,
+        "id": 36,
         "title": "Landscape Paradigms in Physics and Biology: Introduction and Overview",
         "author": "David Sherrington",
         "type": "article scientifique",
@@ -256,7 +288,7 @@
         "file_path": "corpus/scientific_articles\\biology\\Landscape_Paradigms_in_Physics_and_Biology_Introduction_and_Overview.txt"
     },
     {
-        "id": 33,
+        "id": 37,
         "title": "Mathematics at the eve of a historic transition in biology",
         "author": "Guo-Wei Wei",
         "type": "article scientifique",
@@ -264,7 +296,7 @@
         "file_path": "corpus/scientific_articles\\biology\\Mathematics_at_the_eve_of_a_historic_transition_in_biology.txt"
     },
     {
-        "id": 34,
+        "id": 38,
         "title": "G-quadruplexes and mRNA localization",
         "author": "Valentina Agoni",
         "type": "article scientifique",
@@ -272,7 +304,7 @@
         "file_path": "corpus/scientific_articles\\biology\\Gquadruplexes_and_mRNA_localization.txt"
     },
     {
-        "id": 35,
+        "id": 39,
         "title": "The structure of the climate debate",
         "author": "Richard S. J. Tol",
         "type": "article scientifique",
@@ -280,7 +312,7 @@
         "file_path": "corpus/scientific_articles\\climate change\\The_structure_of_the_climate_debate.txt"
     },
     {
-        "id": 36,
+        "id": 40,
         "title": "Baumol's Climate Disease",
         "author": "Fangzhi Wang, Hua Liao, Richard S. J. Tol",
         "type": "article scientifique",
@@ -288,7 +320,7 @@
         "file_path": "corpus/scientific_articles\\climate change\\Baumols_Climate_Disease.txt"
     },
     {
-        "id": 37,
+        "id": 41,
         "title": "You are right. I am ALARMED -- But by Climate Change Counter Movement",
         "author": "Shraey Bhatia, Jey Han Lau, Timothy Baldwin",
         "type": "article scientifique",
@@ -296,7 +328,7 @@
         "file_path": "corpus/scientific_articles\\climate change\\You_are_right_I_am_ALARMED__But_by_Climate_Change_Counter_Movement.txt"
     },
     {
-        "id": 38,
+        "id": 42,
         "title": "Climate Change Conspiracy Theories on Social Media",
         "author": "Aman Tyagi, Kathleen M. Carley",
         "type": "article scientifique",
@@ -304,7 +336,7 @@
         "file_path": "corpus/scientific_articles\\climate change\\Climate_Change_Conspiracy_Theories_on_Social_Media.txt"
     },
     {
-        "id": 39,
+        "id": 43,
         "title": "Hurricanes Increase Climate Change Conversations on Twitter",
         "author": "Maddalena Torricelli, Max Falkenberg, Alessandro Galeazzi, Fabiana Zollo, Walter Quattrociocchi, Andrea Baronchelli",
         "type": "article scientifique",
@@ -312,7 +344,7 @@
         "file_path": "corpus/scientific_articles\\climate change\\Hurricanes_Increase_Climate_Change_Conversations_on_Twitter.txt"
     },
     {
-        "id": 40,
+        "id": 44,
         "title": "The Rise of Quantum Internet Computing",
         "author": "Seng W. Loke",
         "type": "article scientifique",
@@ -320,7 +352,7 @@
         "file_path": "corpus/scientific_articles\\quantum computing\\The_Rise_of_Quantum_Internet_Computing.txt"
     },
     {
-        "id": 41,
+        "id": 45,
         "title": "Unconventional Quantum Computing Devices",
         "author": "Seth Lloyd",
         "type": "article scientifique",
@@ -328,7 +360,7 @@
         "file_path": "corpus/scientific_articles\\quantum computing\\Unconventional_Quantum_Computing_Devices.txt"
     },
     {
-        "id": 42,
+        "id": 46,
         "title": "Geometrical perspective on quantum states and quantum computation",
         "author": "Zeqian Chen",
         "type": "article scientifique",
@@ -336,7 +368,7 @@
         "file_path": "corpus/scientific_articles\\quantum computing\\Geometrical_perspective_on_quantum_states_and_quantum_computation.txt"
     },
     {
-        "id": 43,
+        "id": 47,
         "title": "Quantum Computation and Quantum Information",
         "author": "Yazhen Wang",
         "type": "article scientifique",
@@ -344,7 +376,7 @@
         "file_path": "corpus/scientific_articles\\quantum computing\\Quantum_Computation_and_Quantum_Information.txt"
     },
     {
-        "id": 44,
+        "id": 48,
         "title": "Google Quantum AI's Quest for Error-Corrected Quantum Computers",
         "author": "M. AbuGhanem",
         "type": "article scientifique",
