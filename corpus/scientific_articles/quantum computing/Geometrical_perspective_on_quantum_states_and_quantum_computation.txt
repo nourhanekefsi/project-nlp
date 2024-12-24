@@ -1,8 +1,3 @@
-We interpret quantum computing as a geometric evolution process by
-reformulating finite quantum systems via Connes' noncommutative geometry. In
-this formulation, quantum states are represented as noncommutative connections,
-while gauge transformations on the connections play a role of unitary quantum
-operations. Thereby, a geometrical model for quantum computation is presented,
-which is equivalent to the quantum circuit model. This result shows a geometric
-way of realizing quantum computing and as such, provides an alternative
-proposal of building a quantum computer.
+Change to arXiv's privacy policy
+
+The arXiv Privacy Policy has changed. By continuing to use arxiv.org, you are agreeing to the privacy policy.

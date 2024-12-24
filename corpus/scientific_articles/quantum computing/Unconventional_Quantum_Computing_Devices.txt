@@ -1,5 +1,3 @@
-This paper investigates a variety of unconventional quantum computation
-devices, including fermionic quantum computers and computers that exploit
-nonlinear quantum mechanics. It is shown that unconventional quantum computing
-devices can in principle compute some quantities more rapidly than
-`conventional' quantum computers.
+Change to arXiv's privacy policy
+
+The arXiv Privacy Policy has changed. By continuing to use arxiv.org, you are agreeing to the privacy policy.

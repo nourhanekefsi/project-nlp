@@ -1,8 +1,3 @@
-While it is understood by women that tech fluency might act as a powerful
-career accelerator or even a new career direction towards software engineering,
-this awakening often comes after graduation from a different field, when it is
-difficult for the women to make the shift towards tech and computing. In this
-paper, we report on our experience with running a successful education
-non-profit called Czechitas, which shows that women in their 20s and 30s are
-(maybe surprisingly) highly interested in learning tech, they just need a
-helping hand and tailored assistance, encouragement and guidance.
+Change to arXiv's privacy policy
+
+The arXiv Privacy Policy has changed. By continuing to use arxiv.org, you are agreeing to the privacy policy.

@@ -1,10 +1,3 @@
-The world is facing the challenge of climate crisis. Despite the consensus in
-scientific community about anthropogenic global warming, the web is flooded
-with articles spreading climate misinformation. These articles are carefully
-constructed by climate change counter movement (cccm) organizations to
-influence the narrative around climate change. We revisit the literature on
-climate misinformation in social sciences and repackage it to introduce in the
-community of NLP. Despite considerable work in detection of fake news, there is
-no misinformation dataset available that is specific to the domain.of climate
-change. We try to bridge this gap by scraping and releasing articles with known
-climate change misinformation.
+Change to arXiv's privacy policy
+
+The arXiv Privacy Policy has changed. By continuing to use arxiv.org, you are agreeing to the privacy policy.

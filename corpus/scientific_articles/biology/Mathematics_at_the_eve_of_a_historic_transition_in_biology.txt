@@ -1,7 +1,3 @@
-A century ago physicists and mathematicians worked in tandem and established
-quantum mechanism. Indeed, algebras, partial differential equations, group
-theory, and functional analysis underpin the foundation of quantum mechanism.
-Currently, biology is undergoing a historic transition from qualitative,
-phenomenological and descriptive to quantitative, analytical and predictive.
-Mathematics, again, becomes a driving force behind this new transition in
-biology.
+Change to arXiv's privacy policy
+
+The arXiv Privacy Policy has changed. By continuing to use arxiv.org, you are agreeing to the privacy policy.
