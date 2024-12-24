@@ -1,51 +1,296 @@
 [
     {
         "id": 1,
-        "title": "Walmart sued over illegally opening bank accounts for delivery drivers - The Verge",
-        "author": "Umar Shakir",
-        "type": "article d'actualité",
-        "categorie": "business",
-        "file_path": "corpus/article_actualite\\business\\Walmart_sued_over_illegally_opening_bank_accounts_.txt",
-        "url": "https://www.theverge.com/2024/12/23/24328046/walmart-spark-delivery-lawsuit-branch-instant-payment"
+        "title": "Spending Fight Shows Limits of Trump Power to Change Fiscal Path",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\Spending_Fight_Shows_Limits_of_Trump_Power_to_Change_Fiscal_Path.txt",
+        "url": "https://www.nytimes.com/2024/12/24/business/trump-musk-ramaswamy-doge-government-spending.html"
     },
     {
         "id": 2,
-        "title": "In the shadows of Arizona’s data center boom, thousands live without power - The Washington Post",
-        "author": "Pranshu Verma",
-        "type": "article d'actualité",
-        "categorie": "business",
-        "file_path": "corpus/article_actualite\\business\\In_the_shadows_of_Arizona_s_data_center_boom__thou.txt",
-        "url": "https://www.washingtonpost.com/technology/2024/12/23/arizona-data-centers-navajo-power-aps-srp/"
+        "title": "History Shows Big Changes in ‘Big Government’ Are Hard to Achieve",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\History_Shows_Big_Changes_in_Big_Government_Are_Hard_to_Achieve.txt",
+        "url": "https://www.nytimes.com/2024/12/24/us/trump-america-government-republicans.html"
     },
     {
         "id": 3,
-        "title": "Rosenblatt Picks AMD and Meta as Top Stocks for 2025 Amid AI Growth - Yahoo Finance",
-        "author": "Nauman khan",
-        "type": "article d'actualité",
-        "categorie": "business",
-        "file_path": "corpus/article_actualite\\business\\Rosenblatt_Picks_AMD_and_Meta_as_Top_Stocks_for_20.txt",
-        "url": "https://finance.yahoo.com/news/rosenblatt-picks-amd-meta-top-163311433.html"
+        "title": "How a Consulting Firm and Trump’s I.R.S. Pick Pushed a Problematic Tax Credit",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\How_a_Consulting_Firm_and_Trumps_IRS_Pick_Pushed_a_Problematic_Tax_Credit.txt",
+        "url": "https://www.nytimes.com/2024/12/24/business/billy-long-irs-tax-credit.html"
     },
     {
         "id": 4,
-        "title": "Nordstrom to be acquired by Nordstrom family, Mexican retail group in $6.25B deal - KOMO News",
-        "author": "MATT OTT AP Business Writer",
-        "type": "article d'actualité",
-        "categorie": "business",
-        "file_path": "corpus/article_actualite\\business\\Nordstrom_to_be_acquired_by_Nordstrom_family__Mexi.txt",
-        "url": "https://komonews.com/news/local/nordstrom-to-be-acquired-by-nordstrom-family-and-a-mexican-retail-group-in-625-billion-seattle"
+        "title": "Trump’s Wish to Control Greenland and Panama Canal: Not a Joke This Time",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\Trumps_Wish_to_Control_Greenland_and_Panama_Canal_Not_a_Joke_This_Time.txt",
+        "url": "https://www.nytimes.com/2024/12/23/us/politics/trump-greenland-panama-canal.html"
     },
     {
         "id": 5,
-        "title": "Honda and Nissan plan major merger focused on ‘intelligence and electrification’ - TechCrunch",
-        "author": "Sean O'Kane",
-        "type": "article d'actualité",
-        "categorie": "business",
-        "file_path": "corpus/article_actualite\\business\\Honda_and_Nissan_plan_major_merger_focused_on__int.txt",
-        "url": "https://techcrunch.com/2024/12/23/honda-and-nissan-plan-major-merger-focused-on-intelligence-and-electrification/"
+        "title": "How Drone Fever Spread Across New Jersey and Beyond",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\How_Drone_Fever_Spread_Across_New_Jersey_and_Beyond.txt",
+        "url": "https://www.nytimes.com/2024/12/24/nyregion/new-jersey-new-york-drones.html"
     },
     {
         "id": 6,
+        "title": "How Afghan Militias, Unleashed by the U.S., Proved Worse Than the Taliban",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\How_Afghan_Militias_Unleashed_by_the_US_Proved_Worse_Than_the_Taliban.txt",
+        "url": "https://www.nytimes.com/2024/12/24/world/asia/afghanistan-taliban-us-militias.html"
+    },
+    {
+        "id": 7,
+        "title": "Marv From ‘Home Alone’ Has a New Calling Card: Tangerines and Sculpture",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\Marv_From_Home_Alone_Has_a_New_Calling_Card_Tangerines_and_Sculpture.txt",
+        "url": "https://www.nytimes.com/2024/12/24/arts/daniel-stern-home-alone-tiktok.html"
+    },
+    {
+        "id": 8,
+        "title": "American Airlines Briefly Grounds U.S. Flights on Christmas Eve Over Technical Issue",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\American_Airlines_Briefly_Grounds_US_Flights_on_Christmas_Eve_Over_Technical_Issue.txt",
+        "url": "https://www.nytimes.com/2024/12/24/business/american-air-flights-grounded.html"
+    },
+    {
+        "id": 9,
+        "title": "Elon Musk Is Creating His Own Texas Town. Hundreds Already Live There.",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\Elon_Musk_Is_Creating_His_Own_Texas_Town_Hundreds_Already_Live_There.txt",
+        "url": "https://www.nytimes.com/2024/12/24/us/starbase-texas-city-elon-musk-spacex.html"
+    },
+    {
+        "id": 10,
+        "title": "Russia Sentences a U.S. Citizen, Eugene Spector, to 15 Years for Espionage",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\Russia_Sentences_a_US_Citizen_Eugene_Spector_to_15_Years_for_Espionage.txt",
+        "url": "https://www.nytimes.com/2024/12/24/world/europe/russia-espionage-eugene-spector.html"
+    },
+    {
+        "id": 11,
+        "title": "The Best Bakeries in America",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\The_Best_Bakeries_in_America.txt",
+        "url": "https://www.nytimes.com/article/best-bakeries-america.html"
+    },
+    {
+        "id": 12,
+        "title": "The Golden Age of American Bakeries Is Upon Us. Here’s Why.",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\The_Golden_Age_of_American_Bakeries_Is_Upon_Us_Heres_Why.txt",
+        "url": "https://www.nytimes.com/2024/12/24/dining/american-bakeries-golden-age.html"
+    },
+    {
+        "id": 13,
+        "title": "How Hallucinatory A.I. Helps Science Dream Up Big Breakthroughs",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\How_Hallucinatory_AI_Helps_Science_Dream_Up_Big_Breakthroughs.txt",
+        "url": "https://www.nytimes.com/2024/12/23/science/ai-hallucinations-science.html"
+    },
+    {
+        "id": 14,
+        "title": "Pro-Palestinian Activists Removed From Michigan’s Student Government",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\ProPalestinian_Activists_Removed_From_Michigans_Student_Government.txt",
+        "url": "https://www.nytimes.com/2024/12/24/us/michigan-palestinian-activists-students.html"
+    },
+    {
+        "id": 15,
+        "title": "He Inherited a Seat in the House of Lords. The UK Government Says He Will Lose It in 2025.",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\He_Inherited_a_Seat_in_the_House_of_Lords_The_UK_Government_Says_He_Will_Lose_It_in_2025.txt",
+        "url": "https://www.nytimes.com/2024/12/24/world/europe/uk-parliament-hereditary-peers-lords.html"
+    },
+    {
+        "id": 16,
+        "title": "More Starbucks Store Workers Will Join Strike for Final Day",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\More_Starbucks_Store_Workers_Will_Join_Strike_for_Final_Day.txt",
+        "url": "https://www.nytimes.com/2024/12/23/business/starbucks-strike.html"
+    },
+    {
+        "id": 17,
+        "title": "Mel Robbins and ‘The Let Them Theory’",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\Mel_Robbins_and_The_Let_Them_Theory.txt",
+        "url": "https://www.nytimes.com/2024/12/24/well/mind/mel-robbins-let-them-profile.html"
+    },
+    {
+        "id": 18,
+        "title": "The 12,000-Year-Old Wolves That Ate Like Dogs",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\The_12000YearOld_Wolves_That_Ate_Like_Dogs.txt",
+        "url": "https://www.nytimes.com/2024/12/24/science/dog-wolf-domestication-alaska.html"
+    },
+    {
+        "id": 19,
+        "title": "Blake Lively Turns the Shame Around",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\Blake_Lively_Turns_the_Shame_Around.txt",
+        "url": "https://www.nytimes.com/2024/12/24/opinion/blake-lively-lawsuit.html"
+    },
+    {
+        "id": 20,
+        "title": "Why You Should Talk About Sex With Your Parents",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\Why_You_Should_Talk_About_Sex_With_Your_Parents.txt",
+        "url": "https://www.nytimes.com/2024/12/24/opinion/sex-relationships-family.html"
+    },
+    {
+        "id": 21,
+        "title": "Avoid California Beaches Because of Dangerous Waves, Officials Warn",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\Avoid_California_Beaches_Because_of_Dangerous_Waves_Officials_Warn.txt",
+        "url": "https://www.nytimes.com/2024/12/24/us/california-beach-surf-pier-warning.html"
+    },
+    {
+        "id": 22,
+        "title": "What Hun Manet Is Like as Cambodia’s New Leader",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\What_Hun_Manet_Is_Like_as_Cambodias_New_Leader.txt",
+        "url": "https://www.nytimes.com/2024/12/24/world/asia/cambodia-hun-manet-dissent.html"
+    },
+    {
+        "id": 23,
+        "title": "Justin Baldoni’s Ex-Publicist Sues Over Alleged Blake Lively Smear Campaign",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\Justin_Baldonis_ExPublicist_Sues_Over_Alleged_Blake_Lively_Smear_Campaign.txt",
+        "url": "https://www.nytimes.com/2024/12/24/business/justin-baldoni-publicist-blake-lively-lawsuit.html"
+    },
+    {
+        "id": 24,
+        "title": "As Rome Prepares for a Tourist Surge, Residents Fear Losing the City’s Soul",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\As_Rome_Prepares_for_a_Tourist_Surge_Residents_Fear_Losing_the_Citys_Soul.txt",
+        "url": "https://www.nytimes.com/2024/12/24/world/europe/rome-vatican-jubilee-tourism.html"
+    },
+    {
+        "id": 25,
+        "title": "Truly, the Best Mashed Potatoes I’ve Ever Had",
+        "type": "article de presse",
+        "categorie": "general",
+        "file_path": "corpus/articles_presses\\general\\Truly_the_Best_Mashed_Potatoes_Ive_Ever_Had.txt",
+        "url": "https://www.nytimes.com/2024/12/18/magazine/olive-oil-mashed-potatoes-recipe.html"
+    },
+    {
+        "id": 26,
+        "title": "Honda, Nissan begin talks to forge world’s 3rd-biggest automaker - The Washington Post",
+        "author": "Aaron Gregg",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\Honda__Nissan_begin_talks_to_forge_world_s_3rd_big.txt",
+        "url": "https://www.washingtonpost.com/business/2024/12/23/honda-nissan-mitsubishi-merger-negotiations/"
+    },
+    {
+        "id": 27,
+        "title": "S&P 500 rises to begin holiday-shortened week, tech stocks lead the gains: Live updates - CNBC",
+        "author": "Yun Li",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\S_P_500_rises_to_begin_holiday_shortened_week__tec.txt",
+        "url": "https://www.cnbc.com/2024/12/22/stock-market-today-live-updates.html"
+    },
+    {
+        "id": 28,
+        "title": "US government sues Walmart, Branch Messenger over delivery driver 'junk fees' - Yahoo Finance",
+        "author": "Reuters",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\US_government_sues_Walmart__Branch_Messenger_over_.txt",
+        "url": "https://finance.yahoo.com/news/cfpb-sues-walmart-branch-messenger-140953761.html"
+    },
+    {
+        "id": 29,
+        "title": "Trump's 25% tariff could be an existential threat to Canada's recovering auto industry - CNBC",
+        "author": "Michael Wayland",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\Trump_s_25__tariff_could_be_an_existential_threat_.txt",
+        "url": "https://www.cnbc.com/2024/12/23/trumps-25percent-tariffs-an-existential-threat-to-canadas-auto-industry.html"
+    },
+    {
+        "id": 30,
+        "title": "What Did Jeff Bezos Say About Lauren Sanchez Wedding Rumors? - Yahoo Entertainment",
+        "author": "Evolve Editors",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\What_Did_Jeff_Bezos_Say_About_Lauren_Sanchez_Weddi.txt",
+        "url": "https://www.yahoo.com/entertainment/did-jeff-bezos-lauren-sanchez-181059106.html"
+    },
+    {
+        "id": 31,
+        "title": "Nordstrom to be acquired by Nordstrom family and a Mexican retail group in $6.25 billion deal - The Associated Press",
+        "author": "MATT OTT",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\Nordstrom_to_be_acquired_by_Nordstrom_family_and_a.txt",
+        "url": "https://apnews.com/article/nordstrom-liverpool-acquisition-private-e802942a18e1afd99dcd9857a946b7ce"
+    },
+    {
+        "id": 32,
+        "title": "Popular Weight Loss Drug Zepbound Gains FDA Approval to Treat Sleep Apnea - Gizmodo",
+        "author": "Ed Cara",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\Popular_Weight_Loss_Drug_Zepbound_Gains_FDA_Approv.txt",
+        "url": "https://gizmodo.com/popular-weight-loss-drug-zepbound-gains-fda-approval-to-treat-sleep-apnea-2000542552"
+    },
+    {
+        "id": 33,
+        "title": "China’s plan to dominate legacy chips globally sparks US probe - Ars Technica",
+        "author": "Ashley Belanger",
+        "type": "article d'actualité",
+        "categorie": "business",
+        "file_path": "corpus/article_actualite\\business\\China_s_plan_to_dominate_legacy_chips_globally_spa.txt",
+        "url": "https://arstechnica.com/tech-policy/2024/12/chinas-plan-to-dominate-legacy-chips-globally-sparks-us-probe/"
+    },
+    {
+        "id": 34,
+        "title": "Watch NASA’s Moon Capsule Violently Break Apart During Abort Test - Gizmodo",
+        "author": "Passant Rabie",
+        "type": "article d'actualité",
+        "categorie": "science",
+        "file_path": "corpus/article_actualite\\science\\Watch_NASA_s_Moon_Capsule_Violently_Break_Apart_Du.txt",
+        "url": "https://gizmodo.com/watch-nasas-moon-spacecraft-violently-break-apart-during-abort-test-2000542463"
+    },
+    {
+        "id": 35,
+        "title": "World's Oldest Mammal Ancestor Unearthed: A 'Saber-Toothed' Predator That Preyed Before Dinosaurs - The Daily Galaxy --Great Discoveries Channel",
+        "author": null,
+        "type": "article d'actualité",
+        "categorie": "science",
+        "file_path": "corpus/article_actualite\\science\\World_s_Oldest_Mammal_Ancestor_Unearthed__A__Saber.txt",
+        "url": "https://dailygalaxy.com/2024/12/worlds-oldest-mammal-ancestor-unearthed-a-saber-toothed-predator-that-preyed-before-dinosaurs/"
+    },
+    {
+        "id": 36,
         "title": "Enough water to fill trillions of oceans found circling a black hole - Earth.com",
         "author": null,
         "type": "article d'actualité",
@@ -54,7 +299,16 @@
         "url": "https://www.earth.com/news/enough-water-to-fill-trillions-of-earths-oceans-found-circling-black-hole-quasar/"
     },
     {
-        "id": 7,
+        "id": 37,
+        "title": "'There's no real competitor': Theoretical physicist Marika Taylor on how black holes could help us to find a theory of everything - Livescience.com",
+        "author": "Ben Turner",
+        "type": "article d'actualité",
+        "categorie": "science",
+        "file_path": "corpus/article_actualite\\science\\_There_s_no_real_competitor___Theoretical_physicis.txt",
+        "url": "https://www.livescience.com/space/cosmology/theres-no-real-competitor-theoretical-physicist-marika-taylor-on-how-black-holes-could-help-us-to-find-a-theory-of-everything"
+    },
+    {
+        "id": 38,
         "title": "Buried water found on Mars sparks new hopes and headaches - Earth.com",
         "author": null,
         "type": "article d'actualité",
@@ -63,16 +317,16 @@
         "url": "https://www.earth.com/news/buried-water-found-on-mars-sparks-new-hopes-and-headaches/"
     },
     {
-        "id": 8,
-        "title": "Watch: 'Fireballs' light up US sky as Chinese satellite burns up in atmosphere - The Times of India",
-        "author": "TOI World Desk",
+        "id": 39,
+        "title": "Watch Chinese satellite burn up over US in spectacular 'fireball' - Livescience.com",
+        "author": "Patrick Pester",
         "type": "article d'actualité",
         "categorie": "science",
-        "file_path": "corpus/article_actualite\\science\\Watch___Fireballs__light_up_US_sky_as_Chinese_sate.txt",
-        "url": "https://timesofindia.indiatimes.com/world/us/watch-fireballs-light-up-us-sky-as-chinese-satellite-burns-up-in-atmosphere/articleshow/116605385.cms"
+        "file_path": "corpus/article_actualite\\science\\Watch_Chinese_satellite_burn_up_over_US_in_spectac.txt",
+        "url": "https://www.livescience.com/space/watch-chinese-satellite-burn-up-over-us-in-spectacular-fireball"
     },
     {
-        "id": 9,
+        "id": 40,
         "title": "How might NASA change under Trump? Here’s what is being discussed - Ars Technica",
         "author": "Eric Berger",
         "type": "article d'actualité",
@@ -81,7 +335,7 @@
         "url": "https://arstechnica.com/space/2024/12/how-might-nasa-change-under-trump-heres-what-is-being-discussed/"
     },
     {
-        "id": 10,
+        "id": 41,
         "title": "NASA delays Artemis missions again. What could this mean for the moon, Mars and space leadership? - Space.com",
         "author": "Andrew Jones",
         "type": "article d'actualité",
@@ -90,7 +344,16 @@
         "url": "https://www.space.com/space-exploration/artemis/nasa-delays-artemis-missions-again-what-could-this-mean-for-the-moon-mars-and-space-leadership"
     },
     {
-        "id": 11,
+        "id": 42,
+        "title": "Two Earth-sized exoplanets orbiting nearby star detected - Phys.org",
+        "author": "Tomasz Nowakowski",
+        "type": "article d'actualité",
+        "categorie": "science",
+        "file_path": "corpus/article_actualite\\science\\Two_Earth_sized_exoplanets_orbiting_nearby_star_de.txt",
+        "url": "https://phys.org/news/2024-12-earth-sized-exoplanets-orbiting-nearby.html"
+    },
+    {
+        "id": 43,
         "title": "Christmas Eve asteroid the size of a 10-floor building makes ‘close approach’ to Earth tonight - New York Post ",
         "author": "Ben Cost",
         "type": "article d'actualité",
@@ -99,61 +362,61 @@
         "url": "https://nypost.com/2024/12/23/science/christmas-eve-asteroid-to-make-close-approach-to-earth/"
     },
     {
-        "id": 12,
-        "title": "James Webb Telescope Uncovers a Mind-Bending Hybrid of Asteroid and Comet Defying All Expectations - The Daily Galaxy --Great Discoveries Channel",
+        "id": 44,
+        "title": "4 Winners and 2 losers from the 49ers Week 16 loss to the Dolphins: Welcome back, Deebo - Niners Nation",
+        "author": "Kyle Posey",
+        "type": "article d'actualité",
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\4_Winners_and_2_losers_from_the_49ers_Week_16_loss.txt",
+        "url": "https://www.ninersnation.com/2024/12/23/24328191/deebo-samuel-george-kittle-winners-losers-49ers"
+    },
+    {
+        "id": 45,
+        "title": "Texans confirm Tank Dell tore his ACL, dislocated his kneecap - NBC Sports",
+        "author": "Josh Alper",
+        "type": "article d'actualité",
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\Texans_confirm_Tank_Dell_tore_his_ACL__dislocated_.txt",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-confirm-tank-dell-tore-his-acl-dislocated-his-kneecap"
+    },
+    {
+        "id": 46,
+        "title": "NFL schedule change: Vikings vs. Packers rematch gets bigger audience; Eagles vs. Cowboys bumped to new slot - CBS Sports",
+        "author": "",
+        "type": "article d'actualité",
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\NFL_schedule_change__Vikings_vs__Packers_rematch_g.txt",
+        "url": "https://www.cbssports.com/nfl/news/nfl-schedule-change-vikings-vs-packers-rematch-gets-bigger-audience-eagles-vs-cowboys-bumped-to-new-slot/"
+    },
+    {
+        "id": 47,
+        "title": "What Notre Dame head coach Marcus Freeman said about Georgia on Monday - rivals.com",
+        "author": "Jed May",
+        "type": "article d'actualité",
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\What_Notre_Dame_head_coach_Marcus_Freeman_said_abo.txt",
+        "url": "https://uga.rivals.com/news/what-notre-dame-head-coach-marcus-freeman-said-about-georgia-on-monday"
+    },
+    {
+        "id": 48,
+        "title": "Presser Bullets: Ryan Day Says There's a New \"Bounce\" in Buckeyes' Locker Room After Win Over Tennes - Eleven Warriors",
         "author": null,
         "type": "article d'actualité",
-        "categorie": "science",
-        "file_path": "corpus/article_actualite\\science\\James_Webb_Telescope_Uncovers_a_Mind_Bending_Hybri.txt",
-        "url": "https://dailygalaxy.com/2024/12/james-webb-hybrid-asteroid-and-comet/"
+        "categorie": "sports",
+        "file_path": "corpus/article_actualite\\sports\\Presser_Bullets__Ryan_Day_Says_There_s_a_New__Boun.txt",
+        "url": "https://www.elevenwarriors.com/ohio-state-football/2024-25-college-football-playoff/2024/12/152066/presser-bullets-ryan-day-says-theres-a-new-bounce-in-buckeyes-locker-room-after"
     },
     {
-        "id": 13,
-        "title": "NASA’s Solar Probe Will Make History on Christmas Eve by Zooming Closer to the Sun Than Ever - Gizmodo",
-        "author": "Passant Rabie",
-        "type": "article d'actualité",
-        "categorie": "science",
-        "file_path": "corpus/article_actualite\\science\\NASA_s_Solar_Probe_Will_Make_History_on_Christmas_.txt",
-        "url": "https://gizmodo.com/nasas-solar-probe-will-make-history-on-christmas-eve-by-zooming-closer-to-the-sun-than-ever-2000541644"
-    },
-    {
-        "id": 14,
-        "title": "Lasers powered by sunlight could beam energy through space to support interplanetary missions - Livescience.com",
-        "author": "Skyler Ware",
-        "type": "article d'actualité",
-        "categorie": "science",
-        "file_path": "corpus/article_actualite\\science\\Lasers_powered_by_sunlight_could_beam_energy_throu.txt",
-        "url": "https://www.livescience.com/technology/engineering/lasers-powered-by-sunlight-could-beam-energy-through-space-to-support-interplanetary-missions"
-    },
-    {
-        "id": 15,
-        "title": "Sunday Aftermath: Hurts’ concussion, Kenneth Walker’s latest injury and much more - NBC Sports",
-        "author": "Patrick Daugherty",
+        "id": 49,
+        "title": "My first bet: Early picks for NFL Week 17 - ESPN",
+        "author": "ESPN",
         "type": "article d'actualité",
         "categorie": "sports",
-        "file_path": "corpus/article_actualite\\sports\\Sunday_Aftermath__Hurts__concussion__Kenneth_Walke.txt",
-        "url": "https://www.nbcsports.com/fantasy/football/news/sunday-aftermath-hurts-concussion-kenneth-walkers-latest-injury-and-much-more"
+        "file_path": "corpus/article_actualite\\sports\\My_first_bet__Early_picks_for_NFL_Week_17___ESPN.txt",
+        "url": "https://www.espn.com/espn/betting/story/_/id/43126655/2024-nfl-week-17-betting-first-look-odds-lines-picks"
     },
     {
-        "id": 16,
-        "title": "Steve Cohen nearing $1 billion in offseason spending with Sean Manaea contract — and Mets aren’t done yet - New York Post ",
-        "author": "Justin Tasch",
-        "type": "article d'actualité",
-        "categorie": "sports",
-        "file_path": "corpus/article_actualite\\sports\\Steve_Cohen_nearing__1_billion_in_offseason_spendi.txt",
-        "url": "https://nypost.com/2024/12/23/sports/mets-nearing-billion-dollar-offseason-with-sean-manaea-contract/"
-    },
-    {
-        "id": 17,
-        "title": "NFL Week 16: PFF Team of the Week & Player Awards - Pro Football Focus",
-        "author": "Gordon McGuinness",
-        "type": "article d'actualité",
-        "categorie": "sports",
-        "file_path": "corpus/article_actualite\\sports\\NFL_Week_16__PFF_Team_of_the_Week___Player_Awards_.txt",
-        "url": "https://www.pff.com/news/nfl-week-16-pff-team-of-the-week-player-awards-2024"
-    },
-    {
-        "id": 18,
+        "id": 50,
         "title": "Reseeding the College Football Playoff bracket: Ohio State moves to No. 2 seed entering quarterfinals - CBS Sports",
         "author": "",
         "type": "article d'actualité",
@@ -162,34 +425,34 @@
         "url": "https://www.cbssports.com/college-football/news/reseeding-the-college-football-playoff-bracket-ohio-state-moves-to-no-2-seed-entering-quarterfinals/"
     },
     {
-        "id": 19,
-        "title": "Historic Daniels performance snaps Eagles streak, Bills survive slugfest and Falcons rookie shines: NFL Week 16 Sunday wrap - CNN",
-        "author": "Jamie Barton",
+        "id": 51,
+        "title": "Netflix is airing 2 NFL games on Christmas Day. Here’s what to know - The Associated Press",
+        "author": "JOE REEDY",
         "type": "article d'actualité",
         "categorie": "sports",
-        "file_path": "corpus/article_actualite\\sports\\Historic_Daniels_performance_snaps_Eagles_streak__.txt",
-        "url": "https://www.cnn.com/2024/12/23/sport/nfl-week-16-sunday-review-spt-intl/index.html"
+        "file_path": "corpus/article_actualite\\sports\\Netflix_is_airing_2_NFL_games_on_Christmas_Day__He.txt",
+        "url": "https://apnews.com/article/netflix-christmas-nfl-beyonce-9b65162dbe7e3fe1a2dd13d2da89e966"
     },
     {
-        "id": 20,
-        "title": "Red Sox To Sign Walker Buehler - MLB Trade Rumors",
-        "author": "Nick Deeds",
+        "id": 52,
+        "title": "The quest to save the world’s largest CRT TV from destruction - Ars Technica",
+        "author": "Kyle Orland",
         "type": "article d'actualité",
-        "categorie": "sports",
-        "file_path": "corpus/article_actualite\\sports\\Red_Sox_To_Sign_Walker_Buehler___MLB_Trade_Rumors.txt",
-        "url": "https://www.mlbtraderumors.com/2024/12/red-sox-to-sign-walker-buehler.html"
+        "categorie": "technology",
+        "file_path": "corpus/article_actualite\\technology\\The_quest_to_save_the_world_s_largest_CRT_TV_from_.txt",
+        "url": "https://arstechnica.com/gaming/2024/12/retro-gamers-save-one-of-the-last-45-inch-crt-tvs-in-existence/"
     },
     {
-        "id": 21,
-        "title": "Jiri Prochazka: Jamahal Hill trying ‘to build a confidence where there is not confidence’ with trash talk - MMA Fighting",
-        "author": "Mike Heck",
+        "id": 53,
+        "title": "iOS 18.2 just added a faster way to message Siri and ChatGPT - 9to5Mac",
+        "author": "Ryan Christoffel",
         "type": "article d'actualité",
-        "categorie": "sports",
-        "file_path": "corpus/article_actualite\\sports\\Jiri_Prochazka__Jamahal_Hill_trying__to_build_a_co.txt",
-        "url": "https://www.mmafighting.com/2024/12/23/24327203/jiri-prochazka-jamahal-hill-trying-to-build-a-confidence-where-there-is-not-confidence-trash-talk"
+        "categorie": "technology",
+        "file_path": "corpus/article_actualite\\technology\\iOS_18_2_just_added_a_faster_way_to_message_Siri_a.txt",
+        "url": "https://9to5mac.com/2024/12/23/ios-182-just-added-a-faster-way-to-message-siri-and-chatgpt/"
     },
     {
-        "id": 22,
+        "id": 54,
         "title": "$2,100 mechanical keyboard has 800 holes, NYC skyscraper looks - Ars Technica",
         "author": "Scharon Harding",
         "type": "article d'actualité",
@@ -198,34 +461,25 @@
         "url": "https://arstechnica.com/gadgets/2024/12/2100-mechanical-keyboard-has-800-holes-nyc-skyscraper-looks/"
     },
     {
-        "id": 23,
-        "title": "Sony’s WH-1000XM4 headphones are nearly 50 percent off right now - The Verge",
-        "author": "Quentyn Kennemer",
+        "id": 55,
+        "title": "Aspens to Ashes: This St. George artist turns wood burning into an art form - KSL.com",
+        "author": "Jessi Bang, St. George News",
         "type": "article d'actualité",
         "categorie": "technology",
-        "file_path": "corpus/article_actualite\\technology\\Sony_s_WH_1000XM4_headphones_are_nearly_50_percent.txt",
-        "url": "https://www.theverge.com/2024/12/23/24327980/sony-wh-1000xm4-noise-canceling-headphones-rig-nacon-revolution-x-controller-deal-sale"
+        "file_path": "corpus/article_actualite\\technology\\Aspens_to_Ashes__This_St__George_artist_turns_wood.txt",
+        "url": "https://www.ksl.com/article/51216304/aspens-to-ashes-this-st-george-artist-turns-wood-burning-into-an-art-form"
     },
     {
-        "id": 24,
-        "title": "Report: Samsung slashes 2025 foldable plans after Galaxy Z Fold 6 and Flip 6 failed - 9to5Google",
-        "author": "Ben Schoon",
+        "id": 56,
+        "title": "What to Expect From iOS 19: All the Rumors So Far - MacRumors",
+        "author": "Joe Rossignol",
         "type": "article d'actualité",
         "categorie": "technology",
-        "file_path": "corpus/article_actualite\\technology\\Report__Samsung_slashes_2025_foldable_plans_after_.txt",
-        "url": "http://9to5google.com/2024/12/23/samsung-2025-foldable-production-report/"
+        "file_path": "corpus/article_actualite\\technology\\What_to_Expect_From_iOS_19__All_the_Rumors_So_Far_.txt",
+        "url": "https://www.macrumors.com/2024/12/23/what-to-expect-from-ios-19-so-far/"
     },
     {
-        "id": 25,
-        "title": "This one new feature might finally bring me back to the Mac in 2025 - 9to5Mac",
-        "author": "Ryan Christoffel",
-        "type": "article d'actualité",
-        "categorie": "technology",
-        "file_path": "corpus/article_actualite\\technology\\This_one_new_feature_might_finally_bring_me_back_t.txt",
-        "url": "https://9to5mac.com/2024/12/23/new-feature-back-to-the-mac-in-2025/"
-    },
-    {
-        "id": 26,
+        "id": 57,
         "title": "MultiVersus pulls tweet after Charlie the Unicorn creator says it used his work \"without permission\" - Eurogamer",
         "author": "Vikki Blake",
         "type": "article d'actualité",
@@ -234,192 +488,12 @@
         "url": "https://www.eurogamer.net/multiversus-pulls-tweet-after-charlie-the-unicorn-creator-says-it-used-his-work-without-permission"
     },
     {
-        "id": 27,
+        "id": 58,
         "title": "Unlock these 15 date-specific Xbox achievements over the holidays - TrueAchievements",
         "author": null,
         "type": "article d'actualité",
         "categorie": "technology",
         "file_path": "corpus/article_actualite\\technology\\Unlock_these_15_date_specific_Xbox_achievements_ov.txt",
         "url": "https://www.trueachievements.com/news/date-specific-xbox-achievements-holidays"
-    },
-    {
-        "id": 28,
-        "title": "Tesla Addresses Cybertruck Tonneau Cover Leaks with New Rubber Seals - Not a Tesla App",
-        "author": "Karan Singh",
-        "type": "article d'actualité",
-        "categorie": "technology",
-        "file_path": "corpus/article_actualite\\technology\\Tesla_Addresses_Cybertruck_Tonneau_Cover_Leaks_wit.txt",
-        "url": "https://www.notateslaapp.com/news/2446/tesla-addresses-cybertruck-tonneau-cover-leaks-with-new-rubber-seals"
-    },
-    {
-        "id": 29,
-        "title": "Apple expands RCS support on iPhone to more carriers, Google Fi still waiting - 9to5Google",
-        "author": "Ben Schoon",
-        "type": "article d'actualité",
-        "categorie": "technology",
-        "file_path": "corpus/article_actualite\\technology\\Apple_expands_RCS_support_on_iPhone_to_more_carrie.txt",
-        "url": "http://9to5google.com/2024/12/23/apple-rcs-iphone-expansion-google-fi-waiting/"
-    },
-    {
-        "id": 30,
-        "title": "Amazon Kindle Paperwhite (2024) review: slightly larger, slightly faster, slightly better - The Verge",
-        "author": "Andrew Liszewski",
-        "type": "article d'actualité",
-        "categorie": "technology",
-        "file_path": "corpus/article_actualite\\technology\\Amazon_Kindle_Paperwhite__2024__review__slightly_l.txt",
-        "url": "https://www.theverge.com/24326185/amazon-kindle-paperwhite-signature-edition-2024-e-reader-review"
-    },
-    {
-        "id": 31,
-        "title": "Women Want to Learn Tech: Lessons from the Czechitas Education Project",
-        "author": "Barbora Buhnova, Dita Prikrylova",
-        "type": "article scientifique",
-        "categorie": "tech",
-        "file_path": "corpus/scientific_articles\\tech\\Women_Want_to_Learn_Tech_Lessons_from_the_Czechitas_Education_Project.txt",
-        "url": "http://arxiv.org/abs/1905.05518v1"
-    },
-    {
-        "id": 32,
-        "title": "Women Want to Learn Tech: Lessons from the Czechitas Education Project",
-        "author": "Barbora Buhnova, Dita Prikrylova",
-        "type": "article scientifique",
-        "categorie": "tech",
-        "file_path": "corpus/scientific_articles\\tech\\Women_Want_to_Learn_Tech_Lessons_from_the_Czechitas_Education_Project.txt",
-        "url": "http://arxiv.org/abs/1905.05518v1"
-    },
-    {
-        "id": 33,
-        "title": "Borges Dilemma, Fundamental Laws, and Systems Biology",
-        "author": "P Ao",
-        "type": "article scientifique",
-        "categorie": "biology",
-        "file_path": "corpus/scientific_articles\\biology\\Borges_Dilemma_Fundamental_Laws_and_Systems_Biology.txt",
-        "url": "http://arxiv.org/abs/0709.0025v1"
-    },
-    {
-        "id": 34,
-        "title": "Quantum Biology at the Cellular Level - elements of the research program",
-        "author": "Michael Bordonaro, Vasily Ogryzko",
-        "type": "article scientifique",
-        "categorie": "biology",
-        "file_path": "corpus/scientific_articles\\biology\\Quantum_Biology_at_the_Cellular_Level__elements_of_the_research_program.txt",
-        "url": "http://arxiv.org/abs/1304.0683v2"
-    },
-    {
-        "id": 35,
-        "title": "Landscape Paradigms in Physics and Biology: Introduction and Overview",
-        "author": "David Sherrington",
-        "type": "article scientifique",
-        "categorie": "biology",
-        "file_path": "corpus/scientific_articles\\biology\\Landscape_Paradigms_in_Physics_and_Biology_Introduction_and_Overview.txt",
-        "url": "http://arxiv.org/abs/cond-mat/9608088v1"
-    },
-    {
-        "id": 36,
-        "title": "Mathematics at the eve of a historic transition in biology",
-        "author": "Guo-Wei Wei",
-        "type": "article scientifique",
-        "categorie": "biology",
-        "file_path": "corpus/scientific_articles\\biology\\Mathematics_at_the_eve_of_a_historic_transition_in_biology.txt",
-        "url": "http://arxiv.org/abs/1711.02001v1"
-    },
-    {
-        "id": 37,
-        "title": "G-quadruplexes and mRNA localization",
-        "author": "Valentina Agoni",
-        "type": "article scientifique",
-        "categorie": "biology",
-        "file_path": "corpus/scientific_articles\\biology\\Gquadruplexes_and_mRNA_localization.txt",
-        "url": "http://arxiv.org/abs/1310.0213v1"
-    },
-    {
-        "id": 38,
-        "title": "The structure of the climate debate",
-        "author": "Richard S. J. Tol",
-        "type": "article scientifique",
-        "categorie": "climate change",
-        "file_path": "corpus/scientific_articles\\climate change\\The_structure_of_the_climate_debate.txt",
-        "url": "http://arxiv.org/abs/1608.05597v1"
-    },
-    {
-        "id": 39,
-        "title": "Baumol's Climate Disease",
-        "author": "Fangzhi Wang, Hua Liao, Richard S. J. Tol",
-        "type": "article scientifique",
-        "categorie": "climate change",
-        "file_path": "corpus/scientific_articles\\climate change\\Baumols_Climate_Disease.txt",
-        "url": "http://arxiv.org/abs/2312.00160v1"
-    },
-    {
-        "id": 40,
-        "title": "You are right. I am ALARMED -- But by Climate Change Counter Movement",
-        "author": "Shraey Bhatia, Jey Han Lau, Timothy Baldwin",
-        "type": "article scientifique",
-        "categorie": "climate change",
-        "file_path": "corpus/scientific_articles\\climate change\\You_are_right_I_am_ALARMED__But_by_Climate_Change_Counter_Movement.txt",
-        "url": "http://arxiv.org/abs/2004.14907v1"
-    },
-    {
-        "id": 41,
-        "title": "Climate Change Conspiracy Theories on Social Media",
-        "author": "Aman Tyagi, Kathleen M. Carley",
-        "type": "article scientifique",
-        "categorie": "climate change",
-        "file_path": "corpus/scientific_articles\\climate change\\Climate_Change_Conspiracy_Theories_on_Social_Media.txt",
-        "url": "http://arxiv.org/abs/2107.03318v1"
-    },
-    {
-        "id": 42,
-        "title": "Hurricanes Increase Climate Change Conversations on Twitter",
-        "author": "Maddalena Torricelli, Max Falkenberg, Alessandro Galeazzi, Fabiana Zollo, Walter Quattrociocchi, Andrea Baronchelli",
-        "type": "article scientifique",
-        "categorie": "climate change",
-        "file_path": "corpus/scientific_articles\\climate change\\Hurricanes_Increase_Climate_Change_Conversations_on_Twitter.txt",
-        "url": "http://arxiv.org/abs/2305.07529v1"
-    },
-    {
-        "id": 43,
-        "title": "The Rise of Quantum Internet Computing",
-        "author": "Seng W. Loke",
-        "type": "article scientifique",
-        "categorie": "quantum computing",
-        "file_path": "corpus/scientific_articles\\quantum computing\\The_Rise_of_Quantum_Internet_Computing.txt",
-        "url": "http://arxiv.org/abs/2208.00733v1"
-    },
-    {
-        "id": 44,
-        "title": "Unconventional Quantum Computing Devices",
-        "author": "Seth Lloyd",
-        "type": "article scientifique",
-        "categorie": "quantum computing",
-        "file_path": "corpus/scientific_articles\\quantum computing\\Unconventional_Quantum_Computing_Devices.txt",
-        "url": "http://arxiv.org/abs/quant-ph/0003151v1"
-    },
-    {
-        "id": 45,
-        "title": "Geometrical perspective on quantum states and quantum computation",
-        "author": "Zeqian Chen",
-        "type": "article scientifique",
-        "categorie": "quantum computing",
-        "file_path": "corpus/scientific_articles\\quantum computing\\Geometrical_perspective_on_quantum_states_and_quantum_computation.txt",
-        "url": "http://arxiv.org/abs/1311.4939v1"
-    },
-    {
-        "id": 46,
-        "title": "Quantum Computation and Quantum Information",
-        "author": "Yazhen Wang",
-        "type": "article scientifique",
-        "categorie": "quantum computing",
-        "file_path": "corpus/scientific_articles\\quantum computing\\Quantum_Computation_and_Quantum_Information.txt",
-        "url": "http://arxiv.org/abs/1210.0736v1"
-    },
-    {
-        "id": 47,
-        "title": "Google Quantum AI's Quest for Error-Corrected Quantum Computers",
-        "author": "M. AbuGhanem",
-        "type": "article scientifique",
-        "categorie": "quantum computing",
-        "file_path": "corpus/scientific_articles\\quantum computing\\Google_Quantum_AIs_Quest_for_ErrorCorrected_Quantum_Computers.txt",
-        "url": "http://arxiv.org/abs/2410.00917v1"
     }
 ]

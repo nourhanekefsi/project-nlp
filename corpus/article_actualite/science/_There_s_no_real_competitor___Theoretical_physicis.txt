@@ -1,0 +1,99 @@
+String theory is the most well known candidate for a theory of everything — a mathematical framework that would meld the world of the very small, described by quantum mechanics , and the very large, as described by Albert Einstein's general theory of relativity .
+
+So far, these two theories do not agree with each other, and the problem comes from gravity . In an attempt to integrate gravity (which is weak at small scales where the other three fundamental forces are strong) string theory postulates that the universe is made up of tiny one-dimensional strings whose vibrations produce the particles we see.
+
+The trouble is that many of string theory's predictions, such as there being an enormous array of possible universes , and the one we live in being a hologram projected from the edge of the universe, have thus far remained stubbornly untestable. This led Peter Woit, an arch critic of the theory, to accuse it of being "not even wrong."
+
+But is his description fair? To discuss string theory, its implications for our universe, where it could be tested, and the contributions it has already made to math and science, we sat down with Marika Taylor at the HowTheLightGetsIn Festival in London. Taylor is Pro-Vice Chancellor and Head of College of Engineering and Physical Sciences at the University of Birmingham in the U.K., and her research focuses on using string theory and black hole observations to build a theory of quantum gravity. Here's what she had to say:
+
+Ben Turner: What is string theory and why is it important?
+
+Marika Taylor: String theory is a theory that unifies all the forces of nature, and would allow us to describe the force of gravity.
+
+Why is that important? Well, I mean, first of all, you could say that humanity, since the beginning of time, has been trying to describe the natural world around us. That was what led people from early times to start writing down descriptions of the natural world. In a sense, this is the ultimate step, the theory of everything.
+
+Sign up for the Live Science daily newsletter now Get the world’s most fascinating discoveries delivered straight to your inbox. Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors
+
+So there's human curiosity driving that. But there are lots of observations, physical phenomena, that we can't actually explain using existing theories. And so that drives us into creating an ultimate theory that explains everything.
+
+BT: So what are the key postulates of string theory? And how does it differ from, say, general relativity?
+
+MT: One basic postulate for us is that the theory needs to reduce to the known, successful theories in the areas [they apply]. So it has to reduce to Einstein's theory where Einstein's theory works really well.
+
+But on a more fundamental level, I think some of the postulates would be that it is a theory in which there is predictable time evolution. So if you know the state of the universe at one time, that should uniquely determine the state of the universe at a later time.
+
+Beyond that, it's hard to describe string theory because, in some sense, it isn't just one theory — it's actually a landscape. So in some regimes you might stack up postulates in terms of the actual behavior of strings. The fundamental postulate there is that every particle is actually a little string, and at different excitations the loops [of those strings] correspond to different particles.
+
+A diagram showing how particles could be the differing vibrations of fundamental strings. (Image credit: Tetiana Zhabska via Alamy)
+
+BT: Why are there so many different string theories?
+
+MT: It's because there are different ways to view the same physical phenomena. Over the last 20 to 30 years you would often hear the phrase duality [in the field]. That word reflects the fact that there are alternative descriptions of the same physical phenomena.
+
+We used to think that the forces of gravity and particle physics were really conceptually different. Now we see that, actually, you might have the same kind of phenomena where, depending on the scale of the problem and the time steps you're looking at, they can be interchangeable.
+
+BT: Soon after publishing his theory of general relativity, Einstein proposed three classic tests for his theory that scientists performed. Why haven't string theories produced similar tests?
+
+MT: So I think this goes back to the question of where [we can find] a unified theory of gravity and particle physics. And the two key areas we need to look at are, firstly, the very early universe — ten to the [power of] minus 30 seconds — and secondly the surface and interior of black holes .
+
+Most of the universe is well described just by the existing theories, so getting experimental evidence is so much harder now. But I also think it's important to remember that, almost immediately after he wrote it down, people realized that Einstein's theory predicted gravitational waves . But because they cause such small effects that make them hard to spot, they weren't detected until 100 years later.
+
+BT: Some string theorists have remarked that to demonstrate the existence of a string, we would need to build a particle accelerator the size of a galaxy or greater. Are we really that far away? Or can we be smarter about where we look?
+
+MT: Yes, I think it's about how clever we get at testing, because clearly no-one is going to build a particle accelerator that big.
+
+Back when I was a student 28 years ago, people wouldn't have believed that we could get the level of accuracy of imaging of black hole surfaces [that we have]. So we shouldn't be looking to do this by a particle collider, we should be looking to the universe itself, because it's already doing those [particle] collisions for us.
+
+Within the coming decades, we'll get more and more information about black holes colliding with each other. That's a really dramatic phenomenon. The collision between two black holes that was observed by the LIGO [Laser Interferometer Gravitational-Wave Observatory] detector (and for which the Nobel Prize was awarded ) released three times the whole energy of the sun — not the energy that passes through us in a minute or a day, but the entire energy.
+
+As we start getting more and more data of these mergers, and imaging them in more detail, that's the way we can look for interesting new physics.
+
+An illustration showing waves of space-time rippling away by two merging heavy objects, such as neutron stars or black holes. (Image credit: NASA)
+
+BT: And, with the launch of LISA [Laser Interferometer Space Antenna], gravitational wave detectors are about to get a lot more sensitive. Will that help us to study mergers better?
+
+MT: LISA is much more sensitive to gravitational waves produced in the early universe. With LIGO, you wouldn't see them because they're at the wrong wavelengths. So it will be interesting.
+
+LISA will also see a lot more detail about the super heavy black holes in the center of galaxies. Those are associated with the seeds from which galaxies first formed. So again, it will give us a lot more information.
+
+BT: Besides black holes, you mentioned there might be signs in the early universe too. What can we look for there?
+
+MT: Well, people hope that in the cosmic microwave background, which has been imaged to really very high precision, there might be some smoking gun signals for string theory effects.
+
+That doesn't seem to be the case. It could have been that there were features coming from particles existing in certain groups according to string theory. They calculated these and found that the effects were likely too small to be seen in the microwave background.
+
+But there are other ways to observe cosmology — the microwave background is just a snapshot, one moment in time. People are interested in measuring other things. There's 21 centimeter cosmology [the 21cm line of redshifted atomic hydrogen] that you can measure over a series of times. It's not just a snapshot, it's like a movie. That could potentially contain more information that lets us pin down the next generations of experiments.
+
+An artist's impression of the LISA detector, and the gravitational waves it will search for. (Image credit: EADS ASTRUM)
+
+BT: Part of your research is in looking at how black holes behave similarly to quantum computers. For a layperson, that could seem like a giant conceptual leap. How are the two connected?
+
+MT: The details of how this works are certainly still under study. But a black hole behaves like a very efficient quantum computer . If you throw something into it, that object is stored inside the black hole as if it's on a quantum computer's hard drive. And the evaporation of a black hole is akin to doing a quantum computing process.
+
+One should think of the surface of a black hole as being like quantum computer smart disks. People find that hard to conceptualize, because we're so used to seeing computer hard disks as flat objects, we don't want to see them as big spherical ones. But really just think that you're storing information on that surface. And, as I throw something into a black hole, that actually gets imprinted on a hard disk. It's like doing an operation.
+
+BT: So if someone were to fall into a black hole, they would be stretched until they ripped apart, then they'd be filed away on those qubits?
+
+MT: Yeah, that's right.
+
+BT: It's a unique way to go. We touched on this earlier with gravitational wave detectors, but how long will it be before we get some fundamental advances on the experimental side of all this?
+
+MT: I think it depends on whether you want something that's a smoking gun of the whole theory, or whether you want to explore aspects of it.
+
+Certainly people do experiments which uncover some things you just hadn't thought about, [such as] the ways that black holes behave as quantum computers. In holography, black holes are described by theories that don't have gravity. You can actually simulate those in the lab.
+
+On the bigger question, say we want to know the shape of the extra dimensions of string theory, the timescale on which we can do experiments is obviously longer. But I think the onus is on the theorists to get clever about that.
+
+I also tie it to the big theories that we have, such as the cosmological constant or dark energy. If you can ultimately say that string theory predicts something like dark energy, can we then go and predict string theory through that? Because we've got no other explanation for dark energy.
+
+I'm very careful, and I don't think people should overpromise. But I think that just because you can't experimentally measure it, it doesn't mean that people can't study it.
+
+BT: Say we woke up tomorrow and there was smoking gun evidence that string theory was wrong. Are there any other alternative theories you find compelling? Or is it really the dominant one?
+
+MT: String theory is a collection of ideas of fundamental physics. I think it's very unlikely that there'd be a smoking gun saying that all of it was wrong. It would say some aspects of it were wrong, and then you focus on the bits that are left over.
+
+I think it's really important to explore ideas in all different directions. But as for alternate theories of quantum gravity, there's no real competitor.
+
+Editor's note: This interview has been edited and condensed for clarity.
+
+HowTheLightGetsIn is the world's largest ideas, science, and music festival, taking place each year in London and Hay. Missed out on their London festival? Don't worry. All the festival's previous events, including all the debates and talks from the recent London festival, can be watched on IAI.TV. Spanning topics from quantum to consciousness and everything in between, you'll find videos, articles, and even monthly online events from pioneering thinkers including Roger Penrose, Carlo Rovelli, and Sabine Hossenfelder. Enjoy a free monthly trial today at iai.tv/subscribe .

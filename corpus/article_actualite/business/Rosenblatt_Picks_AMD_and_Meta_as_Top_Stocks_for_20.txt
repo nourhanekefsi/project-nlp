@@ -1,8 +1,0 @@
-Rosenblatt analysts named Advanced Micro Devices (AMD, Financial) and Meta Platforms (META, Financial) the top stock picks for the first half of 2025. The report also stated that they are powered by artificial intelligence (AI) and have strong growth potential and solid financial performance.
-
-In this context, AMD is an outstanding performer, accounting for the major portion of its revenue growth, as the market share of CPUs and GPUs is expanding significantly, supported by its pressure to launch EPYC processors in server and data center markets. Analysts also pointed to the company's GPU pipeline, including the near future MI350 and MI400 models, whose adoption is likely to rise significantly in hyperscale environments. Rosenblatt speculates a 25x P/E multiple for an FY26 EPS of $10.00, thereby arriving at an AMD price target of $250. However, analysts said the semiconductor industry is competitive and cyclical and could negatively affect performance.
-
-Meanwhile, Meta is experiencing a 'renaissance' based on AI-driven revenue growth. During the first nine months of this year, the company experienced a 22 percent increase in revenue, which was largely due to AI-led innovations in advertising. According to Rosenblatt, adjusted EBITDA margins will grow to 62.6% in 2025. Based on a 29x multiple of 2025E EPS, the firm says Meta has a price target of $811.
-
-This article first appeared on GuruFocus.
-
