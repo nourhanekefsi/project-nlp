@@ -1,12 +1,12 @@
 import React from "react";
 import ScorallableList from "../components/scorallableList";
 import Button from "../components/button";
-const { getAllCategories} = require("../documentsUtils");
+import { useDocuments } from "../context/documents";
 
 export default function HomePage() {
 
   // Get all categories
-  const categories = getAllCategories();
+  const { categories } = useDocuments();
 
   return (
     <>
@@ -19,8 +19,8 @@ export default function HomePage() {
           }}
         >
           <div className="flex justify-center items-center absolute bottom-0 w-full space-x-80">
-            <Button name="Upload" to='/upload' />
-            <Button name="Write" to="/write" />
+            <Button name="Upload" to="/upload" />
+            <Button name="Search" to="/search" />
           </div>
         </div>
       </main>

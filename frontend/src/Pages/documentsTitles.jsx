@@ -1,16 +1,15 @@
-import React, { useState, useEffect } from "react";
+import React, { useEffect } from "react";
 import { useParams } from "react-router-dom";
 import TitleList from "../components/titleList"; // Update path as needed
-import { getTitlesAndAuthorsByCategory } from "../documentsUtils"; // Ensure correct import
+import { useDocuments } from "../context/documents";
 
 function DocumentsTitles() {
   const { category } = useParams(); // Category parameter from URL
-  const [titlesAndAuthors, setTitlesAndAuthors] = useState([]);
+  const { filteredDocuments, setCategoryFilter } = useDocuments();
 
   useEffect(() => {
     // Fetch titles and authors when the category changes
-    const titlesAndAuthors = getTitlesAndAuthorsByCategory(category);
-    setTitlesAndAuthors(titlesAndAuthors);
+    setCategoryFilter(category); // Update context with the new category
   }, [category]); // Run effect when `category` changes
 
   return (
@@ -20,9 +19,9 @@ function DocumentsTitles() {
         {category
           ? category.charAt(0).toUpperCase() + category.slice(1)
           : "?"}{" "}
-        - {titlesAndAuthors.length}
+        - {filteredDocuments.length}
       </h1>
-      <TitleList titlesAndAuthors={titlesAndAuthors} />
+      <TitleList titlesAndAuthors={filteredDocuments} />
     </div>
   );
 }

@@ -1,29 +1,22 @@
-import React, { useState, useRef } from "react";
-import { ToastContainer, toast } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
+import React, { useRef, useState } from "react";
+import Recommandations from "../components/recommandations";
 
-const WritePage = () => {
+function SearchPgage() {
   const fileInputRef = useRef(null);
 
   const [value, setValue] = useState({
-    title: "",
-    author: "",
     content: "",
   });
-  const [category, setCategory] = useState("");
+
   const [file, setFile] = useState(null);
   const [mode, setMode] = useState("write"); // "write" or "upload"
-
+  const [complete, setComplete] = useState(false);
   const handleChange = (e) => {
     const { name, value: fieldValue } = e.target;
     setValue((prev) => ({
       ...prev,
       [name]: fieldValue,
     }));
-  };
-
-  const handleCategoryChange = (e) => {
-    setCategory(e.target.value);
   };
 
   const handleUploadClick = () => {
@@ -41,74 +34,39 @@ const WritePage = () => {
 
   const isFormComplete = () => {
     if (mode === "upload") {
-      return value.title && value.author && category && file;
+      return file;
     }
-    return value.title && value.author && value.content && category;
+    return value.content;
   };
 
-  const onPublish = () => {
+  const onSearch = () => {
     if (isFormComplete()) {
       console.log({
         title: value.title,
         author: value.author,
         content: value.content,
-        category: category,
         file: mode === "upload" ? file?.name : null,
       });
-      toast.success("Your document has been successfully submitted!");
+      setComplete(true);
     } else {
-      toast.error("Please fill in all fields before submitting.");
     }
   };
 
   return (
-    <div className="relative p-10">
-      <ToastContainer />
+    <div className="w-full flex p-10">
       <button
         className={`absolute top-6 right-20 text-white w-24 p-0.5 rounded-3xl ${
           isFormComplete()
             ? "bg-lightGreen hover:bg-green"
             : "bg-green cursor-not-allowed"
         }`}
-        onClick={onPublish}
+        onClick={onSearch}
         disabled={!isFormComplete()}
       >
-        Publish
+        Search
       </button>
-
-      <div className="max-w-4xl m-auto">
-        <input
-          type="text"
-          name="author"
-          value={value.author}
-          onChange={handleChange}
-          placeholder="Author"
-          className="w-full p-4 text-lg rounded-lg focus:outline-none mb-4"
-        />
-        <div className="mb-4">
-          <input
-            type="text"
-            value={category}
-            onChange={handleCategoryChange}
-            list="category-options"
-            placeholder="Select or write a new category"
-            className="w-full p-4 text-lg rounded-lg focus:outline-none"
-          />
-          <datalist id="category-options">
-            <option value="Technology" />
-            <option value="Science" />
-            <option value="Health" />
-          </datalist>
-        </div>
-        <input
-          type="text"
-          name="title"
-          value={value.title}
-          onChange={handleChange}
-          placeholder="Title"
-          className="w-full p-4 text-lg rounded-lg focus:outline-none mb-4"
-        />
-        <div className="mb-4">
+      <div className="h-full w-full flex-col">
+        <div className="w-full">
           <label>
             <input
               type="radio"
@@ -132,6 +90,7 @@ const WritePage = () => {
             Upload
           </label>
         </div>
+
         {mode === "upload" ? (
           <>
             <input
@@ -158,13 +117,14 @@ const WritePage = () => {
             value={value.content}
             onChange={handleChange}
             placeholder="Write your story here..."
-            className="w-full h-fit p-4 text-lg rounded-lg focus:outline-none resize-none mt-4"
+            className="w-full p-4 text-lg rounded-lg focus:outline-none resize-none mt-4"
             rows="6"
           />
         )}
+        {complete && <Recommandations />}
       </div>
     </div>
   );
-};
+}
 
-export default WritePage;
+export default SearchPgage;

@@ -7,7 +7,7 @@ function TitleList({ titlesAndAuthors }) {
       {titlesAndAuthors?.map((document, index) => (
         <Link
           to="/read"
-          state={{ title: document.title, author: document.author, id: document.id }}
+          state={{ id: document.id }}
           key={index}
         >
           <div
