@@ -1,0 +1,14 @@
+The Cybertruck features an automatic tonneau that lets you lock in valuables. It rolls back and forth along a track and is somewhat water-resistant. Tesla never said that the tonneau would be waterproof, but many owners have encountered a lot of water flowing into their tonneau covers.
+
+The place where the glass roof meets the plastic strip - the aero flap- seems to be the location where most of the water gets in, and this has been noted by many as a constant source of leaks - while the rest of the bed stays mostly dry.
+
+Tesla has attempted to fix this by adding additional slats to the tonneau, which ensures that there are slats left over underneath the aero cover, thereby providing some additional water resistance. However, it looks like they’re doing more now to prevent these leaks.
+
+New Rubber Seals
+
+Tesla intends to issue a service code - the term they use for service bulletins to fix common problems - for this particular issue. This service code will include the removal of the old aero flap and the installation of a new aero flap that has additional rubber seals - similar to the ones used on windows. Thanks to theMONK11 on Reddit for catching this and providing the photo.
+
+The service code hasn’t gone live yet, so it looks like Tesla is only testing this new part for owners who have complained about excessive water intrusion. We’ll likely see this new flap, with the additional rubber seals, become a standard part on newly built trucks to resolve this issue.
+
+For everyone else, you’ll need to put in a service ticket with Tesla, but we would recommend waiting a few weeks before doing so. That will give them time to finalize the process and have the new part sent around to service centers across North America. Given that this isn’t a critical issue to the functionality of the vehicle, Tesla likely will not issue a recall for this - so it’ll be up to owners to create a service ticket and have the new applique installed.
+

@@ -1,0 +1,27 @@
+Laser beams powered by the sun are one small step closer to becoming a reality after researchers received funding to develop the pioneering technology. These lasers could eventually help power lunar bases and missions to Mars, and contribute to sustainable energy solutions on Earth, scientists say.
+
+In June, the international team of researchers announced it had received a roughly €4 million ($1.2 million) grant from the European Innovation Council and Innovate UK to develop solar-powered laser technology inspired by photosynthetic bacteria.
+
+"In my group, we spend a lot of time thinking about artificial light harvesting and what we can learn from nature," Erik Gauger , a quantum theorist at Heriot-Watt University in Scotland who is involved in the collaboration, told Live Science in an interview. "If it's possible in nature, we should be able to utilize similar effects in artificial systems."
+
+Sunlight-powered lasers aren't a new concept — the first one was demonstrated in 1963 , just three years after the first laser was built. But regular sunlight is too dilute to power a laser effectively. Solar-powered lasers typically require complex, heavy-duty optics to intensify sunlight at least a thousand-fold. The weight of these components means it's challenging to send them to space.
+
+Related: 'It invites us to reconsider our notion of shadow': Laser beams can actually cast their own shadows, scientists discover
+
+To overcome these challenges, Gauger and his colleagues will turn to bacteria that live in darkness deep in the ocean. These bacteria have extremely sensitive light-harvesting structures that can pick up nearly every photon they encounter. These structures enable the bacteria to photosynthesize even in very low-light conditions. By extracting these light-harvesting structures and replicating them in the lab, the team hopes to concentrate ambient sunlight enough to power a laser, Gauger said.
+
+Powering lunar bases and interplanetary missions
+
+He and his colleagues described how such a system might work in a 2021 paper . In the proposed system, the structures capture incoming sunlight, then funnel the light into a solid material, such as a crystal. The electrons in the atoms of that material absorb energy from the light and then release that extra energy as laser light.
+
+Sign up for the Live Science daily newsletter now Get the world’s most fascinating discoveries delivered straight to your inbox. Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors
+
+With the new grant, the team plans to develop new laser-emitting materials that can interface with the bacteria's photosynthetic structures.
+
+Once the laser system is online, it could help power satellites, lunar bases and even missions to Mars, according to a statement . Because laser beams remain narrow and tightly focused over long distances, they can transmit energy to faraway systems. For example, a solar laser built on a space station could power that station or send power to a nearby satellite, or even to Earth. At the receiving site, the energy from the laser light could then be converted into heat or electricity.
+
+The solar-powered lasers could also support a shift toward renewable energy on Earth, Gauger said.
+
+"They could, for example, help you split water, drive chemistry, synthesize fertilizers, and help with processes which require a significant fraction of the energy we currently produce, including from fossil sources," Gauger said. "They're not going to solve all our problems directly, but they might play a small part in the challenge we face to move to clean, sustainable energies."
+
+The team plans to develop a prototype laser within the next three years.
