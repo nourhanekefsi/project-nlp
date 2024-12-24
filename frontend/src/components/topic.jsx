@@ -1,12 +1,17 @@
-import React from 'react'
+import React from "react";
+import { Link } from "react-router-dom";
 
-function Topic() {
+function Topic({ id, title, similarityPourcentage }) {
+  console.log("Topic", id, title, similarityPourcentage)
   return (
-    <div className='w-1/3 h-20 flex text-wrap bg-cream m-0.5 hover:bg-yellow-200'>
-        <h2 className='m-auto p-2'>Still using the ‘You are an expert… ’ AI prompt prompt prompt</h2>
-        <div className='p-2 m-auto'>60%</div>
-    </div>
-  )
+    // Apply styling directly to Link element
+    <Link to="/read" state={{ title: title, authoer:"",id: id }} className="w-1/3 h-fit flex text-wrap bg-cream m-0.5 hover:bg-yellow-200">
+      <div className="w-full h-full flex p-2">
+        <h2 className="m-auto p-2">{title}</h2>
+        <div className="p-2 m-auto">{similarityPourcentage}%</div>
+      </div>
+    </Link>
+  );
 }
 
-export default Topic
+export default Topic;
