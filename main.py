@@ -8,6 +8,7 @@ from transformers import AutoTokenizer
 from model_recommndation import preprocess_documents_doc
 from model_recommndation import create_distilbert_embeddings_doc
 from model_recommndation import get_top_similar_documents_with_scores
+from fastapi.middleware.cors import CORSMiddleware
 
 # Define a Pydantic model for the request body
 class DocumentRequest(BaseModel):
@@ -17,6 +18,15 @@ class DocumentRequest(BaseModel):
     content: str
 
 app = FastAPI()
+
+# Add CORS middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],  # Replace with your frontend's URL
+    allow_credentials=True,
+    allow_methods=["*"],  # Allow all HTTP methods
+    allow_headers=["*"],  # Allow all headers
+)
 
 # **1. Récupérer les métadonnées des documents (sans file path)**
 @app.get("/documents")
