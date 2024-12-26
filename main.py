@@ -10,6 +10,8 @@ from model_recommndation import create_distilbert_embeddings_doc
 from model_recommndation import get_top_similar_documents_with_scores
 from fastapi.middleware.cors import CORSMiddleware
 from api_store import upload as upload
+from io import BytesIO
+import PyPDF2
 
 # Define a Pydantic model for the request body
 class DocumentRequest(BaseModel):
@@ -123,53 +125,61 @@ def get_document_details(doc_id: int):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error processing request: {str(e)}")
 
-
-
+# used by function 4
+async def extract_text_from_pdf(file_bytes):
+    # Wrap the bytes object in a BytesIO stream to make it file-like
+    pdf_file = BytesIO(file_bytes)
+    
+    try:
+        # Use a PDF processing library like PyPDF2 to extract text
+        reader = PyPDF2.PdfReader(pdf_file)
+        text = ''
+        for page in reader.pages:
+            text += page.extract_text()
+        return text
+    except Exception as e:
+        print(f"Error extracting text from PDF: {e}")
+        raise HTTPException(status_code=500, detail="Error extracting text from PDF.")
 
 # **4. Analyser un document uploadé sans le stocker**
-
 @app.post("/search")
 async def upload_file_or_text(
     file: UploadFile = None,
     text: str = Form(None)
 ):
     try:
-        # Vérifier qu'un seul des deux est fourni
+        # Check if file or text is provided
         if file and text:
             raise HTTPException(status_code=400, detail="Provide either a file or text, not both.")
         if not file and not text:
             raise HTTPException(status_code=400, detail="No file or text provided.")
         
-        # Traiter le contenu (fichier ou texte)
+        # Process the file or text
         if file:
             content = await file.read()
             try:
-                document_content = content.decode("utf-8")
-            except UnicodeDecodeError:
-                raise HTTPException(status_code=400, detail="File must be UTF-8 encoded.")
+                # Extract text from the uploaded PDF
+                document_content = await extract_text_from_pdf(content)
+            except Exception as e:
+                raise HTTPException(status_code=400, detail="Error processing the uploaded file.")
         else:
             document_content = text
 
         if not document_content.strip():
             raise HTTPException(status_code=400, detail="Provided file or text is empty.")
 
-        # Prétraitement et génération des vecteurs
+        # Continue with your preprocessing and similarity calculation
         preprocessed_content, _ = preprocess_documents_doc(document_content)
         embedding = create_distilbert_embeddings_doc(preprocessed_content)
         top_similar_docs = get_top_similar_documents_with_scores(embedding, vector_file="distilbert_vectors.json", top_k=10)
-        
-        try:
-            with open("all_documents.json", "r", encoding="utf-8") as meta_file:
-                all_metadata = json.load(meta_file)
-        except FileNotFoundError:
-            raise HTTPException(status_code=500, detail="Metadata file 'all_documents.json' not found.")
-        except json.JSONDecodeError:
-            raise HTTPException(status_code=500, detail="Error decoding 'all_documents.json'.")
+
+        # Handle metadata and response
+        with open("all_documents.json", "r", encoding="utf-8") as meta_file:
+            all_metadata = json.load(meta_file)
         
         top_similar_documents = []
         for s_id, similarity in top_similar_docs:
-            # Convertir s_id en entier pour correspondre à l'id dans all_metadata
-            s_id = int(s_id)  # Si s_id est une chaîne de caractères ou un float, cette conversion est nécessaire
+            s_id = int(s_id)
             similar_doc = next((doc for doc in all_metadata if doc["id"] == s_id), None)
             if similar_doc:
                 top_similar_documents.append({
@@ -178,20 +188,17 @@ async def upload_file_or_text(
                     "title": similar_doc["title"],
                     "url": similar_doc["url"],
                 })
-            else:
-                # Ajoutez des logs de débogage pour vérifier si un document n'a pas été trouvé
-                print(f"Document with id {s_id} not found in metadata.")
         
-        # Retourner la réponse avec les similarités
         return {
             "message": "Document processed successfully.",
             "similar_documents": top_similar_documents
         }
 
     except HTTPException as http_exc:
-        raise http_exc  # Relancer les exceptions HTTP avec leur code
+        raise http_exc
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"An unexpected error occurred: {str(e)}")
+
 
 # Include the routes from api_store
 app.include_router(upload, prefix="/upload")
