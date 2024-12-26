@@ -510,8 +510,17 @@
         "title": "Architecture Tesla",
         "author": "Soraya Khene",
         "type": "document",
-        "categorie": "Technology",
+        "categorie": "technology",
         "file_path": "corpus/UserDocs/Technology\\Architecture Tesla.pdf",
         "url": "http://localhost:8000/corpus/UserDocs/Technology\\Architecture Tesla.pdf"
+    },
+    {
+        "id": 61,
+        "title": "How to prepare couscous",
+        "author": "Soraya Khene",
+        "type": "document",
+        "categorie": "food",
+        "file_path": "corpus/UserDocs/food\\How to prepare couscous.txt",
+        "url": "http://localhost:8000/corpus/UserDocs/food\\How to prepare couscous.txt"
     }
 ]
