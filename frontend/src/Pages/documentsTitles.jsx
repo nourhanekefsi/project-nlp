@@ -6,7 +6,7 @@ import { useDocuments } from "../context/documents";
 function DocumentsTitles() {
   const { category } = useParams(); // Category parameter from URL
   const { filteredDocuments, setCategoryFilter } = useDocuments();
-
+  console.log("filteredDocuments", filteredDocuments)
   useEffect(() => {
     // Fetch titles and authors when the category changes
     setCategoryFilter(category); // Update context with the new category

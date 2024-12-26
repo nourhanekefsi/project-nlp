@@ -18,7 +18,6 @@ export const DocumentsProvider = ({ children }) => {
         // Use axiosInstance for the request
         const response = await axiosInstance.get("/documents");
         setDocuments(response.data);
-
         // Extract unique categories
         const uniqueCategories = [
           ...new Set(response.data.map(doc => doc.categorie)),
@@ -36,7 +35,7 @@ export const DocumentsProvider = ({ children }) => {
   useEffect(() => {
     if (category) {
       // Only filter the displayed documents
-      const filtered = documents.filter(doc => doc.categorie === category);
+      const filtered = documents.filter(doc => doc.categorie.toLowerCase() === category.toLowerCase());
       setFilteredDocuments(filtered);
     } else {
       setFilteredDocuments(documents); // If no category is selected, show all documents
