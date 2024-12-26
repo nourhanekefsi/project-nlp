@@ -25,7 +25,7 @@ app = FastAPI()
 # Add CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],  # Replace with your frontend's URL
+    allow_origins=["http://localhost:3000"], 
     allow_credentials=True,
     allow_methods=["*"],  # Allow all HTTP methods
     allow_headers=["*"],  # Allow all headers
@@ -43,7 +43,7 @@ def get_all_documents():
     except FileNotFoundError:
         raise HTTPException(status_code=404, detail="File not found")
 
-# **2. Récupérer le contenu d’un document spécifique**
+# **2. Récupérer le lien d’un document spécifique**
 @app.get("/document/{doc_id}")
 def get_document_content(doc_id: int):
     try:
@@ -86,7 +86,7 @@ def get_document_details(doc_id: int):
             headers = next(reader)  # Lire l'en-tête
             for row in reader:
                 if int(row[0]) == doc_id:  # Trouver la ligne correspondant à doc_id
-                    similar_doc_ids = [int(row[i]) for i in range(1, 11)]  # Extraire les 10 IDs similaires
+                    similar_doc_ids = [int(row[i]) for i in range(2, 12)]  # Extraire les 10 IDs similaires
                     break
             else:
                 raise HTTPException(status_code=404, detail="No similar documents found")
