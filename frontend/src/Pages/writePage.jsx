@@ -1,6 +1,8 @@
 import React, { useState, useRef } from "react";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import axios from "axios"; // Import axios
+import axiosInstance from "../api/axios";
 
 const WritePage = () => {
   const fileInputRef = useRef(null);
@@ -46,16 +48,34 @@ const WritePage = () => {
     return value.title && value.author && value.content && category;
   };
 
-  const onPublish = () => {
+  const onPublish = async () => {
     if (isFormComplete()) {
-      console.log({
-        title: value.title,
-        author: value.author,
-        content: value.content,
-        category: category,
-        file: mode === "upload" ? file?.name : null,
-      });
-      toast.success("Your document has been successfully submitted!");
+      const formData = new FormData();
+      formData.append("title", value.title);
+      formData.append("author", value.author);
+      formData.append("category", category.toLowerCase());
+      if (mode === "upload" && file) {
+        formData.append("file", file);
+      } else {
+        formData.append("content", value.content);
+      }
+      console.log(value.title ,value.author ,value.content , category, file);
+      try {
+        const response = await axiosInstance.post("/upload", formData, {
+          headers: {
+            "Content-Type": "multipart/form-data", // Ensure the content type is set correctly for file uploads
+          },
+        });
+
+        if (response.status === 200) {
+          toast.success("Your document has been successfully submitted!");
+        } else {
+          toast.error("Error: Unable to submit the document.");
+        }
+      } catch (error) {
+        toast.error("An error occurred while submitting your post.");
+        console.error("Error:", error);
+      }
     } else {
       toast.error("Please fill in all fields before submitting.");
     }

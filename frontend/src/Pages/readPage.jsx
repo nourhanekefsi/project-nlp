@@ -39,6 +39,7 @@ function ReadPage() {
     return <div>{error}</div>;
   }
 
+
   return (
     <>
       {document ? (
@@ -52,38 +53,22 @@ function ReadPage() {
               <h3 className="p-1 font-bold">
                 By: {document.document.author || "No Author Provided"}
               </h3>
-              <p className="p-3 leading-relaxed">{document.document.content}</p>
-                            {/* <a
-                      href="https://www.umoncton.ca/umcm-sciences/files/sciences/wf/wf/pdf/cest_quoi_la_science.pdf"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-lightGreen underline"
-                    >
-                      Direct link to the document
-                    </a> 
-                    <div className="flex justify-center items-center min-h-screen">
-                      <iframe
-                        src="https://www.umoncton.ca/umcm-sciences/files/sciences/wf/wf/pdf/cest_quoi_la_science.pdf"
-                        title="PDF Viewer"
-                        className="w-full h-[1000px] border-none"
-                      ></iframe>
-                    </div>
-                    <a
-                      href="https://en.wikipedia.org/wiki/Social_media"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-lightGreen underline"
-                    >
-                      Direct link to the website
-                    </a>
-                    <div className="flex justify-center items-center min-h-screen">
-                      <iframe
-                        src="https://en.wikipedia.org/wiki/Social_media"
-                        title="Social Media Wikipedia Page"
-                        className="w-full h-[1000px] border-none"
-                        loading="lazy"
-                      ></iframe>
-                    </div> */}
+              <a
+                href={document.document.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-lightGreen underline"
+              >
+                Direct link to the website
+              </a>
+              <div className="flex justify-center items-center min-h-screen">
+                <iframe
+                  src={document.document.link}
+                  title={document.document.title}
+                  className="w-full h-[1000px] border-none"
+                  loading="lazy"
+                ></iframe>
+              </div>
             </div>
           </div>
           <Recommandations similarDocs={document.similar_documents} />

@@ -1,22 +1,18 @@
 import React, { useRef, useState } from "react";
 import Recommandations from "../components/recommandations";
+import axiosInstance from "../api/axios";
 
 function SearchPgage() {
   const fileInputRef = useRef(null);
-
-  const [value, setValue] = useState({
-    content: "",
-  });
-
+  const [content, setContent] = useState("");
   const [file, setFile] = useState(null);
   const [mode, setMode] = useState("write"); // "write" or "upload"
   const [complete, setComplete] = useState(false);
+  const [similarDocs, setSimilarDocs] = useState([]);
+
   const handleChange = (e) => {
-    const { name, value: fieldValue } = e.target;
-    setValue((prev) => ({
-      ...prev,
-      [name]: fieldValue,
-    }));
+    const { value } = e.target;
+    setContent(value);
   };
 
   const handleUploadClick = () => {
@@ -32,23 +28,53 @@ function SearchPgage() {
     }
   };
 
+  // Updated function to validate if the form is complete
   const isFormComplete = () => {
     if (mode === "upload") {
-      return file;
+      return file; // File must be uploaded
     }
-    return value.content;
+    return content.trim() !== ""; // Content must be provided for 'write' mode
   };
 
   const onSearch = () => {
     if (isFormComplete()) {
-      console.log({
-        title: value.title,
-        author: value.author,
-        content: value.content,
-        file: mode === "upload" ? file?.name : null,
-      });
-      setComplete(true);
+      const formData = new FormData();
+
+      // Check if content (text) is provided
+      if (content.trim()) {
+        formData.append('text', content);  // Ensure key matches the backend
+      }
+
+      // Check if a file (PDF) is uploaded
+      if (mode === "upload" && file) {
+        formData.append('file', file); // Append the file object directly
+      }
+
+      // If neither content nor file is provided, return early or show an error
+      if (!content.trim() && (!file || mode !== "upload")) {
+        console.log("No content or file provided");
+        return;
+      }
+
+      // Send the POST request to the server with FormData
+      axiosInstance
+        .post("/search", formData, {
+          headers: {
+            "Content-Type": "multipart/form-data",
+          },
+        })
+        .then((response) => {
+          // Handle the response, for example, display similar documents
+          console.log("Similar documents:", response.data.similar_documents);
+          setSimilarDocs(response.data);
+          setComplete(true); // Mark as complete if the request was successful
+        })
+        .catch((error) => {
+          // Handle any errors
+          console.error("Error fetching similar documents:", error);
+        });
     } else {
+      console.log("Form is incomplete");
     }
   };
 
@@ -114,14 +140,14 @@ function SearchPgage() {
         ) : (
           <textarea
             name="content"
-            value={value.content}
+            value={content}
             onChange={handleChange}
             placeholder="Write your story here..."
             className="w-full p-4 text-lg rounded-lg focus:outline-none resize-none mt-4"
             rows="6"
           />
         )}
-        {complete && <Recommandations />}
+        {complete && <Recommandations similarDocs={similarDocs.similar_documents} />}
       </div>
     </div>
   );
