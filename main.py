@@ -33,7 +33,7 @@ app.add_middleware(
 @app.get("/documents")
 def get_all_documents():
     try:
-        with open("all_documents.json", "r") as file:
+        with open("all_documents.json", "r",encoding="utf-8") as file:
             documents = json.load(file)
         for doc in documents:
             doc.pop("file_path", None)
@@ -50,9 +50,7 @@ def get_document_content(doc_id: int):
         document = next((doc for doc in documents if doc["id"] == doc_id), None)
         if not document:
             raise HTTPException(status_code=404, detail="Document not found")
-        with open(document["file_path"], "r") as doc_file:
-            content = doc_file.read()
-        return {"id": doc_id, "content": content}
+        return {"id": doc_id, "link": document["url"]}
     except FileNotFoundError:
         raise HTTPException(status_code=404, detail="File not found")
 
@@ -69,19 +67,12 @@ def get_document_details(doc_id: int):
         if not document:
             raise HTTPException(status_code=404, detail="Document not found")
         
-        # Lire le contenu du document principal
-        try:
-            with open(document["file_path"], "r") as doc_file:
-                content = doc_file.read()
-        except FileNotFoundError:
-            raise HTTPException(status_code=404, detail="Document file not found")
-        
         # Ajouter le contenu au document principal
         main_document = {
             "id": document["id"],
             "title": document["title"],
             "author": document["author"],
-            "content": content
+            "link": document["url"]
         }
 
         # Initialiser une liste pour les documents similaires
