@@ -12,6 +12,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from api_store import upload as upload
 from io import BytesIO
 import PyPDF2
+from fastapi.staticfiles import StaticFiles
 
 # Define a Pydantic model for the request body
 class DocumentRequest(BaseModel):
@@ -202,3 +203,4 @@ async def upload_file_or_text(
 
 # Include the routes from api_store
 app.include_router(upload, prefix="/upload")
+app.mount("/corpus", StaticFiles(directory="corpus"), name="corpus")

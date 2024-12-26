@@ -1,6 +1,9 @@
-from fastapi import FastAPI, UploadFile, Form, HTTPException, APIRouter
-import json
+import io
+from PyPDF2 import PdfReader
 import os
+import json
+from fastapi import APIRouter, Form, HTTPException, Request, UploadFile
+from typing import Optional
 import csv
 from model_recommndation import (
     preprocess_documents_doc,
@@ -9,16 +12,16 @@ from model_recommndation import (
     save_sorted_similarities_from_matrix
 )
 
-upload = APIRouter()
+uploadApi = APIRouter()
 
-@upload.post("/")
+@uploadApi.post("")
 async def upload_and_process(
-    file: UploadFile,
+    request: Request,
+    file: Optional[UploadFile] = None,
     category: str = Form(...),
     title: str = Form(...),
     author: str = Form(...),
-    type: str = Form(...),  # User-provided type
-    url: str = Form("")
+    content: Optional[str] = Form(None),
 ):
     try:
         # Paths to the required files
@@ -34,24 +37,43 @@ async def upload_and_process(
             with open(metadata_file, "r", encoding="utf-8") as metadata_fp:
                 documents = json.load(metadata_fp)
 
-        # Check if the category exists or create a new one
-        base_dirs = ["corpus/article_actualite", "corpus/articles_presses"]
-        category_path = None
-        for base_dir in base_dirs:
-            potential_path = os.path.join(base_dir, category)
-            if os.path.exists(potential_path):
-                category_path = potential_path
-                break
+        # Check or create the category directory
+        category_path = f"corpus/UserDocs/{category}"
+        os.makedirs(category_path, exist_ok=True)
 
-        if not category_path:
-            category_path = os.path.join(base_dirs[0], category)  # Default to "article_actualite"
-            os.makedirs(category_path, exist_ok=True)
+        # Handle file upload
+        if file:
+            # Save the uploaded PDF file
+            file_path = os.path.join(category_path, f"{title}.pdf")
+            content = await file.read()
 
-        # Save the uploaded file in the determined category folder
-        file_path = os.path.join(category_path, f"{title}.txt")
-        content = await file.read()  # Read the content outside the file-writing context
-        with open(file_path, "wb") as f:
-            f.write(content)
+            # Save the PDF as a file
+            with open(file_path, "wb") as f:
+                f.write(content)
+
+            # Convert PDF content to text (for processing, not saving)
+            pdf_file = io.BytesIO(content)  # Create a file-like object from bytes
+            pdf_reader = PdfReader(pdf_file)
+
+            # Extract text from the PDF (e.g., all pages)
+            document_content = ""
+            for page in pdf_reader.pages:
+                document_content += page.extract_text()
+
+        elif content:
+            # If no file is uploaded, save content as a txt file (optional, not necessary if only processing)
+            file_path = os.path.join(category_path, f"{title}.txt")
+            document_content = content
+
+            with open(file_path, "w", encoding="utf-8") as txt_file:
+                txt_file.write(document_content)
+
+        else:
+            raise HTTPException(status_code=400, detail="No file or content provided.")
+
+        # Get the base URL and construct the file URL
+        base_url = str(request.base_url).rstrip("/")
+        url = f"{base_url}/{file_path}"
 
         # Generate a new ID for the document
         new_id = max((doc["id"] for doc in documents), default=0) + 1
@@ -61,10 +83,10 @@ async def upload_and_process(
             "id": new_id,
             "title": title,
             "author": author,
-            "type": type,  # User-provided type
+            "type": "document",
             "categorie": category,
             "file_path": file_path,
-            "url": url
+            "url": url,
         }
         documents.append(new_document)
 
@@ -73,7 +95,6 @@ async def upload_and_process(
             json.dump(documents, metadata_fp, indent=4)
 
         # Preprocess the document
-        document_content = content.decode("utf-8")  # Decode content as UTF-8 string
         preprocessed_content, vocabulary = preprocess_documents_doc(document_content)
 
         # Update the preprocessed content file
@@ -87,7 +108,7 @@ async def upload_and_process(
 
         preprocessed_data["preprocessed_content"][str(new_id)] = {
             "input_ids": preprocessed_content,
-            "vocabulary": vocabulary
+            "vocabulary": vocabulary,
         }
 
         with open(preprocessed_content_file, "w", encoding="utf-8") as preprocessed_fp:
@@ -121,9 +142,9 @@ async def upload_and_process(
         # Verify the sorted similarities
         with open(sorted_similarity_file, "r") as sorted_file:
             sorted_data = sorted_file.read()
-            print(f"Contenu du fichier trié :\n{sorted_data}")
+            print(f"Sorted Similarities:\n{sorted_data}")
 
-        return {"message": "File uploaded and processed successfully.", "document_id": new_id}
+        return {"message": "File uploaded and processed successfully.", "document_url": url}
 
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error processing file: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Error processing request: {str(e)}")
