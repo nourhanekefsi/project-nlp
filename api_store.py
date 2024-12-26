@@ -2,7 +2,6 @@ from fastapi import FastAPI, UploadFile, Form, HTTPException, APIRouter
 import json
 import os
 import csv
-from api_store import search  # Import the router
 from model_recommndation import (
     preprocess_documents_doc,
     create_distilbert_embeddings_doc,
@@ -10,9 +9,9 @@ from model_recommndation import (
     save_sorted_similarities_from_matrix
 )
 
-search = APIRouter()
+upload = APIRouter()
 
-@search.post("/")
+@upload.post("/")
 async def upload_and_process(
     file: UploadFile,
     category: str = Form(...),

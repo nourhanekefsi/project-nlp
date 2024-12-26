@@ -9,7 +9,7 @@ from model_recommndation import preprocess_documents_doc
 from model_recommndation import create_distilbert_embeddings_doc
 from model_recommndation import get_top_similar_documents_with_scores
 from fastapi.middleware.cors import CORSMiddleware
-from api_store import search as search
+from api_store import upload as upload
 
 # Define a Pydantic model for the request body
 class DocumentRequest(BaseModel):
@@ -128,7 +128,7 @@ def get_document_details(doc_id: int):
 
 # **4. Analyser un document uploadé sans le stocker**
 
-@app.post("/upload")
+@app.post("/search")
 async def upload_file_or_text(
     file: UploadFile = None,
     text: str = Form(None)
@@ -194,4 +194,4 @@ async def upload_file_or_text(
         raise HTTPException(status_code=500, detail=f"An unexpected error occurred: {str(e)}")
 
 # Include the routes from api_store
-app.include_router(search, prefix="/search")
+app.include_router(upload, prefix="/upload")
