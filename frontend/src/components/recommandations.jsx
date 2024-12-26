@@ -16,7 +16,7 @@ function Recommandations({ similarDocs }) {
   return (
     <>
       <div className="mb-10 p-5">
-        <h1 className="text-2xl">Related topics</h1>
+        <h1 className="text-2xl">Related topics {similarDocs.length}</h1>
         <div className="flex-col p-5">
           <div className="flex flex-wrap">
             {displayedDocs.map((doc, index) => (
