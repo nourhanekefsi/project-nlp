@@ -3,13 +3,12 @@ from fastapi import FastAPI, UploadFile, Form, HTTPException
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 import json
-import os
 from transformers import AutoTokenizer
-from model_recommndation import preprocess_documents_doc
-from model_recommndation import create_distilbert_embeddings_doc
-from model_recommndation import get_top_similar_documents_with_scores
+from model_recommendation import preprocess_documents_doc
+from model_recommendation import create_distilbert_embeddings_doc
+from model_recommendation import get_top_similar_documents_with_scores
 from fastapi.middleware.cors import CORSMiddleware
-from api_store import upload as upload
+from api_store import uploadApi
 from io import BytesIO
 import PyPDF2
 from fastapi.staticfiles import StaticFiles
@@ -202,5 +201,5 @@ async def upload_file_or_text(
 
 
 # Include the routes from api_store
-app.include_router(upload, prefix="/upload")
+app.include_router(uploadApi, prefix="/upload")
 app.mount("/corpus", StaticFiles(directory="corpus"), name="corpus")

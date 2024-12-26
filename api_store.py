@@ -5,7 +5,7 @@ import json
 from fastapi import APIRouter, Form, HTTPException, Request, UploadFile
 from typing import Optional
 import csv
-from model_recommndation import (
+from model_recommendation import (
     preprocess_documents_doc,
     create_distilbert_embeddings_doc,
     compute_similarity_for_document,

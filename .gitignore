@@ -1,0 +1,6 @@
+__pycache__/
+distilbert_similarity_matrix.json
+document_similarity_matrix.csv
+preprocessed_content.json
+sorted_document_similarities.csv
+distilbert_vectors.json

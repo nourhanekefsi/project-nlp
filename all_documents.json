@@ -495,5 +495,23 @@
         "categorie": "technology",
         "file_path": "corpus/article_actualite\\technology\\Unlock_these_15_date_specific_Xbox_achievements_ov.txt",
         "url": "https://www.trueachievements.com/news/date-specific-xbox-achievements-holidays"
+    },
+    {
+        "id": 59,
+        "title": "How to build a model using deep learning",
+        "author": "Soraya",
+        "type": "document",
+        "categorie": "AI",
+        "file_path": "corpus/UserDocs/AI\\How to build a model using deep learning.txt",
+        "url": "http://localhost:8000/corpus/UserDocs/AI\\How to build a model using deep learning.txt"
+    },
+    {
+        "id": 60,
+        "title": "Architecture Tesla",
+        "author": "Soraya Khene",
+        "type": "document",
+        "categorie": "Technology",
+        "file_path": "corpus/UserDocs/Technology\\Architecture Tesla.pdf",
+        "url": "http://localhost:8000/corpus/UserDocs/Technology\\Architecture Tesla.pdf"
     }
 ]
