@@ -80,13 +80,13 @@ def get_document_details(doc_id: int):
         # Initialiser une liste pour les documents similaires
         similar_docs = []
 
-        # Charger les 10 documents les plus similaires depuis sorted_document_similarities.csv
+        # Charger tous documents similaires depuis sorted_document_similarities.csv
         with open("sorted_document_similarities.csv", "r") as csv_file:
             reader = csv.reader(csv_file)
             headers = next(reader)  # Lire l'en-tête
             for row in reader:
                 if int(row[0]) == doc_id:  # Trouver la ligne correspondant à doc_id
-                    similar_doc_ids = [int(row[i]) for i in range(2, 12)]  # Extraire les 10 IDs similaires
+                    similar_doc_ids = [int(row[i]) for i in range(2, len(headers))]  # Extraire les 10 IDs similaires
                     break
             else:
                 raise HTTPException(status_code=404, detail="No similar documents found")
@@ -98,7 +98,7 @@ def get_document_details(doc_id: int):
             headers = next(reader)  # Lire l'en-tête (les IDs des documents)
             for row in reader:
                 if int(row[0]) == doc_id:  # Trouver la ligne correspondant à doc_id
-                    similarity_scores = {int(headers[i]): float(row[i]) for i in range(1, len(headers))}
+                    similarity_scores = {int(headers[i]): float(row[i]) for i in range(1, len(headers)) if float(row[i]) > float(0.4)}
                     break
 
         # Pour chaque ID similaire, récupérer les métadonnées et la similarité
@@ -110,6 +110,7 @@ def get_document_details(doc_id: int):
                     "title": similar_document["title"],
                     "similarity": similarity_scores.get(similar_id, 0.0),  # Récupérer la similarité
                 })
+                
 
         # Trier les documents similaires par similarité décroissante
         similar_docs_sorted = sorted(similar_docs, key=lambda doc: doc["similarity"], reverse=True)
@@ -171,7 +172,7 @@ async def upload_file_or_text(
         # Continue with your preprocessing and similarity calculation
         preprocessed_content, _ = preprocess_documents_doc(document_content)
         embedding = create_distilbert_embeddings_doc(preprocessed_content)
-        top_similar_docs = get_top_similar_documents_with_scores(embedding, vector_file="distilbert_vectors.json", top_k=10)
+        top_similar_docs = get_top_similar_documents_with_scores(embedding, vector_file="distilbert_vectors.json", threshold=0.4)
 
         # Handle metadata and response
         with open("all_documents.json", "r", encoding="utf-8") as meta_file:

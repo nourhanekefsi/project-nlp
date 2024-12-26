@@ -302,15 +302,15 @@ def compute_similarity_for_document(document_id, vector_file="distilbert_vectors
     except Exception as e:
         raise ValueError(f"Erreur lors du calcul des similarités: {e}")
     
-def get_top_similar_documents_with_scores(embedding, vector_file="distilbert_vectors.json", top_k=10):
+def get_top_similar_documents_with_scores(embedding, vector_file="distilbert_vectors.json", threshold=0.4):
     """
     Calcule la similarité cosinus entre un embedding donné et les vecteurs existants,
-    puis retourne les IDs et les scores des documents les plus similaires.
+    puis retourne les IDs et les scores des documents dont la similarité dépasse un seuil donné.
 
     :param embedding: Vecteur embedding du document (liste ou numpy array).
     :param vector_file: Nom du fichier JSON contenant les vecteurs des documents.
-    :param top_k: Nombre de documents les plus similaires à retourner (par défaut : 10).
-    :return: Liste de tuples [(id_document, similarité_cosinus), ...].
+    :param threshold: Seuil de similarité à partir duquel les documents seront considérés comme similaires.
+    :return: Liste de tuples [(id_document, similarité_cosinus), ...] dont les similarités sont supérieures au seuil.
     """
     try:
         # Charger les vecteurs depuis le fichier JSON
@@ -327,17 +327,17 @@ def get_top_similar_documents_with_scores(embedding, vector_file="distilbert_vec
         # Calculer la similarité cosinus entre le vecteur d'entrée et les vecteurs existants
         similarities = cosine_similarity(query_vector, vectors).flatten()
         
-        # Trouver les indices des `top_k` similarités les plus élevées
-        top_indices = np.argsort(similarities)[::-1][:top_k]
-        
-        # Extraire les IDs et les scores correspondants
-        top_similar_docs = [(doc_ids[i], similarities[i]) for i in top_indices]
-        
-        return top_similar_docs
+        # Filtrer les documents dont la similarité dépasse le seuil
+        similar_docs = [(doc_ids[i], similarities[i]) for i in range(len(similarities)) if similarities[i] >= threshold]
+
+        # Trier les documents par similarité en ordre décroissant
+        similar_docs_sorted = sorted(similar_docs, key=lambda doc: doc[1], reverse=True)
+        return similar_docs_sorted
 
     except Exception as e:
         print(f"Une erreur s'est produite lors du calcul des similarités : {e}")
         return []
+
 
 
 def save_sorted_similarities_from_matrix(matrix_file="document_similarity_matrix.csv", output_file="sorted_document_similarities.csv"):
