@@ -498,29 +498,11 @@
     },
     {
         "id": 59,
-        "title": "How to build a model using deep learning",
-        "author": "Soraya",
-        "type": "document",
-        "categorie": "AI",
-        "file_path": "corpus/UserDocs/AI\\How to build a model using deep learning.txt",
-        "url": "http://localhost:8000/corpus/UserDocs/AI\\How to build a model using deep learning.txt"
-    },
-    {
-        "id": 60,
         "title": "Architecture Tesla",
         "author": "Soraya Khene",
         "type": "document",
         "categorie": "technology",
-        "file_path": "corpus/UserDocs/Technology\\Architecture Tesla.pdf",
-        "url": "http://localhost:8000/corpus/UserDocs/Technology\\Architecture Tesla.pdf"
-    },
-    {
-        "id": 61,
-        "title": "How to prepare couscous",
-        "author": "Soraya Khene",
-        "type": "document",
-        "categorie": "food",
-        "file_path": "corpus/UserDocs/food\\How to prepare couscous.txt",
-        "url": "http://localhost:8000/corpus/UserDocs/food\\How to prepare couscous.txt"
+        "file_path": "corpus/UserDocs/technology\\Architecture Tesla.pdf",
+        "url": "http://localhost:8000/corpus/UserDocs/technology\\Architecture Tesla.pdf"
     }
 ]

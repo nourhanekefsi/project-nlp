@@ -9,7 +9,7 @@ from pydantic import BaseModel
 from transformers import AutoTokenizer
 import PyPDF2
 
-from model_recommndation import (
+from model_recommendation import (
     preprocess_documents_doc,
     create_distilbert_embeddings_doc,
     get_top_similar_documents_with_scores
@@ -60,7 +60,7 @@ def get_document_content(doc_id: int):
         raise HTTPException(status_code=404, detail="File not found")
     
 #définir un seuil
-threshold: float = 0.88
+threshold: float = 0.4
 
 #Retourner les details d'un document et ses documents les plus similaires en utilisant un seuil
 @app.get("/document/{doc_id}/details")
@@ -166,7 +166,7 @@ async def upload_file_or_text(
         # Preprocess, embed, and similar documents
         preprocessed_content, _ = preprocess_documents_doc(document_content)
         embedding = create_distilbert_embeddings_doc(preprocessed_content)
-        top_similar_docs = get_top_similar_documents_with_scores(embedding, vector_file="distilbert_vectors.json", threshold=threshold)
+        top_similar_docs = get_top_similar_documents_with_scores(embedding, threshold=threshold, vector_file="distilbert_vectors.json")
 
         # trouver metadata pour les documents similaires
         with open("all_documents.json", "r", encoding="utf-8") as meta_file:

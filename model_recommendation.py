@@ -302,7 +302,7 @@ def compute_similarity_for_document(document_id, vector_file="distilbert_vectors
     except Exception as e:
         raise ValueError(f"Erreur lors du calcul des similarités: {e}")
     
-def get_top_similar_documents_with_scores(embedding, vector_file="distilbert_vectors.json", threshold=0.4):
+def get_top_similar_documents_with_scores(embedding, threshold, vector_file="distilbert_vectors.json"):
     """
     Calcule la similarité cosinus entre un embedding donné et les vecteurs existants,
     puis retourne les IDs et les scores des documents dont la similarité dépasse un seuil donné.

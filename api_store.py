@@ -131,10 +131,22 @@ async def upload_and_process(
         # Compute similarities for the new document
         similarity_line = compute_similarity_for_document(new_id, vector_file=vector_file)
 
-        # Append the new similarities to the similarity matrix
-        with open(similarity_matrix_file, "a", newline="") as csv_file:
+        # First, read the existing similarity matrix into memory
+        with open(similarity_matrix_file, "r", newline="") as csv_file:
+            reader = csv.reader(csv_file)
+            matrix = [row for row in reader]
+
+        # Add the new similarity line as a new row (horizontally)
+        matrix.append(similarity_line)
+
+        # Add the new similarity line as a new column (vertically) in all existing rows
+        for i, row in enumerate(matrix):
+            row.append(similarity_line[i])
+
+        # Now write the updated matrix back to the CSV file
+        with open(similarity_matrix_file, "w", newline="") as csv_file:
             writer = csv.writer(csv_file)
-            writer.writerow(similarity_line)
+            writer.writerows(matrix)
 
         # Save sorted similarities
         save_sorted_similarities_from_matrix(similarity_matrix_file, sorted_similarity_file)
