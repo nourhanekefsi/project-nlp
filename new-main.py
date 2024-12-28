@@ -8,6 +8,10 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 from transformers import AutoTokenizer
 import PyPDF2
+from fastapi.responses import StreamingResponse
+from wordcloud import WordCloud
+import json
+import io
 
 from model_recommendation import (
     preprocess_documents_doc,
@@ -195,6 +199,27 @@ async def upload_file_or_text(
         raise HTTPException(status_code=500, detail=f"An unexpected error occurred: {str(e)}")
 
 
+@app.post("/wordCloud")
+async def generate_wordcloud(
+    id: str = Form(...)
+):
+    # Load tokens from the file based on the given ID
+    with open('tokens_docs.json', 'r') as file:
+        tokens = json.load(file)["preprocessed_content"][id]
+
+    # Convert tokens into a space-separated string
+    text = ' '.join(tokens)
+
+    # Generate the word cloud
+    wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
+
+    # Save the word cloud image to a BytesIO stream
+    img_io = io.BytesIO()
+    wordcloud.to_image().save(img_io, 'PNG')
+    img_io.seek(0)
+
+    # Return the image as a StreamingResponse
+    return StreamingResponse(img_io, media_type="image/png")
 
 
 # Include routes from api_store and static files
