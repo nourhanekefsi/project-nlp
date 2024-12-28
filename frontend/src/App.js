@@ -7,6 +7,7 @@ import SearchPgage from "./Pages/searchPgage";
 import WritePage from "./Pages/writePage";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 function App() {
+
   return (
     <div className="App">
       <DocumentsProvider>
