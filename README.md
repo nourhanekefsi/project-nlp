@@ -8,4 +8,9 @@ un fichier jupyter contennant le suivant:
 contient les metadonnees des documents (titre, auteur, url, categorie, file_path)
 ### preprocessed_content.json
 les tokens de chaque document et le vocabulaire (sous format numerique)
-###   
+### distilbert_vectors.json
+les vecteurs representant les documents
+### document_similarity_matrix.csv
+les similirates entre tous les combinaisons de documents
+### sorted_document_similarities.csv
+les documents trees par similirates a chaque documents  
