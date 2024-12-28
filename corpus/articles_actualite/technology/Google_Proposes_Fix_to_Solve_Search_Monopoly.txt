@@ -1,0 +1,7 @@
+Google said on Friday what it thought should change to address a ruling that it had illegally maintained a monopoly over online search: not much.
+
+Google’s proposal followed the landmark ruling in August by Judge Amit P. Mehta of the U.S. District Court for the District of Columbia, who said Google had illegally maintained a monopoly in online search by paying companies like Apple and Samsung to be the search engine that automatically appears when users open a web browser or a smartphone. In response, the government last month asked the judge to force Google to sell Chrome, the world’s most popular browser, among other remedies.
+
+In Google’s own proposal to fix the search monopoly, it asked Judge Mehta to allow it to continue to pay other companies for its search engine to get prime placement. But it said those agreements should be less restrictive than in the past.
+
+Apple, for example, could select different search engines to come up automatically for iPhone and iPad users, said Lee-Anne Mulholland, the company’s vice president of regulatory affairs, in a blog post. Cellphone makers using Google’s popular operating system, Android, could also install multiple search engines and could install other Google apps without installing its search tool or its Gemini artificial intelligence assistant product.

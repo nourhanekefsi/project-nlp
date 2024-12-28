@@ -1,0 +1,83 @@
+On this day three years ago, we witnessed the nail-biting launch of the James Webb Space Telescope (JWST), the largest and most powerful telescope humans have ever sent into space.
+
+It took 30 years to build, but in three short years of operation, JWST has already revolutionised our view of the cosmos.
+
+It's explored our own Solar System, studied the atmospheres of distant planets in search of signs of life and probed the farthest depths to find the very first stars and galaxies formed in the Universe.
+
+Here's what JWST has taught us about the early Universe since its launch – and the new mysteries it has uncovered.
+
+Eerie blue monsters
+
+JWST has pushed the boundary of how far we can look into the Universe to find the first stars and galaxies. With Earth's atmosphere out of the way, its location in space makes for perfect conditions to peer into the depths of the cosmos with infrared light.
+
+The current record for the most distant galaxy confirmed by JWST dates back to a time when the Universe was only about 300 million years old. Surprisingly, within this short time window, this galaxy managed to form about 400 million times the mass of our Sun.
+
+This indicates star formation in the early Universe was extremely efficient. And this galaxy is not the only one.
+
+When galaxies grow, their stars explode, creating dust. The bigger the galaxy, the more dust it has. This dust makes galaxies appear red because it absorbs the blue light. But here's the catch: JWST has shown these first galaxies to be shockingly bright, massive and very blue, with no sign of any dust. That's a real puzzle.
+
+There are many theories to explain the weird nature of these first galaxies. Do they have huge stars that just collapse due to gravity without undergoing massive supernova explosions?
+
+Or do they have such large explosions that all dust is pushed away far from the galaxy, exposing a blue, dust-free core? Perhaps the dust is destroyed due to the intense radiation from these early exotic stars – we just don't know yet.
+
+frameborder="0″ allowfullscreen="allowfullscreen"> Artist's impression of what a blue galaxy in the early Universe would look like. ESO/M. Kornmesser.
+
+Unusual chemistry in early galaxies
+
+The early stars were the key building blocks of what eventually became life. The Universe began with only hydrogen, helium and a small amount of lithium. All other elements, from the calcium in our bones to the oxygen in the air we breathe, were forged in the cores of these stars.
+
+JWST has discovered that early galaxies also have unusual chemical features.
+
+They contain a significant amount of nitrogen, far more than what we observe in our Sun, while most other metals are present in lower quantities. This suggests there were processes at play in the early Universe we don't yet fully understand.
+
+JWST has shown our models of how stars drive the chemical evolution of galaxies are still incomplete, meaning we still don't fully understand the conditions that led to our existence.
+
+Small things that ended the cosmic dark arges
+
+Using massive clusters of galaxies as gigantic magnifying glasses, JWST's sensitive cameras can also peer deep into the cosmos to find the faintest galaxies.
+
+We pushed further to find the point at which galaxies become so faint, they stop forming stars altogether. This helps us understand the conditions under which galaxy formation comes to an end.
+
+JWST is yet to find this limit. However, it has uncovered many faint galaxies, far more than anticipated, emitting over four times the energetic photons (light particles) we expected.
+
+The discovery suggests these small galaxies may have played a crucial role in ending the cosmic "dark ages" not long after the Big Bang.
+
+Rectangles highlight the apertures of JWST's near infrared spectrograph array, through which light was captured and analysed to unravel the mysteries of the galaxies' chemical compositions. (Atek et al., 2024, Nature)
+
+The mysterious case of the little red dots
+
+The very first images of JWST resulted in another dramatic, unexpected discovery. The early Universe is inhabited by an abundance of "little red dots": extremely compact red colour sources of unknown origin.
+
+Initially, they were thought to be massive super-dense galaxies that shouldn't be possible, but detailed observations in the past year have revealed a combination of deeply puzzling and contradictory properties.
+
+Bright hydrogen gas is emitting light at enormous speeds, thousands of kilometres per second, characteristic of gas swirling around a supermassive black hole.
+
+This phenomenon, called an active galactic nucleus, usually indicates a feeding frenzy where a supermassive black hole is gobbling up all the gas around it, growing rapidly.
+
+But these are not your garden variety active galactic nuclei. For starters: they don't emit any detectable X-rays, as is normally expected. Even more intriguingly, they seem to have the features of star populations.
+
+Could these galaxies be both stars and active galactic nuclei at the same time? Or some evolutionary stage in between? Whatever they are, the little red dots are probably going to teach us something about the birth of both supermassive black holes and stars in galaxies.
+
+In the background, the JWST image of the Pandora Cluster (Abell 2744) is displayed, with a little red dot highlighted in a blue inset. The foreground inset on the left showcases a montage of several little red dots discovered by JWST. (Adapted from Furtak et al., and Matthee et al., The Astrophysical Journal, 2023-2024; JWST-GLASS and UNCOVER Teams)
+
+The impossibly early galaxies
+
+As well as extremely lively early galaxies, JWST has also found extremely dead corpses: galaxies in the early Universe that are relics of intense star formation at cosmic dawn.
+
+These corpses had been found by Hubble and ground-based telescopes, but only JWST had the power to dissect their light to reveal how long they've been dead.
+
+It has uncovered some extremely massive galaxies (as massive as our Milky Way today and more) that formed in the first 700 million years of cosmic history. Our current galaxy formation models can't explain these objects – they are too big and formed too early.
+
+Cosmologists are still debating whether the models can be bent to fit (for example, maybe early star formation was extremely efficient) or whether we have to reconsider the nature of dark matter and how it gives rise to early collapsing objects.
+
+JWST will turn up many more of these objects in the next year and study the existing ones in greater detail. Either way, we will know soon.
+
+What's next for JWST?
+
+Just within its first steps, the telescope has revealed many shortcomings of our current models of the Universe. While we are refining our models to account for the updates JWST has brought us, we are most excited about the unknown unknowns.
+
+The mysterious red dots were hiding from our view. What else is lingering in the depths of cosmos? JWST will soon tell us.
+
+Themiya Nanayakkara, Scientist at the James Webb Australian Data Centre, Swinburne University of Technology; Ivo Labbe, ARC Future Fellow / Associate Professor, Swinburne University of Technology, and Karl Glazebrook, ARC Laureate Fellow & Distinguished Professor, Centre for Astrophysics & Supercomputing, Swinburne University of Technology
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.

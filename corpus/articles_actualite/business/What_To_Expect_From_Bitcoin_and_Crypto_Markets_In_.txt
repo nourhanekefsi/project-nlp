@@ -1,0 +1,53 @@
+Key Takeaways Bitcoin has soared this year, boosted by the approval of spot bitcoin ETFs and the bitcoin halving event, as well as optimism surrounding the election of Donald Trump as U.S. president.
+
+In 2025, attention will turn to the Trump administration's attempts to provide regulatory clarity for the crypto industry.
+
+Some analysts say bitcoin could rise to $200,000 by the end of next year, amid growing demand from institutional investors, though history would suggest the market may be due for a correction.
+
+There is no clear indication if the recent rally in bitcoin will spill over to altcoins.
+
+The cryptocurrency market has had an extraordinary year, and market participants are optimistic about the prospects for 2025 as a new administration takes over in Washington D.C., though plenty of uncertainty remains.
+
+Bitcoin (BTCUSD) rallied early in the year amid explosive demand from newly launched spot bitcoin exchange-traded funds (ETFs). Soon after, a bitcoin halving, which slowed the pace at which new bitcoins are created, created a demand-supply imbalance that sent prices soaring further.
+
+The election of Donald Trump, as well as several crypto-friendly lawmakers, gave bitcoin another boost in recent weeks, helping the digital currency cross the $100,000 price mark for the first time.
+
+Here’s what market participants will be watching out for in the year ahead.
+
+What Trump Could Mean For Crypto Regulation?
+
+One of the crypto market’s biggest concerns in recent years has been the lack of clarity around regulations and the U.S. Securities and Exchange Commission’s (SEC) enforcement approach.
+
+On the campaign trail, Trump made a number of promises to the bitcoin and crypto industries, including that he would fire SEC Chair Gary Gensler on day one of his administration and establish a ‘Strategic National Bitcoin Stockpile.’ Gensler decided to step down and Trump has proposed crypto advocate Paul Atkins to head the agency.
+
+Even as markets await regulatory clarity, there is no guarantee they’ll get what they want or when.
+
+"Trump’s stance on [decentralized finance (DeFi)] and crypto has been somewhat inconsistent," Delphi Ventures General Counsel Sarah Brennan told Investopedia. "While he has expressed interest in the space, much of his focus seems limited to supporting dollar dominance and real estate applications." The Bitcoin Dominance Index measures bitcoin's share of the overall crypto market valuation, and it recently hit new highs.
+
+According to Castle Island Ventures Partner Nic Carter, the legislative focus will be on getting stablecoin legislation passed first. Then, the focus will turn to the crypto market structure bill, which would clarify which crypto assets are commodities and which are securities.
+
+Bitcoin Price Predictions and Driving Factors
+
+Analysts at Bitwise expect bitcoin to reach $200,000 by the end of 2025, while those at VanEck peg it at $180,000.
+
+Such predictions for bitcoin prices have been made many times in the past but seemed too ambitious. With bitcoin surging above $100,000, they may not seem so far-fetched now.
+
+There are only 21 million bitcoins that can ever be created, and 19.79 million of them are already in circulation. While bitcoin supply is finite, demand for it has picked up.
+
+There is growing demand for bitcoin from institutional investors that include ETF promoters, corporations and nation-states. Spot bitcoin ETFs have seen investors pour in $36 billion. MicroStrategy (MSTR), the leader for public companies holding bitcoin on its books, held 444,262 worth roughly $42 billion as of Dec. 23.
+
+Historically, bitcoin—and by extension the entire crypto market—rises and falls in line with the four-year bitcoin halving cycle. If that cycle were to hold, crypto markets would be due for a correction in 2025. But the presence of large institutional investors could limit any downturn.
+
+Bitcoin is in a “supercycle,” according to economist and Asgard Markets founder Alex Kruger, which means “recurrent 20%-40% corrections” instead of “85% drawdowns.”
+
+The Federal Reserve could also crash bitcoin's party. The central bank recently scaled back its expectations for interest rate cuts in 2025, which weighed on bitcoin prices. If the Fed slows down its rate cuts, Treasury yields could remain high, making them more attractive to investors compared to riskier assets such as bitcoin.
+
+Will The Bitcoin Rally Spill Over to Altcoins?
+
+Financial institutions are already taking steps to embrace a potentially friendlier regulatory environment by sending in applications for ETFs related to additional crypto assets, such as XRP (XRPUSD), moving beyond the previously approved ones for bitcoin and ether.
+
+But it remains unclear if altcoins, or non-bitcoin cryptocurrencies, will join bitcoin’s party.
+
+The Bitcoin Dominance Index, which measures bitcoin's share of the overall crypto market, recently hit new highs for this crypto cycle.
+
+"Historically bitcoin dominance has been cyclical," CoinFund Managing Partner and Head of Liquid Investments Seth Ginns told Investopedia. "We’d expect a handoff to alts once bitcoin gets meaningfully above its all-time high, as happened in the last cycle."

@@ -1,0 +1,15 @@
+NVIDIA's GeForce RTX 5080 "Blackwell" GPU is rumored to cost a whopping $1,500 MSRP, based on a leaked listing at an Australian retail store.
+
+NVIDIA's RTX 50 Series GPUs Are Expected To Come With Noticeable Price Bumps, Mainly Due To Use Of GDDR7 & High-End Components
+
+Well, we have our first look at the pricing of one of the RTX 50 Blackwell GPUs, and initial impressions aren't that impressive. We are around two weeks from the official launch of NVIDIA's next-gen GPUs. but in terms of their expected pricing, many details haven't surfaced online until now. Vex, a YouTuber, apparently claims to have information about the expected retail tag of NVIDIA's RTX 5080, and it is argued that the SKU could cost up to $1,587 or AUD 2,544, which is a massive rise from its previous-gen counterpart, which had an MSRP of $1,199.
+
+Image Credits: Vex
+
+Another interesting point to note is that the $1,500+ isn't the price of what consumers can get the GPU for, as, according to the YouTuber, the GeForce RTX 5080 can cost up to $1,739 to the end user, considering the "premium tax" applied to GPU launches during their initial days. This almost marks a $300 increase when we compare the MSRPs with the GeForce RTX 4080, and it won't be wrong to say that NVIDIA's Blackwell GPU lineup will surely be costly, and we saw this a long way coming.
+
+The particular variant with the above pricing is the ASUS DUAL model, likely in a triple-fan configuration, and is considered a mid-range model, when stacked up against the likes of ROG STRIX or similar variants. Interestingly, the listing also verifies that the GeForce RTX 5080 will debut with 16 GB GDDR7 VRAM, so it is safe to say that the listing is consistent with prior leaks, making it credible. Such a price increase was imminent, given that NVIDIA, this time, has integrated technologies such as GDDR7 memory chips, which the company said to be a pricey stunt.
+
+Diving a bit into the specifications of the GeForce RTX 5080, the model is set to feature the GB203 GPU core, which will come equipped with 16 GB of GDDR7 memory, which will operate at 32 Gbps speeds. This will be a significant leap over the RTX 4080 series, which peaks at 736 GB/s of bandwidth through their 23 Gbps GDDR6X solution, so this is one of the primary reasons behind such a generational increase in performance. You can view our roundup here for a more in-depth view of the GeForce RTX 5080.
+
+Well, with this, it is certain that the NVIDIA RTX 50 "Blackwell" GPU series has a noticeable difference in pricing compared to Ada Lovelace, but we are looking forward to the mid-range SKUs, such as the GeForce RTX 5070, in terms of pricing.
