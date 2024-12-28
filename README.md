@@ -1,3 +1,5 @@
+# Branches 
+## 1. main
 ### model de recommandation.ipynb
 un fichier jupyter contennant le suivant:
 1- collection de documents
@@ -14,3 +16,7 @@ les vecteurs representant les documents
 les similirates entre tous les combinaisons de documents
 ### sorted_document_similarities.csv
 les documents trees par similirates a chaque documents  
+## 2.Soraya 
+(plus infos dans le fichier readme de branche)
+## 3 Ryham
+(plus infos dans le fichier readme de branche)
