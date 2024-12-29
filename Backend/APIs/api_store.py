@@ -13,7 +13,7 @@ from single_document_model import (
 )
 
 from nltk_tokenizer import (
-        main
+        saveTokens
 )
 
 uploadApi = APIRouter()
@@ -161,7 +161,7 @@ async def upload_and_process(
         print(f"Similarity Matrix updated")
 
         # Save tokens
-        main(single_document=document_content,DocId=new_id)
+        saveTokens(single_document=document_content,DocId=new_id)
         print(f"Tokens saved")
 
         return {"message": "File uploaded and processed successfully.", "document_url": url}

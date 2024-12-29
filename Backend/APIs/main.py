@@ -207,16 +207,14 @@ async def upload_file_or_text(
 
 
 @app.post("/wordCloud")
-async def generate_wordcloud(
-    id: str = Form(...)
-):
+async def generate_wordcloud(id: int = Form(...)):  # Expecting an integer ID
     try:
         # Load tokens from the JSON file
         with open('tokens_docs.json', 'r', encoding='utf-8') as file:
-            documents = json.load(file)["documents"]
+            documents = json.load(file)
 
         # Find the document with the matching ID
-        tokens = next((doc["tokens"] for doc in documents if str(doc["id"]) == id), None)
+        tokens = next((doc["tokens"] for doc in documents if doc["id"] == id), None)
 
         if tokens is None:
             return {"error": f"No document found with id {id}"}
@@ -237,6 +235,7 @@ async def generate_wordcloud(
     
     except Exception as e:
         return {"error": str(e)}
+
 
 
 # Include routes from api_store and static files

@@ -103,12 +103,12 @@ def preprocess_documents(documents_content):
 
     for doc_id, content in documents_content.items():
         tokens, doc_vocabulary = preprocess_content(content)
-        preprocessed_content[doc_id] = tokens
+        save_data(tokens, doc_vocabulary)
         vocabulary.update(doc_vocabulary)
-
+        
     return preprocessed_content, vocabulary
 
-def save_data(preprocessed_content, vocabulary, tokens_file="tokens_docs.json", vocab_file="vocabulary.json"):
+def save_data(tokens, vocabulary, tokens_file="tokens_docs.json", vocab_file="vocabulary.json"):
     """
     Saves preprocessed content and vocabulary to JSON files without adding extra wrappers like "documents" or "vocabulary".
     
@@ -124,15 +124,15 @@ def save_data(preprocessed_content, vocabulary, tokens_file="tokens_docs.json", 
                 existing_data = json.load(file)
         else:
             existing_data = []  # If file does not exist, initialize with an empty list.
-
+        doc_id = len(existing_data)+1
         # Append new tokens directly to the array
-        tokens_list = [{"id": doc_id, "tokens": tokens} for doc_id, tokens in preprocessed_content.items()]
-        existing_data.extend(tokens_list)
+        tokens_list = {"id": doc_id, "tokens": tokens} 
+
+        existing_data.append(tokens_list)
 
         # Save updated tokens data directly as an array
         with open(tokens_file, 'w', encoding='utf-8') as file:
             json.dump(existing_data, file, indent=4, ensure_ascii=False)
-        print(f"Tokens have been saved to: {tokens_file}")
 
         # Ensure vocabulary file exists and read existing data if present
         if os.path.exists(vocab_file):
@@ -154,8 +154,7 @@ def save_data(preprocessed_content, vocabulary, tokens_file="tokens_docs.json", 
     except Exception as e:
         print(f"Error saving data: {e}")
 
-
-def main(json_file_path=None, single_document=None, DocId=None):
+def saveTokens(json_file_path=None, single_document=None, DocId=None):
     """
     Main function to process either multiple documents or a single document.
 
@@ -165,13 +164,12 @@ def main(json_file_path=None, single_document=None, DocId=None):
     if single_document:
         print("Processing single document...")
         tokens, vocabulary = preprocess_content(single_document)
-        save_data({DocId: tokens}, vocabulary)
+        save_data( tokens, vocabulary)
     elif json_file_path:
         print("Processing documents from JSON file...")
         documents_content = read_documents(json_file_path)
         if documents_content:
             preprocessed_content, vocabulary = preprocess_documents(documents_content)
-            save_data(preprocessed_content, vocabulary)
     else:
         print("No input provided. Please provide either a JSON file path or a single document.")
 
@@ -180,4 +178,6 @@ if __name__ == "__main__":
     # Path to the JSON file
     json_file_path = "../model/all_documents.json"
 
-    main(json_file_path=json_file_path)
+    saveTokens(json_file_path=json_file_path)
+
+
