@@ -12,6 +12,10 @@ from single_document_model import (
     save_sorted_similarities_from_matrix
 )
 
+from nltk_tokenizer import (
+        main
+)
+
 uploadApi = APIRouter()
 
 @uploadApi.post("")
@@ -60,6 +64,8 @@ async def upload_and_process(
             for page in pdf_reader.pages:
                 document_content += page.extract_text()
 
+            
+
         elif content:
             # If no file is uploaded, save content as a txt file (optional, not necessary if only processing)
             file_path = os.path.join(category_path, f"{title}.txt")
@@ -75,8 +81,6 @@ async def upload_and_process(
         base_url = str(request.base_url).rstrip("/")
         updated_path = file_path.replace("\\", "/")
         updated_path = updated_path.replace("../corpus", "corpus")
-        print(base_url)
-        print(updated_path)
         url = f"{base_url}/{updated_path}"
 
         # Generate a new ID for the document
@@ -98,7 +102,7 @@ async def upload_and_process(
         with open(metadata_file, "w", encoding="utf-8") as metadata_fp:
             json.dump(documents, metadata_fp, indent=4)
 
-        # Preprocess the document
+        # Preprocess the document and save it's vocabulary
         preprocessed_content, vocabulary = preprocess_documents_doc(document_content)
 
         # Update the preprocessed content file
@@ -136,7 +140,7 @@ async def upload_and_process(
         similarity_line = compute_similarity_for_document(new_id, vector_file=vector_file)
 
         # First, read the existing similarity matrix into memory
-        with open(similarity_matrix_file, "r", newline="") as csv_file:
+        with open(similarity_matrix_file, "r", newline="") as csv_file: # read
             reader = csv.reader(csv_file)
             matrix = [row for row in reader]
 
@@ -148,17 +152,17 @@ async def upload_and_process(
             row.append(similarity_line[i])
 
         # Now write the updated matrix back to the CSV file
-        with open(similarity_matrix_file, "w", newline="") as csv_file:
+        with open(similarity_matrix_file, "w", newline="") as csv_file: # write
             writer = csv.writer(csv_file)
             writer.writerows(matrix)
 
         # Save sorted similarities
         save_sorted_similarities_from_matrix(similarity_matrix_file, sorted_similarity_file)
+        print(f"Similarity Matrix updated")
 
-        # Verify the sorted similarities
-        with open(sorted_similarity_file, "r") as sorted_file:
-            sorted_data = sorted_file.read()
-            print(f"Sorted Similarities:\n{sorted_data}")
+        # Save tokens
+        main(single_document=document_content,DocId=new_id)
+        print(f"Tokens saved")
 
         return {"message": "File uploaded and processed successfully.", "document_url": url}
 

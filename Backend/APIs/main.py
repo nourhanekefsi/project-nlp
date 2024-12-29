@@ -210,23 +210,33 @@ async def upload_file_or_text(
 async def generate_wordcloud(
     id: str = Form(...)
 ):
-    # Load tokens from the file based on the given ID
-    with open('tokens_docs.json', 'r') as file:
-        tokens = json.load(file)["preprocessed_content"][id]
+    try:
+        # Load tokens from the JSON file
+        with open('tokens_docs.json', 'r', encoding='utf-8') as file:
+            documents = json.load(file)["documents"]
 
-    # Convert tokens into a space-separated string
-    text = ' '.join(tokens)
+        # Find the document with the matching ID
+        tokens = next((doc["tokens"] for doc in documents if str(doc["id"]) == id), None)
 
-    # Generate the word cloud
-    wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
+        if tokens is None:
+            return {"error": f"No document found with id {id}"}
 
-    # Save the word cloud image to a BytesIO stream
-    img_io = io.BytesIO()
-    wordcloud.to_image().save(img_io, 'PNG')
-    img_io.seek(0)
+        # Convert tokens into a space-separated string
+        text = ' '.join(tokens)
 
-    # Return the image as a StreamingResponse
-    return StreamingResponse(img_io, media_type="image/png")
+        # Generate the word cloud
+        wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
+
+        # Save the word cloud image to a BytesIO stream
+        img_io = io.BytesIO()
+        wordcloud.to_image().save(img_io, 'PNG')
+        img_io.seek(0)
+
+        # Return the image as a StreamingResponse
+        return StreamingResponse(img_io, media_type="image/png")
+    
+    except Exception as e:
+        return {"error": str(e)}
 
 
 # Include routes from api_store and static files

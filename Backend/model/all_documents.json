@@ -4172,5 +4172,86 @@
         "categorie": "opinion",
         "file_path": "../corpus/articles_actualite/opinion/What_Economists_Could_Learn_From_George_Costanza.txt",
         "url": "https://www.nytimes.com/2024/12/23/opinion/what-economists-could-learn-from-george-costanza.html"
+    },
+    {
+        "id": 398,
+        "title": "Shared Memory",
+        "author": "Soraya Khene",
+        "type": "document",
+        "categorie": "technology",
+        "file_path": "../corpus/UserDocs/technology\\Shared Memory.pdf",
+        "url": "http://localhost:8000/corpus/UserDocs/technology/Shared Memory.pdf"
+    },
+    {
+        "id": 399,
+        "title": "Shared Memory",
+        "author": "Soraya Khene",
+        "type": "document",
+        "categorie": "technology",
+        "file_path": "../corpus/UserDocs/technology\\Shared Memory.pdf",
+        "url": "http://localhost:8000/corpus/UserDocs/technology/Shared Memory.pdf"
+    },
+    {
+        "id": 400,
+        "title": "Architecture Tesla",
+        "author": "Soraya Khene",
+        "type": "document",
+        "categorie": "technology",
+        "file_path": "../corpus/UserDocs/technology\\Architecture Tesla.pdf",
+        "url": "http://localhost:8000/corpus/UserDocs/technology/Architecture Tesla.pdf"
+    },
+    {
+        "id": 401,
+        "title": "Architecture Tesla",
+        "author": "Soraya Khene",
+        "type": "document",
+        "categorie": "technology",
+        "file_path": "../corpus/UserDocs/technology\\Architecture Tesla.pdf",
+        "url": "http://localhost:8000/corpus/UserDocs/technology/Architecture Tesla.pdf"
+    },
+    {
+        "id": 402,
+        "title": "Architecture Tesla",
+        "author": "Soraya Khene",
+        "type": "document",
+        "categorie": "technology",
+        "file_path": "../corpus/UserDocs/technology\\Architecture Tesla.pdf",
+        "url": "http://localhost:8000/corpus/UserDocs/technology/Architecture Tesla.pdf"
+    },
+    {
+        "id": 403,
+        "title": "Multikerenel",
+        "author": "Soraya Khene",
+        "type": "document",
+        "categorie": "technology",
+        "file_path": "../corpus/UserDocs/technology\\Multikerenel.pdf",
+        "url": "http://localhost:8000/corpus/UserDocs/technology/Multikerenel.pdf"
+    },
+    {
+        "id": 404,
+        "title": "Multikerenel",
+        "author": "Soraya Khene",
+        "type": "document",
+        "categorie": "technology",
+        "file_path": "../corpus/UserDocs/technology\\Multikerenel.pdf",
+        "url": "http://localhost:8000/corpus/UserDocs/technology/Multikerenel.pdf"
+    },
+    {
+        "id": 405,
+        "title": "Multikerenel",
+        "author": "Soraya Khene",
+        "type": "document",
+        "categorie": "technology",
+        "file_path": "../corpus/UserDocs/technology\\Multikerenel.pdf",
+        "url": "http://localhost:8000/corpus/UserDocs/technology/Multikerenel.pdf"
+    },
+    {
+        "id": 406,
+        "title": "Multikerenel",
+        "author": "Soraya Khene",
+        "type": "document",
+        "categorie": "technology",
+        "file_path": "../corpus/UserDocs/technology\\Multikerenel.pdf",
+        "url": "http://localhost:8000/corpus/UserDocs/technology/Multikerenel.pdf"
     }
 ]
