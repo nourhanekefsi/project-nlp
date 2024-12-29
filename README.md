@@ -1,20 +1,40 @@
-# Branches 
-## 1. main
-### model de recommandation.ipynb
-un fichier jupyter contennant le suivant:
-1- collection de documents
-2- pretraitement de documents
-3- le model de generation des vecteurs des documents
-4- calcule de similirates
-### all_documents.json
-contient les metadonnees des documents (titre, auteur, url, categorie, file_path)
-### preprocessed_content.json
-les tokens de chaque document et le vocabulaire (sous format numerique)
-### distilbert_vectors.json
-les vecteurs representant les documents
-### document_similarity_matrix.csv
-les similirates entre tous les combinaisons de documents
-### sorted_document_similarities.csv
+# Project 
+## Description
+## Run
+to run this app, open terminal or cmd and do as follow:
+
+git clone https://github.com/nourhanekefsi/project-nlp.git
+
+pip install -r requirements.txt
+
+Ensure the following Python libraries are installed:
+FastAPI
+nltk
+matplotlib
+wordcloud
+scikit-learn
+pandas
+numpy ...
+
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+
+1st of all run 
+
+cd project-nlp/backend/APIs
+
+uvicorn main:app --reload
+
+open another tab of terminal
+
+cd project-nlp/frontend
+
+npm install
+
+npm start
+
+
 les documents trees par similirates a chaque documents  
 ## 2.Soraya 
 (plus infos dans le fichier readme de branche)
