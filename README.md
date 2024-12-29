@@ -1,6 +1,6 @@
 # Project 
 ## Description
-## Run
+## preparing the environment 
 to run this app, open terminal or cmd and do as follow:
 
 git clone https://github.com/nourhanekefsi/project-nlp.git
@@ -20,7 +20,8 @@ import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
 
-1st of all run 
+## Run the app
+1st of all in the terminal run 
 
 cd project-nlp/backend/APIs
 
@@ -33,10 +34,3 @@ cd project-nlp/frontend
 npm install
 
 npm start
-
-
-les documents trees par similirates a chaque documents  
-## 2.Soraya 
-(plus infos dans le fichier readme de branche)
-## 3 Ryham
-(plus infos dans le fichier readme de branche)
