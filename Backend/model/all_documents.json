@@ -4172,14 +4172,5 @@
         "categorie": "opinion",
         "file_path": "../corpus/articles_actualite/opinion/What_Economists_Could_Learn_From_George_Costanza.txt",
         "url": "https://www.nytimes.com/2024/12/23/opinion/what-economists-could-learn-from-george-costanza.html"
-    },
-    {
-        "id": 398,
-        "title": "How Puppet works: Using the configuration management tool",
-        "author": "Clive Longbottom",
-        "type": "document",
-        "categorie": "technology",
-        "file_path": "../corpus/UserDocs/technology/How Puppet works: Using the configuration management tool.pdf",
-        "url": "http://localhost:8000/../corpus/UserDocs/technology/How Puppet works: Using the configuration management tool.pdf"
     }
 ]
