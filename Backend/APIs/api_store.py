@@ -73,7 +73,11 @@ async def upload_and_process(
 
         # Get the base URL and construct the file URL
         base_url = str(request.base_url).rstrip("/")
-        url = f"{base_url}/{file_path}"
+        updated_path = file_path.replace("\\", "/")
+        updated_path = updated_path.replace("../corpus", "corpus")
+        print(base_url)
+        print(updated_path)
+        url = f"{base_url}/{updated_path}"
 
         # Generate a new ID for the document
         new_id = max((doc["id"] for doc in documents), default=0) + 1

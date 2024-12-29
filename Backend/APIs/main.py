@@ -231,4 +231,4 @@ async def generate_wordcloud(
 
 # Include routes from api_store and static files
 app.include_router(uploadApi, prefix="/upload")
-app.mount("/../corpus", StaticFiles(directory="../corpus"), name="corpus")
+app.mount("/corpus", StaticFiles(directory="../corpus"), name="corpus")
