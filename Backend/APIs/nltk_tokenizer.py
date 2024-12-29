@@ -13,9 +13,9 @@ nltk.download('wordnet')
 nltk.download('punkt')
 
 def clean_document(text):
-    """
-    Cleans the document by removing unwanted content such as copyright mentions and sign-up phrases.
-    """
+    
+    #** Cleans the document by removing unwanted content such as copyright mentions and sign-up phrases.**
+    
     text = re.sub(r"\u00a9\s?\d{4}(?:\s?-\s?\d{4})?", "", text)  # Remove © and years
     text = re.sub(r"all rights reserved", "", text, flags=re.IGNORECASE)
     text = re.sub(r"copyright .*?\.", "", text, flags=re.IGNORECASE)

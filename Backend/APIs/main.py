@@ -18,7 +18,7 @@ from single_document_model import (
     create_distilbert_embeddings_doc,
     get_top_similar_documents_with_scores
 )
-from api_store import uploadApi  # Ensure `uploadApi` is correctly defined in api_store
+from api_store import uploadApi  
 
 # Paths to the required files
 metadata_file = "../model/all_documents.json"
@@ -41,8 +41,8 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:3000"], 
     allow_credentials=True,
-    allow_methods=["*"],  # Allow all HTTP methods
-    allow_headers=["*"],  # Allow all headers
+    allow_methods=["*"],  
+    allow_headers=["*"],  
 )
 
 # Récupérer les métadonnées des documents
