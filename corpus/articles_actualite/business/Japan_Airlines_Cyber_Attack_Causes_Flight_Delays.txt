@@ -1,7 +1,0 @@
-Japan Airlines operations were disrupted by a cyberattack on Thursday morning, causing delays to both domestic and international flights.
-
-For part of the day, the airline stopped booking tickets for flights departing on Thursday, and its mobile app was temporarily disabled.
-
-In an update on Thursday afternoon, Japan Airlines, known as JAL, said it had resumed sales of same-day tickets and restored the system that had been affected by the cyberattack. It said no customer information was leaked.
-
-JAL had said earlier that at 7:24 a.m., it identified a problem with equipment connecting the company’s internal systems to external networks. About 90 minutes later, JAL temporarily shut down the router device responsible for the problems.

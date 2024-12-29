@@ -1,7 +1,0 @@
-Since the release of ChatGPT to the public two years ago, we have been awash in extreme claims about the potential benefits and threats of large language models and generative A.I. Boosters and critics alike believe the technology’s emergence is an inflection point in human history.
-
-Proponents claim that artificial intelligence will eliminate acts of mental drudgery, freeing us to become our best selves. Detractors worry not just that it will eliminate well-paying knowledge sector jobs and increase inequality but also that it will effectively steal the human soul. Once computers can produce songs and shows, paintings and poems indistinguishable from the work of living hands, the last remnants of human exceptionalism will be snuffed out.
-
-Recently this fever shows signs of breaking. Even the technology’s champions acknowledge that it might have been overhyped a bit. Perhaps the emergence of machine learning will be merely a major technological transformation and not a world historical event. Now might also be the time to retire our worst fears about the technology.
-
-I’m talking not about the quite reasonable anxiety surrounding the potential social and economic disruption of a powerful new technology but about the fundamental worry that a digital machine might one day exhibit — or exceed — the kind of creative power we once believed unique to our species. Of course, the technology is still relatively young, and it might make good on many of its promises. But the obsolescence of human culture will almost certainly not come to pass.

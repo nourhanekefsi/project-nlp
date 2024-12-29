@@ -1,7 +1,0 @@
-OpenAI revealed details on Friday about its plans to adopt a new corporate structure that will remove the company from control by a nonprofit that has been the focus of contention.
-
-OpenAI’s leaders have been privately discussing a change for several months but had provided few specifics.
-
-In a company blog post published on Friday, OpenAI said it planned to restructure as a public benefit corporation, or P.B.C., which is a for-profit corporation designed to create public and social good. OpenAI rivals like Anthropic and Elon Musk’s xAI use a similar structure.
-
-“The P.B.C. is a structure used by many others that requires the company to balance shareholder interests, stakeholder interests and a public benefit interest in its decision making,” the company said. “It will enable us to raise the necessary capital with conventional terms like our competitors.”

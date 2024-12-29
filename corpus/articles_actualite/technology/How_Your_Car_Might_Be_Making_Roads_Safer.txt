@@ -1,9 +1,0 @@
-Darcy Bullock, a civil engineering professor at Purdue University, turns to his computer screen to get information about how fast cars are traveling on Interstate 65, which runs 887 miles from Lake Michigan to the Gulf of Mexico. It’s midafternoon on a Monday, and his screen is mostly filled with green dots indicating that traffic is moving along nicely. But near an exit on the outskirts of Indianapolis, an angry red streak shows that cars have stopped moving.
-
-A traffic camera nearby reveals the cause: A car has spun out, causing gridlock.
-
-In recent years, vehicles that have wireless connectivity have become a critical source of information for transportation departments and for academics who study traffic patterns. The data these vehicles emit — including speed, how hard they brake and accelerate, and even if their windshield wipers are on — can offer insights into dangerous road conditions, congestion or poorly timed traffic signals.
-
-“Our cars know more about our roads than agencies do,” said Dr. Bullock, who regularly works with the Indiana Department of Transportation to conduct studies on how to reduce traffic congestion and increase road safety. He credits connected-car data with detecting hazards that would have taken years — and many accidents — to find in the past.
-
-The data comes primarily from commercial trucks and from cars made by General Motors that are enrolled in OnStar, G.M.’s internet-connected service. (Drivers know OnStar as the service that allows them to lock their vehicles from a smartphone app or find them if they have been stolen.) Federal safety guidelines require commercial truck drivers to be routinely monitored, but people driving G.M. vehicles may be surprised to know that their data is being collected, though it is indicated in the fine print of the company’s privacy policy.
