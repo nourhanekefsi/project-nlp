@@ -6,10 +6,10 @@
 
 ## main.py :
 ### Contient cinq fonctionnalités principales :
-1.Renvoyer les métadonnées du document.
-2.Renvoyer le contenu du document.
-3.Renvoyer les détails du document et leurs documents similaires.
-4.Prétraiter et recommander des documents similaires pour un nouveau document
+1.Renvoyer les métadonnées du document.\n
+2.Renvoyer le contenu du document.\n
+3.Renvoyer les détails du document et leurs documents similaires.\n
+4.Prétraiter et recommander des documents similaires pour un nouveau document\n
 5.Générer un wordCloud pour un identifiant de document spécifique.
 
 ## nltk_tokenizer.py :
