@@ -110,23 +110,45 @@ def preprocess_documents(documents_content):
 
 def save_data(preprocessed_content, vocabulary, tokens_file="tokens_docs.json", vocab_file="vocabulary.json"):
     """
-    Saves preprocessed content and vocabulary to JSON files.
-
+    Saves preprocessed content and vocabulary to JSON files without adding extra wrappers like "documents" or "vocabulary".
+    
     :param preprocessed_content: Preprocessed tokens by document (dictionary {id: tokens}).
     :param vocabulary: Vocabulary.
     :param tokens_file: Path to save tokens.
     :param vocab_file: Path to save vocabulary.
     """
     try:
-        # Save tokens per document
+        # Ensure tokens file exists and read existing data if present
+        if os.path.exists(tokens_file):
+            with open(tokens_file, 'r', encoding='utf-8') as file:
+                existing_data = json.load(file)
+        else:
+            existing_data = []  # If file does not exist, initialize with an empty list.
+
+        # Append new tokens directly to the array
         tokens_list = [{"id": doc_id, "tokens": tokens} for doc_id, tokens in preprocessed_content.items()]
+        existing_data.extend(tokens_list)
+
+        # Save updated tokens data directly as an array
         with open(tokens_file, 'w', encoding='utf-8') as file:
-            json.dump({"documents": tokens_list}, file, indent=4, ensure_ascii=False)
+            json.dump(existing_data, file, indent=4, ensure_ascii=False)
         print(f"Tokens have been saved to: {tokens_file}")
 
-        # Save vocabulary
+        # Ensure vocabulary file exists and read existing data if present
+        if os.path.exists(vocab_file):
+            with open(vocab_file, 'r', encoding='utf-8') as file:
+                existing_vocab = json.load(file)
+        else:
+            existing_vocab = []  # If file does not exist, initialize with an empty list.
+
+        # Append new vocabulary and remove duplicates
+        vocabulary_list = list(vocabulary.keys())
+        existing_vocab.extend(vocabulary_list)
+        existing_vocab = list(set(existing_vocab))  # Remove duplicates
+
+        # Save updated vocabulary data directly as an array (no "vocabulary" wrapper)
         with open(vocab_file, 'w', encoding='utf-8') as file:
-            json.dump({"vocabulary": list(vocabulary.keys())}, file, indent=4, ensure_ascii=False)
+            json.dump(existing_vocab, file, indent=4, ensure_ascii=False)
         print(f"Vocabulary has been saved to: {vocab_file}")
 
     except Exception as e:
