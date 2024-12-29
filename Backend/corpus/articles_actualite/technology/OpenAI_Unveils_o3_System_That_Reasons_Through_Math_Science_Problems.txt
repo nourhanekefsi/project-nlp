@@ -1,7 +1,0 @@
-OpenAI on Friday unveiled a new artificial intelligence system, OpenAI o3, which is designed to “reason” through problems involving math, science and computer programming.
-
-The company said that the system, which it is currently sharing only with safety and security testers, outperformed the industry’s leading A.I. technologies on standardized benchmark tests that rate skills in math, science, coding and logic.
-
-The new system is the successor to o1, the reasoning system that the company introduced earlier this year. OpenAI o3 was more accurate than o1 by over 20 percent in a series of common programming tasks, the company said, and it even outperformed its chief scientist, Jakub Pachocki, on a competitive programming test. OpenAI said it plans to roll the technology out to individuals and businesses early next year.
-
-“This model is incredible at programming,” said Sam Altman, OpenAI’s chief executive, during an online presentation to reveal the new system. He added that at least one OpenAI programmer could still beat the system on this test.
