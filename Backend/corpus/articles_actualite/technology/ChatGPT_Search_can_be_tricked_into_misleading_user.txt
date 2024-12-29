@@ -1,0 +1,11 @@
+In Brief
+
+ChatGPT Search, an AI-powered search engine that went live this month, can be fooled into generating completely misleading summaries, U.K. newspaper The Guardian has found.
+
+ChatGPT’s search feature is meant to make browsing faster by doing things like summarizing a web page’s product reviews. But The Guardian found it could get ChatGPT to ignore negative reviews and generate “entirely positive” summaries by inserting hidden text into websites it created. ChatGPT Search could also be made to spit out malicious code using this method.
+
+Such hidden text attacks are a well-known risk for large language models, but this appears to be the first time it was demonstrated on a live AI-powered search product. Google, the leader in search, has more experience dealing with similar problems, The Guardian noted.
+
+OpenAI didn’t comment about this specific incident when TechCrunch reached out but said it uses a variety of methods to block malicious websites and is continually improving.
+
+TechCrunch has an AI-focused newsletter! Sign up here to get it in your inbox every Wednesday.

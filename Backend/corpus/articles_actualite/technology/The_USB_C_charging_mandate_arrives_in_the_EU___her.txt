@@ -1,0 +1,71 @@
+From December 28th, a large percentage of the gadgets bought inside the EU are required to charge via USB-C. The goal for Directive 2022/2380, known colloquially as the common charging solution, is to reduce e-waste and solve market fragmentation. You may recall Apple and the EU butting heads over this a few years ago.
+
+The requirement for USB-C is just the surface of this directive though. It also includes regulations on fast charging, unbundling charging bricks from retail devices, and the introduction of improved labelling — and it has the potential to make life for gadget enthusiasts in the EU a whole lot simpler. If it works, of course.
+
+To begin, some background. EU countries and parliament came to a provisional agreement on the common charging solution on June 7th, 2022. The legislation was formally approved in October of the same year. After it was given the green light by the council, countries had until December 28th, 2024 to merge these into their national laws, at which point companies operating inside the bloc must abide by them.
+
+Freedom… to use USB-C
+
+The sheer breadth of this directive means its impact will be felt by both consumers and businesses, as the common charging solution applies to anything the EU defines as radio equipment. This, it states, is an electrical or electronic product that intentionally emits or receives radio waves for the purpose of “communication and/or radiodetermination.”
+
+The regulation explicitly covers handheld mobile phones, tablets, digital cameras, headphones, headsets, handheld videogame consoles, portable speakers, e-readers, keyboards, mice, portable navigation systems, and earbuds that are “rechargeable with a wired cable and can operate with a power delivery of up to 100 watts.”
+
+A PlayStation 5, for example, has a 350W power rating, meaning it won’t fall under the directive. The Nintendo Switch draws up to 6W in TV mode, meaning it will. The only current exception to this definition are laptops, which have until April 28, 2026, to comply with the directive.
+
+There are grey areas though. Drones, for example, aren’t on the list, and it’s unclear if they fit into other categories like digital cameras. In instances like this, the Commission says it will “continuously assess market developments, market fragmentation, and technological progress” with the aim of keeping this list of devices as relevant and up-to-date as possible.
+
+Wireless charging also isn’t covered by the directive. For now, the Commission says it will “promote the harmonization” of the practice to “avoid future fragmentation of the internal market and any negative effects on consumers and the environment.” What shape this may take is anyone’s guess, but the EU has it on the radar.
+
+Despite these pools of murkiness, the key point is the majority of consumer-facing tech in the EU must be equipped with a “USB-C receptacle.” Although, this only applies to the device side, as charging brick connections aren’t covered in this directive.
+
+Goodnight Lightning. Photo by Amelia Holowaty Krales / The Verge
+
+Still, for the average user, there won’t be a heap of change come December 28th around charging inputs. The majority of devices on the market that fall under this directive already use USB-C. Even Apple, the big holdout with its Lightning technology, shifted to the format on most of its devices — more on that in a second.
+
+An interesting wrinkle in this regulation is the EU hasn’t actually banned proprietary charging ports. Instead, hardware just needs the ability to charge via USB-C. This means the current MacBook range with MagSafe is compliant, as you can charge them with both Apple’s magnetic connector and the EU’s chosen tech.
+
+Impact on sales
+
+So what happens if a device that falls under the common charger directive is being sold in the bloc without a USB-C charging port? In most cases, even if it was released before the December 28th deadline, it can’t be sold. For example, Apple is reportedly gearing up to remove the iPhone 14, iPhone SE, and the Magic Keyboard without TouchID — the final devices it sells with a Lightning charging port — from its retail portfolio in the EU as it has already done in Switzerland.
+
+There are exceptions to this though. When it comes to products that are already in circulation, devices without USB-C ports that are placed on the market for the first time before December 28th can still be sold within the EU.
+
+The governing bloc, for the purposes of this legislation, defines being “placed on the market” as the moment when a manufacturer or importer supplies a product to a distributor or an end-user for the first time. “Manufacturers, importers and distributors need to be given time to exercise any rights they have acquired under any pre-existing, national or EU rules,” the European Commission states, “for example to sell their stocks of products manufactured in line with the pre-existing rules.”
+
+In other words, much of the pre-existing stock can be sold if it is already owned by a retailer, although the store won’t be able to purchase any more units. We may find retailers being cautious though, and simply removing the hardware from sale, or shifting it to markets where the regulations aren’t in force.
+
+Fast charging, but make it simpler
+
+Another important, but less well-known, aspect of the common charging directive is around the unification of fast charging. The EU’s goal being the simplification of this oft-confusing practice. The governing body defines fast charging as anything that can be recharged via a wire with “voltages higher than 5 volts, currents higher than 3 amperes, or powers higher than 15 watts.”
+
+When devices hit this threshold, they must work with USB Power Delivery (USB PD), a charging protocol that enables devices to transfer power over USB in addition to data. While some devices, such as iPhones and the Google Pixel range have used this standard for some time, other handsets, such as OnePlus and OPPO, use the proprietary charging SUPERVOOC standard without also supporting USB PD.
+
+This directive aims to ensure that devices that offer fast charging are compatible with any charger. Consumers, then, should be able to power up their hardware at the maximum speed the charging equipment supports. The key element here is that the full functionality of USB PD must be enabled and not hampered by any other charging protocol.
+
+For consumers, the field of fast charging will probably remain confusing in the short term, but as the hardware people already own is slowly replaced, the directive should make this process simpler in the future.
+
+To bundle or not to bundle (charging bricks)
+
+The third part of the common charging solution is, as the European Commission puts it, giving consumers the chance to “purchase a new electronic device without a new charger.” Its aim is to stop excessive waste resulting from buyers owning too many duplicate chargers that go unused.
+
+On the surface, this won’t be a hassle for many companies. Apple stopped selling its iPhones and other devices with charging bricks some time ago, a trend that’s been repeated across the industry. For consumers, this will be one of the bigger changes.
+
+The days of receiving a charger with every purchase of an electronic device in the EU are over, and it’s bound to lead to some confusion, with people expecting a wall brick with their new device and not receiving one. Over time though, the public will adapt — especially with the help of the final part of the directive.
+
+Specifically, this is the introduction of a new visual language for charging. The first example is self-explanatory, with a graphic showing whether or not there’s a charging brick in the box:
+
+Pictograms showing whether a charger is or is not included in the box. Although companies can choose their own design, these icons will have to be shown for every relevant purchase. Image: European Commission
+
+The second pictogram could actually help people get a grasp on what their devices are capable of in terms of receiving power. The outline looks like this, where “XX” is the minimum amount of power needed for the device to charge, while “YY” is the maximum, and “USB PD” will be displayed if the hardware can support that protocol:
+
+A new pictogram will help buyers understand the charging characteristics of their new device. It will vary slightly by manufacturer so long as it communicates the basics. Image: European Commission
+
+While the introduction of this visual language is a simple idea, it will help educate users about powering, as well as helping to tie many of the above regulations together.
+
+Now what?
+
+The elephant in the room is how the common charging solution is actually enforced. This will be down to the member states themselves, as they’re responsible for performing market surveillance.
+
+Each nation will be able to use a variety of measures, including fines and the forced withdrawal of the non-compliant equipment. The issue is how these bodies will manage and verify the huge influx of cheap technology coming from outside the bloc. While big hitters like Samsung or Apple will comply, as they know they’ll have regulators’ eyes on them, it’s harder to ascertain whether smaller businesses will adapt as quickly or receive the same level of scrutiny.
+
+Ultimately, it’s hard to view the common charging solution as anything other than a good thing for those inside the EU. Although the transition to USB-C already had a lot of momentum, one can argue that this shift was accelerated by the regulations, especially in Apple’s case.

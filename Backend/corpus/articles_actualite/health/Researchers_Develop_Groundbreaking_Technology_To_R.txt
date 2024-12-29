@@ -1,0 +1,27 @@
+Researchers have developed a new groundbreaking technology that can convert some cancer cells into a state that resembles normal cells without killing them. This approach not only represents a new way to potentially treat cancer, but also one that avoids side effects produced by other treatments and the risk of resistance.
+
+Cancer reversion, which regresses cancer cells into their differentiated and non-malignant state, has been proposed as a potentially new therapeutic approach for some time. Cancer cells are often “undifferentiated”, which means they lose the specialized characteristics of normal cells.
+
+Advertisement Advertisement
+
+Through a process of re-inducing the expression of differentiation-associated genes, which are typically mutated or “tuned off” in cancer cells, it may be possible to reactivate them and restore their normal function or even achieve “trans-differentiation”, whereby cancer cells are differentiated into completely different types of cell (e.g. breast cancer cells redirected to become more specialized liver cells).
+
+Previous research has demonstrated the reversion of cancer cells associated with myeloid leukemia, breast cancer, and hepatocellular carcinoma – a kind of liver cancer. However, there hasn’t been a systematic identification of what are called “master regulators” – specific genes or proteins that control the differentiation process - that induce this type of differentiation/trans-differentiation. This is an important step, as by identifying such master regulators, then scientists may be able to manipulate cancer cells and reprogram them to become non-cancerous cells, therefore offering alternative or complementary treatments.
+
+In their latest study, a research team led by Professor Kwang-Hyun Cho, from the Department of Bio and Brain Engineering at the Korean Advanced Institute of Science and Technology (KAIST), has outlined a new technology that can convert colon cancer cells into effectively normal cells.
+
+The team focused on the observation that during the oncogenesis process - the multi-step process where normal cells transform into cancer cells – normal cells regress along their differentiation trajectory. This allowed them to develop a technology that builds a digital twin of the gene network associated with the cell’s normal differentiation trajectory. Through this simulation, they were able to systematically identify master molecular switches that induce normal differentiation.
+
+Advertisement Advertisement
+
+When these switches were applied to colon cancer cells, the cells reverted to a normal-like state. These results were then confirmed by molecular and cellular experiments performed on animal subjects.
+
+This work shows that cancer cell reversion can be achieved by creating and analyzing digital twins of the cancer cell gene network. This approach creates a more systematic way to move forward, rather than relying on serendipitous discoveries. It is possible the discovery could lead to new reversible cancer therapies that can be used on various types of cancer cells.
+
+"The fact that cancer cells can be converted back to normal cells is an astonishing phenomenon. This study proves that such reversion can be systematically induced”, Kwang-Hyun Cho explained in a statement.
+
+"This research introduces the novel concept of reversible cancer therapy by reverting cancer cells to normal cells. It also develops foundational technology for identifying targets for cancer reversion through the systematic analysis of normal cell differentiation trajectories."
+
+Advertisement Advertisement
+
+The paper is published in Advance Science.

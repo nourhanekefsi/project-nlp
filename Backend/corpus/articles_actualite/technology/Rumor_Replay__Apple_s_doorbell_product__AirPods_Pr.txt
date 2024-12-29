@@ -1,0 +1,59 @@
+This is Rumor Replay, a weekly column at 9to5Mac offering a quick rundown of the most recent Apple product rumors, with analysis and commentary. Today: Apple’s smart doorbell project, new AirPods Pro developments, iOS 19 device compatibility, and more. Here are this week’s Apple rumors.
+
+Apple’s smart home doorbell
+
+Apple has several new Home devices coming out in 2025, but this week Mark Gurman reported that there’s yet another Home product in the works for future release: a smart doorbell.
+
+Reportedly, Apple’s doorbell product would integrate seamlessly with smart locks—and maybe even come bundled with one itself—so that when the doorbell’s camera authenticates you with Face ID, the door can automatically unlock.
+
+My takeaways
+
+I’ve long wanted Apple to take the smart home more seriously. Any and every new Home product the company creates, I’m game for. We’d heard previously that an Apple security camera was in the works for 2026, and a smart doorbell makes sense as another device that uses much of the same camera tech.
+
+Even if you’re not interested in buying premium Apple smart home devices, Apple’s expansion in this area should lead HomeKit, Matter, and the Apple Home app to all get better. That will be a good thing for every smart home user.
+
+AirPods Pro 3 and beyond
+
+Mark Gurman shared several details this week about Apple’s work on AirPods Pro 3 and beyond. We learned that the following new features are in development:
+
+heart rate monitoring, similar to what the Apple Watch offers
+
+temperature sensing, another health-focused addition
+
+and built-in cameras, likely geared toward AI functionality
+
+Gurman expects that heart rate monitoring will be ready for AirPods Pro 3, but the other features are likely later additions.
+
+My takeaways
+
+This year’s iOS 18.1 update for AirPods Pro 2 was a major step toward making AirPods even more indispensable in users’ lives. Features like Hearing Aid and Hearing Protection are a strong incentive to wear AirPods more often. Apple’s upcoming features seem set to continue that theme.
+
+If AirPods start more and more health data, there’s greater reason to keep them in your ears. And with built-in cameras that can proactively analyze your surroundings, AirPods could prove especially vital.
+
+iOS and iPadOS 19 supported models
+
+The oft-reliable leaker iPhoneSoft shared a list of supported models for the upcoming iOS 19 and iPadOS 19 releases. The list notes that every iPhone model that runs iOS 18 will also be able to support iOS 19.
+
+On the iPad front, the news is nearly as good. The only iPad excluded from iPadOS 19 will be the 7th-generation base iPad with an A10 chip.
+
+My takeaways
+
+It’s impressive that Apple will be able to offer another year’s support for the same set of iPhones. I do wonder, though, if iOS 19 will continue this year’s trend of limiting more features than ever to only modern devices.
+
+For example, I expect Apple will have a slew of new Apple Intelligence features coming in iOS 19, all of which will require an iPhone 15 Pro or newer. As more and more of iOS becomes AI-based, it may be easier to technically maintain support for older devices while actually withholding lots of features from them.
+
+iPad 11
+
+Apple’s base model iPad is overdue for an update. According to an anonymous source with a solid leak record, the 11th generation iPad should be released in early 2025. The new device is expected to run iPadOS 18.3.
+
+There’s not much else we know about this new iPad, but a faster chip and Apple Intelligence support are the main expected additions.
+
+My takeaways
+
+iPadOS 18.3 should arrive around early February, so it’s possible the new iPad could debut then. I also wouldn’t be surprised if we see a March release alongside the iPhone SE 4 and more.
+
+One way or another, the base iPad is the only model not updated in 2024, so the sooner an upgrade arrives, the better.
+
+Which of these Apple rumors are you most interested in? Let us know in the comments.
+
+Best HomeKit smart home accessories

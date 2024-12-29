@@ -1,0 +1,9 @@
+Whatever you hear about the United States as a fading power, it is ahead in the race to gain dominance in artificial intelligence over China, its major rival. That’s a product of Silicon Valley’s unique ability to bring together scientists, entrepreneurs and risk capital. Yet the prospect of continuing dominance in this 21st-century technology hinges on harnessing a 19th-century one: electricity.
+
+That’s where America has a long way to go.
+
+The development of advanced A.I. systems requires vast amounts of energy. At the heart of training these systems are large numbers of specialized computer chips. One estimate suggested that training GPT-4, the latest ChatGPT A.I. system, consumed roughly the same amount of electricity as several thousand U.S. households use in a year.
+
+These extraordinary demands are already pushing up against real-world constraints. America’s power grid, hindered by decades of underinvestment and regulatory logjams, isn’t equipped for the rapid growth in A.I.’s electricity needs. Across the country, energy investors are waiting to develop 2.6 terawatts of new electrical capacity, mostly in wind, solar and battery farms. The total generating capacity that is not connected to the grid and is waiting to be connected has grown roughly eightfold since 2014. Adding that would about triple national generating capacity and help address the future needs of A.I.
+
+In Virginia — a hotbed for data centers — the wait time for data centers to connect to the grid could be seven years. Some counties in the state are introducing limits on data centers.

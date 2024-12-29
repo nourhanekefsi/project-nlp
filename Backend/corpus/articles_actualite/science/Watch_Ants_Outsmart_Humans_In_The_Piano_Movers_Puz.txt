@@ -1,0 +1,31 @@
+A team studying the group behavior of ants has found that, in the right circumstances, ants can outsmart humans in collective problem-solving tasks.
+
+Researchers from the Weizmann Institute of Science wanted to take a closer look at "collective cognition", and whether groups can sometimes tackle problems with more ease than when performing the tasks individually, with the collective intelligence exceeding that of the individuals which make it up.
+
+Advertisement Advertisement
+
+"Biological ensembles use collective intelligence to tackle challenges together, but suboptimal coordination can undermine the effectiveness of group cognition," the team wrote in their paper, explaining that this phenomenon is difficult to study due to the complex environments in which group decisions are made.
+
+"One exception is the problem of navigating large loads through complex environments and toward a given target. People and ants stand out in their ability to efficiently perform this task not just individually but also as a group," the team wrote. "This provides a rare opportunity to empirically compare problem-solving skills and cognitive traits across species and group sizes."
+
+In the study, the team pitted ants – specifically Paratrechina longicornis – against humans in a task known as the "piano movers puzzle", where a group or individual is asked to move an unusual-shaped object (like a piano) through a complex environment. The team made both ants and humans move a T-shaped objects through a maze, with the humans doing it for the challenge and the ants because they had been tricked into thinking they were moving a piece of food towards their nest.
+
+The researchers tested how humans and the ants performed as individuals and in various team sizes. For ants, the groups ranged from small groups of around 7 to large groups of about 80, while humans competed in small groups of 6-9 people, and large groups of 26. To make the comparison more meaningful, communication between humans using gestures and facial expressions was restricted in some tests, while talking was disallowed.
+
+Advertisement Advertisement
+
+Humans outperformed the ants when performing the task individually, as you might expect. However, when it came to large groups the results were not so clear cut.
+
+As group size became larger, ants performed better than when set the task individually. Studying the dynamics of how the ants moved around and responded to obstructions, they found that they acted as if they had an "emergent" collective memory.
+
+"Large ant groups exhibit emergent persistence, which expands their cognitive toolbox to include short-term memory—a building block of cognition: the memory of the current direction of motion is temporarily stored in the collective ordered state of the transporting ants, analogous to ordered spins in statistical mechanics," the team explained. "Thus, collective memory is an emergent feature rather than an individual trait. Emergent memory allows groups of ants to perform near-deterministic, persistent scanning of the wall, which potentially leads them through shortest paths in search space."
+
+Advertisement Advertisement
+
+While this helped the ants, the interpersonal differences in the humans performing the task meant that the human groups did not benefit from any emergent collective memory. Instead, they tended to opt for "greedy" solutions – pulling the T towards the goal, regardless of how that decision affected the long-term goal of actually getting the T through the maze. In certain trials, this made their performance worse than when they were negotiating the maze as individuals.
+
+"An ant colony is actually a family," Professor Ofer Feinerman said in a statement. "All the ants in the nest are sisters, and they have common interests. It's a tightly knit society in which cooperation greatly outweighs competition. That's why an ant colony is sometimes referred to as a super-organism, sort of a living body composed of multiple 'cells' that cooperate with one another."
+
+"Our findings validate this vision. We've shown that ants acting as a group are smarter, that for them the whole is greater than the sum of its parts," he added. "In contrast, forming groups did not expand the cognitive abilities of humans. The famous 'wisdom of the crowd' that's become so popular in the age of social networks didn't come to the fore in our experiments."
+
+The study is published in the Proceedings of the National Academy of Sciences (PNAS).

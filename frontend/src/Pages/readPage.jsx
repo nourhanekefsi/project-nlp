@@ -45,7 +45,7 @@ function ReadPage() {
       {document ? (
         <div className="p-10 w-full flex-col">
           <div className="flex flex-row-reverse">
-            <Visuals />
+            <Visuals id={id}/>
             <div className="w-2/3">
               <h1 className="text-2xl font-bold">
                 {document.document.title || "No Title Provided"}

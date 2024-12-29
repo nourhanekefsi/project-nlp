@@ -1,0 +1,29 @@
+Using a pair of satellites, the European Space Agency is set to be able to create artificial solar eclipses on-demand to study one of the most important features of our Sun.
+
+Lost in the sheer brightness of the star, the corona, or crown of the Sun, is hotter and larger than the Sun itself. Its effects, as well as being more consequential for our society, are extremely difficult to understand due to outstanding problems in imaging the Sun from our planet.
+
+Proba-3, designed across 14 member states, built in Spain, and launched into space by India on December 5th, should allow astrophysicists to gain unparalleled visual insights into the corona by using solar eclipses as inspiration.
+
+Spaced about one and a half football fields apart, Proba-3 orbits the Earth like our Moon and consists of two different satellites called the Occulter and the Coronagraph.
+
+The Occulter, as its name suggests, is the satellite closer to the Sun, and during a six-hour window will perfectly obscure the light of the Sun’s disk. Closer to the Earthling as he views it, the Coronograph then images the corona for 6 full hours, as no Earth-bound telescope can do.
+
+However, Proba-3 mission manager Damien Galano outlines the difficulty in accomplishing this artificial eclipse.
+
+“Now the hard work really begins, because to achieve Proba-3’s mission goals, the two satellites need to achieve positioning accuracy down to the thickness of the average fingernail while positioned one and a half football pitches apart,” said Gelano, who didn’t mention the satellites are flying through space hundreds of miles per hour.
+
+The corona is like a bubble of gas, heat, and radiation. It’s responsible for the famous ‘solar wind’ from which spacecraft and astronauts need to protect themselves with radiation shields, and also for huge explosions known as coronal mass ejections which can damage or disrupt electronics on Earth.
+
+OTHER ESA CONTRIBUTIONS: Mysterious Rainbow-like ‘Glory Lights’ Observed on Planet Outside Our Solar System for First Time Ever
+
+Andrei Zhukov of the Royal Observatory of Belgium and Principal Investigator for the Proba-3 Coronograph unit, explained in a statement released on the December 5th launch just why this ability to cast eclipses on-demand is so valuable to astronomers.
+
+“At the moment we can image the Sun in extreme ultraviolet to image the solar disc and the low corona, while using Earth and space-based coronagraphs to monitor the high corona,” he said.
+
+MORE SUN-SOAKED SCIENCE: Spacecraft ‘Hack’ Results in Never-Before-Seen Views of Our Sun – LOOK
+
+“That leaves a significant observing gap, from about three solar radii down to 1.1 solar radii, that Proba-3 will be able to fill. Despite its faintness, the solar corona is an important element of our Solar System, larger in expanse than the Sun itself, and the source of space weather and the solar wind.”
+
+WATCH an explainer video below…
+
+SHARE This Pioneering Imaging Project In Spacec With Your Friends…

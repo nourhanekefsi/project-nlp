@@ -1,0 +1,41 @@
+In the late 1960s, researchers at the Weizmann Institute of Science, including Professors Michael Sela and Ruth Arnon and Dr. Dvora Teitelbaum, developed synthetic molecules called copolymers.
+
+Initially intended to mimic multiple sclerosis (MS) in animal models, these compounds unexpectedly led to a breakthrough drug, Copaxone, used worldwide to treat MS. Decades later, this versatile medication is being explored for a surprising new use—aiding recovery after heart attacks.
+
+Heart failure, a condition impacting around 64 million people globally, often results from heart attacks. These occur when blood flow to the heart muscle is obstructed, causing irreversible cell death.
+
+Unlike other tissues, the heart cannot regenerate lost muscle cells. Instead, fibroblasts form scar tissue, preserving structural integrity but diminishing the heart’s ability to pump blood efficiently. Chronic conditions like ischemic heart disease often follow, posing a major health burden.
+
+Researchers reveal Copaxone’s potential to repair heart damage after attacks, offering hope for millions battling heart failure worldwide. (CREDIT: Copaxone)
+
+Recent studies have highlighted the immune system’s pivotal role in cardiac recovery. While initial inflammation aids healing, unresolved inflammation can exacerbate damage, leading to heart failure. Given Copaxone’s immunomodulatory properties, researchers wondered whether it could influence heart repair processes.
+
+A team led by Professor Eldad Tzahor and Dr. Rachel Sarig at the Weizmann Institute’s Molecular Cell Biology Department tested Copaxone on heart attack models in mice.
+
+Their findings, published in Nature Cardiovascular Research, revealed remarkable results. Mice treated with daily injections of Copaxone demonstrated better heart function and smaller scar areas. Even when treatment was delayed by 24 to 48 hours post-heart attack, significant benefits were observed.
+
+“Treatment with Copaxone does not cause heart muscle cells to divide,” Sarig explains. “It helps existing cells survive, enhances blood vessel formation, and delays scar tissue creation.” In treated mice, the heart’s left chamber pumped more blood, sending vital oxygen to other organs. Scars covering over 30% of the left ventricle were observed only in untreated mice.
+
+Encouraged by these results, researchers extended their investigation to rats with chronic heart failure. Here, too, Copaxone delivered promising outcomes. Rats treated nearly a month after their heart attacks showed a 30% improvement in the amount of blood pumped per heartbeat and a 60% enhancement in cardiac contractility. Even a month after treatment ended, these improvements persisted, suggesting long-term benefits.
+
+Beyond its impact on immune modulation, Copaxone displayed direct protective effects on cardiac cells. Lab tests revealed that the drug shielded heart muscle cells in tissue cultures devoid of immune cells. It also reduced fibrosis and stimulated the growth of new blood vessels, critical for tissue repair. These findings underscore Copaxone’s multifaceted role in mitigating heart damage.
+
+The study’s implications are significant, particularly given the challenges of developing new drugs. Repurposing existing medications like Copaxone offers a cost-effective, accelerated path to addressing pressing medical needs. “The development of new therapeutics is labor-intensive and costly,” Tzahor notes. “Repurposing drugs provides an attractive alternative for expanding treatment options.”
+
+Copaxone’s immunomodulatory effects are well-documented in MS treatment. The drug promotes anti-inflammatory responses by influencing various immune cells, including dendritic cells, monocytes, and regulatory T cells. These actions reduce pathological inflammation, creating a favorable environment for tissue repair. Importantly, these effects are independent of Copaxone’s original design to mimic myelin basic protein, highlighting its broad therapeutic potential.
+
+GA improves mouse cardiac function after MI. (CREDIT: Nature Cardiovascular Research)
+
+The study’s success also stems from a collaborative effort involving multiple researchers and institutions. Contributions came from specialists in molecular biology, immunology, and personalized medicine, emphasizing the interdisciplinary nature of modern medical research.
+
+Human trials are the next frontier. Collaborating with clinicians at Hadassah Medical Center in Jerusalem, the team initiated a phase 2a clinical trial to test Copaxone’s efficacy in heart failure patients.
+
+Preliminary results are expected to confirm rapid improvements in inflammation markers and heart function. However, as the patent for Copaxone has expired, securing pharmaceutical industry support for further trials remains a challenge.
+
+“Repurposing an existing drug is quicker and cheaper than developing a new one,” Tzahor explains. “We hope donors or organizations will support this promising avenue of research.”
+
+GA treatment inhibits the early pro-inflammatory response. (CREDIT: Nature Cardiovascular Research)
+
+This innovative work not only highlights Copaxone’s potential as a heart failure therapy but also underscores the broader promise of drug repurposing. By leveraging existing medications, researchers can unlock new possibilities for treating complex diseases, transforming challenges into opportunities for millions of patients worldwide.
+
+Note: Materials provided above by The Brighter Side of News. Content may be edited for style and length.

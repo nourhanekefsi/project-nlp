@@ -1,0 +1,7 @@
+When I started my training as an emergency room physician, my mind revolved around answering one fundamental question: What does this patient have? Every interaction was a diagnostic puzzle, an attempt to fit a patient’s symptoms together into a cohesive picture.
+
+But human beings are complex, and the ways people feel and describe their symptoms don’t always follow what medical students learn in textbooks. When I couldn’t figure out a clear cause for my patient’s symptoms, I would settle for answering the next best question: Does this person have anything soon to be life-threatening that needs to be diagnosed today?
+
+If the patient’s tests came back normal, that could have been reason enough to release them from the hospital. I could present their results as objective reassurance.
+
+As the pandemic took off, though, my hospital began expanding virtual urgent care. I knew that these video visits would be easier for sick patients who didn’t want to leave the house, and further the public health goal of reducing people’s exposure to infectious diseases. But I always thought tech-enabled conveniences would be at the expense of human connection.

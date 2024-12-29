@@ -1,0 +1,11 @@
+The year began with such promise. Back in January, I remember sitting in a presentation hall at a Las Vegas hotel during CES 2024 as Rabbit CEO Jesse Lyu unveiled the R1. This colorful and fun pocket-sized AI companion promised to do everything, from ordering an Uber to answering all your vexing questions. My story on the R1 had just gone live and within hours—I'm not trying to pat myself on the back here—there were a lot of eyeballs on it. The device was unlike anything that had come before, and showed us a novel vision of how these newfangled AI agents would fit into our lives. Rabbit's R1 became the breakout story of CES, and the company claims it sold 100,000 units by March.
+
+Soon after it came Apple's Vision Pro—a $3,499 mixed-reality headset that lets you escape the real world to watch movies, play games, and work in a cyber-office with multiple screens hovering around you. Apple had spent the year prior hyping it, and it was the first new product category for the company since the Apple Watch in 2015.
+
+A few months after that, Humane's Ai Pin arrived. Like the Rabbit, this was yet another AI assistant, though it was designed to be worn on your lapel. I was visiting my mom shortly before the Ai Pin launched, and out of the blue, she asked me if I had heard about this “pin” product, because she had heard of it on an Indian news channel. It was not only the talk of the town, but the talk of the world.
+
+These three spectacularly hyped products have one thing in common: They all flopped.
+
+Humane's Ai Pin barely worked and was widely panned by critics upon release. A short while later, more Ai Pins were being returned than purchased. (Do I need to mention the Charging Case posed a fire safety risk?) The company now wants to license its CosmOS operating system to third parties to be injected into cars and smart speakers, though this strategy has no product integrations to show for it.
+
+Rabbit similarly received a swath of negative reviews at launch as the R1 barely did anything, and many third-party integrations it featured were half-baked. The underlying software was revealed to be just a simple Android app. Oh, and there were critical security issues too.

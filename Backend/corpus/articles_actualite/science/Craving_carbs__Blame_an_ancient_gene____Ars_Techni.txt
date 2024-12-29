@@ -1,0 +1,13 @@
+There is now a genetic excuse not to bother cutting carbs. Humans have genetically adapted to eating starchy foods, and our ancestors may have been carb-ivores even before modern Homo sapiens emerged.
+
+The salivary amylase gene, known as AMY1, is already known to have helped us adapt to eating carbs. It encodes amylase, an enzyme that breaks starches found in pasta and bread down to glucose—and may have given us a taste preference for them. Humans have multiple copies of the gene, which may help us produce high levels of the enzyme.
+
+Researchers from the University of Buffalo and the Jackson Laboratory have now found that, while most copies of this gene arose with the advent of farming, modern humans and our closest relatives had accumulated extra copies long before agriculture.
+
+By mapping the genomes of individuals from both modern and pre-agricultural populations, and using long-read gene sequencing (which sequences long strands of DNA or RNA all at once), the team found several copies of AMY1 in humans as far back as 45,000 years ago and in our Neanderthal and Denisovan predecessors over 800,000 years ago.
+
+If the genes fit
+
+The ancestral AMY1 gene, which is expressed in the parotid salivary gland, was present as a single copy and is thought to have originated in the common ancestor of great apes. We now have multiple copies of AMY1, which had been linked to the beginnings of agriculture about 10,000 years ago, which made starches more consistently available.
+
+Because there was a lack of information about when the additional copies of AMY1 appeared, the research team mapped and sequenced the genomes of 98 individuals from various ancient and modern populations to see if the number of copies increased around the same time that many hunter-gatherers transitioned to farming. Analysis of ancient and modern human genomes, along with those of our closest relatives, revealed a common haplotype, or group of alleles (different forms of a gene), inherited together from one parent. This haplotype has three copies of AMY1 and was present in samples that predated our migration out of Africa. Haplotypes with more copies of the gene also exist.

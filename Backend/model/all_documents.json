@@ -1,0 +1,4185 @@
+[
+    {
+        "id": 1,
+        "title": "The 2025 economy: 5 things to watch - The Washington Post",
+        "author": "Abha Bhattarai",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/The_2025_economy__5_things_to_watch___The_Washingt.txt",
+        "url": "https://www.washingtonpost.com/business/2024/12/27/2025-economic-outlook-trump-policies/"
+    },
+    {
+        "id": 2,
+        "title": "OpenAI lays out its for-profit transition plans - TechCrunch",
+        "author": "Kyle Wiggers",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/OpenAI_lays_out_its_for_profit_transition_plans___.txt",
+        "url": "https://techcrunch.com/2024/12/27/openai-lays-out-its-for-profit-transition-plans/"
+    },
+    {
+        "id": 3,
+        "title": "Dow falls more than 200 points, but on track to post winning holiday week: Live updates - CNBC",
+        "author": "Yun Li, Pia Singh",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Dow_falls_more_than_200_points__but_on_track_to_po.txt",
+        "url": "https://www.cnbc.com/2024/12/26/stock-market-today-live-update.html"
+    },
+    {
+        "id": 4,
+        "title": "Bank of America to Buy $990 Million of Multifamily Loans From HomeStreet - Yahoo Finance",
+        "author": "Daniel Taub",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Bank_of_America_to_Buy__990_Million_of_Multifamily.txt",
+        "url": "https://finance.yahoo.com/news/bank-america-buy-990-million-142437359.html"
+    },
+    {
+        "id": 5,
+        "title": "Bezos\u2019 Miami Neighbor Seeks $200 Million for Empty 1.8 Acre Lot - Bloomberg",
+        "author": "Felipe Marques",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Bezos__Miami_Neighbor_Seeks__200_Million_for_Empty.txt",
+        "url": "https://www.bloomberg.com/news/articles/2024-12-27/bezos-s-miami-neighbor-seeks-200-million-for-empty-1-8-acre-lot"
+    },
+    {
+        "id": 6,
+        "title": "Another stowaway is caught on a Delta flight this holiday season \u2013 raising major concerns about airport safety - CNN",
+        "author": "Raja Razek, Forrest Brown",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Another_stowaway_is_caught_on_a_Delta_flight_this_.txt",
+        "url": "https://www.cnn.com/travel/christmas-eve-stowaway-delta-seattle/index.html"
+    },
+    {
+        "id": 7,
+        "title": "Major changes coming to Social Security regardless of Trump\u2019s presence - Washington Examiner",
+        "author": "Emily Hallas",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Major_changes_coming_to_Social_Security_regardless.txt",
+        "url": "https://www.washingtonexaminer.com/in_focus/3256937/major-changes-coming-to-social-security-regardless-trump-presence/"
+    },
+    {
+        "id": 8,
+        "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
+        "author": "Terry Lane",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/5_Things_to_Know_Before_the_Stock_Market_Opens___I.txt",
+        "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-december-27-2024-8766901"
+    },
+    {
+        "id": 9,
+        "title": "Richard Parsons, prominent executive who led Time Warner and Citigroup, dies at 76 - The Associated Press",
+        "author": "ANICK JESDANUN, MICHAEL R. SISAK",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Richard_Parsons__prominent_executive_who_led_Time_.txt",
+        "url": "https://apnews.com/article/richard-parsons-dies-obituary-time-warner-citigroup-d4cfeb3ea4e9b416cfbb52c98639ae4a"
+    },
+    {
+        "id": 10,
+        "title": "Average rate on a 30-year mortgage climbs to 6.85%, highest since July, as bond yields keep rising - ABC News",
+        "author": "MATT OTT AP business writer",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Average_rate_on_a_30_year_mortgage_climbs_to_6_85_.txt",
+        "url": "https://abcnews.go.com/Business/wireStory/average-rate-30-year-mortgage-climbs-685-highest-117121427"
+    },
+    {
+        "id": 11,
+        "title": "How Tariffs Can Help America - Foreign Affairs Magazine",
+        "author": "Michael Pettis",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/How_Tariffs_Can_Help_America___Foreign_Affairs_Mag.txt",
+        "url": "https://www.foreignaffairs.com/united-states/how-tariffs-can-help-america"
+    },
+    {
+        "id": 12,
+        "title": "Ark's Cathie Wood calls for tax clarity as she rides 'Trump bump' - Yahoo Finance",
+        "author": "Suzanne McGee",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Ark_s_Cathie_Wood_calls_for_tax_clarity_as_she_rid.txt",
+        "url": "https://ca.finance.yahoo.com/news/arks-cathie-wood-calls-tax-110525966.html"
+    },
+    {
+        "id": 13,
+        "title": "What To Expect From Bitcoin and Crypto Markets In 2025 - Investopedia",
+        "author": "Kyle Torpey",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/What_To_Expect_From_Bitcoin_and_Crypto_Markets_In_.txt",
+        "url": "https://www.investopedia.com/what-to-expect-from-bitcoin-and-crypto-markets-in-2025-8750171"
+    },
+    {
+        "id": 14,
+        "title": "Prediction: Palantir Stock Could Hit $100 By Year-End (but There's a Catch) - The Motley Fool",
+        "author": "Adam Spatacco",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Prediction__Palantir_Stock_Could_Hit__100_By_Year_.txt",
+        "url": "https://www.fool.com/investing/2024/12/27/prediction-palantir-stock-could-hit-100-year-end/"
+    },
+    {
+        "id": 15,
+        "title": "10-year Treasury yield back above 4.6% to end the holiday week - CNBC",
+        "author": "Jenni Reid",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/10_year_Treasury_yield_back_above_4_6__to_end_the_.txt",
+        "url": "https://www.cnbc.com/2024/12/27/10-year-treasury-yield-27-december-2024.html"
+    },
+    {
+        "id": 16,
+        "title": "Florida condo owners look at higher costs as new regulations take effect in the new year - Yahoo! Voices",
+        "author": "STEPHANY MATAT and DAVID FISCHER",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Florida_condo_owners_look_at_higher_costs_as_new_r.txt",
+        "url": "https://www.yahoo.com/news/florida-condo-owners-look-higher-050357020.html"
+    },
+    {
+        "id": 17,
+        "title": "Japan's MUFG Bank suffers online banking glitch, hints at cyberattack - Kyodo News Plus",
+        "author": "KYODO NEWS",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Japan_s_MUFG_Bank_suffers_online_banking_glitch__h.txt",
+        "url": "https://english.kyodonews.net"
+    },
+    {
+        "id": 18,
+        "title": "Hertz is asking EV renters if they want to keep it, permanently - The Verge",
+        "author": "Umar Shakir",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Hertz_is_asking_EV_renters_if_they_want_to_keep_it.txt",
+        "url": "https://www.theverge.com/2024/12/26/24329874/hertz-ev-tesla-email-sales-offers"
+    },
+    {
+        "id": 19,
+        "title": "Holiday shoppers increased spending by 3.8% despite higher prices - The Associated Press",
+        "author": "ANNE D'INNOCENZIO, HALELUYA HADERO",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Holiday_shoppers_increased_spending_by_3_8__despit.txt",
+        "url": "https://apnews.com/article/holiday-spending-mastercard-0e11efb764f5ff0ad84ddb4505e17398"
+    },
+    {
+        "id": 20,
+        "title": "Retailer closing all of its stores including these 25 Pa. locations - PennLive",
+        "author": "Daniel Urie | durie@pennlive.com",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Retailer_closing_all_of_its_stores_including_these.txt",
+        "url": "https://www.pennlive.com/business/2024/12/retailer-closing-all-of-its-stores-including-these-25-pa-locations.html"
+    },
+    {
+        "id": 21,
+        "title": "Nebraska man who lost his home over $588 debt is getting it back - The Associated Press",
+        "author": "JIM SALTER",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Nebraska_man_who_lost_his_home_over__588_debt_is_g.txt",
+        "url": "https://apnews.com/article/home-returned-lawsuit-nebraska-e32c475557a3478b9ef15541b470cb31"
+    },
+    {
+        "id": 22,
+        "title": "How the stock market defied expectations again this year, by the numbers - The Associated Press",
+        "author": "THE ASSOCIATED PRESS",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/How_the_stock_market_defied_expectations_again_thi.txt",
+        "url": "https://apnews.com/article/stock-market-wall-street-tesla-nvidia-bitcoin-5e8bddd4ca301d66480249b41b4836ac"
+    },
+    {
+        "id": 23,
+        "title": "Eye Drops Recalled In IL Over Fungal Contamination - Patch",
+        "author": "Shannon Antinori",
+        "type": "article d'actualit\u00e9",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Eye_Drops_Recalled_In_IL_Over_Fungal_Contamination.txt",
+        "url": "https://patch.com/illinois/across-il/eye-drops-recalled-il-over-fungal-contamination"
+    },
+    {
+        "id": 24,
+        "title": "Rob Sheffield\u2019s Top 20 Albums of 2024 - Rolling Stone",
+        "author": "Rob Sheffield",
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/Rob_Sheffield_s_Top_20_Albums_of_2024___Rolling_St.txt",
+        "url": "http://www.rollingstone.com/music/music-lists/rob-sheffield-best-albums-2024-1235202184/"
+    },
+    {
+        "id": 25,
+        "title": "Disney Recaptured Its Dominance in 2024 as Family Films and Sequels Ruled the Box Office - Variety",
+        "author": "Brent Lang",
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/Disney_Recaptured_Its_Dominance_in_2024_as_Family_.txt",
+        "url": "https://variety.com/2024/film/news/2024-box-office-disney-comeback-sequels-ruled-family-films-dominated-1236259940/"
+    },
+    {
+        "id": 26,
+        "title": "\u2018The Night Manager,\u2019 \u2018Doctor Who\u2019 and 26 More BBC Shows Airing in 2025 - Hollywood Reporter",
+        "author": "Lily Ford",
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/_The_Night_Manager____Doctor_Who__and_26_More_BBC_.txt",
+        "url": "http://www.hollywoodreporter.com/tv/tv-news/bbc-2025-shows-the-night-manager-doctor-who-1236091549/"
+    },
+    {
+        "id": 27,
+        "title": "Jay-Z\u2019s efforts to dismiss rape case from then-13-year-old accuser denied by judge - Yahoo! Voices",
+        "author": "Elizabeth Wagmeister",
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/Jay_Z_s_efforts_to_dismiss_rape_case_from_then_13_.txt",
+        "url": "https://www.cnn.com/2024/12/27/entertainment/jay-z-legal-case/index.html"
+    },
+    {
+        "id": 28,
+        "title": "Connections hints, clues and answers on Friday, December 27 2024 - For The Win",
+        "author": "Charles Curtis",
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/Connections_hints__clues_and_answers_on_Friday__De.txt",
+        "url": "https://ftw.usatoday.com/2024/12/connections-hints-today-clues-answers-december-27-2024"
+    },
+    {
+        "id": 29,
+        "title": "OnlyFans Model Scarlet Vas Gives Birth to Her Stepbrother\u2019s Baby: \u2018Finally Arrived\u2019 - Yahoo Entertainment",
+        "author": "Erin Doyle",
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/OnlyFans_Model_Scarlet_Vas_Gives_Birth_to_Her_Step.txt",
+        "url": "https://www.usmagazine.com/celebrity-moms/news/onlyfans-model-scarlet-vas-gives-birth-to-her-stepbrothers-baby/"
+    },
+    {
+        "id": 30,
+        "title": "\u2018Babygirl\u2019: The Kinky Nicole Kidman Sex Scene Turning Heads - The Daily Beast",
+        "author": "Barry Levitt",
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/_Babygirl___The_Kinky_Nicole_Kidman_Sex_Scene_Turn.txt",
+        "url": "https://www.thedailybeast.com/obsessed/babygirl-the-kinky-nicole-kidman-sex-scene-shocking-audiences/"
+    },
+    {
+        "id": 31,
+        "title": "\u2018Cosby Show\u2019 actor Geoffrey Owens still \u2018struggling\u2019 to make ends meet after he quit Trader Joe\u2019s gig over \u2018attack on my privacy\u2019 - Yahoo Entertainment",
+        "author": "Jacki Thrapp",
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/_Cosby_Show__actor_Geoffrey_Owens_still__strugglin.txt",
+        "url": "https://nypost.com/2024/12/27/entertainment/cosby-show-actor-geoffrey-owens-still-struggling-to-make-ends-meet-after-he-quit-trader-joes-gig-over-attack-on-my-privacy/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral"
+    },
+    {
+        "id": 32,
+        "title": "Hudson Meek death: Tributes paid to Baby Driver actor - BBC.com",
+        "author": null,
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/Hudson_Meek_death__Tributes_paid_to_Baby_Driver_ac.txt",
+        "url": "https://www.bbc.com/news/articles/cgrwzl47kk5o"
+    },
+    {
+        "id": 33,
+        "title": "Horoscope for Friday, December 27, 2024 - Chicago Sun-Times",
+        "author": "Georgia Nicols",
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/Horoscope_for_Friday__December_27__2024___Chicago_.txt",
+        "url": "https://chicago.suntimes.com/horoscopes/2024/12/27/horoscopes-today-friday-december-27-2024"
+    },
+    {
+        "id": 34,
+        "title": "Fox News\u2019 Sean Hannity and Ainsley Earhardt Engaged - TVLine",
+        "author": "Matt Webb Mitovich",
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/Fox_News__Sean_Hannity_and_Ainsley_Earhardt_Engage.txt",
+        "url": "https://tvline.com/news/sean-hannity-engaged-ainsley-earhardt-fox-news-1235393015/"
+    },
+    {
+        "id": 35,
+        "title": "\u2018Squid Game\u2019 Creator Breaks Down \u2018Heavy\u2019 Season 2 Finale Death, Mid-Credits Scene Clues and When Season 3 Is Coming - Variety",
+        "author": "Jennifer Maas",
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/_Squid_Game__Creator_Breaks_Down__Heavy__Season_2_.txt",
+        "url": "https://variety.com/2024/tv/news/squid-game-2-ending-jung-bae-death-explained-mid-credits-scene-season-3-1236255614/"
+    },
+    {
+        "id": 36,
+        "title": "Justin Baldoni Podcast Episode Deleted After Blake Lively Allegations, Elizabeth Day Says - Hollywood Reporter",
+        "author": "Carly Thomas",
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/Justin_Baldoni_Podcast_Episode_Deleted_After_Blake.txt",
+        "url": "http://www.hollywoodreporter.com/news/general-news/justin-baldoni-how-to-fail-podcast-episode-deleted-blake-lively-allegations-1236094272/"
+    },
+    {
+        "id": 37,
+        "title": "Cynthia Erivo Reveals She Co-Wrote an Original Song for Elphaba in \u2018Wicked: For Good\u2019: \u2018When We Filmed It, the Entire Crew Was in Tears\u2019 - Variety",
+        "author": "Clayton Davis",
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/Cynthia_Erivo_Reveals_She_Co_Wrote_an_Original_Son.txt",
+        "url": "https://variety.com/2024/film/podcasts/cynthia-erivo-wicked-2-original-song-debut-album-1236258259/"
+    },
+    {
+        "id": 38,
+        "title": "\u2018A Complete Unknown\u2019 Fact vs. Fiction: Bob Dylan Experts Go Deep on What\u2019s True or Fanciful in the Celebrated Biopic - Variety",
+        "author": "Chris Willman",
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/_A_Complete_Unknown__Fact_vs__Fiction__Bob_Dylan_E.txt",
+        "url": "https://variety.com/2024/music/news/complete-unknown-fact-fiction-bob-dylan-biopic-experts-weigh-in-1236260141/"
+    },
+    {
+        "id": 39,
+        "title": "Former Diddy Employee Claims To Have Set Up Wild Sex Parties - The Root",
+        "author": "Jared Alexander",
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/Former_Diddy_Employee_Claims_To_Have_Set_Up_Wild_S.txt",
+        "url": "https://www.theroot.com/former-diddy-employee-makes-shocking-claims-of-setting-1851728891"
+    },
+    {
+        "id": 40,
+        "title": "Robert Eggers confirms that Lily-Rose Depp's Nosferatu spasms were 100% practical - The A.V. Club",
+        "author": null,
+        "type": "article d'actualit\u00e9",
+        "categorie": "entertainment",
+        "file_path": "../corpus/articles_actualite/entertainment/Robert_Eggers_confirms_that_Lily_Rose_Depp_s_Nosfe.txt",
+        "url": "https://www.avclub.com/nosferatu-lily-rose-depp-practical-posession"
+    },
+    {
+        "id": 41,
+        "title": "Avalanche warning issued in Utah as 'very dangerous' conditions emerge from storm - KSL.com",
+        "author": "Carter Williams, KSL.com",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Avalanche_warning_issued_in_Utah_as__very_dangerou.txt",
+        "url": "https://www.ksl.com/article/51218049/avalanche-warning-issued-in-utah-as-very-dangerous-conditions-emerge-from-storm"
+    },
+    {
+        "id": 42,
+        "title": "Could microwaved grapes be used for quantum sensing? - Ars Technica",
+        "author": "Jennifer Ouellette",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Could_microwaved_grapes_be_used_for_quantum_sensin.txt",
+        "url": "https://arstechnica.com/science/2024/12/could-microwaved-grapes-be-used-for-quantum-sensing/"
+    },
+    {
+        "id": 43,
+        "title": "Gleyber union: Tigers to add Torres, sources say - ESPN",
+        "author": "Jesse Rogers",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Gleyber_union__Tigers_to_add_Torres__sources_say__.txt",
+        "url": "https://www.espn.com/mlb/story/_/id/43181742/tigers-gleyber-torres-reach-1-year-15m-deal-sources-say"
+    },
+    {
+        "id": 44,
+        "title": "Azerbaijan and Kazakhstan suspend flights to Russia after plane crash - Financial Times",
+        "author": "Polina Ivanova, Robert Wright, Anastasia Stognei",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Azerbaijan_and_Kazakhstan_suspend_flights_to_Russi.txt",
+        "url": "https://www.ft.com/content/c6b98c15-9c91-4f74-a494-ffea4f3fdab4"
+    },
+    {
+        "id": 45,
+        "title": "NASA's Parker Solar Probe phones home after surviving historic close sun flyby - Space.com",
+        "author": "Sharmila Kuthunur",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/NASA_s_Parker_Solar_Probe_phones_home_after_surviv.txt",
+        "url": "https://www.space.com/the-universe/sun/nasas-parker-solar-probe-phones-home-after-surviving-historic-close-sun-flyby"
+    },
+    {
+        "id": 46,
+        "title": "Dow falls more than 200 points, but on track to post winning holiday week: Live updates - CNBC",
+        "author": "Yun Li, Pia Singh",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Dow_falls_more_than_200_points__but_on_track_to_po.txt",
+        "url": "https://www.cnbc.com/2024/12/26/stock-market-today-live-update.html"
+    },
+    {
+        "id": 47,
+        "title": "NFL Week 17 bold predictions: Jets hand Bills first home loss of 2024, Panthers stun again - CBS Sports",
+        "author": "",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/NFL_Week_17_bold_predictions__Jets_hand_Bills_firs.txt",
+        "url": "https://www.cbssports.com/nfl/news/nfl-week-17-bold-predictions-jets-hand-bills-first-home-loss-of-2024-panthers-stun-again/"
+    },
+    {
+        "id": 48,
+        "title": "Jay-Z\u2019s efforts to dismiss rape case from then-13-year-old accuser denied by judge - Yahoo! Voices",
+        "author": "Elizabeth Wagmeister",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Jay_Z_s_efforts_to_dismiss_rape_case_from_then_13_.txt",
+        "url": "https://www.cnn.com/2024/12/27/entertainment/jay-z-legal-case/index.html"
+    },
+    {
+        "id": 49,
+        "title": "Italian journalist arrested in Iran - POLITICO Europe",
+        "author": "Carlo Martuscelli",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Italian_journalist_arrested_in_Iran___POLITICO_Eur.txt",
+        "url": "https://www.politico.eu/article/italy-journalist-cecilia-sala-arrested-in-iran/"
+    },
+    {
+        "id": 50,
+        "title": "A MAGA \u2018Civil War\u2019 on X between Musk and the far right over H-1B visas - The Washington Post",
+        "author": "Pranshu Verma, Cat Zakrzewski",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/A_MAGA__Civil_War__on_X_between_Musk_and_the_far_r.txt",
+        "url": "https://www.washingtonpost.com/technology/2024/12/27/h-1b-visas-elon-musk-trump-immigration/"
+    },
+    {
+        "id": 51,
+        "title": "Richard Parsons, prominent executive who led Time Warner and Citigroup, dies at 76 - The Associated Press",
+        "author": "ANICK JESDANUN, MICHAEL R. SISAK",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Richard_Parsons__prominent_executive_who_led_Time_.txt",
+        "url": "https://apnews.com/article/richard-parsons-dies-obituary-time-warner-citigroup-d4cfeb3ea4e9b416cfbb52c98639ae4a"
+    },
+    {
+        "id": 52,
+        "title": "Tracking the current NFL playoff picture: Updated chances to clinch open spots, division titles - ESPN",
+        "author": null,
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Tracking_the_current_NFL_playoff_picture__Updated_.txt",
+        "url": "https://www.espn.com/espn/feature/story/_/id/42737184/2024-nfl-playoff-picture-live-updated-chances-clinch-bracket-projections-scenarios"
+    },
+    {
+        "id": 53,
+        "title": "What is \u2018Kessler Syndrome\u2019 \u2014 and why do some scientists think the space disaster scenario has already started? - CNN",
+        "author": "Jackie Wattles",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/What_is__Kessler_Syndrome____and_why_do_some_scien.txt",
+        "url": "https://www.cnn.com/2024/12/27/science/space-junk-earth-kessler-syndrome/index.html"
+    },
+    {
+        "id": 54,
+        "title": "Ars\u2019 favorite games of 2024 that were not released in 2024 - Ars Technica",
+        "author": "Kevin Purdy",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Ars__favorite_games_of_2024_that_were_not_released.txt",
+        "url": "https://arstechnica.com/gaming/2024/12/ars-favorite-games-of-2024-that-were-not-released-in-2024/"
+    },
+    {
+        "id": 55,
+        "title": "Virus in Louisiana bird flu patient shows mutations that could increase transmissibility to humans, CDC analysis finds - CNN",
+        "author": "Meg Tirrell",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Virus_in_Louisiana_bird_flu_patient_shows_mutation.txt",
+        "url": "https://www.cnn.com/2024/12/27/health/cdc-bird-flu-virus-mutations-analysis/index.html"
+    },
+    {
+        "id": 56,
+        "title": "Galaxy S25 Ultra full leaked specs sheet surfaces, same old same old? - PhoneArena",
+        "author": "Abdullah Asim",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Galaxy_S25_Ultra_full_leaked_specs_sheet_surfaces_.txt",
+        "url": "https://www.phonearena.com/news/galaxy-s25-ultra-full-leaked-specs-sheet_id166174"
+    },
+    {
+        "id": 57,
+        "title": "Severe storms across US threaten to disrupt one of the busiest travel weekends of the year - CNN",
+        "author": "Dalia Faheid, Taylor Ward, Robert Shackelford",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Severe_storms_across_US_threaten_to_disrupt_one_of.txt",
+        "url": "https://www.cnn.com/2024/12/27/weather/holiday-travel-flight-cancellations-weather-storms-friday/index.html"
+    },
+    {
+        "id": 58,
+        "title": "Estonia navy to protect undersea power link after main cable damaged - BBC.com",
+        "author": null,
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Estonia_navy_to_protect_undersea_power_link_after_.txt",
+        "url": "https://www.bbc.com/news/articles/c1elq7lx9qdo"
+    },
+    {
+        "id": 59,
+        "title": "Powerful thunderstorms threaten Texas and Louisiana, delaying holiday travel - The Associated Press",
+        "author": null,
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Powerful_thunderstorms_threaten_Texas_and_Louisian.txt",
+        "url": "https://apnews.com/article/severe-weather-texas-louisiana-thunderstorms-hail-tornado-b86663ab2d074c38cd49262d739eac69"
+    },
+    {
+        "id": 60,
+        "title": "Pistons vs. Kings final score: Jaden Ivey 4-point play in final seconds completes improbable comeback - Detroit Bad Boys",
+        "author": "Sean Corp",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Pistons_vs__Kings_final_score__Jaden_Ivey_4_point_.txt",
+        "url": "https://www.detroitbadboys.com/2024/12/27/24330053/detroit-pistons-vs-sacramento-kings-final-score-jaden-ivey-comeback"
+    },
+    {
+        "id": 61,
+        "title": "Cats can get sick with bird flu. Here's how to protect them - KATU",
+        "author": "CARLA K. JOHNSON AP Medical Writer",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Cats_can_get_sick_with_bird_flu__Here_s_how_to_pro.txt",
+        "url": "https://katu.com/news/local/cats-can-get-sick-with-bird-flu-heres-how-to-protect-them-12-27-2024-035146036"
+    },
+    {
+        "id": 62,
+        "title": "Avian flu found in backyard flock of birds in Franklin County - VTDigger",
+        "author": "Yardain Amron",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Avian_flu_found_in_backyard_flock_of_birds_in_Fran.txt",
+        "url": "http://vtdigger.org/2024/12/26/avian-flu-found-in-backyard-flock-of-birds-in-franklin-county/"
+    },
+    {
+        "id": 63,
+        "title": "Astronauts Share Most Breathtaking Images of Earth From Space in 2024 - ScienceAlert",
+        "author": "Business Insider",
+        "type": "article d'actualit\u00e9",
+        "categorie": "general",
+        "file_path": "../corpus/articles_actualite/general/Astronauts_Share_Most_Breathtaking_Images_of_Earth.txt",
+        "url": "https://www.sciencealert.com/astronauts-share-most-breathtaking-images-of-earth-from-space-in-2024"
+    },
+    {
+        "id": 64,
+        "title": "Doctors Say the Heart Might Be Able to Heal Itself\u2014But What Does That Mean for Heart Failure? - The Daily Galaxy --Great Discoveries Channel",
+        "author": null,
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/Doctors_Say_the_Heart_Might_Be_Able_to_Heal_Itself.txt",
+        "url": "https://dailygalaxy.com/2024/12/doctors-say-the-heart-might-be-able-to-heal-itself-but-what-does-that-mean-for-heart-failure/"
+    },
+    {
+        "id": 65,
+        "title": "Bird poop may be the key to stopping the next flu pandemic. Here\u2019s why. - CNN",
+        "author": "Brenda Goodman",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/Bird_poop_may_be_the_key_to_stopping_the_next_flu_.txt",
+        "url": "https://www.cnn.com/2024/12/27/health/bird-poop-stopping-the-next-flu-pandemic/index.html"
+    },
+    {
+        "id": 66,
+        "title": "Closure of northern Minnesota camp is \u2018the greatest story.\u2019 Here\u2019s why. - Star Tribune",
+        "author": "Jana Hollingsworth, Jana Hollingsworth",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/Closure_of_northern_Minnesota_camp_is__the_greates.txt",
+        "url": "https://www.startribune.com/closure-of-northern-minnesota-camp-is-the-greatest-story-heres-why/601199362"
+    },
+    {
+        "id": 67,
+        "title": "Virus in Louisiana bird flu patient shows mutations that could increase transmissibility to humans, CDC analysis finds - CNN",
+        "author": "Meg Tirrell",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/Virus_in_Louisiana_bird_flu_patient_shows_mutation.txt",
+        "url": "https://www.cnn.com/2024/12/27/health/cdc-bird-flu-virus-mutations-analysis/index.html"
+    },
+    {
+        "id": 68,
+        "title": "New Yorkers should mask up as RSV cases spike, health officials say - Gothamist",
+        "author": "https://gothamist.com/staff/liam-quigley",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/New_Yorkers_should_mask_up_as_RSV_cases_spike__hea.txt",
+        "url": "https://gothamist.com/news/new-yorkers-should-mask-up-as-rsv-cases-spike-health-officials-say"
+    },
+    {
+        "id": 69,
+        "title": "Breakthroughs in Alzheimer\u2019s research may be game-changers - The Philadelphia Inquirer",
+        "author": "Nikki Schultek, Brian J. Balin",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/Breakthroughs_in_Alzheimer_s_research_may_be_game_.txt",
+        "url": "https://www.inquirer.com/health/expert-opinions/alzheimers-disease-treatment-research-infections-20241227.html"
+    },
+    {
+        "id": 70,
+        "title": "Cats can get sick with bird flu. Here's how to protect them - KATU",
+        "author": "CARLA K. JOHNSON AP Medical Writer",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/Cats_can_get_sick_with_bird_flu__Here_s_how_to_pro.txt",
+        "url": "https://katu.com/news/local/cats-can-get-sick-with-bird-flu-heres-how-to-protect-them-12-27-2024-035146036"
+    },
+    {
+        "id": 71,
+        "title": "Acetaminophen Is Safe for Your Stomach, Right? Maybe Not! - The People's Pharmacy",
+        "author": "Joe Graedon",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/Acetaminophen_Is_Safe_for_Your_Stomach__Right__May.txt",
+        "url": "https://www.peoplespharmacy.com/articles/acetaminophen-is-safe-for-your-stomach-right-maybe-not"
+    },
+    {
+        "id": 72,
+        "title": "Avian flu found in backyard flock of birds in Franklin County - VTDigger",
+        "author": "Yardain Amron",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/Avian_flu_found_in_backyard_flock_of_birds_in_Fran.txt",
+        "url": "http://vtdigger.org/2024/12/26/avian-flu-found-in-backyard-flock-of-birds-in-franklin-county/"
+    },
+    {
+        "id": 73,
+        "title": "Health tips, cancer \u2018thrivers\u2019 and pet clothing: The week in Well+Being - The Washington Post",
+        "author": "Anjuman Ali",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/Health_tips__cancer__thrivers__and_pet_clothing__T.txt",
+        "url": "https://www.washingtonpost.com/wellness/2024/12/26/health-hacks-cancer-thrivers-pet-clothing/"
+    },
+    {
+        "id": 74,
+        "title": "Local obituary: Nora Kate Onanian, 22, accomplished Emerson College graduate, journalist - Boston.com",
+        "author": "Boston.com Staff",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/Local_obituary__Nora_Kate_Onanian__22__accomplishe.txt",
+        "url": "https://www.boston.com/news/massachusetts-obituaries/2024/12/26/local-obituary-nora-kate-onanian-22-accomplished-emerson-college-graduate-journalist/"
+    },
+    {
+        "id": 75,
+        "title": "A Common Sleeping Pill May Reduce The Buildup of Alzheimer's Proteins, Study Finds - ScienceAlert",
+        "author": "Clare Watson",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/A_Common_Sleeping_Pill_May_Reduce_The_Buildup_of_A.txt",
+        "url": "https://www.sciencealert.com/a-common-sleeping-pill-may-reduce-the-buildup-of-alzheimers-proteins-study-finds"
+    },
+    {
+        "id": 76,
+        "title": "CDC Data Reveals Why Everyone Around You Is Coughing - Gizmodo",
+        "author": "Ed Cara",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/CDC_Data_Reveals_Why_Everyone_Around_You_Is_Coughi.txt",
+        "url": "https://gizmodo.com/cdc-data-reveals-why-everyone-around-you-is-coughing-2000543388"
+    },
+    {
+        "id": 77,
+        "title": "Bathroom trip inducing virus spreading in St. Louis - KSDK.com",
+        "author": "Tracy Hinson (KSDK)",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/Bathroom_trip_inducing_virus_spreading_in_St__Loui.txt",
+        "url": "https://www.ksdk.com/article/news/health/norovirus-stomach-bug-spreading-bathroom-trips/63-1d000a5e-6b68-4460-b65b-fafb26756d93"
+    },
+    {
+        "id": 78,
+        "title": "A young bodybuilder's tragic end highlights the dangers of performance-enhancing substances - PsyPost",
+        "author": "Eric W. Dolan",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/A_young_bodybuilder_s_tragic_end_highlights_the_da.txt",
+        "url": "https://www.psypost.org/a-young-bodybuilders-tragic-end-highlights-the-dangers-of-performance-enhancing-substances/"
+    },
+    {
+        "id": 79,
+        "title": "Breakthrough migraine pill could finally bring relief immediately - Study Finds",
+        "author": "StudyFinds Staff",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/Breakthrough_migraine_pill_could_finally_bring_rel.txt",
+        "url": "https://studyfinds.org/breakthrough-migraine-pill-atogepant-instant-relief/"
+    },
+    {
+        "id": 80,
+        "title": "Deyalsingh: Combating dengue was 'uphill battle' - TT Newsday",
+        "author": "Rishard Khan",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/Deyalsingh__Combating_dengue_was__uphill_battle___.txt",
+        "url": "https://newsday.co.tt/2024/12/26/deyalsingh-combating-dengue-was-an-uphill-battle/"
+    },
+    {
+        "id": 81,
+        "title": "These Risk Factors At Age 60 May Be The Strongest Predictors Of Dementia - BuzzFeed",
+        "author": "Kimberley Richards",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/These_Risk_Factors_At_Age_60_May_Be_The_Strongest_.txt",
+        "url": "https://www.huffpost.com/entry/dementia-predictors-age-60-rand-study_l_6763025ae4b02d22ce097ca6"
+    },
+    {
+        "id": 82,
+        "title": "Researchers Develop Groundbreaking Technology To Revert Cancer Cells Into Normal Cells - IFLScience",
+        "author": "Dr. Russell Moul",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/Researchers_Develop_Groundbreaking_Technology_To_R.txt",
+        "url": "https://www.iflscience.com/researchers-develop-groundbreaking-technology-to-revert-cancer-cells-into-normal-cells-77394"
+    },
+    {
+        "id": 83,
+        "title": "The Unexpected Way Eating Sourdough Bread Every Day Affects Your Sleep - Health Digest",
+        "author": "Angelique H. Caffrey",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/The_Unexpected_Way_Eating_Sourdough_Bread_Every_Da.txt",
+        "url": "https://www.healthdigest.com/1740238/how-eating-sourdough-bread-every-day-effects-your-sleep/"
+    },
+    {
+        "id": 84,
+        "title": "Breakthrough drug protects and regenerates heart muscle after a heart attack - The Brighter Side of News",
+        "author": "Joshua Shavit",
+        "type": "article d'actualit\u00e9",
+        "categorie": "health",
+        "file_path": "../corpus/articles_actualite/health/Breakthrough_drug_protects_and_regenerates_heart_m.txt",
+        "url": "https://www.thebrighterside.news/post/breakthrough-drug-protects-and-regenerates-heart-muscle-after-a-heart-attack/"
+    },
+    {
+        "id": 85,
+        "title": "NASA's Parker Solar Probe phones home after surviving historic close sun flyby - Space.com",
+        "author": "Sharmila Kuthunur",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/NASA_s_Parker_Solar_Probe_phones_home_after_surviv.txt",
+        "url": "https://www.space.com/the-universe/sun/nasas-parker-solar-probe-phones-home-after-surviving-historic-close-sun-flyby"
+    },
+    {
+        "id": 86,
+        "title": "Kawah Ijen: The volcano in Indonesia that holds the world's largest acidic lake at its heart - Livescience.com",
+        "author": "Sascha Pare",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Kawah_Ijen__The_volcano_in_Indonesia_that_holds_th.txt",
+        "url": "https://www.livescience.com/planet-earth/geology/kawah-ijen-the-volcano-in-indonesia-that-holds-the-worlds-largest-acidic-lake-at-its-heart"
+    },
+    {
+        "id": 87,
+        "title": "The oldest rocks on Earth - Livescience.com",
+        "author": "James Price",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/The_oldest_rocks_on_Earth___Livescience_com.txt",
+        "url": "https://www.livescience.com/planet-earth/geology/the-oldest-rocks-on-earth"
+    },
+    {
+        "id": 88,
+        "title": "Craving carbs? Blame an ancient gene. - Ars Technica",
+        "author": "Elizabeth Rayne",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Craving_carbs__Blame_an_ancient_gene____Ars_Techni.txt",
+        "url": "https://arstechnica.com/science/2024/12/craving-carbs-blame-an-ancient-gene/"
+    },
+    {
+        "id": 89,
+        "title": "What is \u2018Kessler Syndrome\u2019 \u2014 and why do some scientists think the space disaster scenario has already started? - CNN",
+        "author": "Jackie Wattles",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/What_is__Kessler_Syndrome____and_why_do_some_scien.txt",
+        "url": "https://www.cnn.com/2024/12/27/science/space-junk-earth-kessler-syndrome/index.html"
+    },
+    {
+        "id": 90,
+        "title": "Scientists Warn: Granite Island\u2019s Little Penguins Could Go Extinct in Just a Few Years \u2013 Human Activity Is to Blame - The Daily Galaxy --Great Discoveries Channel",
+        "author": null,
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Scientists_Warn__Granite_Island_s_Little_Penguins_.txt",
+        "url": "https://dailygalaxy.com/2024/12/scientists-warn-granite-islands-little-penguins-could-go-extinct-in-just-a-few-years-human-activity-is-to-blame/"
+    },
+    {
+        "id": 91,
+        "title": "Tiny Fossilized Embryos Reveal Stunning Details of Life Half a Billion Years Ago - ScienceAlert",
+        "author": "Michelle Starr",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Tiny_Fossilized_Embryos_Reveal_Stunning_Details_of.txt",
+        "url": "https://www.sciencealert.com/tiny-fossilized-embryos-reveal-stunning-details-of-life-half-a-billion-years-ago"
+    },
+    {
+        "id": 92,
+        "title": "3 Years After JWST's Launch, Here's What It Has Taught Us About The Universe - ScienceAlert",
+        "author": "The Conversation",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/3_Years_After_JWST_s_Launch__Here_s_What_It_Has_Ta.txt",
+        "url": "https://www.sciencealert.com/3-years-after-jwsts-launch-heres-what-it-has-taught-us-about-the-universe"
+    },
+    {
+        "id": 93,
+        "title": "Climate startup develops technology that could disrupt the concrete industry: 'No one in the world has [done this]' - The Cool Down",
+        "author": "Sam Westmoreland",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Climate_startup_develops_technology_that_could_dis.txt",
+        "url": "https://www.thecooldown.com/green-tech/kapture-concrete-carbon-capture-australia/"
+    },
+    {
+        "id": 94,
+        "title": "We Could Be Just 10 Seconds Away From Discovering Dark Matter - ScienceAlert",
+        "author": "Michael Irving",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/We_Could_Be_Just_10_Seconds_Away_From_Discovering_.txt",
+        "url": "https://www.sciencealert.com/we-could-be-just-10-seconds-away-from-discovering-dark-matter"
+    },
+    {
+        "id": 95,
+        "title": "Astronauts Share Most Breathtaking Images of Earth From Space in 2024 - ScienceAlert",
+        "author": "Business Insider",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Astronauts_Share_Most_Breathtaking_Images_of_Earth.txt",
+        "url": "https://www.sciencealert.com/astronauts-share-most-breathtaking-images-of-earth-from-space-in-2024"
+    },
+    {
+        "id": 96,
+        "title": "Scientists discover a new predatory creature at a depth of 26,000 feet - Stewartville Star",
+        "author": "",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Scientists_discover_a_new_predatory_creature_at_a_.txt",
+        "url": "https://thinkstewartville.com/2024/12/26/new-predatory-creature-discovered-scientists-8000-meters-deep-ocean/"
+    },
+    {
+        "id": 97,
+        "title": "Lunar glass may rewrite the geological history of the Moon - Earth.com",
+        "author": null,
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Lunar_glass_may_rewrite_the_geological_history_of_.txt",
+        "url": "https://www.earth.com/news/lunar-glass-may-rewrite-the-geological-history-of-the-moon/"
+    },
+    {
+        "id": 98,
+        "title": "Watch Ants Outsmart Humans In The Piano Movers Puzzle Using \"Emergent Cognitive Skills\" - IFLScience",
+        "author": "James Felton",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Watch_Ants_Outsmart_Humans_In_The_Piano_Movers_Puz.txt",
+        "url": "https://www.iflscience.com/watch-ants-outsmart-humans-in-the-piano-movers-puzzle-using-emergent-cognitive-skills-77383"
+    },
+    {
+        "id": 99,
+        "title": "Revolution in Physics: Top Quarks Created for the First Time at CERN - Glass Almanac",
+        "author": "Sarah Johnson",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Revolution_in_Physics__Top_Quarks_Created_for_the_.txt",
+        "url": "https://glassalmanac.com/revolution-in-physics-top-quarks-created-for-the-first-time-at-cern/"
+    },
+    {
+        "id": 100,
+        "title": "Brunhes\u2013Matuyama Reversal: When Earth's Magnetic Field Flips - IFLScience",
+        "author": "James Felton",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Brunhes_Matuyama_Reversal__When_Earth_s_Magnetic_F.txt",
+        "url": "https://www.iflscience.com/brunhes-matuyama-reversal-when-earths-magnetic-field-flips-77396"
+    },
+    {
+        "id": 101,
+        "title": "World's Oldest Known Lizard Finally Finds Its Place in Family Tree - ScienceAlert",
+        "author": "Michael Irving",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/World_s_Oldest_Known_Lizard_Finally_Finds_Its_Plac.txt",
+        "url": "https://www.sciencealert.com/worlds-oldest-known-lizard-finally-finds-its-place-in-family-tree"
+    },
+    {
+        "id": 102,
+        "title": "Chinese Satellite Burns Up Over New Orleans, Creating Fireballs in the Sky - Gizmodo",
+        "author": "Passant Rabie",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Chinese_Satellite_Burns_Up_Over_New_Orleans__Creat.txt",
+        "url": "https://gizmodo.com/chinese-satellite-burns-up-over-new-orleans-creating-fireballs-in-the-sky-2000543300"
+    },
+    {
+        "id": 103,
+        "title": "Monitoring the fiery depths off Santorini - Kathimerini English Edition",
+        "author": "Giorgos Lialios",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Monitoring_the_fiery_depths_off_Santorini___Kathim.txt",
+        "url": "https://www.ekathimerini.com/news/environment/1257115/monitoring-the-fiery-depths-off-santorini/"
+    },
+    {
+        "id": 104,
+        "title": "Solar Eclipses \u2018On Demand\u2019 Mark New Era for Scientists Studying the Physics of Our Sun - Good News Network",
+        "author": "Andy Corbley",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Solar_Eclipses__On_Demand__Mark_New_Era_for_Scient.txt",
+        "url": "https://www.goodnewsnetwork.org/solar-eclipses-on-demand-mark-new-era-for-scientists-studying-the-physics-of-our-sun/"
+    },
+    {
+        "id": 105,
+        "title": "Early human ancestor 'Lucy' was a bad runner, and this one tendon could explain why - Livescience.com",
+        "author": "Kristina Killgrove",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Early_human_ancestor__Lucy__was_a_bad_runner__and_.txt",
+        "url": "https://www.livescience.com/archaeology/early-human-ancestor-lucy-was-a-bad-runner-and-this-one-tendon-could-explain-why"
+    },
+    {
+        "id": 106,
+        "title": "Organic molecules found throughout the universe hint that life began in deep space - Earth.com",
+        "author": null,
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Organic_molecules_found_throughout_the_universe_hi.txt",
+        "url": "https://www.earth.com/news/organic-molecules-found-throughout-the-universe-hint-that-life-began-in-deep-space/"
+    },
+    {
+        "id": 107,
+        "title": "Private Space Station Set To Break Free From ISS 2 Years Early - Jalopnik",
+        "author": "Ryan Erik King",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Private_Space_Station_Set_To_Break_Free_From_ISS_2.txt",
+        "url": "https://jalopnik.com/private-space-station-set-to-break-free-from-iss-2-year-1851728840"
+    },
+    {
+        "id": 108,
+        "title": "The bird at the center of the worst single-species mortality event in modern history isn\u2019t recovering, scientists say - Yahoo! Voices",
+        "author": "Julianna Bragg",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/The_bird_at_the_center_of_the_worst_single_species.txt",
+        "url": "https://www.cnn.com/2024/12/26/science/alaska-heat-wave-murres-global-warming/index.html"
+    },
+    {
+        "id": 109,
+        "title": "Neutron Stars With Less Mass Than A White Dwarf Might Exist, and LIGO and Virgo Could Find Them - Universe Today",
+        "author": "Brian Koberlein",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Neutron_Stars_With_Less_Mass_Than_A_White_Dwarf_Mi.txt",
+        "url": "https://www.universetoday.com/170211/neutron-stars-with-less-mass-than-a-white-dwarf-might-exist-and-ligo-and-virgo-could-find-them/"
+    },
+    {
+        "id": 110,
+        "title": "Are night vision monoculars good for skywatching? - Space.com",
+        "author": "Matt Morris",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Are_night_vision_monoculars_good_for_skywatching__.txt",
+        "url": "https://www.space.com/stargazing/astronomy-kit/monoculars-with-night-vision-are-they-worth-it"
+    },
+    {
+        "id": 111,
+        "title": "Running chicken nebula glows in gorgeous new image from Very Large Telescope in Chile - Space.com",
+        "author": "Samantha Mathewson",
+        "type": "article d'actualit\u00e9",
+        "categorie": "science",
+        "file_path": "../corpus/articles_actualite/science/Running_chicken_nebula_glows_in_gorgeous_new_image.txt",
+        "url": "https://www.space.com/the-universe/galaxies/running-chicken-nebula-glows-in-gorgeous-new-image-from-very-large-telescope-in-chile"
+    },
+    {
+        "id": 112,
+        "title": "Oklahoma vs. Navy prediction, odds, betting line: 2024 Armed Forces Bowl picks from college football model - CBS Sports",
+        "author": null,
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Oklahoma_vs__Navy_prediction__odds__betting_line__.txt",
+        "url": "https://www.cbssports.com/college-football/news/oklahoma-vs-navy-prediction-odds-betting-line-2024-armed-forces-bowl-picks-from-college-football-model/"
+    },
+    {
+        "id": 113,
+        "title": "Gleyber union: Tigers to add Torres, sources say - ESPN",
+        "author": "Jesse Rogers",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Gleyber_union__Tigers_to_add_Torres__sources_say__.txt",
+        "url": "https://www.espn.com/mlb/story/_/id/43181742/tigers-gleyber-torres-reach-1-year-15m-deal-sources-say"
+    },
+    {
+        "id": 114,
+        "title": "Four bets for the College Football Playoff quarterfinals - ESPN",
+        "author": "Pamela Maldonado",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Four_bets_for_the_College_Football_Playoff_quarter.txt",
+        "url": "https://www.espn.com/espn/betting/insider/story/_/id/43142037/college-football-playoff-quarterfinals-picks-bets-favorites-underdogs"
+    },
+    {
+        "id": 115,
+        "title": "Pittsburgh coach Pat Narduzzi eviscerated for \u2018egregious\u2019 decision in horrific bowl game loss - New York Post ",
+        "author": "Matt Ehalt",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Pittsburgh_coach_Pat_Narduzzi_eviscerated_for__egr.txt",
+        "url": "https://nypost.com/2024/12/27/sports/pittsburgh-coach-pat-narduzzi-eviscerated-for-egregious-decision-in-bowl-game-loss/"
+    },
+    {
+        "id": 116,
+        "title": "NFL Week 17 bold predictions: Jets hand Bills first home loss of 2024, Panthers stun again - CBS Sports",
+        "author": "",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/NFL_Week_17_bold_predictions__Jets_hand_Bills_firs.txt",
+        "url": "https://www.cbssports.com/nfl/news/nfl-week-17-bold-predictions-jets-hand-bills-first-home-loss-of-2024-panthers-stun-again/"
+    },
+    {
+        "id": 117,
+        "title": "5 keys to Packers beating Vikings in Week 17 - Packers Wire",
+        "author": "Zach Kruse",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/5_keys_to_Packers_beating_Vikings_in_Week_17___Pac.txt",
+        "url": "https://packerswire.usatoday.com/2024/12/27/5-keys-to-packers-beating-vikings-in-week-17/"
+    },
+    {
+        "id": 118,
+        "title": "Breaking down the 49ers\u2019 offensive, defensive schemes - Pride Of Detroit",
+        "author": "Erik Schlitt",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Breaking_down_the_49ers__offensive__defensive_sche.txt",
+        "url": "https://www.prideofdetroit.com/2024/12/27/24328676/lions-week-17-preview-breaking-down-49ers-offensive-defensive-schemes"
+    },
+    {
+        "id": 119,
+        "title": "Possible Replacements For Jim Larranaga At Miami (And Ron Sanchez At Virginia) - Duke Basketball Report",
+        "author": "JD King",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Possible_Replacements_For_Jim_Larranaga_At_Miami__.txt",
+        "url": "https://www.dukebasketballreport.com/2024/12/27/24329484/im-larranaga-miami-ron-sanchez-virginia"
+    },
+    {
+        "id": 120,
+        "title": "Tracking the current NFL playoff picture: Updated chances to clinch open spots, division titles - ESPN",
+        "author": null,
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Tracking_the_current_NFL_playoff_picture__Updated_.txt",
+        "url": "https://www.espn.com/espn/feature/story/_/id/42737184/2024-nfl-playoff-picture-live-updated-chances-clinch-bracket-projections-scenarios"
+    },
+    {
+        "id": 121,
+        "title": "Chiefs QB Patrick Mahomes reacts to Travis Kelce's record breaking Week 17: 'I wanted to do it at Arrowhead' - Chiefs Wire",
+        "author": "Ed Easton Jr.",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Chiefs_QB_Patrick_Mahomes_reacts_to_Travis_Kelce_s.txt",
+        "url": "https://chiefswire.usatoday.com/2024/12/27/kansas-city-chiefs-qb-patrick-mahomes-reacts-to-travis-kelces-record-breaking-week-17-i-wanted-to-do-it-at-arrowhead/"
+    },
+    {
+        "id": 122,
+        "title": "To clinch NFC West this week, Rams need to win and have four other games go their way - NBC Sports",
+        "author": "Michael David Smith",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/To_clinch_NFC_West_this_week__Rams_need_to_win_and.txt",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/to-clinch-nfc-west-this-week-rams-need-to-win-and-have-four-other-games-go-their-way"
+    },
+    {
+        "id": 123,
+        "title": "\u2018Technical issues\u2019 play part in Rutgers\u2019 Rate Bowl collapse to Kansas State, Greg Schiano says - NJ.com",
+        "author": "Brian Fonseca | NJ Advance Media for NJ.com",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/_Technical_issues__play_part_in_Rutgers__Rate_Bowl.txt",
+        "url": "https://www.nj.com/rutgersfootball/2024/12/technical-issues-play-part-in-rutgers-2nd-half-collapse-in-rate-bowl-loss-to-kansas-state.html"
+    },
+    {
+        "id": 124,
+        "title": "Seahawks 6, Bears 3 was NFL\u2019s lowest-scoring game of this season - NBC Sports",
+        "author": "Michael David Smith",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Seahawks_6__Bears_3_was_NFL_s_lowest_scoring_game_.txt",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-6-bears-3-was-nfls-lowest-scoring-game-of-this-season"
+    },
+    {
+        "id": 125,
+        "title": "Fire & Ice: Top starts, sits and sleepers in fantasy football for Week 17 - Pro Football Focus",
+        "author": "Michelle Magdziuk",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Fire___Ice__Top_starts__sits_and_sleepers_in_fanta.txt",
+        "url": "https://www.pff.com/news/fantasy-football-fire-ice-top-starts-sits-and-sleepers-in-fantasy-football-for-week-17"
+    },
+    {
+        "id": 126,
+        "title": "Pistons vs. Kings final score: Jaden Ivey 4-point play in final seconds completes improbable comeback - Detroit Bad Boys",
+        "author": "Sean Corp",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Pistons_vs__Kings_final_score__Jaden_Ivey_4_point_.txt",
+        "url": "https://www.detroitbadboys.com/2024/12/27/24330053/detroit-pistons-vs-sacramento-kings-final-score-jaden-ivey-comeback"
+    },
+    {
+        "id": 127,
+        "title": "Chargers\u2019 Jim Harbaugh Praises Patriots, Drake Maye Before Week 17 Clash - NESN",
+        "author": "Gayle Troiani",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Chargers__Jim_Harbaugh_Praises_Patriots__Drake_May.txt",
+        "url": "https://nesn.com/2024/12/chargers-jim-harbaugh-praises-patriots-drake-maye-before-week-17-clash/"
+    },
+    {
+        "id": 128,
+        "title": "QB Teddy Bridgewater Rejoins Lions - profootballrumors.com",
+        "author": null,
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/QB_Teddy_Bridgewater_Rejoins_Lions___profootballru.txt",
+        "url": "https://www.profootballrumors.com/2024/12/teddy-bridgewater-to-unretire-sign-with-lions"
+    },
+    {
+        "id": 129,
+        "title": "Tommy Lazzaro, former Central Michigan QB, dead at 27 after getting hit by stray bullet in hunting accident - New York Post ",
+        "author": "Christian Arnold",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Tommy_Lazzaro__former_Central_Michigan_QB__dead_at.txt",
+        "url": "https://nypost.com/2024/12/26/sports/tommy-lazzaro-former-central-michigan-qb-dead-at-27/"
+    },
+    {
+        "id": 130,
+        "title": "Rickey Henderson was far from MLB\u2019s greatest baserunner - New York Post ",
+        "author": "Phil Mushnick",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Rickey_Henderson_was_far_from_MLB_s_greatest_baser.txt",
+        "url": "https://nypost.com/2024/12/26/sports/rickey-henderson-was-far-from-mlbs-greatest-baserunner/"
+    },
+    {
+        "id": 131,
+        "title": "Q&A: Eric Dickerson on Saquon Barkley pursuing his record: 'I don't think he'll break it' - Yahoo Sports",
+        "author": "Sam Farmer",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Q_A__Eric_Dickerson_on_Saquon_Barkley_pursuing_his.txt",
+        "url": "https://sports.yahoo.com/q-eric-dickerson-saquon-barkley-225641929.html"
+    },
+    {
+        "id": 132,
+        "title": "A look at the Boston College Eagles - Rivals.com - Nebraska",
+        "author": "Steve Marik",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/A_look_at_the_Boston_College_Eagles___Rivals_com__.txt",
+        "url": "https://nebraska.rivals.com/news/a-look-at-the-boston-college-eagles"
+    },
+    {
+        "id": 133,
+        "title": "Tee Higgins questionable for Saturday vs. Broncos - NBC Sports",
+        "author": "Myles Simmons",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Tee_Higgins_questionable_for_Saturday_vs__Broncos_.txt",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tee-higgins-questionable-for-saturday-vs-broncos"
+    },
+    {
+        "id": 134,
+        "title": "How big, really, is BYU\u2019s Alamo Bowl showdown against Colorado? - Deseret News",
+        "author": "Dick Harmon",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/How_big__really__is_BYU_s_Alamo_Bowl_showdown_agai.txt",
+        "url": "https://www.deseret.com/sports/2024/12/26/byu-football-colorado-buffaloes-alamo-bowl-showdown/"
+    },
+    {
+        "id": 135,
+        "title": "NBA delivers most-watched Christmas Day in 5 years - NBA.com",
+        "author": "Official release",
+        "type": "article d'actualit\u00e9",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/NBA_delivers_most_watched_Christmas_Day_in_5_years.txt",
+        "url": "https://www.nba.com/news/nba-christmas-day-2024-most-watched-five-years"
+    },
+    {
+        "id": 136,
+        "title": "Could microwaved grapes be used for quantum sensing? - Ars Technica",
+        "author": "Jennifer Ouellette",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Could_microwaved_grapes_be_used_for_quantum_sensin.txt",
+        "url": "https://arstechnica.com/science/2024/12/could-microwaved-grapes-be-used-for-quantum-sensing/"
+    },
+    {
+        "id": 137,
+        "title": "NVIDIA\u2019s GeForce RTX 5080 Rumored To Feature A Whopping $1,500+ MSRP, Marking A Huge Difference From The GeForce RTX 4080 - Wccftech",
+        "author": null,
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/NVIDIA_s_GeForce_RTX_5080_Rumored_To_Feature_A_Who.txt",
+        "url": "https://wccftech.com/nvidia-geforce-rtx-5080-rumored-to-feature-a-whopping-1500-msrp/"
+    },
+    {
+        "id": 138,
+        "title": "Galaxy Ring 2 and smart glasses expected alongside Galaxy S25 next month - SamMobile - Samsung news",
+        "author": "SamMobile, Adnan Farooqui",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Galaxy_Ring_2_and_smart_glasses_expected_alongside.txt",
+        "url": "https://www.sammobile.com/news/galaxy-ring-2-and-smart-glasses-expected-alongside-galaxy-s25-next-month/"
+    },
+    {
+        "id": 139,
+        "title": "Did We Know Mark Wahlberg Owns A Car Dealership In Ohio? - Jalopnik",
+        "author": "Collin Woodard",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Did_We_Know_Mark_Wahlberg_Owns_A_Car_Dealership_In.txt",
+        "url": "https://jalopnik.com/did-we-know-mark-wahlberg-owns-a-car-dealership-in-ohio-1851729095"
+    },
+    {
+        "id": 140,
+        "title": "How To Buy A Sweater That Doesn\u2019t Suck - Defector",
+        "author": null,
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/How_To_Buy_A_Sweater_That_Doesn_t_Suck___Defector.txt",
+        "url": "https://defector.com/how-to-buy-a-sweater-that-doesnt-suck"
+    },
+    {
+        "id": 141,
+        "title": "Magnetic shape-shifting surface can move stuff without grasping it - Ars Technica",
+        "author": "Jacek Krywko",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Magnetic_shape_shifting_surface_can_move_stuff_wit.txt",
+        "url": "https://arstechnica.com/science/2024/12/magnetic-shape-shifting-surface-can-move-stuff-without-grasping-it/"
+    },
+    {
+        "id": 142,
+        "title": "My 15 Favourite Tech Products in 2024 - Wifi Hifi Magazine",
+        "author": "Christine Persaud",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/My_15_Favourite_Tech_Products_in_2024___Wifi_Hifi_.txt",
+        "url": "https://wifihifi.com/my-15-favourite-tech-products-2024/"
+    },
+    {
+        "id": 143,
+        "title": "A fake Nintendo lawyer is scaring YouTubers, and it\u2019s not clear YouTube can stop him - The Verge",
+        "author": "Sean Hollister",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/A_fake_Nintendo_lawyer_is_scaring_YouTubers__and_i.txt",
+        "url": "https://www.theverge.com/2024/12/27/24326278/nintendo-fake-takedowns-youtube-domtendo-dmca"
+    },
+    {
+        "id": 144,
+        "title": "Guardians News and Notes: Fedde Rumors Continue - Covering The Corner",
+        "author": "Quincy Wheeler",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Guardians_News_and_Notes__Fedde_Rumors_Continue___.txt",
+        "url": "https://www.coveringthecorner.com/2024/12/27/24330121/guardians-news-and-notes-fedde-rumors-continue"
+    },
+    {
+        "id": 145,
+        "title": "The USB-C charging mandate arrives in the EU \u2014 here\u2019s what that means - The Verge",
+        "author": "Callum Booth",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/The_USB_C_charging_mandate_arrives_in_the_EU___her.txt",
+        "url": "https://www.theverge.com/24330106/usb-c-common-charger-directive-explained-europe"
+    },
+    {
+        "id": 146,
+        "title": "Ars\u2019 favorite games of 2024 that were not released in 2024 - Ars Technica",
+        "author": "Kevin Purdy",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Ars__favorite_games_of_2024_that_were_not_released.txt",
+        "url": "https://arstechnica.com/gaming/2024/12/ars-favorite-games-of-2024-that-were-not-released-in-2024/"
+    },
+    {
+        "id": 147,
+        "title": "Revisiting the 3 Biggest Hardware Flops of 2024: Apple Vision Pro, Rabbit R1, Humane Ai Pin - WIRED",
+        "author": "Julian Chokkattu",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Revisiting_the_3_Biggest_Hardware_Flops_of_2024__A.txt",
+        "url": "https://www.wired.com/story/revisiting-the-three-biggest-flops-of-2024/"
+    },
+    {
+        "id": 148,
+        "title": "Halo Suffers Massive Leak On Christmas Day, Internal Documents & Dev Builds Revealed - Pure Xbox",
+        "author": "Fraser Gilbert",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Halo_Suffers_Massive_Leak_On_Christmas_Day__Intern.txt",
+        "url": "https://www.purexbox.com/news/2024/12/halo-suffers-massive-leak-on-christmas-day-internal-documents-and-dev-builds-revealed"
+    },
+    {
+        "id": 149,
+        "title": "Galaxy S25 Ultra full leaked specs sheet surfaces, same old same old? - PhoneArena",
+        "author": "Abdullah Asim",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Galaxy_S25_Ultra_full_leaked_specs_sheet_surfaces_.txt",
+        "url": "https://www.phonearena.com/news/galaxy-s25-ultra-full-leaked-specs-sheet_id166174"
+    },
+    {
+        "id": 150,
+        "title": "Study finds high levels of toxic \u2018forever chemicals\u2019 in popular smartwatch bands - Android Authority",
+        "author": null,
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Study_finds_high_levels_of_toxic__forever_chemical.txt",
+        "url": "https://www.androidauthority.com/smartwatch-bands-forever-chemicals-3511494/"
+    },
+    {
+        "id": 151,
+        "title": "GTA 6 Trailer 2 Breaks Frustrating Release Record - The Direct",
+        "author": "Klein Felt",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/GTA_6_Trailer_2_Breaks_Frustrating_Release_Record_.txt",
+        "url": "https://thedirect.com/article/gta-6-trailer-2-release-record"
+    },
+    {
+        "id": 152,
+        "title": "Switch Online's 'Missions And Rewards' Brings Back Previous 2024 Icons - Nintendo Life",
+        "author": "Liam Doolan",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Switch_Online_s__Missions_And_Rewards__Brings_Back.txt",
+        "url": "https://www.nintendolife.com/news/2024/12/switch-onlines-missions-and-rewards-brings-back-previous-2024-icons"
+    },
+    {
+        "id": 153,
+        "title": "Valve makes more money per employee than Amazon, Microsoft, and Netflix combined - TechSpot",
+        "author": "Daniel Sims",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Valve_makes_more_money_per_employee_than_Amazon__M.txt",
+        "url": "https://www.techspot.com/news/106107-valve-makes-more-money-employee-than-amazon-microsoft.html"
+    },
+    {
+        "id": 154,
+        "title": "The iPhone got a cool volume control trick in iOS 18.2, and I almost missed it - BGR",
+        "author": "Chris Smith, Chris Smith",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/The_iPhone_got_a_cool_volume_control_trick_in_iOS_.txt",
+        "url": "https://bgr.com/tech/the-iphone-got-a-cool-volume-control-trick-in-ios-18-2-and-i-almost-missed-it/"
+    },
+    {
+        "id": 155,
+        "title": "YouTube for Android testing \u2018Play something\u2019 FAB - 9to5Google",
+        "author": "Abner Li",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/YouTube_for_Android_testing__Play_something__FAB__.txt",
+        "url": "http://9to5google.com/2024/12/26/youtube-play-something-fab/"
+    },
+    {
+        "id": 156,
+        "title": "If You Yearn For A Well-Decorated Living Room, These 20 Target Products Are For You - BuzzFeed",
+        "author": "Felisha Rossi",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/If_You_Yearn_For_A_Well_Decorated_Living_Room__The.txt",
+        "url": "https://www.buzzfeed.com/felisharossi/well-decorated-living-room-target"
+    },
+    {
+        "id": 157,
+        "title": "You can be like MJF for $149.99 - Cageside Seats",
+        "author": "Manolo Has Pizzazz",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/You_can_be_like_MJF_for__149_99___Cageside_Seats.txt",
+        "url": "https://www.cagesideseats.com/aew/2024/12/26/24329501/mjf-sells-replica-dynamite-diamond-rings-aew-shop-150-dollars-cheap-knock-off-jewelry-rich-poor-cole"
+    },
+    {
+        "id": 158,
+        "title": "ChatGPT Search can be tricked into misleading users, new research reveals - TechCrunch",
+        "author": "Charles Rollet",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/ChatGPT_Search_can_be_tricked_into_misleading_user.txt",
+        "url": "https://techcrunch.com/2024/12/26/chatgpt-search-can-be-tricked-into-misleading-users-new-research-reveals/"
+    },
+    {
+        "id": 159,
+        "title": "Rumor Replay: Apple\u2019s doorbell product, AirPods Pro 3, and iOS 19 devices - - 9to5Mac",
+        "author": "Ryan Christoffel",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Rumor_Replay__Apple_s_doorbell_product__AirPods_Pr.txt",
+        "url": "https://9to5mac.com/2024/12/26/rumor-replay-apples-doorbell-product-airpods-pro-3-and-ios-19-compatibility/"
+    },
+    {
+        "id": 160,
+        "title": "Game of the Year: Best PSVR2 Game of 2024 - Push Square",
+        "author": "Liam Croft",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Game_of_the_Year__Best_PSVR2_Game_of_2024___Push_S.txt",
+        "url": "https://www.pushsquare.com/features/game-of-the-year-best-psvr2-game-of-2024"
+    },
+    {
+        "id": 161,
+        "title": "\u2018NOT AN AIRFRYER\u2019: Man reads Stanley cup instructions. Then he realizes we\u2019ve been using them wrong - The Daily Dot",
+        "author": "Brooke Sjoberg",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/_NOT_AN_AIRFRYER___Man_reads_Stanley_cup_instructi.txt",
+        "url": "https://www.dailydot.com/news/stanley-cup-instructions/"
+    },
+    {
+        "id": 162,
+        "title": "Five new Apple products are coming soon in early 2025, here\u2019s what to expect - 9to5Mac",
+        "author": "Ryan Christoffel",
+        "type": "article d'actualit\u00e9",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Five_new_Apple_products_are_coming_soon_in_early_2.txt",
+        "url": "https://9to5mac.com/2024/12/26/five-new-apple-products-coming-soon-early-2025/"
+    },
+    {
+        "id": 163,
+        "title": "Putin Apologizes but Stops Short of Taking Responsibility for Kazakhstan Crash",
+        "author": [
+            "Anatoly Kurmanaev"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Putin_Apologizes_but_Stops_Short_of_Taking_Responsibility_for_Kazakhstan_Crash.txt",
+        "url": "https://www.nytimes.com/2024/12/28/world/europe/kazakhstan-russia-azerbaijan-plane-crash.html"
+    },
+    {
+        "id": 164,
+        "title": "Ukrainian Aid Workers Risk Life and Limb to Get Civilians to Safety",
+        "author": [
+            "Tyler Hicks",
+            "Ga\u00eblle Girbes"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Ukrainian_Aid_Workers_Risk_Life_and_Limb_to_Get_Civilians_to_Safety.txt",
+        "url": "https://www.nytimes.com/2024/12/28/world/europe/ukraine-civilians-aid-groups.html"
+    },
+    {
+        "id": 165,
+        "title": "What to Know About Gaza\u2019s Humanitarian Crisis Amid Cease-Fire Push",
+        "author": [
+            "Aryn Baker",
+            "Abu Bakr Bashir"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/What_to_Know_About_Gazas_Humanitarian_Crisis_Amid_CeaseFire_Push.txt",
+        "url": "https://www.nytimes.com/2024/12/28/world/middleeast/gaza-cease-fire-human-rights.html"
+    },
+    {
+        "id": 166,
+        "title": "Myanmar\u2019s Long-Suffering Rohingya Face More Abuse From New Persecutors",
+        "author": [
+            "Hannah Beech",
+            "Adam Ferguson"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Myanmars_LongSuffering_Rohingya_Face_More_Abuse_From_New_Persecutors.txt",
+        "url": "https://www.nytimes.com/2024/12/28/world/asia/myanmar-rohingya-abuse.html"
+    },
+    {
+        "id": 167,
+        "title": "Amid Israel-Hezbollah Crossfire, Fish Farmers Stay Put",
+        "author": [
+            "Jack Nicas"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Amid_IsraelHezbollah_Crossfire_Fish_Farmers_Stay_Put.txt",
+        "url": "https://www.nytimes.com/2024/12/28/world/middleeast/israel-lebanon-border-hezbollah-caviar-farm.html"
+    },
+    {
+        "id": 168,
+        "title": "Greeks Are Defying an Indoor Smoking Ban",
+        "author": [
+            "Niki Kitsantonis"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Greeks_Are_Defying_an_Indoor_Smoking_Ban.txt",
+        "url": "https://www.nytimes.com/2024/12/28/world/europe/greece-indoor-smoking-ban.html"
+    },
+    {
+        "id": 169,
+        "title": "Has Russia\u2019s Shadow Fleet Added Sabotage to Its List?",
+        "author": [
+            "Michael Schwirtz"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Has_Russias_Shadow_Fleet_Added_Sabotage_to_Its_List.txt",
+        "url": "https://www.nytimes.com/2024/12/28/world/europe/russia-ship-shadow-fleet-finland.html"
+    },
+    {
+        "id": 170,
+        "title": "Takeaways From a Times Correspondent\u2019s Return to Afghanistan",
+        "author": [
+            "Azam Ahmed"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Takeaways_From_a_Times_Correspondents_Return_to_Afghanistan.txt",
+        "url": "https://www.nytimes.com/2024/12/28/world/asia/afghanistan-war-investigation.html"
+    },
+    {
+        "id": 171,
+        "title": "Some African Leaders Are Optimistic About Trump",
+        "author": [
+            "Ruth Maclean",
+            "Abdi Latif Dahir",
+            "Elian Peltier"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Some_African_Leaders_Are_Optimistic_About_Trump.txt",
+        "url": "https://www.nytimes.com/2024/12/27/world/africa/trump-africa.html"
+    },
+    {
+        "id": 172,
+        "title": "The Children Who Left Gaza",
+        "author": [
+            "Laura Boushnak",
+            "Alan Yuhas"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/The_Children_Who_Left_Gaza.txt",
+        "url": "https://www.nytimes.com/2024/12/27/world/middleeast/gaza-children-evacuated.html"
+    },
+    {
+        "id": 173,
+        "title": "10 Years After Obama\u2019s Opening to Cuba, Despair Replaces Hope",
+        "author": [
+            "Frances Robles",
+            "Ed Augustin",
+            "Hannah Berkeley Cohen"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/10_Years_After_Obamas_Opening_to_Cuba_Despair_Replaces_Hope.txt",
+        "url": "https://www.nytimes.com/2024/12/27/world/americas/obama-us-thaw-cuba-crisis.html"
+    },
+    {
+        "id": 174,
+        "title": "A Month On, a Tenuous Cease-fire Holds Between Israel and Hezbollah",
+        "author": [
+            "Abdi Latif Dahir"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/A_Month_On_a_Tenuous_Ceasefire_Holds_Between_Israel_and_Hezbollah.txt",
+        "url": "https://www.nytimes.com/2024/12/27/world/middleeast/israel-lebanon-ceasefire.html"
+    },
+    {
+        "id": 175,
+        "title": "What We Know About the Plane Crash in Kazakhstan",
+        "author": [
+            "Ivan Nechepurenko"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/What_We_Know_About_the_Plane_Crash_in_Kazakhstan.txt",
+        "url": "https://www.nytimes.com/2024/12/27/world/europe/kazakhstan-plane-crash-russia.html"
+    },
+    {
+        "id": 176,
+        "title": "Kazakhstan Plane Crash Survivors Describe Chaos on Azerbaijan Airlines Flight",
+        "author": [
+            "Milana Mazaeva",
+            "Ivan Nechepurenko"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Kazakhstan_Plane_Crash_Survivors_Describe_Chaos_on_Azerbaijan_Airlines_Flight.txt",
+        "url": "https://www.nytimes.com/2024/12/27/world/europe/azerbaijan-airlines-crash-kazakhstan-survivors.html"
+    },
+    {
+        "id": 177,
+        "title": "Shigeko Sasamori, Hiroshima Survivor Who Preached Peace, Dies at 92",
+        "author": [
+            "Richard Sandomir"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Shigeko_Sasamori_Hiroshima_Survivor_Who_Preached_Peace_Dies_at_92.txt",
+        "url": "https://www.nytimes.com/2024/12/28/world/asia/shigeko-sasamori-dead.html"
+    },
+    {
+        "id": 178,
+        "title": "Syria\u2019s New Government Steps Up Pursuit of Assad Loyalists",
+        "author": [
+            "Adam Rasgon"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Syrias_New_Government_Steps_Up_Pursuit_of_Assad_Loyalists.txt",
+        "url": "https://www.nytimes.com/2024/12/28/world/middleeast/syria-government-arrests-human-rights.html"
+    },
+    {
+        "id": 179,
+        "title": "Your Best Advice of 2024",
+        "author": [
+            "Melissa Kirsch",
+            "Alexis Soloski"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Your_Best_Advice_of_2024.txt",
+        "url": "https://www.nytimes.com/2024/12/28/briefing/your-best-advice-of-2024.html"
+    },
+    {
+        "id": 180,
+        "title": "Playing to Win: How a First Nation Turned Around Its Fortunes",
+        "author": [
+            "Vjosa Isai"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Playing_to_Win_How_a_First_Nation_Turned_Around_Its_Fortunes.txt",
+        "url": "https://www.nytimes.com/2024/12/28/world/canada/clearwater-membertou-cape-breton.html"
+    },
+    {
+        "id": 181,
+        "title": "Trucks Carrying Aid Finally Reach Sudan\u2019s War-Torn Capital Region",
+        "author": [
+            "Eve Sampson",
+            "Abdalrahman Altayeb",
+            "More About Eve Sampson"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Trucks_Carrying_Aid_Finally_Reach_Sudans_WarTorn_Capital_Region.txt",
+        "url": "https://www.nytimes.com/2024/12/27/world/africa/aid-trucks-sudan-capital-famine.html"
+    },
+    {
+        "id": 182,
+        "title": "In a Political Year, Some Deaths Spoke to the Struggles for Democracy",
+        "author": [
+            "William Mcdonald"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/In_a_Political_Year_Some_Deaths_Spoke_to_the_Struggles_for_Democracy.txt",
+        "url": "https://www.nytimes.com/2024/12/27/arts/in-a-political-year-some-deaths-spoke-to-the-struggles-for-democracy.html"
+    },
+    {
+        "id": 183,
+        "title": "Canadian Ministers Meet Trump Aides at Mar-a-Lago to Discuss Border, and Tariffs",
+        "author": [
+            "Ian Austen",
+            "Lisa Friedman"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Canadian_Ministers_Meet_Trump_Aides_at_MaraLago_to_Discuss_Border_and_Tariffs.txt",
+        "url": "https://www.nytimes.com/2024/12/27/world/canada/canada-ministers-trump-border-tariffs.html"
+    },
+    {
+        "id": 184,
+        "title": "What We Know About the Ship Finland Seized Over Fears of Russian Sabotage",
+        "author": [
+            "Johanna Lemola",
+            "Lynsey Chutel"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/What_We_Know_About_the_Ship_Finland_Seized_Over_Fears_of_Russian_Sabotage.txt",
+        "url": "https://www.nytimes.com/2024/12/27/world/europe/finland-ship-russia-sabotage.html"
+    },
+    {
+        "id": 185,
+        "title": "Berrien Moore III Is Dead",
+        "author": [
+            "Max Bearak",
+            "Ash Wu"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Berrien_Moore_III_Is_Dead.txt",
+        "url": "https://www.nytimes.com/2024/12/27/climate/berrien-moore-dead.html"
+    },
+    {
+        "id": 186,
+        "title": "In Syria, U.S. Hopes to Avoid Replay of Afghanistan",
+        "author": [
+            "Michael Crowley"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/In_Syria_US_Hopes_to_Avoid_Replay_of_Afghanistan.txt",
+        "url": "https://www.nytimes.com/2024/12/27/us/politics/biden-syria-afghanistan-taliban.html"
+    },
+    {
+        "id": 187,
+        "title": "Italian Journalist Is Detained While Reporting in Iran",
+        "author": [
+            "Emma Bubola"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Italian_Journalist_Is_Detained_While_Reporting_in_Iran.txt",
+        "url": "https://www.nytimes.com/2024/12/27/world/middleeast/cecilia-sala-italian-journalist-arrested-iran.html"
+    },
+    {
+        "id": 188,
+        "title": "Israeli Military Forces Patients and Staff to Leave Hospital in Northern Gaza",
+        "author": [
+            "Adam Rasgon",
+            "Abu Bakr Bashir"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Israeli_Military_Forces_Patients_and_Staff_to_Leave_Hospital_in_Northern_Gaza.txt",
+        "url": "https://www.nytimes.com/2024/12/27/world/middleeast/israel-gaza-hospital-raid.html"
+    },
+    {
+        "id": 189,
+        "title": "Ukraine Slows Missile Fire Into Russia as Trump Prepares to Take Office",
+        "author": [
+            "Kim Barker",
+            "Lara Jakes",
+            "Eric Schmitt",
+            "Helene Cooper",
+            "Julian E. Barnes"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Ukraine_Slows_Missile_Fire_Into_Russia_as_Trump_Prepares_to_Take_Office.txt",
+        "url": "https://www.nytimes.com/2024/12/27/world/europe/ukraine-russia-missiles-trump.html"
+    },
+    {
+        "id": 190,
+        "title": "E.P.A. Promotes Fertilizer Carrying PFAS, Long After 3M Shared Risks",
+        "author": [
+            "Hiroko Tabuchi"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/EPA_Promotes_Fertilizer_Carrying_PFAS_Long_After_3M_Shared_Risks.txt",
+        "url": "https://www.nytimes.com/2024/12/27/climate/epa-pfas-fertilizer-3m-forever-chemicals.html"
+    },
+    {
+        "id": 191,
+        "title": "Residents Turn to Home Lifting In Response to the Threat of Flooding",
+        "author": [
+            "Gregory Barber"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Residents_Turn_to_Home_Lifting_In_Response_to_the_Threat_of_Flooding.txt",
+        "url": "https://www.nytimes.com/2024/12/27/realestate/home-lifts-flooding-climate-change.html"
+    },
+    {
+        "id": 192,
+        "title": "Syria\u2019s Alawite Minority, Favored by the Assads, Looks Nervously to the Future",
+        "author": [
+            "Raja Abdulrahim",
+            "Ivor Prickett"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Syrias_Alawite_Minority_Favored_by_the_Assads_Looks_Nervously_to_the_Future.txt",
+        "url": "https://www.nytimes.com/2024/12/27/world/middleeast/syria-alawites-assad.html"
+    },
+    {
+        "id": 193,
+        "title": "A Century of Human Detritus, Visualized",
+        "author": [
+            "Dennis Overbye",
+            "More About Dennis Overbye"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/A_Century_of_Human_Detritus_Visualized.txt",
+        "url": "https://www.nytimes.com/2024/12/27/science/biomass-garbage-construction.html"
+    },
+    {
+        "id": 194,
+        "title": "Friday Briefing",
+        "author": [
+            "Natasha Frost"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Friday_Briefing.txt",
+        "url": "https://www.nytimes.com/2024/12/27/briefing/finland-russia-israel-houthis.html"
+    },
+    {
+        "id": 195,
+        "title": "Two Sailors Die in Separate Incidents in Sydney to Hobart Yacht Race",
+        "author": [
+            "Yan Zhuang",
+            "More About Yan Zhuang"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Two_Sailors_Die_in_Separate_Incidents_in_Sydney_to_Hobart_Yacht_Race.txt",
+        "url": "https://www.nytimes.com/2024/12/26/world/australia/sydney-hobart-yacht-deaths.html"
+    },
+    {
+        "id": 196,
+        "title": "South Korean Lawmakers Impeach Acting President as Crisis Deepens",
+        "author": [
+            "Jin Yu Young",
+            "Choe Sang-Hun"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/South_Korean_Lawmakers_Impeach_Acting_President_as_Crisis_Deepens.txt",
+        "url": "https://www.nytimes.com/2024/12/26/world/asia/south-korea-impeach-president-han.html"
+    },
+    {
+        "id": 197,
+        "title": "Friday Briefing: How Israel Weakened Civilian Protections",
+        "author": [
+            "Gaya Gupta"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Friday_Briefing_How_Israel_Weakened_Civilian_Protections.txt",
+        "url": "https://www.nytimes.com/2024/12/26/briefing/israel-plane-crash-russia-tsunami.html"
+    },
+    {
+        "id": 198,
+        "title": "Trump Wants U.S. Control of the Panama Canal. Here Are 3 Things to Know.",
+        "author": [
+            "Lisa Friedman"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Trump_Wants_US_Control_of_the_Panama_Canal_Here_Are_3_Things_to_Know.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/politics/trump-panama-canal.html"
+    },
+    {
+        "id": 199,
+        "title": "Holiday Briefing: A Day to Celebrate",
+        "author": [
+            "Natasha Frost",
+            "Gaya Gupta"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Holiday_Briefing_A_Day_to_Celebrate.txt",
+        "url": "https://www.nytimes.com/2024/12/26/briefing/holiday-briefing-special-edition.html"
+    },
+    {
+        "id": 200,
+        "title": "Mozambique Unrest: What to Know",
+        "author": [
+            "John Eligon",
+            "Tavares Cebola"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Mozambique_Unrest_What_to_Know.txt",
+        "url": "https://www.nytimes.com/2024/12/26/world/africa/mozambique-unrest-news.html"
+    },
+    {
+        "id": 201,
+        "title": "Manmohan Singh, Indian Prime Minister, Dies at 92",
+        "author": [
+            "Alan Cowell"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Manmohan_Singh_Indian_Prime_Minister_Dies_at_92.txt",
+        "url": "https://www.nytimes.com/2024/12/26/world/asia/manmohan-singh-dead.html"
+    },
+    {
+        "id": 202,
+        "title": "Norway Bus Plunges Into Lake, Killing at Least 2",
+        "author": [
+            "Eve Sampson",
+            "More About Eve Sampson"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Norway_Bus_Plunges_Into_Lake_Killing_at_Least_2.txt",
+        "url": "https://www.nytimes.com/2024/12/26/world/europe/norway-bus-accident.html"
+    },
+    {
+        "id": 203,
+        "title": "Syrian Rebel Government Hunts for Senior Assad Official, Prompting Deadly Clashes",
+        "author": [
+            "Adam Rasgon",
+            "More About Adam Rasgon"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Syrian_Rebel_Government_Hunts_for_Senior_Assad_Official_Prompting_Deadly_Clashes.txt",
+        "url": "https://www.nytimes.com/2024/12/26/world/middleeast/syria-rebel-forces-hunt-assad-loyalists.html"
+    },
+    {
+        "id": 204,
+        "title": "Biden and Aides Courted Allies Who Undermined U.S. Goals",
+        "author": [
+            "Edward Wong"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Biden_and_Aides_Courted_Allies_Who_Undermined_US_Goals.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/politics/biden-allies-foreign-policy.html"
+    },
+    {
+        "id": 205,
+        "title": "Finland Seizes Ship After Undersea Power Cable to Estonia Is Cut",
+        "author": [
+            "Johanna Lemola",
+            "Lynsey Chutel"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Finland_Seizes_Ship_After_Undersea_Power_Cable_to_Estonia_Is_Cut.txt",
+        "url": "https://www.nytimes.com/2024/12/26/world/europe/finland-estonia-cables-russia.html"
+    },
+    {
+        "id": 206,
+        "title": "Israel Strikes Houthi Targets in Yemen, Hitting Airport and Ports",
+        "author": [
+            "Isabel Kershner",
+            "Ismaeel Naar"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Israel_Strikes_Houthi_Targets_in_Yemen_Hitting_Airport_and_Ports.txt",
+        "url": "https://www.nytimes.com/2024/12/26/world/middleeast/israel-yemen-bombs-houthis.html"
+    },
+    {
+        "id": 207,
+        "title": "Azerbaijan Airlines Crash Investigators Focus on Russian Defenses as Possible Cause",
+        "author": [
+            "Ivan Nechepurenko"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Azerbaijan_Airlines_Crash_Investigators_Focus_on_Russian_Defenses_as_Possible_Cause.txt",
+        "url": "https://www.nytimes.com/2024/12/26/world/asia/investigators-plane-crash-kazakhstan.html"
+    },
+    {
+        "id": 208,
+        "title": "Israel Loosened Its Rules to Bomb Hamas Fighters, Killing Many More Civilians",
+        "author": [
+            "Patrick Kingsley",
+            "Natan Odenheimer",
+            "Bilal Shbair",
+            "Ronen Bergman",
+            "John Ismay",
+            "Sheera Frenkel",
+            "Adam Sella",
+            "More About Patrick Kingsley",
+            "More About Ronen Bergman",
+            "More About John Ismay"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Israel_Loosened_Its_Rules_to_Bomb_Hamas_Fighters_Killing_Many_More_Civilians.txt",
+        "url": "https://www.nytimes.com/2024/12/26/world/middleeast/israel-hamas-gaza-bombing.html"
+    },
+    {
+        "id": 209,
+        "title": "How Mexican Cartels Test Fentanyl on Vulnerable People and Animals",
+        "author": [
+            "Natalie Kitroeff",
+            "Paulina Villegas",
+            "Meridith Kohut"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/How_Mexican_Cartels_Test_Fentanyl_on_Vulnerable_People_and_Animals.txt",
+        "url": "https://www.nytimes.com/2024/12/26/world/americas/mexican-cartels-test-fentanyl.html"
+    },
+    {
+        "id": 210,
+        "title": "Prosecutors in Taiwan Indict Ko Wen-je, Former Presidential Candidate",
+        "author": [
+            "Chris Buckley",
+            "Amy Chang Chien"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Prosecutors_in_Taiwan_Indict_Ko_Wenje_Former_Presidential_Candidate.txt",
+        "url": "https://www.nytimes.com/2024/12/26/world/asia/taiwan-presidential-candidate-indicted.html"
+    },
+    {
+        "id": 211,
+        "title": "20 Years Since the Deadly Tsunami in Asia",
+        "author": [
+            "Hannah Beech"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/20_Years_Since_the_Deadly_Tsunami_in_Asia.txt",
+        "url": "https://www.nytimes.com/2024/12/26/world/asia/tsunami-anniversary-photos.html"
+    },
+    {
+        "id": 212,
+        "title": "Thursday Briefing",
+        "author": [
+            "Natasha Frost"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Thursday_Briefing.txt",
+        "url": "https://www.nytimes.com/2024/12/26/briefing/thursday-briefing.html"
+    },
+    {
+        "id": 213,
+        "title": "A Young Sudanese Trapped by War Makes Painful Choices and Is Viewed With Suspicion",
+        "author": [
+            "Declan Walsh",
+            "Ivor Prickett"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/A_Young_Sudanese_Trapped_by_War_Makes_Painful_Choices_and_Is_Viewed_With_Suspicion.txt",
+        "url": "https://www.nytimes.com/2024/12/26/world/africa/sudan-war-rsf-medical-clinic.html"
+    },
+    {
+        "id": 214,
+        "title": "Still Sounding Young at 85, She Is the Voice of Old Japan",
+        "author": [
+            "Motoko Rich",
+            "Hisako Ueno"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Still_Sounding_Young_at_85_She_Is_the_Voice_of_Old_Japan.txt",
+        "url": "https://www.nytimes.com/2024/12/26/world/asia/japan-society-television-cartoon-sazae.html"
+    },
+    {
+        "id": 215,
+        "title": "Five Journalists Killed in Israeli Strike in Gaza, Palestinian Officials Say",
+        "author": [
+            "Yan Zhuang",
+            "Rawan Sheikh Ahmad",
+            "More About Yan Zhuang"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Five_Journalists_Killed_in_Israeli_Strike_in_Gaza_Palestinian_Officials_Say.txt",
+        "url": "https://www.nytimes.com/2024/12/25/world/middleeast/israel-strike-journalists-gaza.html"
+    },
+    {
+        "id": 216,
+        "title": "Hanukkah in Pictures: Keeping the Flame Alive",
+        "author": [
+            "Hank Sanders",
+            "Keith Bedford",
+            "Philip Pacheco",
+            "More About Hank Sanders"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Hanukkah_in_Pictures_Keeping_the_Flame_Alive.txt",
+        "url": "https://www.nytimes.com/2024/12/25/world/middleeast/first-night-hanukkah-photos.html"
+    },
+    {
+        "id": 217,
+        "title": "Thursday Briefing: Rebel Factions Try to Unite Syria",
+        "author": [
+            "Gaya Gupta"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Thursday_Briefing_Rebel_Factions_Try_to_Unite_Syria.txt",
+        "url": "https://www.nytimes.com/2024/12/25/briefing/syria-mozambique-ukraine.html"
+    },
+    {
+        "id": 218,
+        "title": "Famine Warning for Northern Gaza Draws U.S. Rebuke and Raises Questions",
+        "author": [
+            "Ephrat Livni",
+            "More About Ephrat Livni"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Famine_Warning_for_Northern_Gaza_Draws_US_Rebuke_and_Raises_Questions.txt",
+        "url": "https://www.nytimes.com/2024/12/25/world/middleeast/northern-gaza-famine-warning-dispute.html"
+    },
+    {
+        "id": 219,
+        "title": "Desi Bouterse, Fugitive Former Dictator of Suriname, Dies at 79",
+        "author": [
+            "Claire Moses"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/Desi_Bouterse_Fugitive_Former_Dictator_of_Suriname_Dies_at_79.txt",
+        "url": "https://www.nytimes.com/2024/12/25/world/americas/bouterse-suriname-dead.html"
+    },
+    {
+        "id": 220,
+        "title": "If Syrian Chemical Weapons Were Found, the U.S. Army Could Safely Destroy Them",
+        "author": [
+            "John Ismay"
+        ],
+        "type": "article d'actualites",
+        "categorie": "world",
+        "file_path": "../corpus/articles_actualite/world/If_Syrian_Chemical_Weapons_Were_Found_the_US_Army_Could_Safely_Destroy_Them.txt",
+        "url": "https://www.nytimes.com/2024/12/25/us/syria-chemical-weapons.html"
+    },
+    {
+        "id": 221,
+        "title": "An Old Mining Town in Montana Finds New Gold in Film",
+        "author": [
+            "Nicholas Bogel-Burroughs",
+            "Janie Osborne"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/An_Old_Mining_Town_in_Montana_Finds_New_Gold_in_Film.txt",
+        "url": "https://www.nytimes.com/2024/12/28/us/butte-montana-filming-yellowstone-1923.html"
+    },
+    {
+        "id": 222,
+        "title": "California School District Pays $17.5 Million to End Coach\u2019s Sexual Abuse Cases",
+        "author": [
+            "David W. Chen"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/California_School_District_Pays_175_Million_to_End_Coachs_Sexual_Abuse_Cases.txt",
+        "url": "https://www.nytimes.com/2024/12/27/us/tamalpais-tennis-coach-abuse-settlement.html"
+    },
+    {
+        "id": 223,
+        "title": "Enforcement of Anti-Money-Laundering Law Blocked After Court Reversal",
+        "author": [
+            "Mattathias Schwartz"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/Enforcement_of_AntiMoneyLaundering_Law_Blocked_After_Court_Reversal.txt",
+        "url": "https://www.nytimes.com/2024/12/27/us/court-corporate-transparency-act.html"
+    },
+    {
+        "id": 224,
+        "title": "How the Freedom Caucus Rose to Power in Wyoming",
+        "author": [
+            "David W. Chen",
+            "Will Warasila"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/How_the_Freedom_Caucus_Rose_to_Power_in_Wyoming.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/wyoming-freedom-caucus.html"
+    },
+    {
+        "id": 225,
+        "title": "Four New York Times Photographers on 2024",
+        "author": [
+            "Todd Heisler",
+            "Nanna Heitmann",
+            "Kenny Holston",
+            "Haiyun Jiang",
+            "Karen Hanley",
+            "Christina Shaman",
+            "Farah Otero-Amad",
+            "James Surdam"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/Four_New_York_Times_Photographers_on_2024.txt",
+        "url": "https://www.nytimes.com/video/us/100000009883192/four-new-york-times-photographers-on-2024.html"
+    },
+    {
+        "id": 226,
+        "title": "Mega Millions $1.22 Billion Winning Ticket Sold in California",
+        "author": [
+            "John Yoon",
+            "More About John Yoon"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/Mega_Millions_122_Billion_Winning_Ticket_Sold_in_California.txt",
+        "url": "https://www.nytimes.com/2024/12/28/us/mega-millions-jackpot-winner.html"
+    },
+    {
+        "id": 227,
+        "title": "Stowaway on a Delta Seattle-Hawaii Flight Is Caught Before Takeoff",
+        "author": [
+            "Hank Sanders",
+            "More About Hank Sanders"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/Stowaway_on_a_Delta_SeattleHawaii_Flight_Is_Caught_Before_Takeoff.txt",
+        "url": "https://www.nytimes.com/2024/12/28/us/delta-stowaway-seattle-honolulu.html"
+    },
+    {
+        "id": 228,
+        "title": "Trump Urges Supreme Court to Pause TikTok Ban",
+        "author": [
+            "Adam Liptak"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/Trump_Urges_Supreme_Court_to_Pause_TikTok_Ban.txt",
+        "url": "https://www.nytimes.com/2024/12/27/us/politics/tiktok-ban-supreme-court-trump.html"
+    },
+    {
+        "id": 229,
+        "title": "Los Angeles Building Featured on Doors\u2019 \u2018Morrison Hotel\u2019 Cover Burns",
+        "author": [
+            "Tim Balk"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/Los_Angeles_Building_Featured_on_Doors_Morrison_Hotel_Cover_Burns.txt",
+        "url": "https://www.nytimes.com/2024/12/27/us/morrison-hotel-doors-fire.html"
+    },
+    {
+        "id": 230,
+        "title": "North Korea Is Experiencing Mass Casualties Fighting Ukrainian Troops, White House Says",
+        "author": [
+            "Helene Cooper"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/North_Korea_Is_Experiencing_Mass_Casualties_Fighting_Ukrainian_Troops_White_House_Says.txt",
+        "url": "https://www.nytimes.com/2024/12/27/us/politics/north-korea-russia-war-casualties.html"
+    },
+    {
+        "id": 231,
+        "title": "Migrants and End of Covid Restrictions Fuel Jump in Homelessness",
+        "author": [
+            "Jason Deparle"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/Migrants_and_End_of_Covid_Restrictions_Fuel_Jump_in_Homelessness.txt",
+        "url": "https://www.nytimes.com/2024/12/27/us/homelessness-hit-record-level-in-2024.html"
+    },
+    {
+        "id": 232,
+        "title": "In Syria, U.S. Hopes to Avoid Replay of Afghanistan",
+        "author": [
+            "Michael Crowley"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/In_Syria_US_Hopes_to_Avoid_Replay_of_Afghanistan.txt",
+        "url": "https://www.nytimes.com/2024/12/27/us/politics/biden-syria-afghanistan-taliban.html"
+    },
+    {
+        "id": 233,
+        "title": "As Roy Cooper\u2019s Term Ends in North Carolina, He\u2019s Cagey About His Future",
+        "author": [
+            "Reid J. Epstein"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/As_Roy_Coopers_Term_Ends_in_North_Carolina_Hes_Cagey_About_His_Future.txt",
+        "url": "https://www.nytimes.com/2024/12/27/us/politics/roy-cooper-north-carolina-senate-2026-president-2028.html"
+    },
+    {
+        "id": 234,
+        "title": "N.F.L. Christmas Games on Netflix Break Streaming Records, With Beyonc\u00e9\u2019s Help",
+        "author": [
+            "Hank Sanders",
+            "More About Hank Sanders"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/NFL_Christmas_Games_on_Netflix_Break_Streaming_Records_With_Beyonc\u00e9s_Help.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/netflix-christmas-nfl-ratings-beyonce.html"
+    },
+    {
+        "id": 235,
+        "title": "The Bald Eagle Is (Finally) the National Bird of the United States",
+        "author": [
+            "Sara Ruberg",
+            "More About Sara Ruberg"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/The_Bald_Eagle_Is_Finally_the_National_Bird_of_the_United_States.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/bald-eagle-national-bird.html"
+    },
+    {
+        "id": 236,
+        "title": "Dorthy Moxley, Who Pursued Justice in Her Daughter\u2019s Murder, Dies at 92",
+        "author": [
+            "Robert D. Mcfadden"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/Dorthy_Moxley_Who_Pursued_Justice_in_Her_Daughters_Murder_Dies_at_92.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/dorthy-moxley-dead.html"
+    },
+    {
+        "id": 237,
+        "title": "Trump Wants U.S. Control of the Panama Canal. Here Are 3 Things to Know.",
+        "author": [
+            "Lisa Friedman"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/Trump_Wants_US_Control_of_the_Panama_Canal_Here_Are_3_Things_to_Know.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/politics/trump-panama-canal.html"
+    },
+    {
+        "id": 238,
+        "title": "Marianne Williamson Announces Bid for D.N.C. Chair",
+        "author": [
+            "Tim Balk"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/Marianne_Williamson_Announces_Bid_for_DNC_Chair.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/politics/marianne-williamson-dnc-chair.html"
+    },
+    {
+        "id": 239,
+        "title": "A Look at Presidential Christmas Messages After Trump\u2019s Holiday Post",
+        "author": [
+            "Michael Levenson",
+            "Emmett Lindner"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/A_Look_at_Presidential_Christmas_Messages_After_Trumps_Holiday_Post.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/politics/president-christmas-messages-trump.html"
+    },
+    {
+        "id": 240,
+        "title": "Biden and Aides Courted Allies Who Undermined U.S. Goals",
+        "author": [
+            "Edward Wong"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/Biden_and_Aides_Courted_Allies_Who_Undermined_US_Goals.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/politics/biden-allies-foreign-policy.html"
+    },
+    {
+        "id": 241,
+        "title": "Will the U.S. Ever Be Ready for a Female President?",
+        "author": [
+            "Lisa Lerer",
+            "Jess Bidgood"
+        ],
+        "type": "article d'actualites",
+        "categorie": "u.s",
+        "file_path": "../corpus/articles_actualite/u.s/Will_the_US_Ever_Be_Ready_for_a_Female_President.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/politics/will-the-us-ever-be-ready-for-a-female-president.html"
+    },
+    {
+        "id": 242,
+        "title": "Trump Urges Supreme Court to Pause TikTok Ban",
+        "author": [
+            "Adam Liptak"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/Trump_Urges_Supreme_Court_to_Pause_TikTok_Ban.txt",
+        "url": "https://www.nytimes.com/2024/12/27/us/politics/tiktok-ban-supreme-court-trump.html"
+    },
+    {
+        "id": 243,
+        "title": "Will the U.S. Ever Be Ready for a Female President?",
+        "author": [
+            "Lisa Lerer",
+            "Jess Bidgood"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/Will_the_US_Ever_Be_Ready_for_a_Female_President.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/politics/will-the-us-ever-be-ready-for-a-female-president.html"
+    },
+    {
+        "id": 244,
+        "title": "As North Carolina\u2019s Governor Departs, He Stays Cagey on 2026 and 2028",
+        "author": [
+            "Reid J. Epstein"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/As_North_Carolinas_Governor_Departs_He_Stays_Cagey_on_2026_and_2028.txt",
+        "url": "https://www.nytimes.com/2024/12/27/us/politics/roy-cooper-north-carolina-senate-2026-president-2028.html"
+    },
+    {
+        "id": 245,
+        "title": "Marianne Williamson Announces Long-Shot Bid to Lead the D.N.C.",
+        "author": [
+            "Tim Balk"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/Marianne_Williamson_Announces_LongShot_Bid_to_Lead_the_DNC.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/politics/marianne-williamson-dnc-chair.html"
+    },
+    {
+        "id": 246,
+        "title": "Yellen Issues Debt Limit Warning to Congress",
+        "author": [
+            "Alan Rappeport"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/Yellen_Issues_Debt_Limit_Warning_to_Congress.txt",
+        "url": "https://www.nytimes.com/2024/12/27/business/economy/yellen-debt-limit-warning-congress.html"
+    },
+    {
+        "id": 247,
+        "title": "Trump Backers, Including Elon Musk, Clash With Far Right Over Immigrant Workers and H-1B Visas",
+        "author": [
+            "Ryan Mac",
+            "Ken Bensinger"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/Trump_Backers_Including_Elon_Musk_Clash_With_Far_Right_Over_Immigrant_Workers_and_H1B_Visas.txt",
+        "url": "https://www.nytimes.com/2024/12/27/technology/trump-musk-immigration-h1b-visa.html"
+    },
+    {
+        "id": 248,
+        "title": "North Korea Is Experiencing Mass Casualties Fighting Ukrainian Troops, White House Says",
+        "author": [
+            "Helene Cooper"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/North_Korea_Is_Experiencing_Mass_Casualties_Fighting_Ukrainian_Troops_White_House_Says.txt",
+        "url": "https://www.nytimes.com/2024/12/27/us/politics/north-korea-russia-war-casualties.html"
+    },
+    {
+        "id": 249,
+        "title": "Canadian Ministers Meet Trump Aides at Mar-a-Lago to Discuss Border, and Tariffs",
+        "author": [
+            "Ian Austen",
+            "Lisa Friedman"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/Canadian_Ministers_Meet_Trump_Aides_at_MaraLago_to_Discuss_Border_and_Tariffs.txt",
+        "url": "https://www.nytimes.com/2024/12/27/world/canada/canada-ministers-trump-border-tariffs.html"
+    },
+    {
+        "id": 250,
+        "title": "In Syria, U.S. Hopes to Avoid Replay of Afghanistan",
+        "author": [
+            "Michael Crowley"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/In_Syria_US_Hopes_to_Avoid_Replay_of_Afghanistan.txt",
+        "url": "https://www.nytimes.com/2024/12/27/us/politics/biden-syria-afghanistan-taliban.html"
+    },
+    {
+        "id": 251,
+        "title": "NPR and PBS Stations Brace for Funding Battle Under Trump",
+        "author": [
+            "Benjamin Mullin",
+            "Kate Conger"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/NPR_and_PBS_Stations_Brace_for_Funding_Battle_Under_Trump.txt",
+        "url": "https://www.nytimes.com/2024/12/27/business/media/npr-pbs-funding-trump-musk.html"
+    },
+    {
+        "id": 252,
+        "title": "The Bald Eagle Is (Finally) the National Bird of the United States",
+        "author": [
+            "Sara Ruberg",
+            "More About Sara Ruberg"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/The_Bald_Eagle_Is_Finally_the_National_Bird_of_the_United_States.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/bald-eagle-national-bird.html"
+    },
+    {
+        "id": 253,
+        "title": "Trump Wants U.S. Control of the Panama Canal. Here Are 3 Things to Know.",
+        "author": [
+            "Lisa Friedman"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/Trump_Wants_US_Control_of_the_Panama_Canal_Here_Are_3_Things_to_Know.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/politics/trump-panama-canal.html"
+    },
+    {
+        "id": 254,
+        "title": "A Look at Presidential Christmas Messages After Trump\u2019s Holiday Post",
+        "author": [
+            "Michael Levenson",
+            "Emmett Lindner"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/A_Look_at_Presidential_Christmas_Messages_After_Trumps_Holiday_Post.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/politics/president-christmas-messages-trump.html"
+    },
+    {
+        "id": 255,
+        "title": "Biden and Aides Courted Allies Who Undermined U.S. Goals",
+        "author": [
+            "Edward Wong"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/Biden_and_Aides_Courted_Allies_Who_Undermined_US_Goals.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/politics/biden-allies-foreign-policy.html"
+    },
+    {
+        "id": 256,
+        "title": "Trump Picks Kevin Marino Cabrera for Ambassador to Panama",
+        "author": [
+            "Lisa Friedman"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/Trump_Picks_Kevin_Marino_Cabrera_for_Ambassador_to_Panama.txt",
+        "url": "https://www.nytimes.com/2024/12/25/us/politics/panama-ambassador-cabrera-trump.html"
+    },
+    {
+        "id": 257,
+        "title": "A Reflective Biden Harbors Some Regrets as His Term Winds Down",
+        "author": [
+            "Katie Rogers"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/A_Reflective_Biden_Harbors_Some_Regrets_as_His_Term_Winds_Down.txt",
+        "url": "https://www.nytimes.com/2024/12/25/us/politics/biden-regrets-reflection.html"
+    },
+    {
+        "id": 258,
+        "title": "Trump\u2019s Plans to Scrap Climate Policies Has Unnerved Green Energy Investors",
+        "author": [
+            "Lydia Depillis"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/Trumps_Plans_to_Scrap_Climate_Policies_Has_Unnerved_Green_Energy_Investors.txt",
+        "url": "https://www.nytimes.com/2024/12/25/business/energy-environment/trump-clean-energy-finance.html"
+    },
+    {
+        "id": 259,
+        "title": "Trump\u2019s Mass Deportation Threat Divides Local Officials",
+        "author": [
+            "Tim Arango",
+            "Hamed Aleaziz"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/Trumps_Mass_Deportation_Threat_Divides_Local_Officials.txt",
+        "url": "https://www.nytimes.com/2024/12/25/us/trump-deportations-migrants-san-diego.html"
+    },
+    {
+        "id": 260,
+        "title": "Trump\u2019s Re-election Defines a New Era of American Politics",
+        "author": [
+            "Nate Cohn"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/Trumps_Reelection_Defines_a_New_Era_of_American_Politics.txt",
+        "url": "https://www.nytimes.com/2024/12/25/upshot/trump-era-republicans-democrats.html"
+    },
+    {
+        "id": 261,
+        "title": "Trump Will Confront a More Vulnerable but Determined Iran",
+        "author": [
+            "David E. Sanger"
+        ],
+        "type": "article d'actualites",
+        "categorie": "politics",
+        "file_path": "../corpus/articles_actualite/politics/Trump_Will_Confront_a_More_Vulnerable_but_Determined_Iran.txt",
+        "url": "https://www.nytimes.com/2024/12/24/us/politics/trump-iran-nuclear-deal-israel.html"
+    },
+    {
+        "id": 262,
+        "title": "Mexico, Betting Trump Is Bluffing on Tariffs, Sees an Opportunity",
+        "author": [
+            "Peter S. Goodman"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Mexico_Betting_Trump_Is_Bluffing_on_Tariffs_Sees_an_Opportunity.txt",
+        "url": "https://www.nytimes.com/2024/12/28/business/trump-tariffs-mexico-china.html"
+    },
+    {
+        "id": 263,
+        "title": "Why Coffee Prices Are Soaring (Again)",
+        "author": [
+            "Santul Nerkar"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Why_Coffee_Prices_Are_Soaring_Again.txt",
+        "url": "https://www.nytimes.com/2024/12/28/business/coffee-prices-climate-change.html"
+    },
+    {
+        "id": 264,
+        "title": "Trump Backers, Including Elon Musk, Clash With Far Right Over Immigrant Workers and H-1B Visas",
+        "author": [
+            "Ryan Mac",
+            "Ken Bensinger"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Trump_Backers_Including_Elon_Musk_Clash_With_Far_Right_Over_Immigrant_Workers_and_H1B_Visas.txt",
+        "url": "https://www.nytimes.com/2024/12/27/technology/trump-musk-immigration-h1b-visa.html"
+    },
+    {
+        "id": 265,
+        "title": "Trump Urges Supreme Court to Pause TikTok Ban",
+        "author": [
+            "Adam Liptak"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Trump_Urges_Supreme_Court_to_Pause_TikTok_Ban.txt",
+        "url": "https://www.nytimes.com/2024/12/27/us/politics/tiktok-ban-supreme-court-trump.html"
+    },
+    {
+        "id": 266,
+        "title": "Alicia Munnell, Founder of a Retirement Research Hub, Is Retiring",
+        "author": [
+            "Brian J. O Connor"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Alicia_Munnell_Founder_of_a_Retirement_Research_Hub_Is_Retiring.txt",
+        "url": "https://www.nytimes.com/2024/12/27/business/retirement-alicia-munnell-boston-college.html"
+    },
+    {
+        "id": 267,
+        "title": "Wall St. Is Minting Easy Money From Risky Loans. What Could Go Wrong?",
+        "author": [
+            "Rob Copeland",
+            "Maureen Farrell"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Wall_St_Is_Minting_Easy_Money_From_Risky_Loans_What_Could_Go_Wrong.txt",
+        "url": "https://www.nytimes.com/2024/12/27/business/wall-st-private-credit-money.html"
+    },
+    {
+        "id": 268,
+        "title": "NPR and PBS Stations Brace for Funding Battle Under Trump",
+        "author": [
+            "Benjamin Mullin",
+            "Kate Conger"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/NPR_and_PBS_Stations_Brace_for_Funding_Battle_Under_Trump.txt",
+        "url": "https://www.nytimes.com/2024/12/27/business/media/npr-pbs-funding-trump-musk.html"
+    },
+    {
+        "id": 269,
+        "title": "Yellen Issues Debt Limit Warning to Congress",
+        "author": [
+            "Alan Rappeport"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Yellen_Issues_Debt_Limit_Warning_to_Congress.txt",
+        "url": "https://www.nytimes.com/2024/12/27/business/economy/yellen-debt-limit-warning-congress.html"
+    },
+    {
+        "id": 270,
+        "title": "Tesla\u2019s Stock is Soaring Even as Its Car Sales Sag",
+        "author": [
+            "Jack Ewing"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Teslas_Stock_is_Soaring_Even_as_Its_Car_Sales_Sag.txt",
+        "url": "https://www.nytimes.com/2024/12/27/business/tesla-sales-stock-elon-musk.html"
+    },
+    {
+        "id": 271,
+        "title": "What Retirement Accounts Should I Withdraw From First?",
+        "author": [
+            "Brian J. O Connor"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/What_Retirement_Accounts_Should_I_Withdraw_From_First.txt",
+        "url": "https://www.nytimes.com/2024/12/28/business/retirement-accounts-withdrawals-ira-401k.html"
+    },
+    {
+        "id": 272,
+        "title": "FAA Grants Bezos\u2019 Blue Origin Launch License for New Glenn Rocket",
+        "author": [
+            "Kenneth Chang",
+            "More About Kenneth Chang"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/FAA_Grants_Bezos_Blue_Origin_Launch_License_for_New_Glenn_Rocket.txt",
+        "url": "https://www.nytimes.com/2024/12/27/science/new-glenn-blue-origin.html"
+    },
+    {
+        "id": 273,
+        "title": "Greg Gumbel, Who Called N.F.L. and N.C.A.A. Games, Dies at 78",
+        "author": [
+            "Hank Sanders",
+            "More About Hank Sanders"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Greg_Gumbel_Who_Called_NFL_and_NCAA_Games_Dies_at_78.txt",
+        "url": "https://www.nytimes.com/2024/12/27/business/media/greg-gumbel-dead.html"
+    },
+    {
+        "id": 274,
+        "title": "In a Political Year, Some Deaths Spoke to the Struggles for Democracy",
+        "author": [
+            "William Mcdonald"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/In_a_Political_Year_Some_Deaths_Spoke_to_the_Struggles_for_Democracy.txt",
+        "url": "https://www.nytimes.com/2024/12/27/arts/in-a-political-year-some-deaths-spoke-to-the-struggles-for-democracy.html"
+    },
+    {
+        "id": 275,
+        "title": "Osamu Suzuki, 94, Who Turned Automaker Into a Powerhouse, Dies",
+        "author": [
+            "River Akira Davis",
+            "Kiuko Notoya",
+            "More About River Akira Davis",
+            "More About Kiuko Notoya"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Osamu_Suzuki_94_Who_Turned_Automaker_Into_a_Powerhouse_Dies.txt",
+        "url": "https://www.nytimes.com/2024/12/27/business/osamu-suzuki-dies-94.html"
+    },
+    {
+        "id": 276,
+        "title": "Residents Turn to Home Lifting In Response to the Threat of Flooding",
+        "author": [
+            "Gregory Barber"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Residents_Turn_to_Home_Lifting_In_Response_to_the_Threat_of_Flooding.txt",
+        "url": "https://www.nytimes.com/2024/12/27/realestate/home-lifts-flooding-climate-change.html"
+    },
+    {
+        "id": 277,
+        "title": "N.F.L. Christmas Games on Netflix Break Streaming Records, With Beyonc\u00e9\u2019s Help",
+        "author": [
+            "Hank Sanders",
+            "More About Hank Sanders"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/NFL_Christmas_Games_on_Netflix_Break_Streaming_Records_With_Beyonc\u00e9s_Help.txt",
+        "url": "https://www.nytimes.com/2024/12/26/us/netflix-christmas-nfl-ratings-beyonce.html"
+    },
+    {
+        "id": 278,
+        "title": "Richard Parsons, Serial Fixer of Media and Finance Giants, Dies at 76",
+        "author": [
+            "Benjamin Mullin"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Richard_Parsons_Serial_Fixer_of_Media_and_Finance_Giants_Dies_at_76.txt",
+        "url": "https://www.nytimes.com/2024/12/26/business/media/richard-parsons-dead.html"
+    },
+    {
+        "id": 279,
+        "title": "California Economy Feels the Pain of Hollywood Studio Troubles",
+        "author": [
+            "Kurtis Lee"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/California_Economy_Feels_the_Pain_of_Hollywood_Studio_Troubles.txt",
+        "url": "https://www.nytimes.com/2024/12/26/business/economy/hollywood-southern-california-economy.html"
+    },
+    {
+        "id": 280,
+        "title": "Should Investors Worry About Market Turmoil Under Trump?",
+        "author": [
+            "Tara Siegel Bernard",
+            "Ron Lieber"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Should_Investors_Worry_About_Market_Turmoil_Under_Trump.txt",
+        "url": "https://www.nytimes.com/2024/12/26/business/trump-stock-market-investing.html"
+    },
+    {
+        "id": 281,
+        "title": "As Retailers Offered Holiday Discounts, Shoppers Showed Up",
+        "author": [
+            "Jordyn Holman"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/As_Retailers_Offered_Holiday_Discounts_Shoppers_Showed_Up.txt",
+        "url": "https://www.nytimes.com/2024/12/26/business/holiday-season-sales-mastercard.html"
+    },
+    {
+        "id": 282,
+        "title": "How A.I. Could Reshape the Economic Geography of America",
+        "author": [
+            "Steve Lohr"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/How_AI_Could_Reshape_the_Economic_Geography_of_America.txt",
+        "url": "https://www.nytimes.com/2024/12/26/technology/ai-economy-workers.html"
+    },
+    {
+        "id": 283,
+        "title": "Why Taiwan\u2019s Foxconn, an iPhone Supplier, Is Investing in Texas and Thailand",
+        "author": [
+            "Meaghan Tobin",
+            "John Liu"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Why_Taiwans_Foxconn_an_iPhone_Supplier_Is_Investing_in_Texas_and_Thailand.txt",
+        "url": "https://www.nytimes.com/2024/12/26/business/foxconn-apple-texas-expansion.html"
+    },
+    {
+        "id": 284,
+        "title": "Tokyo Plane Collision Was Caused by Human Error, Investigators Find",
+        "author": [
+            "River Akira Davis",
+            "More About River Akira Davis"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Tokyo_Plane_Collision_Was_Caused_by_Human_Error_Investigators_Find.txt",
+        "url": "https://www.nytimes.com/2024/12/25/business/tokyo-haneda-plane-crash.html"
+    },
+    {
+        "id": 285,
+        "title": "Japan Airlines Cyber Attack Causes Flight Delays",
+        "author": [
+            "Kiuko Notoya",
+            "River Akira Davis",
+            "More About Kiuko Notoya",
+            "More About River Akira Davis"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Japan_Airlines_Cyber_Attack_Causes_Flight_Delays.txt",
+        "url": "https://www.nytimes.com/2024/12/25/business/japan-airlines-cyber-attack.html"
+    },
+    {
+        "id": 286,
+        "title": "New Mexico\u2019s Governor Was A Liberal Hero. Then She Got Blunt about Crime.",
+        "author": [
+            "Michael Corkery",
+            "Justin Hamel"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/New_Mexicos_Governor_Was_A_Liberal_Hero_Then_She_Got_Blunt_about_Crime.txt",
+        "url": "https://www.nytimes.com/2024/12/25/business/new-mexico-michelle-grisham-crime.html"
+    },
+    {
+        "id": 287,
+        "title": "A Billionaire Gave $1,000 to UMass Dartmouth Graduates. Some Missed Out.",
+        "author": [
+            "Ron Lieber"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/A_Billionaire_Gave_1000_to_UMass_Dartmouth_Graduates_Some_Missed_Out.txt",
+        "url": "https://www.nytimes.com/2024/12/25/your-money/umass-dartmouth-billionaire-charity.html"
+    },
+    {
+        "id": 288,
+        "title": "Trump\u2019s Plans to Scrap Climate Policies Has Unnerved Green Energy Investors",
+        "author": [
+            "Lydia Depillis"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Trumps_Plans_to_Scrap_Climate_Policies_Has_Unnerved_Green_Energy_Investors.txt",
+        "url": "https://www.nytimes.com/2024/12/25/business/energy-environment/trump-clean-energy-finance.html"
+    },
+    {
+        "id": 289,
+        "title": "How Breeze and Avelo Found Success by Serving Tiny Airports",
+        "author": [
+            "Niraj Chokshi"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/How_Breeze_and_Avelo_Found_Success_by_Serving_Tiny_Airports.txt",
+        "url": "https://www.nytimes.com/2024/12/25/business/avelo-breeze-small-airports.html"
+    },
+    {
+        "id": 290,
+        "title": "An A.I. Boom Makes Electricians Flock to Central Washington",
+        "author": [
+            "Karen Weise",
+            "Jovelle Tamayo"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/An_AI_Boom_Makes_Electricians_Flock_to_Central_Washington.txt",
+        "url": "https://www.nytimes.com/2024/12/25/technology/ai-data-centers-electricians.html"
+    },
+    {
+        "id": 291,
+        "title": "Trump and Musk Want to Cut Billions From the Budget. It Won\u2019t Be Easy.",
+        "author": [
+            "Alan Rappeport"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Trump_and_Musk_Want_to_Cut_Billions_From_the_Budget_It_Wont_Be_Easy.txt",
+        "url": "https://www.nytimes.com/2024/12/24/business/trump-musk-ramaswamy-doge-government-spending.html"
+    },
+    {
+        "id": 292,
+        "title": "Justin Baldoni\u2019s Ex-Publicist Sues Over Alleged Blake Lively Smear Campaign",
+        "author": [
+            "Megan Twohey",
+            "Mike Mcintire"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Justin_Baldonis_ExPublicist_Sues_Over_Alleged_Blake_Lively_Smear_Campaign.txt",
+        "url": "https://www.nytimes.com/2024/12/24/business/justin-baldoni-publicist-blake-lively-lawsuit.html"
+    },
+    {
+        "id": 293,
+        "title": "How a Consulting Firm and Trump\u2019s I.R.S. Pick Pushed a Problematic Tax Credit",
+        "author": [
+            "Andrew Duehren"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/How_a_Consulting_Firm_and_Trumps_IRS_Pick_Pushed_a_Problematic_Tax_Credit.txt",
+        "url": "https://www.nytimes.com/2024/12/24/business/billy-long-irs-tax-credit.html"
+    },
+    {
+        "id": 294,
+        "title": "American Airlines Briefly Grounds U.S. Flights on Christmas Eve Over Technical Issue",
+        "author": [
+            "Lynsey Chutel",
+            "Christine Chung",
+            "Hank Sanders"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/American_Airlines_Briefly_Grounds_US_Flights_on_Christmas_Eve_Over_Technical_Issue.txt",
+        "url": "https://www.nytimes.com/2024/12/24/business/american-air-flights-grounded.html"
+    },
+    {
+        "id": 295,
+        "title": "5 Getaways for a Cozy Winter Escape",
+        "author": [
+            "Stephanie Rosenbloom"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/5_Getaways_for_a_Cozy_Winter_Escape.txt",
+        "url": "https://www.nytimes.com/2024/12/24/travel/five-winter-hotels.html"
+    },
+    {
+        "id": 296,
+        "title": "Mel Robbins and \u2018The Let Them Theory\u2019",
+        "author": [
+            "Catherine Pearson"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Mel_Robbins_and_The_Let_Them_Theory.txt",
+        "url": "https://www.nytimes.com/2024/12/24/well/mind/mel-robbins-let-them-profile.html"
+    },
+    {
+        "id": 297,
+        "title": "Why Mergers of Carmakers Like Honda and Nissan Often Falter",
+        "author": [
+            "Neal E. Boudette"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Why_Mergers_of_Carmakers_Like_Honda_and_Nissan_Often_Falter.txt",
+        "url": "https://www.nytimes.com/2024/12/24/business/honda-nissan-auto-merger-deals.html"
+    },
+    {
+        "id": 298,
+        "title": "More Starbucks Store Workers Will Join Strike for Final Day",
+        "author": [
+            "Noam Scheiber"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/More_Starbucks_Store_Workers_Will_Join_Strike_for_Final_Day.txt",
+        "url": "https://www.nytimes.com/2024/12/23/business/starbucks-strike.html"
+    },
+    {
+        "id": 299,
+        "title": "National Security Committee Forgoes Decision on U.S. Steel Acquisition",
+        "author": [
+            "Alan Rappeport",
+            "Lauren Hirsch",
+            "More About Alan Rappeport",
+            "More About Lauren Hirsch"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/National_Security_Committee_Forgoes_Decision_on_US_Steel_Acquisition.txt",
+        "url": "https://www.nytimes.com/2024/12/23/business/us-steel-nippon-biden-cfius.html"
+    },
+    {
+        "id": 300,
+        "title": "Who Qualifies for IRS Payments of Up to $1,400 in Unclaimed Stimulus Credit?",
+        "author": [
+            "Sara Ruberg",
+            "More About Sara Ruberg"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Who_Qualifies_for_IRS_Payments_of_Up_to_1400_in_Unclaimed_Stimulus_Credit.txt",
+        "url": "https://www.nytimes.com/2024/12/23/business/irs-stimulus-check-payments.html"
+    },
+    {
+        "id": 301,
+        "title": "How Bath & Body Works Comes Up With Its Holiday Scents",
+        "author": [
+            "Jordyn Holman"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/How_Bath__Body_Works_Comes_Up_With_Its_Holiday_Scents.txt",
+        "url": "https://www.nytimes.com/2024/12/23/business/bath-and-body-works-holiday-perfume-candles.html"
+    },
+    {
+        "id": 302,
+        "title": "Nordstrom to Be Taken Private By Founding Family and El Puerto de Liverpool",
+        "author": [
+            "Jordyn Holman",
+            "More About Jordyn Holman"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Nordstrom_to_Be_Taken_Private_By_Founding_Family_and_El_Puerto_de_Liverpool.txt",
+        "url": "https://www.nytimes.com/2024/12/23/business/nordstrom-private-company-founding-family.html"
+    },
+    {
+        "id": 303,
+        "title": "Deal Makers See a Rebound in 2025 as Trump Returns to Power",
+        "author": [
+            "Michael J. De La Merced"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Deal_Makers_See_a_Rebound_in_2025_as_Trump_Returns_to_Power.txt",
+        "url": "https://www.nytimes.com/2024/12/23/business/dealbook/year-in-deal-making.html"
+    },
+    {
+        "id": 304,
+        "title": "Silicon Valley Heads to Washington",
+        "author": [
+            "Andrew Ross Sorkin",
+            "Ravi Mattu",
+            "Bernhard Warner",
+            "Sarah Kessler",
+            "Michael J. De La Merced",
+            "Lauren Hirsch"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Silicon_Valley_Heads_to_Washington.txt",
+        "url": "https://www.nytimes.com/2024/12/23/business/dealbook/silicon-valley-trump-administration.html"
+    },
+    {
+        "id": 305,
+        "title": "Under Pressure, Telegram Turns a Profit for the First Time",
+        "author": [
+            "Adam Satariano",
+            "Paul Mozur",
+            "Erin Griffith"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Under_Pressure_Telegram_Turns_a_Profit_for_the_First_Time.txt",
+        "url": "https://www.nytimes.com/2024/12/23/technology/telegram-business-profit.html"
+    },
+    {
+        "id": 306,
+        "title": "Teddy Blanks, the Typography Maestro Getting Calls From Greta Gerwig and Robert Eggers",
+        "author": [
+            "Alex Vadukul"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Teddy_Blanks_the_Typography_Maestro_Getting_Calls_From_Greta_Gerwig_and_Robert_Eggers.txt",
+        "url": "https://www.nytimes.com/2024/12/23/style/teddy-blanks-typeface-design-wicked-barbie-nosferatu.html"
+    },
+    {
+        "id": 307,
+        "title": "As \u2018Squid Game\u2019 Season 2 Drops, Netflix Hopes to Recapture the Magic",
+        "author": [
+            "Nicole Sperling",
+            "Jin Yu Young"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/As_Squid_Game_Season_2_Drops_Netflix_Hopes_to_Recapture_the_Magic.txt",
+        "url": "https://www.nytimes.com/2024/12/23/business/media/squid-game-season-2-netflix.html"
+    },
+    {
+        "id": 308,
+        "title": "U.S. Takes Aim at China\u2019s Production of Essential Chips",
+        "author": [
+            "Ana Swanson",
+            "Paul Mozur"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/US_Takes_Aim_at_Chinas_Production_of_Essential_Chips.txt",
+        "url": "https://www.nytimes.com/2024/12/23/business/economy/us-china-semiconductor-legacy-chips.html"
+    },
+    {
+        "id": 309,
+        "title": "Robert F. Kennedy Jr. Wants to Ban Drug Ads on TV. It Wouldn\u2019t Be Easy.",
+        "author": [
+            "Rebecca Robbins"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Robert_F_Kennedy_Jr_Wants_to_Ban_Drug_Ads_on_TV_It_Wouldnt_Be_Easy.txt",
+        "url": "https://www.nytimes.com/2024/12/23/health/rfk-jr-tv-drug-ads-ban.html"
+    },
+    {
+        "id": 310,
+        "title": "How to Pack Formal Clothing",
+        "author": [
+            "Stephanie Rosenbloom"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/How_to_Pack_Formal_Clothing.txt",
+        "url": "https://www.nytimes.com/2024/12/23/travel/how-to-pack-formal-clothing.html"
+    },
+    {
+        "id": 311,
+        "title": "Honda and Nissan Aim to Merge as Global Competition Bears Down",
+        "author": [
+            "River Akira Davis"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Honda_and_Nissan_Aim_to_Merge_as_Global_Competition_Bears_Down.txt",
+        "url": "https://www.nytimes.com/2024/12/23/business/honda-nissan-merger-talks.html"
+    },
+    {
+        "id": 312,
+        "title": "\u2018Sonic\u2019 Beats \u2018Mufasa: The Lion King\u2019 at the Box Office",
+        "author": [
+            "Brooks Barnes",
+            "More About Brooks Barnes"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Sonic_Beats_Mufasa_The_Lion_King_at_the_Box_Office.txt",
+        "url": "https://www.nytimes.com/2024/12/22/business/sonic-mufasa-lion-king-box-office.html"
+    },
+    {
+        "id": 313,
+        "title": "Removing Carbon From the Sky Could Be the Next Climate Gold Rush",
+        "author": [
+            "David Gelles",
+            "Christopher Flavelle"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Removing_Carbon_From_the_Sky_Could_Be_the_Next_Climate_Gold_Rush.txt",
+        "url": "https://www.nytimes.com/2024/12/22/climate/carbon-capture-global-warming.html"
+    },
+    {
+        "id": 314,
+        "title": "Why Is It So Hard to Make a Robot Chef?",
+        "author": [
+            "Julie Creswell",
+            "Brian Karlsson",
+            "Photographs"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Why_Is_It_So_Hard_to_Make_a_Robot_Chef.txt",
+        "url": "https://www.nytimes.com/2024/12/22/business/restaurant-robots.html"
+    },
+    {
+        "id": 315,
+        "title": "We Gave Workplace Advice. Readers Shared What They\u2019d Do Instead.",
+        "author": [
+            "Anna Holmes"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/We_Gave_Workplace_Advice_Readers_Shared_What_Theyd_Do_Instead.txt",
+        "url": "https://www.nytimes.com/2024/12/22/business/work-advice-reader-feedback.html"
+    },
+    {
+        "id": 316,
+        "title": "Trump Appoints \u2018The Apprentice\u2019 Producer as Special Envoy to Britain",
+        "author": [
+            "Lisa Friedman"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Trump_Appoints_The_Apprentice_Producer_as_Special_Envoy_to_Britain.txt",
+        "url": "https://www.nytimes.com/2024/12/21/us/politics/mark-burnett-special-envoy.html"
+    },
+    {
+        "id": 317,
+        "title": "Iran\u2019s Energy Crisis Hits \u2018Dire\u2019 Point as Industries Are Forced to Shut Down",
+        "author": [
+            "Farnaz Fassihi",
+            "Leily Nikounazar",
+            "Arash Khamooshi"
+        ],
+        "type": "article d'actualites",
+        "categorie": "business",
+        "file_path": "../corpus/articles_actualite/business/Irans_Energy_Crisis_Hits_Dire_Point_as_Industries_Are_Forced_to_Shut_Down.txt",
+        "url": "https://www.nytimes.com/2024/12/21/world/middleeast/iran-economy-energy-crisis.html"
+    },
+    {
+        "id": 318,
+        "title": "An A.I. Boom Makes Electricians Flock to Central Washington",
+        "author": [
+            "Karen Weise",
+            "Jovelle Tamayo"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/An_AI_Boom_Makes_Electricians_Flock_to_Central_Washington.txt",
+        "url": "https://www.nytimes.com/2024/12/25/technology/ai-data-centers-electricians.html"
+    },
+    {
+        "id": 319,
+        "title": "Elon Musk\u2019s xAI Raises $6 Billion in New Funding",
+        "author": [
+            "Kate Conger",
+            "More About Kate Conger"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Elon_Musks_xAI_Raises_6_Billion_in_New_Funding.txt",
+        "url": "https://www.nytimes.com/2024/12/24/technology/elon-musk-xai-funding.html"
+    },
+    {
+        "id": 320,
+        "title": "Under Pressure, Telegram Turns a Profit for the First Time",
+        "author": [
+            "Adam Satariano",
+            "Paul Mozur",
+            "Erin Griffith"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Under_Pressure_Telegram_Turns_a_Profit_for_the_First_Time.txt",
+        "url": "https://www.nytimes.com/2024/12/23/technology/telegram-business-profit.html"
+    },
+    {
+        "id": 321,
+        "title": "FAA Grants Bezos\u2019 Blue Origin Launch License for New Glenn Rocket",
+        "author": [
+            "Kenneth Chang",
+            "More About Kenneth Chang"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/FAA_Grants_Bezos_Blue_Origin_Launch_License_for_New_Glenn_Rocket.txt",
+        "url": "https://www.nytimes.com/2024/12/27/science/new-glenn-blue-origin.html"
+    },
+    {
+        "id": 322,
+        "title": "Trump Backers, Including Elon Musk, Clash With Far Right Over Immigrant Workers and H-1B Visas",
+        "author": [
+            "Ryan Mac",
+            "Ken Bensinger"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Trump_Backers_Including_Elon_Musk_Clash_With_Far_Right_Over_Immigrant_Workers_and_H1B_Visas.txt",
+        "url": "https://www.nytimes.com/2024/12/27/technology/trump-musk-immigration-h1b-visa.html"
+    },
+    {
+        "id": 323,
+        "title": "Tesla\u2019s Stock is Soaring Even as Its Car Sales Sag",
+        "author": [
+            "Jack Ewing"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Teslas_Stock_is_Soaring_Even_as_Its_Car_Sales_Sag.txt",
+        "url": "https://www.nytimes.com/2024/12/27/business/tesla-sales-stock-elon-musk.html"
+    },
+    {
+        "id": 324,
+        "title": "OpenAI Details Plans for Becoming a For-Profit Company",
+        "author": [
+            "Cade Metz"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/OpenAI_Details_Plans_for_Becoming_a_ForProfit_Company.txt",
+        "url": "https://www.nytimes.com/2024/12/27/technology/openai-public-benefit-corporation.html"
+    },
+    {
+        "id": 325,
+        "title": "The Wirecutter Show: Kitchen Gear That Lasts a Lifetime (or Extremely Close)",
+        "author": [
+            "Christine Cyr Clisset",
+            "Caira Blackwell",
+            "Rosie Guerin",
+            "Abigail Keel",
+            "Michael Sullivan"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/The_Wirecutter_Show_Kitchen_Gear_That_Lasts_a_Lifetime_or_Extremely_Close.txt",
+        "url": "https://www.nytimes.com/2024/12/27/podcasts/hardfork-wirecutter-kitchenware.html"
+    },
+    {
+        "id": 326,
+        "title": "Donald Bitzer, Unsung Pioneer of Interactive Computing, Dies at 90",
+        "author": [
+            "Michael S. Rosenwald"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Donald_Bitzer_Unsung_Pioneer_of_Interactive_Computing_Dies_at_90.txt",
+        "url": "https://www.nytimes.com/2024/12/26/technology/donald-bitzer-dead.html"
+    },
+    {
+        "id": 327,
+        "title": "How A.I. Could Reshape the Economic Geography of America",
+        "author": [
+            "Steve Lohr"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/How_AI_Could_Reshape_the_Economic_Geography_of_America.txt",
+        "url": "https://www.nytimes.com/2024/12/26/technology/ai-economy-workers.html"
+    },
+    {
+        "id": 328,
+        "title": "Trump\u2019s Plans to Scrap Climate Policies Has Unnerved Green Energy Investors",
+        "author": [
+            "Lydia Depillis"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Trumps_Plans_to_Scrap_Climate_Policies_Has_Unnerved_Green_Energy_Investors.txt",
+        "url": "https://www.nytimes.com/2024/12/25/business/energy-environment/trump-clean-energy-finance.html"
+    },
+    {
+        "id": 329,
+        "title": "Why Mergers of Carmakers Like Honda and Nissan Often Falter",
+        "author": [
+            "Neal E. Boudette"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Why_Mergers_of_Carmakers_Like_Honda_and_Nissan_Often_Falter.txt",
+        "url": "https://www.nytimes.com/2024/12/24/business/honda-nissan-auto-merger-deals.html"
+    },
+    {
+        "id": 330,
+        "title": "How Hallucinatory A.I. Helps Science Dream Up Big Breakthroughs",
+        "author": [
+            "William J. Broad"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/How_Hallucinatory_AI_Helps_Science_Dream_Up_Big_Breakthroughs.txt",
+        "url": "https://www.nytimes.com/2024/12/23/science/ai-hallucinations-science.html"
+    },
+    {
+        "id": 331,
+        "title": "Amazon Warehouse Workers in New York City Join Protest",
+        "author": [
+            "Santul Nerkar",
+            "Noam Scheiber"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Amazon_Warehouse_Workers_in_New_York_City_Join_Protest.txt",
+        "url": "https://www.nytimes.com/2024/12/21/business/amazon-warehouse-staten-island-strike.html"
+    },
+    {
+        "id": 332,
+        "title": "Google Antitrust Case: Why Chrome May Be Sold and What Happens Next",
+        "author": [
+            "David Mccabe",
+            "Nico Grant"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Google_Antitrust_Case_Why_Chrome_May_Be_Sold_and_What_Happens_Next.txt",
+        "url": "https://www.nytimes.com/2024/12/20/technology/google-antitrust-case-chrome.html"
+    },
+    {
+        "id": 333,
+        "title": "Google Proposes Fix to Solve Search Monopoly",
+        "author": [
+            "David Mccabe",
+            "More About David Mccabe"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Google_Proposes_Fix_to_Solve_Search_Monopoly.txt",
+        "url": "https://www.nytimes.com/2024/12/20/technology/google-antitrust-search-remedies.html"
+    },
+    {
+        "id": 334,
+        "title": "OpenAI Unveils o3 System That Reasons Through Math, Science Problems",
+        "author": [
+            "Cade Metz"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/OpenAI_Unveils_o3_System_That_Reasons_Through_Math_Science_Problems.txt",
+        "url": "https://www.nytimes.com/2024/12/20/technology/openai-new-ai-math-science.html"
+    },
+    {
+        "id": 335,
+        "title": "Is Amazon\u2019s Drone Delivery Finally Ready for Prime Time?",
+        "author": [
+            "Kevin Roose",
+            "Casey Newton",
+            "Rachel Cohn",
+            "Whitney Jones",
+            "Jen Poyant",
+            "Alyssa Moxley",
+            "Dan Powell",
+            "Elisheba Ittoop",
+            "Marion Lozano",
+            "Rowan Niemisto"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Is_Amazons_Drone_Delivery_Finally_Ready_for_Prime_Time.txt",
+        "url": "https://www.nytimes.com/2024/12/20/podcasts/hardfork-amazon-drone-delivery.html"
+    },
+    {
+        "id": 336,
+        "title": "Amazon Has Overhauled Its Drone Delivery. Will the Public Welcome It?",
+        "author": [
+            "Kevin Roose",
+            "Adriana Zehbrauskas",
+            "Photographs"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/Amazon_Has_Overhauled_Its_Drone_Delivery_Will_the_Public_Welcome_It.txt",
+        "url": "https://www.nytimes.com/2024/12/20/technology/amazon-prime-air-drone-delivery.html"
+    },
+    {
+        "id": 337,
+        "title": "How Your Car Might Be Making Roads Safer",
+        "author": [
+            "Kashmir Hill"
+        ],
+        "type": "article d'actualites",
+        "categorie": "technology",
+        "file_path": "../corpus/articles_actualite/technology/How_Your_Car_Might_Be_Making_Roads_Safer.txt",
+        "url": "https://www.nytimes.com/2024/12/20/technology/connected-cars-roads-data.html"
+    },
+    {
+        "id": 338,
+        "title": "Ashton Jeanty Didn\u2019t Win the Heisman Trophy, but He\u2019s Still Chasing History",
+        "author": [
+            "Justin Williams"
+        ],
+        "type": "article d'actualites",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Ashton_Jeanty_Didnt_Win_the_Heisman_Trophy_but_Hes_Still_Chasing_History.txt",
+        "url": "https://www.nytimes.com/athletic/6014346/2024/12/27/ashton-jeanty-boise-state-heisman-barry-sanders/"
+    },
+    {
+        "id": 339,
+        "title": "Tom Brady\u2019s Broadcasting Debut Isn\u2019t the Only Top N.F.L. Media Story of 2024",
+        "author": [
+            "Richard Deitsch"
+        ],
+        "type": "article d'actualites",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Tom_Bradys_Broadcasting_Debut_Isnt_the_Only_Top_NFL_Media_Story_of_2024.txt",
+        "url": "https://www.nytimes.com/athletic/6016190/2024/12/27/nfl-media-stories-of-2024-tom-brady-netflix-brazil/"
+    },
+    {
+        "id": 340,
+        "title": "As the Bears Fell, the Fans Roared: \u2018Sell the Team!\u2019",
+        "author": [
+            "Adam Jahns"
+        ],
+        "type": "article d'actualites",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/As_the_Bears_Fell_the_Fans_Roared_Sell_the_Team.txt",
+        "url": "https://www.nytimes.com/athletic/6021255/2024/12/27/bears-fans-sell-the-team-seahawks/"
+    },
+    {
+        "id": 341,
+        "title": "Predicting Where Top N.H.L. Targets Will Go by the Trade Deadline",
+        "author": [
+            "Pierre Lebrun",
+            "Chris Johnston"
+        ],
+        "type": "article d'actualites",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Predicting_Where_Top_NHL_Targets_Will_Go_by_the_Trade_Deadline.txt",
+        "url": "https://www.nytimes.com/athletic/6018520/2024/12/27/nhl-trade-board-matchmaker-granlund-ristolainen-hall-borgen-tanev/"
+    },
+    {
+        "id": 342,
+        "title": "Water Bottles, Heating Pads and More Culprits Behind M.L.B.\u2019s Weirdest Injuries",
+        "author": [
+            "Jayson Stark"
+        ],
+        "type": "article d'actualites",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Water_Bottles_Heating_Pads_and_More_Culprits_Behind_MLBs_Weirdest_Injuries.txt",
+        "url": "https://www.nytimes.com/athletic/6020952/2024/12/27/mlb-weird-injuries-2024/"
+    },
+    {
+        "id": 343,
+        "title": "A New Coach, Olympic Gold and Retirements: the U.S. Women\u2019s National Team\u2019s 2024",
+        "author": [
+            "Meg Linehan",
+            "Steph Yang",
+            "Jeff Rueter"
+        ],
+        "type": "article d'actualites",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/A_New_Coach_Olympic_Gold_and_Retirements_the_US_Womens_National_Teams_2024.txt",
+        "url": "https://www.nytimes.com/athletic/6005859/2024/12/27/uswnt-2024-year-in-review/"
+    },
+    {
+        "id": 344,
+        "title": "Rookie Quarterbacks Thrive in Stable Ecosystems. Can the Giants Provide One?",
+        "author": [
+            "Dan Duggan"
+        ],
+        "type": "article d'actualites",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/Rookie_Quarterbacks_Thrive_in_Stable_Ecosystems_Can_the_Giants_Provide_One.txt",
+        "url": "https://www.nytimes.com/athletic/6017232/2024/12/27/giants-2025-nfl-draft-shedeur-sanders-cam-ward/"
+    },
+    {
+        "id": 345,
+        "title": "The 2025 Tennis Season Is Here. In 2024.",
+        "author": [
+            "Matthew Futterman",
+            "Charlie Eccleshare"
+        ],
+        "type": "article d'actualites",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/The_2025_Tennis_Season_Is_Here_In_2024.txt",
+        "url": "https://www.nytimes.com/athletic/6009002/2024/12/27/tennis-2025-season-players-watch-mailbag/"
+    },
+    {
+        "id": 346,
+        "title": "The Refused Pass That Sums Up Manchester City\u2019s Problems",
+        "author": [
+            "Thom Harris"
+        ],
+        "type": "article d'actualites",
+        "categorie": "sports",
+        "file_path": "../corpus/articles_actualite/sports/The_Refused_Pass_That_Sums_Up_Manchester_Citys_Problems.txt",
+        "url": "https://www.nytimes.com/athletic/6019844/2024/12/27/manchester-city-everton-pass-analysis/"
+    },
+    {
+        "id": 347,
+        "title": "What Judges Can Do for the Rule of Law Under Trump",
+        "author": [
+            "Nancy Gertner",
+            "Joel Cohen"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/What_Judges_Can_Do_for_the_Rule_of_Law_Under_Trump.txt",
+        "url": "https://www.nytimes.com/2024/12/26/opinion/judges-trump-rule-of-law.html"
+    },
+    {
+        "id": 348,
+        "title": "Why It Matters That Jesus Came From a Dysfunctional Family",
+        "author": [
+            "Peter Wehner"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Why_It_Matters_That_Jesus_Came_From_a_Dysfunctional_Family.txt",
+        "url": "https://www.nytimes.com/2024/12/24/opinion/jesus-christmas-dysfunctional-families.html"
+    },
+    {
+        "id": 349,
+        "title": "What We Loved in 2024",
+        "author": "Auteur inconnu",
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/What_We_Loved_in_2024.txt",
+        "url": "https://www.nytimes.com/interactive/2024/12/25/opinion/best-of-2024.html"
+    },
+    {
+        "id": 350,
+        "title": "This Hanukkah, Choose Light Over Heat",
+        "author": [
+            "Abigail Pogrebin",
+            "Dov Linzer"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/This_Hanukkah_Choose_Light_Over_Heat.txt",
+        "url": "https://www.nytimes.com/2024/12/25/opinion/hanukkah-jewish-tradition.html"
+    },
+    {
+        "id": 351,
+        "title": "No, You Don\u2019t Get an A for Effort",
+        "author": [
+            "Adam Grant"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/No_You_Dont_Get_an_A_for_Effort.txt",
+        "url": "https://www.nytimes.com/2024/12/26/opinion/school-grades-a-quantity-quality.html"
+    },
+    {
+        "id": 352,
+        "title": "The Secrets of the World\u2019s Favorite Smell",
+        "author": [
+            "Aimee Nezhukumatathil",
+            "Vishakha Darbha"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/The_Secrets_of_the_Worlds_Favorite_Smell.txt",
+        "url": "https://www.nytimes.com/2024/12/26/opinion/vanilla-bean-climate-change.html"
+    },
+    {
+        "id": 353,
+        "title": "The Sidney Awards",
+        "author": [
+            "David Brooks"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/The_Sidney_Awards.txt",
+        "url": "https://www.nytimes.com/2024/12/26/opinion/sidney-awards.html"
+    },
+    {
+        "id": 354,
+        "title": "What I\u2019m Thinking at the End of 2024",
+        "author": [
+            "Ezra Klein"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/What_Im_Thinking_at_the_End_of_2024.txt",
+        "url": "https://www.nytimes.com/2024/12/24/opinion/ezra-klein-podcast-ask-me-anything.html"
+    },
+    {
+        "id": 355,
+        "title": "We\u2019ve Misunderstood Human Nature for 100 Years",
+        "author": [
+            "Kurt Gray"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Weve_Misunderstood_Human_Nature_for_100_Years.txt",
+        "url": "https://www.nytimes.com/2024/12/22/opinion/human-nature-polarization-predator.html"
+    },
+    {
+        "id": 356,
+        "title": "Joe Biden, the Presidency and the Messiness of Being Human",
+        "author": "Auteur inconnu",
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Joe_Biden_the_Presidency_and_the_Messiness_of_Being_Human.txt",
+        "url": "https://www.nytimes.com/2024/12/28/opinion/joe-biden-presidency.html"
+    },
+    {
+        "id": 357,
+        "title": "My Restaurant Was Named One of New York City\u2019s Best. Here\u2019s Why It Closed.",
+        "author": [
+            "Yannick Benjamin"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/My_Restaurant_Was_Named_One_of_New_York_Citys_Best_Heres_Why_It_Closed.txt",
+        "url": "https://www.nytimes.com/2024/12/28/opinion/resturant-workers-health-care-crisis.html"
+    },
+    {
+        "id": 358,
+        "title": "The Joy of Sitting in Empty Churches",
+        "author": [
+            "Mary Townsend"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/The_Joy_of_Sitting_in_Empty_Churches.txt",
+        "url": "https://www.nytimes.com/2024/12/28/opinion/catholic-churches-silence.html"
+    },
+    {
+        "id": 359,
+        "title": "Schubert Is the Best Cure I Know for Loneliness",
+        "author": [
+            "Jonathan Biss"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Schubert_Is_the_Best_Cure_I_Know_for_Loneliness.txt",
+        "url": "https://www.nytimes.com/2024/12/28/opinion/franz-schubert-loneliness-piano-sonatas.html"
+    },
+    {
+        "id": 360,
+        "title": "I Won\u2019t Feel Good About Flying Until the Airlines Solve This",
+        "author": [
+            "Mark Miodownik"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/I_Wont_Feel_Good_About_Flying_Until_the_Airlines_Solve_This.txt",
+        "url": "https://www.nytimes.com/2024/12/28/opinion/air-travel-airlines-carbon-capture-climate-change.html"
+    },
+    {
+        "id": 361,
+        "title": "The 19th-Century Technology That Threatens A.I.",
+        "author": [
+            "Azeem Azhar"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/The_19thCentury_Technology_That_Threatens_AI.txt",
+        "url": "https://www.nytimes.com/2024/12/28/opinion/ai-electricity-power-plants.html"
+    },
+    {
+        "id": 362,
+        "title": "Why the New Fight Inside MAGA Matters So Much",
+        "author": [
+            "David Brooks"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Why_the_New_Fight_Inside_MAGA_Matters_So_Much.txt",
+        "url": "https://www.nytimes.com/2024/12/27/opinion/trump-musk-ramaswamy-immigration.html"
+    },
+    {
+        "id": 363,
+        "title": "In Trump\u2019s Mind, Greenland Is Just Real Estate",
+        "author": [
+            "Serge Schmemann"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/In_Trumps_Mind_Greenland_Is_Just_Real_Estate.txt",
+        "url": "https://www.nytimes.com/2024/12/27/opinion/greenland-trump-real-estate.html"
+    },
+    {
+        "id": 364,
+        "title": "Trump\u2019s Designs on the Panama Canal and Greenland",
+        "author": "Auteur inconnu",
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Trumps_Designs_on_the_Panama_Canal_and_Greenland.txt",
+        "url": "https://www.nytimes.com/2024/12/27/opinion/letters/trump-panama-canal-greenland.html"
+    },
+    {
+        "id": 365,
+        "title": "Elon Musk Needs to Teach Our Government How to Lose More Money",
+        "author": [
+            "Joshua Zoffer"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Elon_Musk_Needs_to_Teach_Our_Government_How_to_Lose_More_Money.txt",
+        "url": "https://www.nytimes.com/2024/12/27/opinion/elon-musk-industrial-policy.html"
+    },
+    {
+        "id": 366,
+        "title": "Why the U.S. Could Come Out Ahead in a Tariff War",
+        "author": [
+            "Eswar Prasad"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Why_the_US_Could_Come_Out_Ahead_in_a_Tariff_War.txt",
+        "url": "https://www.nytimes.com/2024/12/27/opinion/trump-tariffs-china-europe.html"
+    },
+    {
+        "id": 367,
+        "title": "How Higher Education Can Win America Back",
+        "author": [
+            "Michael S. Roth"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/How_Higher_Education_Can_Win_America_Back.txt",
+        "url": "https://www.nytimes.com/2024/12/27/opinion/college-education-tuition-egalitarian.html"
+    },
+    {
+        "id": 368,
+        "title": "Telehealth Technology Taught Me to Be a Better Doctor",
+        "author": [
+            "Helen Ouyang"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Telehealth_Technology_Taught_Me_to_Be_a_Better_Doctor.txt",
+        "url": "https://www.nytimes.com/2024/12/27/opinion/telehealth-medicine-technology-doctors.html"
+    },
+    {
+        "id": 369,
+        "title": "A Key to Unlocking Better Health for Latinos",
+        "author": [
+            "The Editorial Board"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/A_Key_to_Unlocking_Better_Health_for_Latinos.txt",
+        "url": "https://www.nytimes.com/2024/12/27/opinion/communities-fund-hispanic-federation.html"
+    },
+    {
+        "id": 370,
+        "title": "An Eight-Day Space Mission Turned Into Six Months. Astronauts Are Built Different.",
+        "author": [
+            "Ido Mizrahy"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/An_EightDay_Space_Mission_Turned_Into_Six_Months_Astronauts_Are_Built_Different.txt",
+        "url": "https://www.nytimes.com/2024/12/27/opinion/nasa-stranded-space.html"
+    },
+    {
+        "id": 371,
+        "title": "The Best Sentences of 2024",
+        "author": [
+            "Frank Bruni"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/The_Best_Sentences_of_2024.txt",
+        "url": "https://www.nytimes.com/2024/12/26/opinion/best-sentences-of-2024.html"
+    },
+    {
+        "id": 372,
+        "title": "Teens, Parents and Pornography: We Need to Talk",
+        "author": "Auteur inconnu",
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Teens_Parents_and_Pornography_We_Need_to_Talk.txt",
+        "url": "https://www.nytimes.com/2024/12/26/opinion/letters/teens-parents-pornography.html"
+    },
+    {
+        "id": 373,
+        "title": "Blake Lively, Justin Baldoni and the Brute Force of Celebrity P.R. Tactics",
+        "author": [
+            "Elizabeth Spiers"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Blake_Lively_Justin_Baldoni_and_the_Brute_Force_of_Celebrity_PR_Tactics.txt",
+        "url": "https://www.nytimes.com/2024/12/26/opinion/blake-lively-justin-baldoni.html"
+    },
+    {
+        "id": 374,
+        "title": "A.I. Isn\u2019t Genius. We Are.",
+        "author": [
+            "Christopher Beha"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/AI_Isnt_Genius_We_Are.txt",
+        "url": "https://www.nytimes.com/2024/12/26/opinion/ai-genius-art.html"
+    },
+    {
+        "id": 375,
+        "title": "Nuclear Weapons Are Not a Fact of Life",
+        "author": [
+            "Beatrice Fihn"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Nuclear_Weapons_Are_Not_a_Fact_of_Life.txt",
+        "url": "https://www.nytimes.com/2024/12/26/opinion/nuclear-weapons.html"
+    },
+    {
+        "id": 376,
+        "title": "20 Years Ago a Tsunami Killed 230,000 People. We Can Do Better Now.",
+        "author": [
+            "Costas Synolakis"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/20_Years_Ago_a_Tsunami_Killed_230000_People_We_Can_Do_Better_Now.txt",
+        "url": "https://www.nytimes.com/2024/12/26/opinion/california-tsunami-warnings.html"
+    },
+    {
+        "id": 377,
+        "title": "Pfizer Stopped Us From Getting Ozempic Decades Ago",
+        "author": [
+            "David Wallace-Wells"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Pfizer_Stopped_Us_From_Getting_Ozempic_Decades_Ago.txt",
+        "url": "https://www.nytimes.com/2024/12/25/opinion/ozempic-weight-loss-pfizer-diabetes.html"
+    },
+    {
+        "id": 378,
+        "title": "Wish the Trump Administration Well? Nope.",
+        "author": "Auteur inconnu",
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Wish_the_Trump_Administration_Well_Nope.txt",
+        "url": "https://www.nytimes.com/2024/12/25/opinion/letters/trump-administration.html"
+    },
+    {
+        "id": 379,
+        "title": "Handel\u2019s \u2018Messiah,\u2019 an Anthem of Hope, Was Born of a Contentious Friendship",
+        "author": [
+            "Charles King"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Handels_Messiah_an_Anthem_of_Hope_Was_Born_of_a_Contentious_Friendship.txt",
+        "url": "https://www.nytimes.com/2024/12/25/opinion/handel-messiah-holiday-hope.html"
+    },
+    {
+        "id": 380,
+        "title": "A Record of Success in Training High-Tech Workers",
+        "author": [
+            "The Editorial Board"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/A_Record_of_Success_in_Training_HighTech_Workers.txt",
+        "url": "https://www.nytimes.com/2024/12/25/opinion/communities-fund-per-scholas.html"
+    },
+    {
+        "id": 381,
+        "title": "The Gift of an Expectation-Free Christmas",
+        "author": [
+            "Rachel Louise Snyder"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/The_Gift_of_an_ExpectationFree_Christmas.txt",
+        "url": "https://www.nytimes.com/2024/12/25/opinion/gifts-christmas-expectations.html"
+    },
+    {
+        "id": 382,
+        "title": "I Never Felt Like This in China Before",
+        "author": [
+            "Thomas L. Friedman"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/I_Never_Felt_Like_This_in_China_Before.txt",
+        "url": "https://www.nytimes.com/2024/12/24/opinion/us-china-relationship.html"
+    },
+    {
+        "id": 383,
+        "title": "Blake Lively Turns the Shame Around",
+        "author": [
+            "Nicholas Kristof"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Blake_Lively_Turns_the_Shame_Around.txt",
+        "url": "https://www.nytimes.com/2024/12/24/opinion/blake-lively-lawsuit.html"
+    },
+    {
+        "id": 384,
+        "title": "Meditations About Finding Faith",
+        "author": "Auteur inconnu",
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Meditations_About_Finding_Faith.txt",
+        "url": "https://www.nytimes.com/2024/12/24/opinion/letters/finding-faith.html"
+    },
+    {
+        "id": 385,
+        "title": "Why \u2018A Christmas Carol\u2019 Endures",
+        "author": [
+            "Roger Rosenblatt"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Why_A_Christmas_Carol_Endures.txt",
+        "url": "https://www.nytimes.com/2024/12/24/opinion/why-a-christmas-carol-endures.html"
+    },
+    {
+        "id": 386,
+        "title": "David Brooks: I Found Faith in a Crowded Subway Car",
+        "author": [
+            "David Brooks",
+            "Jillian Weinberger"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/David_Brooks_I_Found_Faith_in_a_Crowded_Subway_Car.txt",
+        "url": "https://www.nytimes.com/2024/12/24/opinion/david-brooks-journey-faith.html"
+    },
+    {
+        "id": 387,
+        "title": "Why You Should Talk About Sex With Your Parents",
+        "author": [
+            "Paula Sacchetta",
+            "Renan Flumian",
+            "Video Paula Sacchetta"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Why_You_Should_Talk_About_Sex_With_Your_Parents.txt",
+        "url": "https://www.nytimes.com/2024/12/24/opinion/sex-relationships-family.html"
+    },
+    {
+        "id": 388,
+        "title": "If You\u2019re Worried About the Future of Our Country, Do Something About It",
+        "author": [
+            "Robert E. Rubin"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/If_Youre_Worried_About_the_Future_of_Our_Country_Do_Something_About_It.txt",
+        "url": "https://www.nytimes.com/2024/12/24/opinion/civil-society-importance.html"
+    },
+    {
+        "id": 389,
+        "title": "Support in the Teen Mental Health Crisis",
+        "author": [
+            "The Editorial Board"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Support_in_the_Teen_Mental_Health_Crisis.txt",
+        "url": "https://www.nytimes.com/2024/12/24/opinion/communities-fund-uja-federation.html"
+    },
+    {
+        "id": 390,
+        "title": "The Hardest Conversation to Have With Your Parents",
+        "author": [
+            "Paula Sacchetta",
+            "Renan Flumian"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/The_Hardest_Conversation_to_Have_With_Your_Parents.txt",
+        "url": "https://www.nytimes.com/video/opinion/100000009880784/sex-relationships-family.html"
+    },
+    {
+        "id": 391,
+        "title": "I Come From a Long Line of Housecleaners. After Oct. 7, I Knew What to Do.",
+        "author": [
+            "Ayelet Tsabari"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/I_Come_From_a_Long_Line_of_Housecleaners_After_Oct_7_I_Knew_What_to_Do.txt",
+        "url": "https://www.nytimes.com/2024/12/24/opinion/cleaning-to-soothe-the-worried.html"
+    },
+    {
+        "id": 392,
+        "title": "Climate Change Is Making Homeownership Even More Unaffordable",
+        "author": [
+            "Peter Coy"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Climate_Change_Is_Making_Homeownership_Even_More_Unaffordable.txt",
+        "url": "https://www.nytimes.com/2024/12/23/opinion/homeowners-insurance-climate-change.html"
+    },
+    {
+        "id": 393,
+        "title": "The Trumpian Attitude at the Heart of the Gaetz Report",
+        "author": [
+            "David Firestone"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/The_Trumpian_Attitude_at_the_Heart_of_the_Gaetz_Report.txt",
+        "url": "https://www.nytimes.com/2024/12/23/opinion/gaetz-trump-ethics-report.html"
+    },
+    {
+        "id": 394,
+        "title": "Decisions About Gender-Affirming Care",
+        "author": "Auteur inconnu",
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Decisions_About_GenderAffirming_Care.txt",
+        "url": "https://www.nytimes.com/2024/12/23/opinion/letters/gender-affirming-care.html"
+    },
+    {
+        "id": 395,
+        "title": "How Babies Teach Us to Be Human",
+        "author": [
+            "Margaret Renkl"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/How_Babies_Teach_Us_to_Be_Human.txt",
+        "url": "https://www.nytimes.com/2024/12/23/opinion/christmas-story-child-born.html"
+    },
+    {
+        "id": 396,
+        "title": "\u2018Democrats Have Gone Beyond Soul Searching to Soul Spelunking\u2019: 4 Writers Read the Party\u2019s Fortune",
+        "author": "Auteur inconnu",
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/Democrats_Have_Gone_Beyond_Soul_Searching_to_Soul_Spelunking_4_Writers_Read_the_Partys_Fortune.txt",
+        "url": "https://www.nytimes.com/2024/12/23/opinion/democrats-election-future.html"
+    },
+    {
+        "id": 397,
+        "title": "What Economists Could Learn From George Costanza",
+        "author": [
+            "Oren Cass"
+        ],
+        "type": "article d'actualites",
+        "categorie": "opinion",
+        "file_path": "../corpus/articles_actualite/opinion/What_Economists_Could_Learn_From_George_Costanza.txt",
+        "url": "https://www.nytimes.com/2024/12/23/opinion/what-economists-could-learn-from-george-costanza.html"
+    },
+    {
+        "id": 398,
+        "title": "How Puppet works: Using the configuration management tool",
+        "author": "Clive Longbottom",
+        "type": "document",
+        "categorie": "technology",
+        "file_path": "../corpus/UserDocs/technology/How Puppet works: Using the configuration management tool.pdf",
+        "url": "http://localhost:8000/../corpus/UserDocs/technology/How Puppet works: Using the configuration management tool.pdf"
+    }
+]

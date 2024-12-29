@@ -1,0 +1,17 @@
+Hundreds of stargazers reported fireballs over the southeastern U.S. earlier this week. But this was no natural phenomenon—just another case of dead satellites littering Earth’s orbit.
+
+The fireworks came from defunct Chinese satellite that reentered through Earth’s atmosphere on Saturday night and burned up over New Orleans, Louisiana. The satellite’s reentry resulted in bright streaks across the skies over several states, including Missouri, Arkansas, and Mississippi, according to reports shared online. Although the satellite didn’t pose a threat to onlookers, its uncontrolled reentry highlights the need for better regulation of nonoperational space junk.
+
+🚨Update: Chinese surveillance satellite enters Earth's atmosphere over New Orleans, Louisiana!pic.twitter.com/UGyp8Tx5dz — US Civil Defense News (@CaptCoronado) December 22, 2024
+
+The American Meteor Society received 152 witness reports of fireball sightings around 11 p.m. ET on December 22, but dismissed the event as “not a true fireball.” Astrophysicist Jonathan McDowell later identified the source of the fireball as the Chinese imaging satellite SuperView 1-02, which reentered over New Orleans before heading north, he wrote on X.
+
+Orbit height history of GJ1-02, the Chinese sat that reentered over the US last night pic.twitter.com/RrjEncYdvF — Jonathan McDowell (@planet4589) December 22, 2024
+
+SuperView 1-02 was operated by Bejing-based company SpaceView, and launched in December 2016 as one of two satellites belonging to a constellation for civilian remote sensing. The two satellites were China’s first high-resolution Earth imaging satellites, according to Space.com. They were initially placed in the wrong orbit, ending up in an elliptical orbit instead of a circular one, and had to gradually raise their orbit over time to begin their mission.
+
+SuperView 1-02 was decommissioned around two years ago, and left to reentry through Earth’s atmosphere in an uncontrolled manner. Some satellite operators equip spacecraft with the capability of performing a controlled reentry in order to minimize risk, but China is known for bad orbital etiquette. The South China Morning Post downplayed the incident, reporting that the satellite’s reentry “created a spectacular light show but posed no real danger,” and adding that the “event was unintentional.”
+
+Defunct satellites wandering around Earth orbit are at serious risk of collision with other spacecraft. There are more than 27,000 pieces of orbital debris currently being tracked by the Department of Defense’s global Space Surveillance Network, with lots of smaller pieces also floating around undetected. Moving around at high speeds, even the smaller bits of material, like micrometeoroids, can jeopardize active spacecraft in orbit.
+
+The European Space Agency (ESA) is developing ways to improve spacecraft reentry capabilities to help reduce orbital debris. The Destructive Reentry Assessment Container Object (DRACO), launching in 2027, is a satellite designed to gather data during its reentry through Earth’s atmosphere after a short-lived mission. Better understanding the science of reentry could help scientists design future spacecraft that don’t risk damaging other machines in space when they are decommissioned.
