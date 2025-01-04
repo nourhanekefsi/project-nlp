@@ -105,12 +105,13 @@ def preprocess_documents(documents_content):
         tokens, doc_vocabulary = preprocess_content(content)
         save_data(tokens, doc_vocabulary)
         vocabulary.update(doc_vocabulary)
-        
+    print(f"Vocabulary has been saved to: vocabulary.json")
+    print(f"Tokens per document has been saved to: tokens_docs.jsonn")
     return preprocessed_content, vocabulary
 
 def save_data(tokens, vocabulary, tokens_file="tokens_docs.json", vocab_file="vocabulary.json"):
     """
-    Saves preprocessed content and vocabulary to JSON files without adding extra wrappers like "documents" or "vocabulary".
+    Saves preprocessed content and vocabulary to JSON files.
     
     :param preprocessed_content: Preprocessed tokens by document (dictionary {id: tokens}).
     :param vocabulary: Vocabulary.
@@ -149,7 +150,6 @@ def save_data(tokens, vocabulary, tokens_file="tokens_docs.json", vocab_file="vo
         # Save updated vocabulary data directly as an array (no "vocabulary" wrapper)
         with open(vocab_file, 'w', encoding='utf-8') as file:
             json.dump(existing_vocab, file, indent=4, ensure_ascii=False)
-        print(f"Vocabulary has been saved to: {vocab_file}")
 
     except Exception as e:
         print(f"Error saving data: {e}")
