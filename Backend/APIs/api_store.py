@@ -55,11 +55,11 @@ async def upload_and_process(
             with open(file_path, "wb") as f:
                 f.write(content)
 
-            # Convert PDF content to text (for processing, not saving)
+            # Convert PDF content to text
             pdf_file = io.BytesIO(content)  # Create a file-like object from bytes
             pdf_reader = PdfReader(pdf_file)
 
-            # Extract text from the PDF (e.g., all pages)
+            # Extract text from the PDF
             document_content = ""
             for page in pdf_reader.pages:
                 document_content += page.extract_text()
@@ -67,7 +67,7 @@ async def upload_and_process(
             
 
         elif content:
-            # If no file is uploaded, save content as a txt file (optional, not necessary if only processing)
+            # If no file is uploaded, save content as a txt file
             file_path = os.path.join(category_path, f"{title}.txt")
             document_content = content
 

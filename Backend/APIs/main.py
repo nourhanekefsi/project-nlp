@@ -2,11 +2,9 @@ import csv
 import json
 from io import BytesIO
 from fastapi import FastAPI, UploadFile, Form, HTTPException
-from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
-from transformers import AutoTokenizer
 import PyPDF2
 from fastapi.responses import StreamingResponse
 from wordcloud import WordCloud
@@ -139,7 +137,7 @@ async def extract_text_from_pdf(file_bytes):
     pdf_file = BytesIO(file_bytes)
     
     try:
-        # Use a PDF processing library like PyPDF2 to extract text
+        # PyPDF2 to extract text
         reader = PyPDF2.PdfReader(pdf_file)
         text = ''
         for page in reader.pages:
@@ -150,7 +148,7 @@ async def extract_text_from_pdf(file_bytes):
         raise HTTPException(status_code=500, detail="Error extracting text from PDF.")
 
 
-#Analyser un document uploaded et retourner ses similarités
+# Analyser un document uploaded et retourner ses similarités
 @app.post("/search")
 async def upload_file_or_text(
     file: UploadFile = None,
@@ -205,7 +203,7 @@ async def upload_file_or_text(
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"An unexpected error occurred: {str(e)}")
 
-
+# Retourner le wordCloud d'un document
 @app.post("/wordCloud")
 async def generate_wordcloud(id: int = Form(...)):  # Expecting an integer ID
     try:

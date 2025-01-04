@@ -2,7 +2,6 @@ import os
 import json
 import re
 import collections
-from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 import unicodedata
@@ -14,7 +13,7 @@ nltk.download('punkt')
 
 def clean_document(text):
     
-    #** Cleans the document by removing unwanted content such as copyright mentions and sign-up phrases.**
+    # Cleans the document by removing unwanted content such as copyright mentions and sign-up phrases.
     
     text = re.sub(r"\u00a9\s?\d{4}(?:\s?-\s?\d{4})?", "", text)  # Remove © and years
     text = re.sub(r"all rights reserved", "", text, flags=re.IGNORECASE)
@@ -24,21 +23,18 @@ def clean_document(text):
     return text
 
 def normalize_text(text):
-    """
-    Normalizes the text by removing accents and special characters.
-    """
+    # Normalizes the text by removing accents and special characters.
+    
     text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('utf-8', 'ignore')
     text = re.sub(r'[^a-zA-Z\s]', ' ', text)
     text = re.sub(r'\s+', ' ', text).strip()
     return text
 
 def preprocess_content(content):
-    """
-    Preprocesses a single document's content by cleaning, normalizing, tokenizing, and lemmatizing.
+    # Preprocesses a single document's content by cleaning, normalizing, tokenizing, and lemmatizing.
+    # in : content: Raw document content as a string.
+    # out : List of tokens and vocabulary.
 
-    :param content: Raw document content as a string.
-    :return: List of tokens and vocabulary.
-    """
     lemmatizer = WordNetLemmatizer()
     stop_words = set(stopwords.words('english'))
     vocabulary = collections.Counter()
@@ -62,12 +58,10 @@ def preprocess_content(content):
     return tokens, vocabulary
 
 def read_documents(json_file_path):
-    """
-    Reads and processes multiple documents from a JSON file containing file paths.
+    # Reads and processes multiple documents from a JSON file containing file paths.
+    # in : json_file_path: Path to the JSON file containing document metadata.
+    # out : Dictionary of document IDs to their content.
 
-    :param json_file_path: Path to the JSON file containing document metadata.
-    :return: Dictionary of document IDs to their content.
-    """
     try:
         with open(json_file_path, 'r', encoding='utf-8') as json_file:
             documents = json.load(json_file)
@@ -89,12 +83,10 @@ def read_documents(json_file_path):
         return {}
 
 def preprocess_documents(documents_content):
-    """
-    Preprocesses multiple documents.
+    # Preprocesses multiple documents.
+    # in : documents_content: Dictionary {id: raw content}.
+    # out : Preprocessed content and global vocabulary.
 
-    :param documents_content: Dictionary {id: raw content}.
-    :return: Preprocessed content and global vocabulary.
-    """
     lemmatizer = WordNetLemmatizer()
     stop_words = set(stopwords.words('english'))
     vocabulary = collections.Counter()
@@ -110,14 +102,12 @@ def preprocess_documents(documents_content):
     return preprocessed_content, vocabulary
 
 def save_data(tokens, vocabulary, tokens_file="tokens_docs.json", vocab_file="vocabulary.json"):
-    """
-    Saves preprocessed content and vocabulary to JSON files.
-    
-    :param preprocessed_content: Preprocessed tokens by document (dictionary {id: tokens}).
-    :param vocabulary: Vocabulary.
-    :param tokens_file: Path to save tokens.
-    :param vocab_file: Path to save vocabulary.
-    """
+    # Saves preprocessed content and vocabulary to JSON files.
+    # in : preprocessed_content: Preprocessed tokens by document (dictionary {id: tokens}).
+    # in : vocabulary: Vocabulary.
+    # in : tokens_file: Path to save tokens.
+    # in : vocab_file: Path to save vocabulary.
+
     try:
         # Ensure tokens file exists and read existing data if present
         if os.path.exists(tokens_file):
@@ -155,12 +145,10 @@ def save_data(tokens, vocabulary, tokens_file="tokens_docs.json", vocab_file="vo
         print(f"Error saving data: {e}")
 
 def saveTokens(json_file_path=None, single_document=None, DocId=None):
-    """
-    Main function to process either multiple documents or a single document.
+    # Main function to process either multiple documents or a single document.
+    # in : json_file_path: Path to a JSON file containing document metadata.
+    # in : single_document: Single document content as a string.
 
-    :param json_file_path: Path to a JSON file containing document metadata.
-    :param single_document: Single document content as a string.
-    """
     if single_document:
         print("Processing single document...")
         tokens, vocabulary = preprocess_content(single_document)
