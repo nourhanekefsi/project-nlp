@@ -77,7 +77,7 @@ threshold: float = 0.4
 @app.get("/document/{doc_id}/details")
 def get_document_details(doc_id: int):  
     try:
-        with open(metadata_file, "r") as file:
+        with open(metadata_file, "r", encoding="utf-8") as file:
             documents = json.load(file)
         document = next((doc for doc in documents if doc["id"] == doc_id), None)
         if not document:

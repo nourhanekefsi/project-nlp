@@ -106,7 +106,7 @@ def preprocess_documents(documents_content):
         save_data(tokens, doc_vocabulary)
         vocabulary.update(doc_vocabulary)
     print(f"Vocabulary has been saved to: vocabulary.json")
-    print(f"Tokens per document has been saved to: tokens_docs.jsonn")
+    print(f"Tokens per document has been saved to: tokens_docs.json")
     return preprocessed_content, vocabulary
 
 def save_data(tokens, vocabulary, tokens_file="tokens_docs.json", vocab_file="vocabulary.json"):
