@@ -7,9 +7,7 @@ from nltk.stem import WordNetLemmatizer
 import unicodedata
 import nltk
 
-nltk.download('stopwords')
-nltk.download('wordnet')
-nltk.download('punkt')
+
 
 def clean_document(text):
     
@@ -165,7 +163,9 @@ def saveTokens(json_file_path=None, single_document=None, DocId=None):
 if __name__ == "__main__":
     # Path to the JSON file
     json_file_path = "../model/all_documents.json"
-
+    nltk.download('stopwords')
+    nltk.download('wordnet')
+    nltk.download('punkt')
     saveTokens(json_file_path=json_file_path)
 
 
