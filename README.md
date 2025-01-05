@@ -1,5 +1,7 @@
 ## Description
 A documents recommendation system based on DistilBERT vectors and Cosine similarity
+
+![homePage](./imgs/home.png)
 ## Preparing the environment 
 ## [📺 Installation guide](https://www.youtube.com/watch?v=CrKDEnC-S7o&feature=youtu.be)
 to run this app, open terminal or cmd and do as follow :
