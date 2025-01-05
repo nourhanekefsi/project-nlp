@@ -1,24 +1,21 @@
-# Project 
 ## Description
-## preparing the environment 
-to run this app, open terminal or cmd and do as follow:
+A documents recommendation system based on DistilBERT vectors and Cosine similarity
+## Preparing the environment 
+## [📺 Installation guide](https://www.youtube.com/watch?v=CrKDEnC-S7o&feature=youtu.be)
+to run this app, open terminal or cmd and do as follow :
 
 git clone https://github.com/nourhanekefsi/project-nlp.git
 
 pip install -r requirements.txt
 
-Ensure the following Python libraries are installed:
-FastAPI
-nltk
-matplotlib
-wordcloud
-scikit-learn
-pandas
+Ensure the following Python libraries are installed:<br>
+FastAPI<br>
+nltk<br>
+matplotlib<br>
+wordcloud<br>
+scikit-learn<br>
+pandas<br>
 numpy ...
-
-import nltk
-nltk.download('punkt')
-nltk.download('stopwords')
 
 ## Run the app
 1st of all in the terminal run 
