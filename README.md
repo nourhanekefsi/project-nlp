@@ -3,7 +3,7 @@ A documents recommendation system based on DistilBERT vectors and Cosine similar
 
 ![homePage](./imgs/home.png)
 ## Preparing the environment 
-## [📺 Installation guide](https://www.youtube.com/watch?v=CrKDEnC-S7o&feature=youtu.be)
+## [📺 ➡️ Installation guide](https://www.youtube.com/watch?v=CrKDEnC-S7o&feature=youtu.be)
 to run this app, open terminal or cmd and do as follow :
 
 git clone https://github.com/nourhanekefsi/project-nlp.git
